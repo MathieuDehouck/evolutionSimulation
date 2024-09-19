@@ -1,0 +1,32 @@
+
+- Be as polymorphic as possible
+
+Initialise a language : randomly from rules, or from a file
+
+
+we need to have two object hierarchies interacting : 
+	⋅ the change hierarchies (phonetic, syntactic and semantic)
+	⋅ the structure hierarchy (tree, relaxed tree, waves...)
+
+- Tree model:
+	generate a tree
+	fill a tree with changes types
+
+
+- generate changes
+- when does a phonetic change becomes phonemic ?
+- morphology
+- analogy
+
+- a proper way to write and read changes in a human readable way (more or less)
+
+- semantic shifts
+
+- Relaxed Tree :
+	borrowings : 
+	--	when is a borrowing mapped onto its new host's phonology ?
+	--	When does new sound get borrowed along the way ?
+
+- Wave model 
+
+- Maps

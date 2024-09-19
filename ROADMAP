@@ -1,0 +1,22 @@
+
+We need to implement a variety of models for the different aspects of the simulation process.
+
+
+Sound Changes:
+	- None
+	- simple IPA character based
+	- feature vector representation of phones
+
+Semantic Changes:
+	- None
+	- Discrete meaning based
+	- embedding based
+	- feature based ?
+
+Family structure
+	- Tree
+	- DAG
+
+World geometry
+	- None
+	- Map
