@@ -1,0 +1,20 @@
+Evolution Simulation
+Mathieu Dehouck	2022-2024
+
+Louis Jourdain	(2022)
+
+
+This is a Python module that aims at simulating language evolution over very long time.
+The aims is to create artificial diachronies over long time scales.
+The use cases can be multiple : it could be used by conlangers and world builders for their projects to iterate quickly, 
+but the main objectives are scientific.
+	- creating artifical gold data for testing reconstruction algorithms,
+	- testing hypotheses about language evolution.
+	
+
+A simulation needs the following pieces :
+	- A geometry/topology supporting language evolution; it can be as simple as a tree, or as complex as a n-D manifold in which languages have coordinates and can interact according to certain geometrical rules.
+	- A set of change types (at least one: phonetic, semantic, morphosyntactic...) represented by their own change hierarchies.
+	- A set of tokens subject to changes (words, sounds, meanings).
+	- A class representing languages (at least a collection of tokens to which we can apply changes).
+	- A mechanism to create mother languages, this is usually defined at the same time as changes.
