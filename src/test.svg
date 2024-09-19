@@ -1,0 +1,134 @@
+<svg version="1.1" width="450" height="1050" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="281.25" x2="281.25" y1="50" y2="100" stroke="black"/>
+<rect x="261.25" y="40" width="40" height="20" fill="white" stroke="black"/>
+<text x="271.25" y="54" fill="red">None</text>
+<line x1="281.25" x2="281.25" y1="100" y2="150" stroke="black"/>
+<rect x="261.25" y="90" width="40" height="20" fill="white" stroke="black"/>
+<text x="271.25" y="104" fill="red">n>l</text>
+<line x1="281.25" x2="187.5" y1="150" y2="200" stroke="black"/>
+<line x1="281.25" x2="375" y1="150" y2="200" stroke="black"/>
+<rect x="261.25" y="140" width="40" height="20" fill="white" stroke="black"/>
+<text x="271.25" y="154" fill="red">l>ɫ</text>
+<line x1="187.5" x2="187.5" y1="200" y2="250" stroke="black"/>
+<rect x="167.5" y="190" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="204" fill="red">p>h</text>
+<line x1="187.5" x2="187.5" y1="250" y2="300" stroke="black"/>
+<rect x="167.5" y="240" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="254" fill="red">u>o</text>
+<line x1="187.5" x2="187.5" y1="300" y2="350" stroke="black"/>
+<rect x="167.5" y="290" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="304" fill="red">j>u</text>
+<line x1="187.5" x2="187.5" y1="350" y2="400" stroke="black"/>
+<rect x="167.5" y="340" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="354" fill="red">e>i</text>
+<line x1="187.5" x2="187.5" y1="400" y2="450" stroke="black"/>
+<rect x="167.5" y="390" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="404" fill="red">d>t</text>
+<line x1="187.5" x2="187.5" y1="450" y2="500" stroke="black"/>
+<rect x="167.5" y="440" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="454" fill="red">t>l</text>
+<line x1="187.5" x2="187.5" y1="500" y2="550" stroke="black"/>
+<rect x="167.5" y="490" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="504" fill="red">i>e</text>
+<line x1="187.5" x2="187.5" y1="550" y2="600" stroke="black"/>
+<rect x="167.5" y="540" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="554" fill="red">u>y</text>
+<line x1="187.5" x2="187.5" y1="600" y2="650" stroke="black"/>
+<rect x="167.5" y="590" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="604" fill="red">s>h</text>
+<line x1="187.5" x2="187.5" y1="650" y2="700" stroke="black"/>
+<rect x="167.5" y="640" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="654" fill="red">o>u</text>
+<line x1="187.5" x2="187.5" y1="700" y2="750" stroke="black"/>
+<rect x="167.5" y="690" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="704" fill="red">u>i</text>
+<line x1="187.5" x2="187.5" y1="750" y2="800" stroke="black"/>
+<rect x="167.5" y="740" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="754" fill="red">ɡ>ɣ</text>
+<line x1="187.5" x2="112.5" y1="800" y2="850" stroke="black"/>
+<line x1="187.5" x2="262.5" y1="800" y2="850" stroke="black"/>
+<rect x="167.5" y="790" width="40" height="20" fill="white" stroke="black"/>
+<text x="177.5" y="804" fill="red">l>n</text>
+<line x1="112.5" x2="112.5" y1="850" y2="900" stroke="black"/>
+<rect x="92.5" y="840" width="40" height="20" fill="white" stroke="black"/>
+<text x="102.5" y="854" fill="red">b>m</text>
+<line x1="112.5" x2="75" y1="900" y2="950" stroke="black"/>
+<line x1="112.5" x2="150" y1="900" y2="950" stroke="black"/>
+<rect x="92.5" y="890" width="40" height="20" fill="white" stroke="black"/>
+<text x="102.5" y="904" fill="red">v>w</text>
+<line x1="75" x2="75" y1="950" y2="1000" stroke="black"/>
+<rect x="55.0" y="940" width="40" height="20" fill="white" stroke="black"/>
+<text x="65" y="954" fill="red">e>a</text>
+<rect x="55.0" y="990" width="40" height="20" fill="white" stroke="black"/>
+<text x="65" y="1004" fill="red">r>i</text>
+<line x1="150" x2="150" y1="950" y2="1000" stroke="black"/>
+<rect x="130.0" y="940" width="40" height="20" fill="white" stroke="black"/>
+<text x="140" y="954" fill="red">e>i</text>
+<rect x="130.0" y="990" width="40" height="20" fill="white" stroke="black"/>
+<text x="140" y="1004" fill="red">r>d</text>
+<line x1="262.5" x2="262.5" y1="850" y2="900" stroke="black"/>
+<rect x="242.5" y="840" width="40" height="20" fill="white" stroke="black"/>
+<text x="252.5" y="854" fill="red">r>t</text>
+<line x1="262.5" x2="262.5" y1="900" y2="950" stroke="black"/>
+<rect x="242.5" y="890" width="40" height="20" fill="white" stroke="black"/>
+<text x="252.5" y="904" fill="red">a>ə</text>
+<line x1="262.5" x2="225" y1="950" y2="1000" stroke="black"/>
+<line x1="262.5" x2="300" y1="950" y2="1000" stroke="black"/>
+<rect x="242.5" y="940" width="40" height="20" fill="white" stroke="black"/>
+<text x="252.5" y="954" fill="red">ə>o</text>
+<rect x="205.0" y="990" width="40" height="20" fill="white" stroke="black"/>
+<text x="215" y="1004" fill="red">e>i</text>
+<rect x="280.0" y="990" width="40" height="20" fill="white" stroke="black"/>
+<text x="290" y="1004" fill="red">h>ʔ</text>
+<line x1="375" x2="375" y1="200" y2="250" stroke="black"/>
+<rect x="355.0" y="190" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="204" fill="red">e>i</text>
+<line x1="375" x2="375" y1="250" y2="300" stroke="black"/>
+<rect x="355.0" y="240" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="254" fill="red">lː>ʎ</text>
+<line x1="375" x2="375" y1="300" y2="350" stroke="black"/>
+<rect x="355.0" y="290" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="304" fill="red">d>t</text>
+<line x1="375" x2="375" y1="350" y2="400" stroke="black"/>
+<rect x="355.0" y="340" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="354" fill="red">a>e</text>
+<line x1="375" x2="375" y1="400" y2="450" stroke="black"/>
+<rect x="355.0" y="390" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="404" fill="red">t>s</text>
+<line x1="375" x2="375" y1="450" y2="500" stroke="black"/>
+<rect x="355.0" y="440" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="454" fill="red">u>w</text>
+<line x1="375" x2="375" y1="500" y2="550" stroke="black"/>
+<rect x="355.0" y="490" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="504" fill="red">k>q</text>
+<line x1="375" x2="375" y1="550" y2="600" stroke="black"/>
+<rect x="355.0" y="540" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="554" fill="red">v>p</text>
+<line x1="375" x2="375" y1="600" y2="650" stroke="black"/>
+<rect x="355.0" y="590" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="604" fill="red">r>l</text>
+<line x1="375" x2="375" y1="650" y2="700" stroke="black"/>
+<rect x="355.0" y="640" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="654" fill="red">e>u</text>
+<line x1="375" x2="375" y1="700" y2="750" stroke="black"/>
+<rect x="355.0" y="690" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="704" fill="red">s>z</text>
+<line x1="375" x2="375" y1="750" y2="800" stroke="black"/>
+<rect x="355.0" y="740" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="754" fill="red">z>dz</text>
+<line x1="375" x2="375" y1="800" y2="850" stroke="black"/>
+<rect x="355.0" y="790" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="804" fill="red">u>uː</text>
+<line x1="375" x2="375" y1="850" y2="900" stroke="black"/>
+<rect x="355.0" y="840" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="854" fill="red">d>ð</text>
+<line x1="375" x2="375" y1="900" y2="950" stroke="black"/>
+<rect x="355.0" y="890" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="904" fill="red">l>j</text>
+<line x1="375" x2="375" y1="950" y2="1000" stroke="black"/>
+<rect x="355.0" y="940" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="954" fill="red">m>mʲ</text>
+<rect x="355.0" y="990" width="40" height="20" fill="white" stroke="black"/>
+<text x="365" y="1004" fill="red">j>i</text>
+</svg>

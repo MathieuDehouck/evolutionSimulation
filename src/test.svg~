@@ -1,0 +1,188 @@
+<svg version="1.1" width="550" height="1050" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="407.03125" x2="407.03125" y1="50" y2="100" stroke="black"/>
+<rect x="397.03125" y="40" width="20" height="20" fill="white" stroke="black"/>
+<text x="397.03125" y="54" fill="red">None</text>
+<line x1="407.03125" x2="407.03125" y1="100" y2="150" stroke="black"/>
+<rect x="397.03125" y="90" width="20" height="20" fill="white" stroke="black"/>
+<text x="397.03125" y="104" fill="red">n>ⁿd</text>
+<line x1="407.03125" x2="407.03125" y1="150" y2="200" stroke="black"/>
+<rect x="397.03125" y="140" width="20" height="20" fill="white" stroke="black"/>
+<text x="397.03125" y="154" fill="red">s>z</text>
+<line x1="407.03125" x2="407.03125" y1="200" y2="250" stroke="black"/>
+<rect x="397.03125" y="190" width="20" height="20" fill="white" stroke="black"/>
+<text x="397.03125" y="204" fill="red">p>b</text>
+<line x1="407.03125" x2="407.03125" y1="250" y2="300" stroke="black"/>
+<rect x="397.03125" y="240" width="20" height="20" fill="white" stroke="black"/>
+<text x="397.03125" y="254" fill="red">u>o</text>
+<line x1="407.03125" x2="407.03125" y1="300" y2="350" stroke="black"/>
+<rect x="397.03125" y="290" width="20" height="20" fill="white" stroke="black"/>
+<text x="397.03125" y="304" fill="red">k>ɡ</text>
+<line x1="407.03125" x2="314.0625" y1="350" y2="400" stroke="black"/>
+<line x1="407.03125" x2="500" y1="350" y2="400" stroke="black"/>
+<rect x="397.03125" y="340" width="20" height="20" fill="white" stroke="black"/>
+<text x="397.03125" y="354" fill="red">o>u</text>
+<line x1="314.0625" x2="314.0625" y1="400" y2="450" stroke="black"/>
+<rect x="304.0625" y="390" width="20" height="20" fill="white" stroke="black"/>
+<text x="304.0625" y="404" fill="red">t>ts</text>
+<line x1="314.0625" x2="314.0625" y1="450" y2="500" stroke="black"/>
+<rect x="304.0625" y="440" width="20" height="20" fill="white" stroke="black"/>
+<text x="304.0625" y="454" fill="red">t>tʃ</text>
+<line x1="314.0625" x2="314.0625" y1="500" y2="550" stroke="black"/>
+<rect x="304.0625" y="490" width="20" height="20" fill="white" stroke="black"/>
+<text x="304.0625" y="504" fill="red">t>dr</text>
+<line x1="314.0625" x2="215.625" y1="550" y2="600" stroke="black"/>
+<line x1="314.0625" x2="412.5" y1="550" y2="600" stroke="black"/>
+<rect x="304.0625" y="540" width="20" height="20" fill="white" stroke="black"/>
+<text x="304.0625" y="554" fill="red">d>r</text>
+<line x1="215.625" x2="215.625" y1="600" y2="650" stroke="black"/>
+<rect x="205.625" y="590" width="20" height="20" fill="white" stroke="black"/>
+<text x="205.625" y="604" fill="red">b>p</text>
+<line x1="215.625" x2="215.625" y1="650" y2="700" stroke="black"/>
+<rect x="205.625" y="640" width="20" height="20" fill="white" stroke="black"/>
+<text x="205.625" y="654" fill="red">p>v</text>
+<line x1="215.625" x2="156.25" y1="700" y2="750" stroke="black"/>
+<line x1="215.625" x2="275.0" y1="700" y2="750" stroke="black"/>
+<rect x="205.625" y="690" width="20" height="20" fill="white" stroke="black"/>
+<text x="205.625" y="704" fill="red">i>j</text>
+<line x1="156.25" x2="112.5" y1="750" y2="800" stroke="black"/>
+<line x1="156.25" x2="200" y1="750" y2="800" stroke="black"/>
+<rect x="146.25" y="740" width="20" height="20" fill="white" stroke="black"/>
+<text x="146.25" y="754" fill="red">e>i</text>
+<line x1="112.5" x2="112.5" y1="800" y2="850" stroke="black"/>
+<rect x="102.5" y="790" width="20" height="20" fill="white" stroke="black"/>
+<text x="102.5" y="804" fill="red">i>ı̃</text>
+<line x1="112.5" x2="112.5" y1="850" y2="900" stroke="black"/>
+<rect x="102.5" y="840" width="20" height="20" fill="white" stroke="black"/>
+<text x="102.5" y="854" fill="red">a>e</text>
+<line x1="112.5" x2="75.0" y1="900" y2="950" stroke="black"/>
+<line x1="112.5" x2="150" y1="900" y2="950" stroke="black"/>
+<rect x="102.5" y="890" width="20" height="20" fill="white" stroke="black"/>
+<text x="102.5" y="904" fill="red">s>h</text>
+<line x1="75.0" x2="50" y1="950" y2="1000" stroke="black"/>
+<line x1="75.0" x2="100" y1="950" y2="1000" stroke="black"/>
+<rect x="65.0" y="940" width="20" height="20" fill="white" stroke="black"/>
+<text x="65.0" y="954" fill="red">ɡ>w</text>
+<rect x="40" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="40" y="1004" fill="red">e>ɛ</text>
+<rect x="90" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="90" y="1004" fill="red">ı̃>i</text>
+<line x1="150" x2="150" y1="950" y2="1000" stroke="black"/>
+<rect x="140" y="940" width="20" height="20" fill="white" stroke="black"/>
+<text x="140" y="954" fill="red">e>i</text>
+<rect x="140" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="140" y="1004" fill="red">j>h</text>
+<line x1="200" x2="200" y1="800" y2="850" stroke="black"/>
+<rect x="190" y="790" width="20" height="20" fill="white" stroke="black"/>
+<text x="190" y="804" fill="red">r>d</text>
+<line x1="200" x2="200" y1="850" y2="900" stroke="black"/>
+<rect x="190" y="840" width="20" height="20" fill="white" stroke="black"/>
+<text x="190" y="854" fill="red">u>ʏɪ</text>
+<line x1="200" x2="200" y1="900" y2="950" stroke="black"/>
+<rect x="190" y="890" width="20" height="20" fill="white" stroke="black"/>
+<text x="190" y="904" fill="red">i>u</text>
+<line x1="200" x2="200" y1="950" y2="1000" stroke="black"/>
+<rect x="190" y="940" width="20" height="20" fill="white" stroke="black"/>
+<text x="190" y="954" fill="red">ʃ>s</text>
+<rect x="190" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="190" y="1004" fill="red">s>ʂ</text>
+<line x1="275.0" x2="275.0" y1="750" y2="800" stroke="black"/>
+<rect x="265.0" y="740" width="20" height="20" fill="white" stroke="black"/>
+<text x="265.0" y="754" fill="red">ɡ>ʒ</text>
+<line x1="275.0" x2="275.0" y1="800" y2="850" stroke="black"/>
+<rect x="265.0" y="790" width="20" height="20" fill="white" stroke="black"/>
+<text x="265.0" y="804" fill="red">u>o</text>
+<line x1="275.0" x2="275.0" y1="850" y2="900" stroke="black"/>
+<rect x="265.0" y="840" width="20" height="20" fill="white" stroke="black"/>
+<text x="265.0" y="854" fill="red">ʃ>θ</text>
+<line x1="275.0" x2="275.0" y1="900" y2="950" stroke="black"/>
+<rect x="265.0" y="890" width="20" height="20" fill="white" stroke="black"/>
+<text x="265.0" y="904" fill="red">a>ə</text>
+<line x1="275.0" x2="250" y1="950" y2="1000" stroke="black"/>
+<line x1="275.0" x2="300" y1="950" y2="1000" stroke="black"/>
+<rect x="265.0" y="940" width="20" height="20" fill="white" stroke="black"/>
+<text x="265.0" y="954" fill="red">r>ʔ</text>
+<rect x="240" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="240" y="1004" fill="red">e>ei</text>
+<rect x="290" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="290" y="1004" fill="red">o>u</text>
+<line x1="412.5" x2="412.5" y1="600" y2="650" stroke="black"/>
+<rect x="402.5" y="590" width="20" height="20" fill="white" stroke="black"/>
+<text x="402.5" y="604" fill="red">u>w</text>
+<line x1="412.5" x2="412.5" y1="650" y2="700" stroke="black"/>
+<rect x="402.5" y="640" width="20" height="20" fill="white" stroke="black"/>
+<text x="402.5" y="654" fill="red">i>e</text>
+<line x1="412.5" x2="412.5" y1="700" y2="750" stroke="black"/>
+<rect x="402.5" y="690" width="20" height="20" fill="white" stroke="black"/>
+<text x="402.5" y="704" fill="red">s>h</text>
+<line x1="412.5" x2="412.5" y1="750" y2="800" stroke="black"/>
+<rect x="402.5" y="740" width="20" height="20" fill="white" stroke="black"/>
+<text x="402.5" y="754" fill="red">e>i</text>
+<line x1="412.5" x2="375.0" y1="800" y2="850" stroke="black"/>
+<line x1="412.5" x2="450" y1="800" y2="850" stroke="black"/>
+<rect x="402.5" y="790" width="20" height="20" fill="white" stroke="black"/>
+<text x="402.5" y="804" fill="red">r>rː</text>
+<line x1="375.0" x2="375.0" y1="850" y2="900" stroke="black"/>
+<rect x="365.0" y="840" width="20" height="20" fill="white" stroke="black"/>
+<text x="365.0" y="854" fill="red">z>d</text>
+<line x1="375.0" x2="375.0" y1="900" y2="950" stroke="black"/>
+<rect x="365.0" y="890" width="20" height="20" fill="white" stroke="black"/>
+<text x="365.0" y="904" fill="red">w>ɣ</text>
+<line x1="375.0" x2="350" y1="950" y2="1000" stroke="black"/>
+<line x1="375.0" x2="400" y1="950" y2="1000" stroke="black"/>
+<rect x="365.0" y="940" width="20" height="20" fill="white" stroke="black"/>
+<text x="365.0" y="954" fill="red">r>ʔ</text>
+<rect x="340" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="340" y="1004" fill="red">a>e</text>
+<rect x="390" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="390" y="1004" fill="red">ɡ>ŋɡ</text>
+<line x1="450" x2="450" y1="850" y2="900" stroke="black"/>
+<rect x="440" y="840" width="20" height="20" fill="white" stroke="black"/>
+<text x="440" y="854" fill="red">a>o</text>
+<line x1="450" x2="450" y1="900" y2="950" stroke="black"/>
+<rect x="440" y="890" width="20" height="20" fill="white" stroke="black"/>
+<text x="440" y="904" fill="red">i>iːə</text>
+<line x1="450" x2="450" y1="950" y2="1000" stroke="black"/>
+<rect x="440" y="940" width="20" height="20" fill="white" stroke="black"/>
+<text x="440" y="954" fill="red">ə>æ</text>
+<rect x="440" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="440" y="1004" fill="red">i>ii</text>
+<line x1="500" x2="500" y1="400" y2="450" stroke="black"/>
+<rect x="490" y="390" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="404" fill="red">u>o</text>
+<line x1="500" x2="500" y1="450" y2="500" stroke="black"/>
+<rect x="490" y="440" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="454" fill="red">a>ə</text>
+<line x1="500" x2="500" y1="500" y2="550" stroke="black"/>
+<rect x="490" y="490" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="504" fill="red">ɡ>ɟ</text>
+<line x1="500" x2="500" y1="550" y2="600" stroke="black"/>
+<rect x="490" y="540" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="554" fill="red">i>iə</text>
+<line x1="500" x2="500" y1="600" y2="650" stroke="black"/>
+<rect x="490" y="590" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="604" fill="red">e>ə</text>
+<line x1="500" x2="500" y1="650" y2="700" stroke="black"/>
+<rect x="490" y="640" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="654" fill="red">ə>u</text>
+<line x1="500" x2="500" y1="700" y2="750" stroke="black"/>
+<rect x="490" y="690" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="704" fill="red">z>ts</text>
+<line x1="500" x2="500" y1="750" y2="800" stroke="black"/>
+<rect x="490" y="740" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="754" fill="red">t>θ</text>
+<line x1="500" x2="500" y1="800" y2="850" stroke="black"/>
+<rect x="490" y="790" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="804" fill="red">s>h</text>
+<line x1="500" x2="500" y1="850" y2="900" stroke="black"/>
+<rect x="490" y="840" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="854" fill="red">b>v</text>
+<line x1="500" x2="500" y1="900" y2="950" stroke="black"/>
+<rect x="490" y="890" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="904" fill="red">u>uː</text>
+<line x1="500" x2="500" y1="950" y2="1000" stroke="black"/>
+<rect x="490" y="940" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="954" fill="red">d>dz</text>
+<rect x="490" y="990" width="20" height="20" fill="white" stroke="black"/>
+<text x="490" y="1004" fill="red">o>ɔː</text>
+</svg>

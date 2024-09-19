@@ -1,0 +1,1147 @@
+'a⋅ba⋅mi⋅     	'a⋅i⋅         	'ajmːen⋅      	'ajn⋅         	'be⋅          
+'da⋅          	'de⋅be⋅       	'dejl⋅        	'di⋅          	'e⋅           
+'ed⋅bi⋅       	'ejn⋅be⋅u⋅    	'ek⋅luɡ⋅      	'es⋅          	'i⋅           
+'i⋅as⋅tu⋅     	'i⋅nojm⋅      	'i⋅uk⋅        	'ka⋅lejl⋅     	'ke⋅          
+'kejl⋅mi⋅     	'ke⋅majm⋅     	'mud⋅mojl⋅    	'najl⋅vek⋅    	'niɡ⋅         
+'ojm⋅ku⋅      	'ojn⋅         	'ojn⋅li⋅u⋅    	'pejl⋅sil⋅ne⋅ 	'pu⋅          
+'sejm⋅        	'sejn⋅vejl⋅   	'si⋅but⋅      	'sojm⋅        	'su⋅vajm⋅     
+'tuk⋅na⋅      	'up⋅tojl⋅     	'ɡajn⋅ka⋅     	'ɡeːjm⋅       	'ɡu⋅mas⋅      
+
+{'geo_model': 'tree'}
+(((((((((((((((((((()))))))))))))))))),(((((((((((((((((()))))))),(((((((()))))))))))))),(((((((((((((()),(())))))))))))))))))))
+
+'niɡ⋅ niɡ
+ɡ dʒ
+'ek⋅luɡ⋅	[(6, 7)]	ɡ	dʒ	'ek⋅ludʒ⋅
+'niɡ⋅	[(3, 4)]	ɡ	dʒ	'nidʒ⋅
+'ɡajn⋅ka⋅	[(1, 2)]	ɡ	dʒ	'dʒajn⋅ka⋅
+'ɡeːjm⋅	[(1, 2)]	ɡ	dʒ	'dʒeːjm⋅
+'ɡu⋅mas⋅	[(1, 2)]	ɡ	dʒ	'dʒu⋅mas⋅
+
+'kejl⋅mi⋅ kejlmi
+e a
+'ajmːen⋅	[(5, 6)]	e	a	'ajmːan⋅
+'be⋅	[(2, 3)]	e	a	'ba⋅
+'de⋅be⋅	[(2, 3), (5, 6)]	e	a	'da⋅ba⋅
+'dejl⋅	[(2, 3)]	e	a	'dajl⋅
+'e⋅	[(1, 2)]	e	a	'a⋅
+'ed⋅bi⋅	[(1, 2)]	e	a	'ad⋅bi⋅
+'ejn⋅be⋅u⋅	[(1, 2), (6, 7)]	e	a	'ajn⋅ba⋅u⋅
+'ek⋅ludʒ⋅	[(1, 2)]	e	a	'ak⋅ludʒ⋅
+'es⋅	[(1, 2)]	e	a	'as⋅
+'ka⋅lejl⋅	[(5, 6)]	e	a	'ka⋅lajl⋅
+'ke⋅	[(2, 3)]	e	a	'ka⋅
+'kejl⋅mi⋅	[(2, 3)]	e	a	'kajl⋅mi⋅
+'ke⋅majm⋅	[(2, 3)]	e	a	'ka⋅majm⋅
+'najl⋅vek⋅	[(7, 8)]	e	a	'najl⋅vak⋅
+'pejl⋅sil⋅ne⋅	[(2, 3), (11, 12)]	e	a	'pajl⋅sil⋅na⋅
+'sejm⋅	[(2, 3)]	e	a	'sajm⋅
+'sejn⋅vejl⋅	[(2, 3), (7, 8)]	e	a	'sajn⋅vajl⋅
+
+'su⋅vajm⋅ suvajm
+s ð
+'as⋅	[(2, 3)]	s	ð	'að⋅
+'i⋅as⋅tu⋅	[(4, 5)]	s	ð	'i⋅að⋅tu⋅
+'pajl⋅sil⋅na⋅	[(6, 7)]	s	ð	'pajl⋅ðil⋅na⋅
+'sajm⋅	[(1, 2)]	s	ð	'ðajm⋅
+'sajn⋅vajl⋅	[(1, 2)]	s	ð	'ðajn⋅vajl⋅
+'si⋅but⋅	[(1, 2)]	s	ð	'ði⋅but⋅
+'sojm⋅	[(1, 2)]	s	ð	'ðojm⋅
+'su⋅vajm⋅	[(1, 2)]	s	ð	'ðu⋅vajm⋅
+'dʒu⋅mas⋅	[(7, 8)]	s	ð	'dʒu⋅mað⋅
+
+'a⋅ a
+a æ
+'a⋅ba⋅mi⋅	[(1, 2), (4, 5)]	a	æ	'æ⋅bæ⋅mi⋅
+'a⋅i⋅	[(1, 2)]	a	æ	'æ⋅i⋅
+'ajmːan⋅	[(1, 2), (5, 6)]	a	æ	'æjmːæn⋅
+'ajn⋅	[(1, 2)]	a	æ	'æjn⋅
+'ba⋅	[(2, 3)]	a	æ	'bæ⋅
+'da⋅	[(2, 3)]	a	æ	'dæ⋅
+'da⋅ba⋅	[(2, 3), (5, 6)]	a	æ	'dæ⋅bæ⋅
+'dajl⋅	[(2, 3)]	a	æ	'dæjl⋅
+'a⋅	[(1, 2)]	a	æ	'æ⋅
+'ad⋅bi⋅	[(1, 2)]	a	æ	'æd⋅bi⋅
+'ajn⋅ba⋅u⋅	[(1, 2), (6, 7)]	a	æ	'æjn⋅bæ⋅u⋅
+'ak⋅ludʒ⋅	[(1, 2)]	a	æ	'æk⋅ludʒ⋅
+'að⋅	[(1, 2)]	a	æ	'æð⋅
+'i⋅að⋅tu⋅	[(3, 4)]	a	æ	'i⋅æð⋅tu⋅
+'ka⋅lajl⋅	[(2, 3), (5, 6)]	a	æ	'kæ⋅læjl⋅
+'ka⋅	[(2, 3)]	a	æ	'kæ⋅
+'kajl⋅mi⋅	[(2, 3)]	a	æ	'kæjl⋅mi⋅
+'ka⋅majm⋅	[(2, 3), (5, 6)]	a	æ	'kæ⋅mæjm⋅
+'najl⋅vak⋅	[(2, 3), (7, 8)]	a	æ	'næjl⋅væk⋅
+'pajl⋅ðil⋅na⋅	[(2, 3), (11, 12)]	a	æ	'pæjl⋅ðil⋅næ⋅
+'ðajm⋅	[(2, 3)]	a	æ	'ðæjm⋅
+'ðajn⋅vajl⋅	[(2, 3), (7, 8)]	a	æ	'ðæjn⋅væjl⋅
+'ðu⋅vajm⋅	[(5, 6)]	a	æ	'ðu⋅væjm⋅
+'tuk⋅na⋅	[(6, 7)]	a	æ	'tuk⋅næ⋅
+'dʒajn⋅ka⋅	[(3, 4), (8, 9)]	a	æ	'dʒæjn⋅kæ⋅
+'dʒu⋅mað⋅	[(6, 7)]	a	æ	'dʒu⋅mæð⋅
+
+'i⋅ i
+i ь
+'æ⋅bæ⋅mi⋅	[(7, 8)]	i	ь	'æ⋅bæ⋅mь⋅
+'æ⋅i⋅	[(3, 4)]	i	ь	'æ⋅ь⋅
+'di⋅	[(2, 3)]	i	ь	'dь⋅
+'æd⋅bi⋅	[(5, 6)]	i	ь	'æd⋅bь⋅
+'i⋅	[(1, 2)]	i	ь	'ь⋅
+'i⋅æð⋅tu⋅	[(1, 2)]	i	ь	'ь⋅æð⋅tu⋅
+'i⋅nojm⋅	[(1, 2)]	i	ь	'ь⋅nojm⋅
+'i⋅uk⋅	[(1, 2)]	i	ь	'ь⋅uk⋅
+'kæjl⋅mi⋅	[(7, 8)]	i	ь	'kæjl⋅mь⋅
+'nidʒ⋅	[(2, 3)]	i	ь	'nьdʒ⋅
+'ojn⋅li⋅u⋅	[(6, 7)]	i	ь	'ojn⋅lь⋅u⋅
+'pæjl⋅ðil⋅næ⋅	[(7, 8)]	i	ь	'pæjl⋅ðьl⋅næ⋅
+'ði⋅but⋅	[(2, 3)]	i	ь	'ðь⋅but⋅
+
+'ðæjn⋅væjl⋅ ðæjnvæjl
+v u
+'næjl⋅væk⋅	[(6, 7)]	v	u	'næjl⋅uæk⋅
+'ðæjn⋅væjl⋅	[(6, 7)]	v	u	'ðæjn⋅uæjl⋅
+'ðu⋅væjm⋅	[(4, 5)]	v	u	'ðu⋅uæjm⋅
+
+'dʒu⋅mæð⋅ dʒumæð
+dʒ tʃ
+'æk⋅ludʒ⋅	[(6, 8)]	dʒ	tʃ	'æk⋅lutʃ⋅
+'nьdʒ⋅	[(3, 5)]	dʒ	tʃ	'nьtʃ⋅
+'dʒæjn⋅kæ⋅	[(1, 3)]	dʒ	tʃ	'tʃæjn⋅kæ⋅
+'dʒeːjm⋅	[(1, 3)]	dʒ	tʃ	'tʃeːjm⋅
+'dʒu⋅mæð⋅	[(1, 3)]	dʒ	tʃ	'tʃu⋅mæð⋅
+
+'kæ⋅læjl⋅ kælæjl
+k x
+'æk⋅lutʃ⋅	[(2, 3)]	k	x	'æx⋅lutʃ⋅
+'ь⋅uk⋅	[(4, 5)]	k	x	'ь⋅ux⋅
+'kæ⋅læjl⋅	[(1, 2)]	k	x	'xæ⋅læjl⋅
+'kæ⋅	[(1, 2)]	k	x	'xæ⋅
+'kæjl⋅mь⋅	[(1, 2)]	k	x	'xæjl⋅mь⋅
+'kæ⋅mæjm⋅	[(1, 2)]	k	x	'xæ⋅mæjm⋅
+'næjl⋅uæk⋅	[(8, 9)]	k	x	'næjl⋅uæx⋅
+'ojm⋅ku⋅	[(5, 6)]	k	x	'ojm⋅xu⋅
+'tuk⋅næ⋅	[(3, 4)]	k	x	'tux⋅næ⋅
+'tʃæjn⋅kæ⋅	[(7, 8)]	k	x	'tʃæjn⋅xæ⋅
+
+'mud⋅mojl⋅ mudmojl
+o oː
+'ь⋅nojm⋅	[(4, 5)]	o	oː	'ь⋅noːjm⋅
+'mud⋅mojl⋅	[(6, 7)]	o	oː	'mud⋅moːjl⋅
+'ojm⋅xu⋅	[(1, 2)]	o	oː	'oːjm⋅xu⋅
+'ojn⋅	[(1, 2)]	o	oː	'oːjn⋅
+'ojn⋅lь⋅u⋅	[(1, 2)]	o	oː	'oːjn⋅lь⋅u⋅
+'ðojm⋅	[(2, 3)]	o	oː	'ðoːjm⋅
+'up⋅tojl⋅	[(5, 6)]	o	oː	'up⋅toːjl⋅
+
+'mud⋅moːjl⋅ mudmoːjl
+m n
+'æ⋅bæ⋅mь⋅	[(6, 7)]	m	n	'æ⋅bæ⋅nь⋅
+'ь⋅noːjm⋅	[(7, 8)]	m	n	'ь⋅noːjn⋅
+'xæjl⋅mь⋅	[(6, 7)]	m	n	'xæjl⋅nь⋅
+'xæ⋅mæjm⋅	[(4, 5), (7, 8)]	m	n	'xæ⋅næjn⋅
+'mud⋅moːjl⋅	[(1, 2), (5, 6)]	m	n	'nud⋅noːjl⋅
+'oːjm⋅xu⋅	[(4, 5)]	m	n	'oːjn⋅xu⋅
+'ðæjm⋅	[(4, 5)]	m	n	'ðæjn⋅
+'ðoːjm⋅	[(5, 6)]	m	n	'ðoːjn⋅
+'ðuːæjm⋅	[(6, 7)]	m	n	'ðuːæjn⋅
+'tʃeːjm⋅	[(6, 7)]	m	n	'tʃeːjn⋅
+'tʃu⋅mæð⋅	[(5, 6)]	m	n	'tʃu⋅næð⋅
+
+'oːjn⋅lь⋅u⋅ oːjnlьu
+u v̩
+'æjn⋅bæ⋅u⋅	[(8, 9)]	u	v̩	'æjn⋅bæ⋅v̩⋅
+'æx⋅lutʃ⋅	[(5, 6)]	u	v̩	'æx⋅lv̩tʃ⋅
+'ь⋅æð⋅tu⋅	[(7, 8)]	u	v̩	'ь⋅æð⋅tv̩⋅
+'ь⋅ux⋅	[(3, 4)]	u	v̩	'ь⋅v̩x⋅
+'nud⋅noːjl⋅	[(2, 3)]	u	v̩	'nv̩d⋅noːjl⋅
+'næjl⋅uæx⋅	[(6, 7)]	u	v̩	'næjl⋅v̩æx⋅
+'oːjn⋅xu⋅	[(7, 8)]	u	v̩	'oːjn⋅xv̩⋅
+'oːjn⋅lь⋅u⋅	[(9, 10)]	u	v̩	'oːjn⋅lь⋅v̩⋅
+'pu⋅	[(2, 3)]	u	v̩	'pv̩⋅
+'ðæjn⋅uæjl⋅	[(6, 7)]	u	v̩	'ðæjn⋅v̩æjl⋅
+'ðь⋅but⋅	[(5, 6)]	u	v̩	'ðь⋅bv̩t⋅
+'tux⋅næ⋅	[(2, 3)]	u	v̩	'tv̩x⋅næ⋅
+'up⋅toːjl⋅	[(1, 2)]	u	v̩	'v̩p⋅toːjl⋅
+'tʃu⋅næð⋅	[(3, 4)]	u	v̩	'tʃv̩⋅næð⋅
+
+'æjmːæn⋅ æjmːæn
+n l
+'æ⋅bæ⋅nь⋅	[(6, 7)]	n	l	'æ⋅bæ⋅lь⋅
+'æjmːæn⋅	[(6, 7)]	n	l	'æjmːæl⋅
+'æjn⋅	[(3, 4)]	n	l	'æjl⋅
+'æjn⋅bæ⋅v̩⋅	[(3, 4)]	n	l	'æjl⋅bæ⋅v̩⋅
+'ь⋅noːjn⋅	[(3, 4), (7, 8)]	n	l	'ь⋅loːjl⋅
+'xæjl⋅nь⋅	[(6, 7)]	n	l	'xæjl⋅lь⋅
+'xæ⋅næjn⋅	[(4, 5), (7, 8)]	n	l	'xæ⋅læjl⋅
+'nv̩d⋅noːjl⋅	[(1, 2), (6, 7)]	n	l	'lv̩d⋅loːjl⋅
+'næjl⋅v̩æx⋅	[(1, 2)]	n	l	'læjl⋅v̩æx⋅
+'nьtʃ⋅	[(1, 2)]	n	l	'lьtʃ⋅
+'oːjn⋅xv̩⋅	[(4, 5)]	n	l	'oːjl⋅xv̩⋅
+'oːjn⋅	[(4, 5)]	n	l	'oːjl⋅
+'oːjn⋅lь⋅v̩⋅	[(4, 5)]	n	l	'oːjl⋅lь⋅v̩⋅
+'pæjl⋅ðьl⋅næ⋅	[(10, 11)]	n	l	'pæjl⋅ðьl⋅læ⋅
+'ðæjn⋅	[(4, 5)]	n	l	'ðæjl⋅
+'ðæjn⋅v̩æjl⋅	[(4, 5)]	n	l	'ðæjl⋅v̩æjl⋅
+'ðoːjn⋅	[(5, 6)]	n	l	'ðoːjl⋅
+'ðuːæjn⋅	[(6, 7)]	n	l	'ðuːæjl⋅
+'tv̩x⋅næ⋅	[(6, 7)]	n	l	'tv̩x⋅læ⋅
+'tʃæjn⋅xæ⋅	[(5, 6)]	n	l	'tʃæjl⋅xæ⋅
+'tʃeːjn⋅	[(6, 7)]	n	l	'tʃeːjl⋅
+'tʃv̩⋅næð⋅	[(6, 7)]	n	l	'tʃv̩⋅læð⋅
+
+'æjl⋅bæ⋅v̩⋅ æjlbæv̩
+j ʑ
+'æjmːæl⋅	[(2, 3)]	j	ʑ	'æʑmːæl⋅
+'æjl⋅	[(2, 3)]	j	ʑ	'æʑl⋅
+'dæjl⋅	[(3, 4)]	j	ʑ	'dæʑl⋅
+'æjl⋅bæ⋅v̩⋅	[(2, 3)]	j	ʑ	'æʑl⋅bæ⋅v̩⋅
+'ь⋅loːjl⋅	[(6, 7)]	j	ʑ	'ь⋅loːʑl⋅
+'xæ⋅læjl⋅	[(6, 7)]	j	ʑ	'xæ⋅læʑl⋅
+'xæjl⋅lь⋅	[(3, 4)]	j	ʑ	'xæʑl⋅lь⋅
+'xæ⋅læjl⋅	[(6, 7)]	j	ʑ	'xæ⋅læʑl⋅
+'lv̩d⋅loːjl⋅	[(9, 10)]	j	ʑ	'lv̩d⋅loːʑl⋅
+'læjl⋅v̩æx⋅	[(3, 4)]	j	ʑ	'læʑl⋅v̩æx⋅
+'oːjl⋅xv̩⋅	[(3, 4)]	j	ʑ	'oːʑl⋅xv̩⋅
+'oːjl⋅	[(3, 4)]	j	ʑ	'oːʑl⋅
+'oːjl⋅lь⋅v̩⋅	[(3, 4)]	j	ʑ	'oːʑl⋅lь⋅v̩⋅
+'pæjl⋅ðьl⋅læ⋅	[(3, 4)]	j	ʑ	'pæʑl⋅ðьl⋅læ⋅
+'ðæjl⋅	[(3, 4)]	j	ʑ	'ðæʑl⋅
+'ðæjl⋅v̩æjl⋅	[(3, 4), (9, 10)]	j	ʑ	'ðæʑl⋅v̩æʑl⋅
+'ðoːjl⋅	[(4, 5)]	j	ʑ	'ðoːʑl⋅
+'ðuːæjl⋅	[(5, 6)]	j	ʑ	'ðuːæʑl⋅
+'v̩p⋅toːjl⋅	[(8, 9)]	j	ʑ	'v̩p⋅toːʑl⋅
+'tʃæjl⋅xæ⋅	[(4, 5)]	j	ʑ	'tʃæʑl⋅xæ⋅
+'tʃeːjl⋅	[(5, 6)]	j	ʑ	'tʃeːʑl⋅
+
+'æʑmːæl⋅ æʑmːæl
+l ʎ
+'æ⋅bæ⋅lь⋅	[(6, 7)]	l	ʎ	'æ⋅bæ⋅ʎь⋅
+'æʑmːæl⋅	[(6, 7)]	l	ʎ	'æʑmːæʎ⋅
+'æʑl⋅	[(3, 4)]	l	ʎ	'æʑʎ⋅
+'dæʑl⋅	[(4, 5)]	l	ʎ	'dæʑʎ⋅
+'æʑl⋅bæ⋅v̩⋅	[(3, 4)]	l	ʎ	'æʑʎ⋅bæ⋅v̩⋅
+'æx⋅lv̩tʃ⋅	[(4, 5)]	l	ʎ	'æx⋅ʎv̩tʃ⋅
+'ь⋅loːʑl⋅	[(3, 4), (7, 8)]	l	ʎ	'ь⋅ʎoːʑʎ⋅
+'xæ⋅læʑl⋅	[(4, 5), (7, 8)]	l	ʎ	'xæ⋅ʎæʑʎ⋅
+'xæʑl⋅lь⋅	[(4, 5), (6, 7)]	l	ʎ	'xæʑʎ⋅ʎь⋅
+'xæ⋅læʑl⋅	[(4, 5), (7, 8)]	l	ʎ	'xæ⋅ʎæʑʎ⋅
+'lv̩d⋅loːʑl⋅	[(1, 2), (6, 7), (10, 11)]	l	ʎ	'ʎv̩d⋅ʎoːʑʎ⋅
+'læʑl⋅v̩æx⋅	[(1, 2), (4, 5)]	l	ʎ	'ʎæʑʎ⋅v̩æx⋅
+'lьtʃ⋅	[(1, 2)]	l	ʎ	'ʎьtʃ⋅
+'oːʑl⋅xv̩⋅	[(4, 5)]	l	ʎ	'oːʑʎ⋅xv̩⋅
+'oːʑl⋅	[(4, 5)]	l	ʎ	'oːʑʎ⋅
+'oːʑl⋅lь⋅v̩⋅	[(4, 5), (6, 7)]	l	ʎ	'oːʑʎ⋅ʎь⋅v̩⋅
+'pæʑl⋅ðьl⋅læ⋅	[(4, 5), (8, 9), (10, 11)]	l	ʎ	'pæʑʎ⋅ðьʎ⋅ʎæ⋅
+'ðæʑl⋅	[(4, 5)]	l	ʎ	'ðæʑʎ⋅
+'ðæʑl⋅v̩æʑl⋅	[(4, 5), (10, 11)]	l	ʎ	'ðæʑʎ⋅v̩æʑʎ⋅
+'ðoːʑl⋅	[(5, 6)]	l	ʎ	'ðoːʑʎ⋅
+'ðuːæʑl⋅	[(6, 7)]	l	ʎ	'ðuːæʑʎ⋅
+'tv̩x⋅læ⋅	[(6, 7)]	l	ʎ	'tv̩x⋅ʎæ⋅
+'v̩p⋅toːʑl⋅	[(9, 10)]	l	ʎ	'v̩p⋅toːʑʎ⋅
+'tʃæʑl⋅xæ⋅	[(5, 6)]	l	ʎ	'tʃæʑʎ⋅xæ⋅
+'tʃeːʑl⋅	[(6, 7)]	l	ʎ	'tʃeːʑʎ⋅
+'tʃv̩⋅læð⋅	[(6, 7)]	l	ʎ	'tʃv̩⋅ʎæð⋅
+
+'ðæʑʎ⋅v̩æʑʎ⋅ ðæʑʎv̩æʑʎ
+ʑ z
+'æʑmːæʎ⋅	[(2, 3)]	ʑ	z	'æzmːæʎ⋅
+'æʑʎ⋅	[(2, 3)]	ʑ	z	'æzʎ⋅
+'dæʑʎ⋅	[(3, 4)]	ʑ	z	'dæzʎ⋅
+'æʑʎ⋅bæ⋅v̩⋅	[(2, 3)]	ʑ	z	'æzʎ⋅bæ⋅v̩⋅
+'ь⋅ʎoːʑʎ⋅	[(6, 7)]	ʑ	z	'ь⋅ʎoːzʎ⋅
+'xæ⋅ʎæʑʎ⋅	[(6, 7)]	ʑ	z	'xæ⋅ʎæzʎ⋅
+'xæʑʎ⋅ʎь⋅	[(3, 4)]	ʑ	z	'xæzʎ⋅ʎь⋅
+'xæ⋅ʎæʑʎ⋅	[(6, 7)]	ʑ	z	'xæ⋅ʎæzʎ⋅
+'ʎv̩d⋅ʎoːʑʎ⋅	[(9, 10)]	ʑ	z	'ʎv̩d⋅ʎoːzʎ⋅
+'ʎæʑʎ⋅v̩æx⋅	[(3, 4)]	ʑ	z	'ʎæzʎ⋅v̩æx⋅
+'oːʑʎ⋅xv̩⋅	[(3, 4)]	ʑ	z	'oːzʎ⋅xv̩⋅
+'oːʑʎ⋅	[(3, 4)]	ʑ	z	'oːzʎ⋅
+'oːʑʎ⋅ʎь⋅v̩⋅	[(3, 4)]	ʑ	z	'oːzʎ⋅ʎь⋅v̩⋅
+'pæʑʎ⋅ðьʎ⋅ʎæ⋅	[(3, 4)]	ʑ	z	'pæzʎ⋅ðьʎ⋅ʎæ⋅
+'ðæʑʎ⋅	[(3, 4)]	ʑ	z	'ðæzʎ⋅
+'ðæʑʎ⋅v̩æʑʎ⋅	[(3, 4), (9, 10)]	ʑ	z	'ðæzʎ⋅v̩æzʎ⋅
+'ðoːʑʎ⋅	[(4, 5)]	ʑ	z	'ðoːzʎ⋅
+'ðuːæʑʎ⋅	[(5, 6)]	ʑ	z	'ðuːæzʎ⋅
+'v̩p⋅toːʑʎ⋅	[(8, 9)]	ʑ	z	'v̩p⋅toːzʎ⋅
+'tʃæʑʎ⋅xæ⋅	[(4, 5)]	ʑ	z	'tʃæzʎ⋅xæ⋅
+'tʃeːʑʎ⋅	[(5, 6)]	ʑ	z	'tʃeːzʎ⋅
+
+'ʎv̩d⋅ʎoːzʎ⋅ ʎv̩dʎoːzʎ
+d ð
+'dæ⋅	[(1, 2)]	d	ð	'ðæ⋅
+'dæ⋅bæ⋅	[(1, 2)]	d	ð	'ðæ⋅bæ⋅
+'dæzʎ⋅	[(1, 2)]	d	ð	'ðæzʎ⋅
+'dь⋅	[(1, 2)]	d	ð	'ðь⋅
+'æd⋅bь⋅	[(2, 3)]	d	ð	'æð⋅bь⋅
+'ʎv̩d⋅ʎoːzʎ⋅	[(4, 5)]	d	ð	'ʎv̩ð⋅ʎoːzʎ⋅
+
+'tʃv̩⋅ʎæð⋅ tʃv̩ʎæð
+ʃ x
+'æx⋅ʎv̩tʃ⋅	[(8, 9)]	ʃ	x	'æx⋅ʎv̩tx⋅
+'ʎьtʃ⋅	[(4, 5)]	ʃ	x	'ʎьtx⋅
+'tʃæzʎ⋅xæ⋅	[(2, 3)]	ʃ	x	'txæzʎ⋅xæ⋅
+'tʃeːzʎ⋅	[(2, 3)]	ʃ	x	'txeːzʎ⋅
+'tʃv̩⋅ʎæð⋅	[(2, 3)]	ʃ	x	'txv̩⋅ʎæð⋅
+
+'pv̩⋅ pv̩
+p w
+'pæzʎ⋅ðьʎ⋅ʎæ⋅	[(1, 2)]	p	w	'wæzʎ⋅ðьʎ⋅ʎæ⋅
+'pv̩⋅	[(1, 2)]	p	w	'wv̩⋅
+'v̩p⋅toːzʎ⋅	[(3, 4)]	p	w	'v̩w⋅toːzʎ⋅
+
+'æð⋅bь⋅ æðbь
+b p
+'æ⋅bæ⋅ʎь⋅	[(3, 4)]	b	p	'æ⋅pæ⋅ʎь⋅
+'bæ⋅	[(1, 2)]	b	p	'pæ⋅
+'ðæ⋅bæ⋅	[(4, 5)]	b	p	'ðæ⋅pæ⋅
+'æð⋅bь⋅	[(4, 5)]	b	p	'æð⋅pь⋅
+'æzʎ⋅bæ⋅v̩⋅	[(5, 6)]	b	p	'æzʎ⋅pæ⋅v̩⋅
+'ðь⋅bv̩t⋅	[(4, 5)]	b	p	'ðь⋅pv̩t⋅
+
+'sejm⋅ sejm
+e ə
+'ajmːen⋅	[(5, 6)]	e	ə	'ajmːən⋅
+'be⋅	[(2, 3)]	e	ə	'bə⋅
+'de⋅be⋅	[(2, 3), (5, 6)]	e	ə	'də⋅bə⋅
+'dejl⋅	[(2, 3)]	e	ə	'dəjl⋅
+'e⋅	[(1, 2)]	e	ə	'ə⋅
+'ed⋅bi⋅	[(1, 2)]	e	ə	'əd⋅bi⋅
+'ejn⋅be⋅u⋅	[(1, 2), (6, 7)]	e	ə	'əjn⋅bə⋅u⋅
+'ek⋅ludʒ⋅	[(1, 2)]	e	ə	'ək⋅ludʒ⋅
+'es⋅	[(1, 2)]	e	ə	'əs⋅
+'ka⋅lejl⋅	[(5, 6)]	e	ə	'ka⋅ləjl⋅
+'ke⋅	[(2, 3)]	e	ə	'kə⋅
+'kejl⋅mi⋅	[(2, 3)]	e	ə	'kəjl⋅mi⋅
+'ke⋅majm⋅	[(2, 3)]	e	ə	'kə⋅majm⋅
+'najl⋅vek⋅	[(7, 8)]	e	ə	'najl⋅vək⋅
+'pejl⋅sil⋅ne⋅	[(2, 3), (11, 12)]	e	ə	'pəjl⋅sil⋅nə⋅
+'sejm⋅	[(2, 3)]	e	ə	'səjm⋅
+'sejn⋅vejl⋅	[(2, 3), (7, 8)]	e	ə	'səjn⋅vəjl⋅
+
+'i⋅uk⋅ iuk
+u o
+'əjn⋅bə⋅u⋅	[(8, 9)]	u	o	'əjn⋅bə⋅o⋅
+'ək⋅ludʒ⋅	[(5, 6)]	u	o	'ək⋅lodʒ⋅
+'i⋅as⋅tu⋅	[(7, 8)]	u	o	'i⋅as⋅to⋅
+'i⋅uk⋅	[(3, 4)]	u	o	'i⋅ok⋅
+'mud⋅mojl⋅	[(2, 3)]	u	o	'mod⋅mojl⋅
+'ojm⋅ku⋅	[(6, 7)]	u	o	'ojm⋅ko⋅
+'ojn⋅li⋅u⋅	[(8, 9)]	u	o	'ojn⋅li⋅o⋅
+'pu⋅	[(2, 3)]	u	o	'po⋅
+'si⋅but⋅	[(5, 6)]	u	o	'si⋅bot⋅
+'su⋅vajm⋅	[(2, 3)]	u	o	'so⋅vajm⋅
+'tuk⋅na⋅	[(2, 3)]	u	o	'tok⋅na⋅
+'up⋅tojl⋅	[(1, 2)]	u	o	'op⋅tojl⋅
+'dʒu⋅mas⋅	[(3, 4)]	u	o	'dʒo⋅mas⋅
+
+'i⋅as⋅to⋅ iasto
+a e
+'a⋅ba⋅mi⋅	[(1, 2), (4, 5)]	a	e	'e⋅be⋅mi⋅
+'a⋅i⋅	[(1, 2)]	a	e	'e⋅i⋅
+'ajmːən⋅	[(1, 2)]	a	e	'ejmːən⋅
+'ajn⋅	[(1, 2)]	a	e	'ejn⋅
+'da⋅	[(2, 3)]	a	e	'de⋅
+'i⋅as⋅to⋅	[(3, 4)]	a	e	'i⋅es⋅to⋅
+'ka⋅ləjl⋅	[(2, 3)]	a	e	'ke⋅ləjl⋅
+'kə⋅majm⋅	[(5, 6)]	a	e	'kə⋅mejm⋅
+'najl⋅vək⋅	[(2, 3)]	a	e	'nejl⋅vək⋅
+'so⋅vajm⋅	[(5, 6)]	a	e	'so⋅vejm⋅
+'tok⋅na⋅	[(6, 7)]	a	e	'tok⋅ne⋅
+'dʒajn⋅ka⋅	[(3, 4), (8, 9)]	a	e	'dʒejn⋅ke⋅
+'dʒo⋅mas⋅	[(6, 7)]	a	e	'dʒo⋅mes⋅
+
+'mod⋅mojl⋅ modmojl
+o oː
+'əjn⋅bə⋅o⋅	[(8, 9)]	o	oː	'əjn⋅bə⋅oː⋅
+'ək⋅lodʒ⋅	[(5, 6)]	o	oː	'ək⋅loːdʒ⋅
+'i⋅es⋅to⋅	[(7, 8)]	o	oː	'i⋅es⋅toː⋅
+'i⋅nojm⋅	[(4, 5)]	o	oː	'i⋅noːjm⋅
+'i⋅ok⋅	[(3, 4)]	o	oː	'i⋅oːk⋅
+'mod⋅mojl⋅	[(2, 3), (6, 7)]	o	oː	'moːd⋅moːjl⋅
+'ojm⋅ko⋅	[(1, 2), (6, 7)]	o	oː	'oːjm⋅koː⋅
+'ojn⋅	[(1, 2)]	o	oː	'oːjn⋅
+'ojn⋅li⋅o⋅	[(1, 2), (8, 9)]	o	oː	'oːjn⋅li⋅oː⋅
+'po⋅	[(2, 3)]	o	oː	'poː⋅
+'si⋅bot⋅	[(5, 6)]	o	oː	'si⋅boːt⋅
+'sojm⋅	[(2, 3)]	o	oː	'soːjm⋅
+'so⋅vejm⋅	[(2, 3)]	o	oː	'soː⋅vejm⋅
+'tok⋅ne⋅	[(2, 3)]	o	oː	'toːk⋅ne⋅
+'op⋅tojl⋅	[(1, 2), (5, 6)]	o	oː	'oːp⋅toːjl⋅
+'dʒo⋅mes⋅	[(3, 4)]	o	oː	'dʒoː⋅mes⋅
+
+'ejn⋅ ejn
+j h
+'ejmːən⋅	[(2, 3)]	j	h	'ehmːən⋅
+'ejn⋅	[(2, 3)]	j	h	'ehn⋅
+'dəjl⋅	[(3, 4)]	j	h	'dəhl⋅
+'əjn⋅bə⋅oː⋅	[(2, 3)]	j	h	'əhn⋅bə⋅oː⋅
+'i⋅noːjm⋅	[(6, 7)]	j	h	'i⋅noːhm⋅
+'ke⋅ləjl⋅	[(6, 7)]	j	h	'ke⋅ləhl⋅
+'kəjl⋅mi⋅	[(3, 4)]	j	h	'kəhl⋅mi⋅
+'kə⋅mejm⋅	[(6, 7)]	j	h	'kə⋅mehm⋅
+'moːd⋅moːjl⋅	[(9, 10)]	j	h	'moːd⋅moːhl⋅
+'nejl⋅vək⋅	[(3, 4)]	j	h	'nehl⋅vək⋅
+'oːjm⋅koː⋅	[(3, 4)]	j	h	'oːhm⋅koː⋅
+'oːjn⋅	[(3, 4)]	j	h	'oːhn⋅
+'oːjn⋅li⋅oː⋅	[(3, 4)]	j	h	'oːhn⋅li⋅oː⋅
+'pəjl⋅sil⋅nə⋅	[(3, 4)]	j	h	'pəhl⋅sil⋅nə⋅
+'səjm⋅	[(3, 4)]	j	h	'səhm⋅
+'səjn⋅vəjl⋅	[(3, 4), (8, 9)]	j	h	'səhn⋅vəhl⋅
+'soːjm⋅	[(4, 5)]	j	h	'soːhm⋅
+'soː⋅vejm⋅	[(7, 8)]	j	h	'soː⋅vehm⋅
+'oːp⋅toːjl⋅	[(8, 9)]	j	h	'oːp⋅toːhl⋅
+'dʒejn⋅ke⋅	[(4, 5)]	j	h	'dʒehn⋅ke⋅
+'dʒeːjm⋅	[(5, 6)]	j	h	'dʒeːhm⋅
+
+'səhm⋅ səhm
+ə o
+'ehmːən⋅	[(5, 6)]	ə	o	'ehmːon⋅
+'bə⋅	[(2, 3)]	ə	o	'bo⋅
+'də⋅bə⋅	[(2, 3), (5, 6)]	ə	o	'do⋅bo⋅
+'dəhl⋅	[(2, 3)]	ə	o	'dohl⋅
+'ə⋅	[(1, 2)]	ə	o	'o⋅
+'əd⋅bi⋅	[(1, 2)]	ə	o	'od⋅bi⋅
+'əhn⋅bə⋅oː⋅	[(1, 2), (6, 7)]	ə	o	'ohn⋅bo⋅oː⋅
+'ək⋅loːdʒ⋅	[(1, 2)]	ə	o	'ok⋅loːdʒ⋅
+'əs⋅	[(1, 2)]	ə	o	'os⋅
+'ke⋅ləhl⋅	[(5, 6)]	ə	o	'ke⋅lohl⋅
+'kə⋅	[(2, 3)]	ə	o	'ko⋅
+'kəhl⋅mi⋅	[(2, 3)]	ə	o	'kohl⋅mi⋅
+'kə⋅mehm⋅	[(2, 3)]	ə	o	'ko⋅mehm⋅
+'nehl⋅vək⋅	[(7, 8)]	ə	o	'nehl⋅vok⋅
+'pəhl⋅sil⋅nə⋅	[(2, 3), (11, 12)]	ə	o	'pohl⋅sil⋅no⋅
+'səhm⋅	[(2, 3)]	ə	o	'sohm⋅
+'səhn⋅vəhl⋅	[(2, 3), (7, 8)]	ə	o	'sohn⋅vohl⋅
+
+'kohl⋅mi⋅ kohlmi
+k tʃ
+'ok⋅loːdʒ⋅	[(2, 3)]	k	tʃ	'otʃ⋅loːdʒ⋅
+'i⋅oːk⋅	[(5, 6)]	k	tʃ	'i⋅oːtʃ⋅
+'ke⋅lohl⋅	[(1, 2)]	k	tʃ	'tʃe⋅lohl⋅
+'ko⋅	[(1, 2)]	k	tʃ	'tʃo⋅
+'kohl⋅mi⋅	[(1, 2)]	k	tʃ	'tʃohl⋅mi⋅
+'ko⋅mehm⋅	[(1, 2)]	k	tʃ	'tʃo⋅mehm⋅
+'nehl⋅vok⋅	[(8, 9)]	k	tʃ	'nehl⋅votʃ⋅
+'oːhm⋅koː⋅	[(6, 7)]	k	tʃ	'oːhm⋅tʃoː⋅
+'toːk⋅ne⋅	[(4, 5)]	k	tʃ	'toːtʃ⋅ne⋅
+'dʒehn⋅ke⋅	[(7, 8)]	k	tʃ	'dʒehn⋅tʃe⋅
+
+'od⋅bi⋅ odbi
+b m
+'e⋅be⋅mi⋅	[(3, 4)]	b	m	'e⋅me⋅mi⋅
+'bo⋅	[(1, 2)]	b	m	'mo⋅
+'do⋅bo⋅	[(4, 5)]	b	m	'do⋅mo⋅
+'od⋅bi⋅	[(4, 5)]	b	m	'od⋅mi⋅
+'ohn⋅boːː⋅	[(5, 6)]	b	m	'ohn⋅moːː⋅
+'si⋅boːt⋅	[(4, 5)]	b	m	'si⋅moːt⋅
+
+'oːp⋅toːhl⋅ oːptoːhl
+l tʃ
+'dohl⋅	[(4, 5)]	l	tʃ	'dohtʃ⋅
+'otʃ⋅loːdʒ⋅	[(5, 6)]	l	tʃ	'otʃ⋅tʃoːdʒ⋅
+'tʃe⋅lohl⋅	[(5, 6), (8, 9)]	l	tʃ	'tʃe⋅tʃohtʃ⋅
+'tʃohl⋅mi⋅	[(5, 6)]	l	tʃ	'tʃohtʃ⋅mi⋅
+'moːd⋅moːhl⋅	[(10, 11)]	l	tʃ	'moːd⋅moːhtʃ⋅
+'nehl⋅votʃ⋅	[(4, 5)]	l	tʃ	'nehtʃ⋅votʃ⋅
+'oːhn⋅li⋅oː⋅	[(6, 7)]	l	tʃ	'oːhn⋅tʃi⋅oː⋅
+'pohl⋅sil⋅no⋅	[(4, 5), (8, 9)]	l	tʃ	'pohtʃ⋅sitʃ⋅no⋅
+'sohn⋅vohl⋅	[(9, 10)]	l	tʃ	'sohn⋅vohtʃ⋅
+'oːp⋅toːhl⋅	[(9, 10)]	l	tʃ	'oːp⋅toːhtʃ⋅
+
+'oːhm⋅tʃoː⋅ oːhmtʃoː
+ʃ s
+'dohtʃ⋅	[(5, 6)]	ʃ	s	'dohts⋅
+'otʃ⋅tʃoːdʒ⋅	[(3, 4), (6, 7)]	ʃ	s	'ots⋅tsoːdʒ⋅
+'i⋅oːtʃ⋅	[(6, 7)]	ʃ	s	'i⋅oːts⋅
+'tʃe⋅tʃohtʃ⋅	[(2, 3), (6, 7), (10, 11)]	ʃ	s	'tse⋅tsohts⋅
+'tʃo⋅	[(2, 3)]	ʃ	s	'tso⋅
+'tʃohtʃ⋅mi⋅	[(2, 3), (6, 7)]	ʃ	s	'tsohts⋅mi⋅
+'tʃo⋅mehm⋅	[(2, 3)]	ʃ	s	'tso⋅mehm⋅
+'moːd⋅moːhtʃ⋅	[(11, 12)]	ʃ	s	'moːd⋅moːhts⋅
+'nehtʃ⋅votʃ⋅	[(5, 6), (10, 11)]	ʃ	s	'nehts⋅vots⋅
+'oːhm⋅tʃoː⋅	[(7, 8)]	ʃ	s	'oːhm⋅tsoː⋅
+'oːhn⋅tʃi⋅oː⋅	[(7, 8)]	ʃ	s	'oːhn⋅tsi⋅oː⋅
+'pohtʃ⋅sitʃ⋅no⋅	[(5, 6), (10, 11)]	ʃ	s	'pohts⋅sits⋅no⋅
+'sohn⋅vohtʃ⋅	[(10, 11)]	ʃ	s	'sohn⋅vohts⋅
+'toːtʃ⋅ne⋅	[(5, 6)]	ʃ	s	'toːts⋅ne⋅
+'oːp⋅toːhtʃ⋅	[(10, 11)]	ʃ	s	'oːp⋅toːhts⋅
+'dʒehn⋅tʃe⋅	[(8, 9)]	ʃ	s	'dʒehn⋅tse⋅
+
+'tso⋅ tso
+o oː
+'ehmːon⋅	[(5, 6)]	o	oː	'ehmːoːn⋅
+'mo⋅	[(2, 3)]	o	oː	'moː⋅
+'do⋅mo⋅	[(2, 3), (5, 6)]	o	oː	'doː⋅moː⋅
+'dohts⋅	[(2, 3)]	o	oː	'doːhts⋅
+'o⋅	[(1, 2)]	o	oː	'oː⋅
+'od⋅mi⋅	[(1, 2)]	o	oː	'oːd⋅mi⋅
+'ohn⋅moːː⋅	[(1, 2)]	o	oː	'oːhn⋅moːː⋅
+'ots⋅tsoːdʒ⋅	[(1, 2)]	o	oː	'oːts⋅tsoːdʒ⋅
+'os⋅	[(1, 2)]	o	oː	'oːs⋅
+'tse⋅tsohts⋅	[(7, 8)]	o	oː	'tse⋅tsoːhts⋅
+'tso⋅	[(3, 4)]	o	oː	'tsoː⋅
+'tsohts⋅mi⋅	[(3, 4)]	o	oː	'tsoːhts⋅mi⋅
+'tso⋅mehm⋅	[(3, 4)]	o	oː	'tsoː⋅mehm⋅
+'nehts⋅vots⋅	[(8, 9)]	o	oː	'nehts⋅voːts⋅
+'pohts⋅sits⋅no⋅	[(2, 3), (13, 14)]	o	oː	'poːhts⋅sits⋅noː⋅
+'sohm⋅	[(2, 3)]	o	oː	'soːhm⋅
+'sohn⋅vohts⋅	[(2, 3), (7, 8)]	o	oː	'soːhn⋅voːhts⋅
+
+'moː⋅ moː
+oː uː
+'ehmːoːn⋅	[(5, 7)]	oː	uː	'ehmːuːn⋅
+'moː⋅	[(2, 4)]	oː	uː	'muː⋅
+'doː⋅moː⋅	[(2, 4), (6, 8)]	oː	uː	'duː⋅muː⋅
+'doːhts⋅	[(2, 4)]	oː	uː	'duːhts⋅
+'oː⋅	[(1, 3)]	oː	uː	'uː⋅
+'oːd⋅mi⋅	[(1, 3)]	oː	uː	'uːd⋅mi⋅
+'oːhn⋅moːː⋅	[(1, 3)]	oː	uː	'uːhn⋅moːː⋅
+'oːts⋅tsoːdʒ⋅	[(1, 3), (8, 10)]	oː	uː	'uːts⋅tsuːdʒ⋅
+'oːs⋅	[(1, 3)]	oː	uː	'uːs⋅
+'i⋅es⋅toː⋅	[(7, 9)]	oː	uː	'i⋅es⋅tuː⋅
+'i⋅noːhm⋅	[(4, 6)]	oː	uː	'i⋅nuːhm⋅
+'i⋅oːts⋅	[(3, 5)]	oː	uː	'i⋅uːts⋅
+'tse⋅tsoːhts⋅	[(7, 9)]	oː	uː	'tse⋅tsuːhts⋅
+'tsoː⋅	[(3, 5)]	oː	uː	'tsuː⋅
+'tsoːhts⋅mi⋅	[(3, 5)]	oː	uː	'tsuːhts⋅mi⋅
+'tsoː⋅mehm⋅	[(3, 5)]	oː	uː	'tsuː⋅mehm⋅
+'moːd⋅moːhts⋅	[(2, 4), (7, 9)]	oː	uː	'muːd⋅muːhts⋅
+'nehts⋅voːts⋅	[(8, 10)]	oː	uː	'nehts⋅vuːts⋅
+'oːhm⋅tsoː⋅	[(1, 3), (8, 10)]	oː	uː	'uːhm⋅tsuː⋅
+'oːhn⋅	[(1, 3)]	oː	uː	'uːhn⋅
+'oːhn⋅tsi⋅oː⋅	[(1, 3), (10, 12)]	oː	uː	'uːhn⋅tsi⋅uː⋅
+'poːhts⋅sits⋅noː⋅	[(2, 4), (14, 16)]	oː	uː	'puːhts⋅sits⋅nuː⋅
+'poː⋅	[(2, 4)]	oː	uː	'puː⋅
+'soːhm⋅	[(2, 4)]	oː	uː	'suːhm⋅
+'soːhn⋅voːhts⋅	[(2, 4), (8, 10)]	oː	uː	'suːhn⋅vuːhts⋅
+'si⋅moːt⋅	[(5, 7)]	oː	uː	'si⋅muːt⋅
+'soːhm⋅	[(2, 4)]	oː	uː	'suːhm⋅
+'soː⋅vehm⋅	[(2, 4)]	oː	uː	'suː⋅vehm⋅
+'toːts⋅ne⋅	[(2, 4)]	oː	uː	'tuːts⋅ne⋅
+'oːp⋅toːhts⋅	[(1, 3), (6, 8)]	oː	uː	'uːp⋅tuːhts⋅
+'dʒoː⋅mes⋅	[(3, 5)]	oː	uː	'dʒuː⋅mes⋅
+
+'uːd⋅mi⋅ uːdmi
+m ɸ
+'e⋅me⋅mi⋅	[(3, 4), (6, 7)]	m	ɸ	'e⋅ɸe⋅ɸi⋅
+'muː⋅	[(1, 2)]	m	ɸ	'ɸuː⋅
+'duː⋅muː⋅	[(5, 6)]	m	ɸ	'duː⋅ɸuː⋅
+'uːd⋅mi⋅	[(5, 6)]	m	ɸ	'uːd⋅ɸi⋅
+'uːhn⋅moːː⋅	[(6, 7)]	m	ɸ	'uːhn⋅ɸoːː⋅
+'i⋅nuːhm⋅	[(7, 8)]	m	ɸ	'i⋅nuːhɸ⋅
+'tsuːhts⋅mi⋅	[(9, 10)]	m	ɸ	'tsuːhts⋅ɸi⋅
+'tsuː⋅mehm⋅	[(6, 7), (9, 10)]	m	ɸ	'tsuː⋅ɸehɸ⋅
+'muːd⋅muːhts⋅	[(1, 2), (6, 7)]	m	ɸ	'ɸuːd⋅ɸuːhts⋅
+'uːhm⋅tsuː⋅	[(4, 5)]	m	ɸ	'uːhɸ⋅tsuː⋅
+'suːhm⋅	[(5, 6)]	m	ɸ	'suːhɸ⋅
+'si⋅muːt⋅	[(4, 5)]	m	ɸ	'si⋅ɸuːt⋅
+'suːhm⋅	[(5, 6)]	m	ɸ	'suːhɸ⋅
+'suː⋅vehm⋅	[(8, 9)]	m	ɸ	'suː⋅vehɸ⋅
+'dʒeːhm⋅	[(6, 7)]	m	ɸ	'dʒeːhɸ⋅
+'dʒuː⋅mes⋅	[(6, 7)]	m	ɸ	'dʒuː⋅ɸes⋅
+
+'uːs⋅ uːs
+uː u
+'ehmːuːn⋅	[(5, 7)]	uː	u	'ehmːun⋅
+'ɸuː⋅	[(2, 4)]	uː	u	'ɸu⋅
+'duː⋅ɸuː⋅	[(2, 4), (6, 8)]	uː	u	'du⋅ɸu⋅
+'duːhts⋅	[(2, 4)]	uː	u	'duhts⋅
+'uː⋅	[(1, 3)]	uː	u	'u⋅
+'uːd⋅ɸi⋅	[(1, 3)]	uː	u	'ud⋅ɸi⋅
+'uːhn⋅ɸoːː⋅	[(1, 3)]	uː	u	'uhn⋅ɸoːː⋅
+'uːts⋅tsuːdʒ⋅	[(1, 3), (8, 10)]	uː	u	'uts⋅tsudʒ⋅
+'uːs⋅	[(1, 3)]	uː	u	'us⋅
+'i⋅es⋅tuː⋅	[(7, 9)]	uː	u	'i⋅es⋅tu⋅
+'i⋅nuːhɸ⋅	[(4, 6)]	uː	u	'i⋅nuhɸ⋅
+'i⋅uːts⋅	[(3, 5)]	uː	u	'i⋅uts⋅
+'tse⋅tsuːhts⋅	[(7, 9)]	uː	u	'tse⋅tsuhts⋅
+'tsuː⋅	[(3, 5)]	uː	u	'tsu⋅
+'tsuːhts⋅ɸi⋅	[(3, 5)]	uː	u	'tsuhts⋅ɸi⋅
+'tsuː⋅ɸehɸ⋅	[(3, 5)]	uː	u	'tsu⋅ɸehɸ⋅
+'ɸuːd⋅ɸuːhts⋅	[(2, 4), (7, 9)]	uː	u	'ɸud⋅ɸuhts⋅
+'nehts⋅vuːts⋅	[(8, 10)]	uː	u	'nehts⋅vuts⋅
+'uːhɸ⋅tsuː⋅	[(1, 3), (8, 10)]	uː	u	'uhɸ⋅tsu⋅
+'uːhn⋅	[(1, 3)]	uː	u	'uhn⋅
+'uːhn⋅tsi⋅uː⋅	[(1, 3), (10, 12)]	uː	u	'uhn⋅tsi⋅u⋅
+'puːhts⋅sits⋅nuː⋅	[(2, 4), (14, 16)]	uː	u	'puhts⋅sits⋅nu⋅
+'puː⋅	[(2, 4)]	uː	u	'pu⋅
+'suːhɸ⋅	[(2, 4)]	uː	u	'suhɸ⋅
+'suːhn⋅vuːhts⋅	[(2, 4), (8, 10)]	uː	u	'suhn⋅vuhts⋅
+'si⋅ɸuːt⋅	[(5, 7)]	uː	u	'si⋅ɸut⋅
+'suːhɸ⋅	[(2, 4)]	uː	u	'suhɸ⋅
+'suː⋅vehɸ⋅	[(2, 4)]	uː	u	'su⋅vehɸ⋅
+'tuːts⋅ne⋅	[(2, 4)]	uː	u	'tuts⋅ne⋅
+'uːp⋅tuːhts⋅	[(1, 3), (6, 8)]	uː	u	'up⋅tuhts⋅
+'dʒuː⋅ɸes⋅	[(3, 5)]	uː	u	'dʒu⋅ɸes⋅
+
+'uhn⋅tsi⋅u⋅ uhntsiu
+t l
+'duhts⋅	[(4, 5)]	t	l	'duhls⋅
+'uts⋅tsudʒ⋅	[(2, 3), (5, 6)]	t	l	'uls⋅lsudʒ⋅
+'i⋅es⋅tu⋅	[(6, 7)]	t	l	'i⋅es⋅lu⋅
+'i⋅uts⋅	[(4, 5)]	t	l	'i⋅uls⋅
+'tse⋅tsuhts⋅	[(1, 2), (5, 6), (9, 10)]	t	l	'lse⋅lsuhls⋅
+'tsu⋅	[(1, 2)]	t	l	'lsu⋅
+'tsuhts⋅ɸi⋅	[(1, 2), (5, 6)]	t	l	'lsuhls⋅ɸi⋅
+'tsu⋅ɸehɸ⋅	[(1, 2)]	t	l	'lsu⋅ɸehɸ⋅
+'ɸud⋅ɸuhts⋅	[(8, 9)]	t	l	'ɸud⋅ɸuhls⋅
+'nehts⋅vuts⋅	[(4, 5), (9, 10)]	t	l	'nehls⋅vuls⋅
+'uhɸ⋅tsu⋅	[(5, 6)]	t	l	'uhɸ⋅lsu⋅
+'uhn⋅tsi⋅u⋅	[(5, 6)]	t	l	'uhn⋅lsi⋅u⋅
+'puhts⋅sits⋅nu⋅	[(4, 5), (9, 10)]	t	l	'puhls⋅sils⋅nu⋅
+'suhn⋅vuhts⋅	[(9, 10)]	t	l	'suhn⋅vuhls⋅
+'si⋅ɸut⋅	[(6, 7)]	t	l	'si⋅ɸul⋅
+'tuts⋅ne⋅	[(1, 2), (3, 4)]	t	l	'luls⋅ne⋅
+'up⋅tuhts⋅	[(4, 5), (7, 8)]	t	l	'up⋅luhls⋅
+'dʒehn⋅tse⋅	[(7, 8)]	t	l	'dʒehn⋅lse⋅
+
+'pu⋅ pu
+p b
+'puhls⋅sils⋅nu⋅	[(1, 2)]	p	b	'buhls⋅sils⋅nu⋅
+'pu⋅	[(1, 2)]	p	b	'bu⋅
+'up⋅luhls⋅	[(2, 3)]	p	b	'ub⋅luhls⋅
+
+'uhn⋅ uhn
+n h̃
+'ehmːun⋅	[(6, 7)]	n	h̃	'ehmːuh̃⋅
+'ehn⋅	[(3, 4)]	n	h̃	'ehh̃⋅
+'uhn⋅ɸoːː⋅	[(3, 4)]	n	h̃	'uhh̃⋅ɸoːː⋅
+'i⋅nuhɸ⋅	[(3, 4)]	n	h̃	'i⋅h̃uhɸ⋅
+'nehls⋅vuls⋅	[(1, 2)]	n	h̃	'h̃ehls⋅vuls⋅
+'nidʒ⋅	[(1, 2)]	n	h̃	'h̃idʒ⋅
+'uhn⋅	[(3, 4)]	n	h̃	'uhh̃⋅
+'uhn⋅lsi⋅u⋅	[(3, 4)]	n	h̃	'uhh̃⋅lsi⋅u⋅
+'buhls⋅sils⋅nu⋅	[(12, 13)]	n	h̃	'buhls⋅sils⋅h̃u⋅
+'suhn⋅vuhls⋅	[(4, 5)]	n	h̃	'suhh̃⋅vuhls⋅
+'luls⋅ne⋅	[(6, 7)]	n	h̃	'luls⋅h̃e⋅
+'dʒehn⋅lse⋅	[(5, 6)]	n	h̃	'dʒehh̃⋅lse⋅
+
+'suhɸ⋅ suhɸ
+s ʃ
+'duhls⋅	[(5, 6)]	s	ʃ	'duhlʃ⋅
+'uls⋅lsudʒ⋅	[(3, 4), (6, 7)]	s	ʃ	'ulʃ⋅lʃudʒ⋅
+'us⋅	[(2, 3)]	s	ʃ	'uʃ⋅
+'i⋅es⋅lu⋅	[(4, 5)]	s	ʃ	'i⋅eʃ⋅lu⋅
+'i⋅uls⋅	[(5, 6)]	s	ʃ	'i⋅ulʃ⋅
+'lse⋅lsuhls⋅	[(2, 3), (6, 7), (10, 11)]	s	ʃ	'lʃe⋅lʃuhlʃ⋅
+'lsu⋅	[(2, 3)]	s	ʃ	'lʃu⋅
+'lsuhls⋅ɸi⋅	[(2, 3), (6, 7)]	s	ʃ	'lʃuhlʃ⋅ɸi⋅
+'lsu⋅ɸehɸ⋅	[(2, 3)]	s	ʃ	'lʃu⋅ɸehɸ⋅
+'ɸud⋅ɸuhls⋅	[(9, 10)]	s	ʃ	'ɸud⋅ɸuhlʃ⋅
+'h̃ehls⋅vuls⋅	[(6, 7), (11, 12)]	s	ʃ	'h̃ehlʃ⋅vulʃ⋅
+'uhɸ⋅lsu⋅	[(6, 7)]	s	ʃ	'uhɸ⋅lʃu⋅
+'uhː̃⋅lsi⋅u⋅	[(7, 8)]	s	ʃ	'uhː̃⋅lʃi⋅u⋅
+'buhls⋅sils⋅h̃u⋅	[(5, 6), (7, 8), (10, 11)]	s	ʃ	'buhlʃ⋅ʃilʃ⋅h̃u⋅
+'suhɸ⋅	[(1, 2)]	s	ʃ	'ʃuhɸ⋅
+'suhː̃⋅vuhls⋅	[(1, 2), (11, 12)]	s	ʃ	'ʃuhː̃⋅vuhlʃ⋅
+'si⋅ɸul⋅	[(1, 2)]	s	ʃ	'ʃi⋅ɸul⋅
+'suhɸ⋅	[(1, 2)]	s	ʃ	'ʃuhɸ⋅
+'su⋅vehɸ⋅	[(1, 2)]	s	ʃ	'ʃu⋅vehɸ⋅
+'luls⋅h̃e⋅	[(4, 5)]	s	ʃ	'lulʃ⋅h̃e⋅
+'ub⋅luhls⋅	[(8, 9)]	s	ʃ	'ub⋅luhlʃ⋅
+'dʒehː̃⋅lse⋅	[(9, 10)]	s	ʃ	'dʒehː̃⋅lʃe⋅
+'dʒu⋅ɸes⋅	[(7, 8)]	s	ʃ	'dʒu⋅ɸeʃ⋅
+
+'mo⋅ mo
+m n
+'e⋅me⋅mi⋅	[(3, 4), (6, 7)]	m	n	'e⋅ne⋅ni⋅
+'mo⋅	[(1, 2)]	m	n	'no⋅
+'do⋅mo⋅	[(4, 5)]	m	n	'do⋅no⋅
+'od⋅mi⋅	[(4, 5)]	m	n	'od⋅ni⋅
+'ohn⋅moːː⋅	[(5, 6)]	m	n	'ohn⋅noːː⋅
+'i⋅noːhm⋅	[(7, 8)]	m	n	'i⋅noːhn⋅
+'tsohts⋅mi⋅	[(8, 9)]	m	n	'tsohts⋅ni⋅
+'tso⋅mehm⋅	[(5, 6), (8, 9)]	m	n	'tso⋅nehn⋅
+'moːd⋅moːhts⋅	[(1, 2), (6, 7)]	m	n	'noːd⋅noːhts⋅
+'oːhm⋅tsoː⋅	[(4, 5)]	m	n	'oːhn⋅tsoː⋅
+'sohm⋅	[(4, 5)]	m	n	'sohn⋅
+'si⋅moːt⋅	[(4, 5)]	m	n	'si⋅noːt⋅
+'soːhm⋅	[(5, 6)]	m	n	'soːhn⋅
+'soː⋅vehm⋅	[(8, 9)]	m	n	'soː⋅vehn⋅
+'dʒeːhm⋅	[(6, 7)]	m	n	'dʒeːhn⋅
+'dʒoː⋅mes⋅	[(6, 7)]	m	n	'dʒoː⋅nes⋅
+
+'de⋅ de
+e je
+'e⋅ne⋅ni⋅	[(1, 2), (4, 5)]	e	je	'je⋅nje⋅ni⋅
+'e⋅i⋅	[(1, 2)]	e	je	'je⋅i⋅
+'ehmːon⋅	[(1, 2)]	e	je	'jehmːon⋅
+'ehn⋅	[(1, 2)]	e	je	'jehn⋅
+'de⋅	[(2, 3)]	e	je	'dje⋅
+'i⋅es⋅toː⋅	[(3, 4)]	e	je	'i⋅jes⋅toː⋅
+'tse⋅tsohts⋅	[(3, 4)]	e	je	'tsje⋅tsohts⋅
+'tso⋅nehn⋅	[(6, 7)]	e	je	'tso⋅njehn⋅
+'nehts⋅vots⋅	[(2, 3)]	e	je	'njehts⋅vots⋅
+'soː⋅vehn⋅	[(6, 7)]	e	je	'soː⋅vjehn⋅
+'toːts⋅ne⋅	[(8, 9)]	e	je	'toːts⋅nje⋅
+'dʒehn⋅tse⋅	[(3, 4), (9, 10)]	e	je	'dʒjehn⋅tsje⋅
+'dʒoː⋅nes⋅	[(7, 8)]	e	je	'dʒoː⋅njes⋅
+
+'i⋅jes⋅toː⋅ ijestoː
+s z
+'dohts⋅	[(5, 6)]	s	z	'dohtz⋅
+'ots⋅tsoːdʒ⋅	[(3, 4), (6, 7)]	s	z	'otz⋅tzoːdʒ⋅
+'os⋅	[(2, 3)]	s	z	'oz⋅
+'i⋅jes⋅toː⋅	[(5, 6)]	s	z	'i⋅jez⋅toː⋅
+'i⋅oːts⋅	[(6, 7)]	s	z	'i⋅oːtz⋅
+'tsje⋅tsohts⋅	[(2, 3), (7, 8), (11, 12)]	s	z	'tzje⋅tzohtz⋅
+'tso⋅	[(2, 3)]	s	z	'tzo⋅
+'tsohts⋅ni⋅	[(2, 3), (6, 7)]	s	z	'tzohtz⋅ni⋅
+'tso⋅njehn⋅	[(2, 3)]	s	z	'tzo⋅njehn⋅
+'noːd⋅noːhts⋅	[(11, 12)]	s	z	'noːd⋅noːhtz⋅
+'njehts⋅vots⋅	[(6, 7), (11, 12)]	s	z	'njehtz⋅votz⋅
+'oːhn⋅tsoː⋅	[(7, 8)]	s	z	'oːhn⋅tzoː⋅
+'oːhn⋅tsi⋅oː⋅	[(7, 8)]	s	z	'oːhn⋅tzi⋅oː⋅
+'pohts⋅sits⋅no⋅	[(5, 6), (7, 8), (10, 11)]	s	z	'pohtz⋅zitz⋅no⋅
+'sohn⋅	[(1, 2)]	s	z	'zohn⋅
+'sohn⋅vohts⋅	[(1, 2), (10, 11)]	s	z	'zohn⋅vohtz⋅
+'si⋅noːt⋅	[(1, 2)]	s	z	'zi⋅noːt⋅
+'soːhn⋅	[(1, 2)]	s	z	'zoːhn⋅
+'soː⋅vjehn⋅	[(1, 2)]	s	z	'zoː⋅vjehn⋅
+'toːts⋅nje⋅	[(5, 6)]	s	z	'toːtz⋅nje⋅
+'oːp⋅toːhts⋅	[(10, 11)]	s	z	'oːp⋅toːhtz⋅
+'dʒjehn⋅tsje⋅	[(9, 10)]	s	z	'dʒjehn⋅tzje⋅
+'dʒoː⋅njes⋅	[(9, 10)]	s	z	'dʒoː⋅njez⋅
+
+'jehn⋅ jehn
+e i
+'je⋅nje⋅ni⋅	[(2, 3), (6, 7)]	e	i	'ji⋅nji⋅ni⋅
+'je⋅i⋅	[(2, 3)]	e	i	'ji⋅i⋅
+'jehmːon⋅	[(2, 3)]	e	i	'jihmːon⋅
+'jehn⋅	[(2, 3)]	e	i	'jihn⋅
+'dje⋅	[(3, 4)]	e	i	'dji⋅
+'i⋅jez⋅toː⋅	[(4, 5)]	e	i	'i⋅jiz⋅toː⋅
+'tzje⋅tzohtz⋅	[(4, 5)]	e	i	'tzji⋅tzohtz⋅
+'tzo⋅njehn⋅	[(7, 8)]	e	i	'tzo⋅njihn⋅
+'njehtz⋅votz⋅	[(3, 4)]	e	i	'njihtz⋅votz⋅
+'zoː⋅vjehn⋅	[(7, 8)]	e	i	'zoː⋅vjihn⋅
+'toːtz⋅nje⋅	[(9, 10)]	e	i	'toːtz⋅nji⋅
+'dʒjehn⋅tzje⋅	[(4, 5), (11, 12)]	e	i	'dʒjihn⋅tzji⋅
+'dʒoː⋅njez⋅	[(8, 9)]	e	i	'dʒoː⋅njiz⋅
+
+'pohtz⋅zitz⋅no⋅ pohtzzitzno
+n n
+'ji⋅nji⋅ni⋅	[(4, 5), (8, 9)]	n	n	'ji⋅nji⋅ni⋅
+'jihmːon⋅	[(7, 8)]	n	n	'jihmːon⋅
+'jihn⋅	[(4, 5)]	n	n	'jihn⋅
+'no⋅	[(1, 2)]	n	n	'no⋅
+'do⋅no⋅	[(4, 5)]	n	n	'do⋅no⋅
+'od⋅ni⋅	[(4, 5)]	n	n	'od⋅ni⋅
+'ohn⋅noːː⋅	[(3, 4), (5, 6)]	n	n	'ohn⋅noːː⋅
+'i⋅noːhn⋅	[(3, 4), (7, 8)]	n	n	'i⋅noːhn⋅
+'tzohtz⋅ni⋅	[(8, 9)]	n	n	'tzohtz⋅ni⋅
+'tzo⋅njihn⋅	[(5, 6), (9, 10)]	n	n	'tzo⋅njihn⋅
+'noːd⋅noːhtz⋅	[(1, 2), (6, 7)]	n	n	'noːd⋅noːhtz⋅
+'njihtz⋅votz⋅	[(1, 2)]	n	n	'njihtz⋅votz⋅
+'nidʒ⋅	[(1, 2)]	n	n	'nidʒ⋅
+'oːhn⋅tzoː⋅	[(4, 5)]	n	n	'oːhn⋅tzoː⋅
+'oːhn⋅	[(4, 5)]	n	n	'oːhn⋅
+'oːhn⋅tzi⋅oː⋅	[(4, 5)]	n	n	'oːhn⋅tzi⋅oː⋅
+'pohtz⋅zitz⋅no⋅	[(12, 13)]	n	n	'pohtz⋅zitz⋅no⋅
+'zohn⋅	[(4, 5)]	n	n	'zohn⋅
+'zohn⋅vohtz⋅	[(4, 5)]	n	n	'zohn⋅vohtz⋅
+'zi⋅noːt⋅	[(4, 5)]	n	n	'zi⋅noːt⋅
+'zoːhn⋅	[(5, 6)]	n	n	'zoːhn⋅
+'zoː⋅vjihn⋅	[(9, 10)]	n	n	'zoː⋅vjihn⋅
+'toːtz⋅nji⋅	[(7, 8)]	n	n	'toːtz⋅nji⋅
+'dʒjihn⋅tzji⋅	[(6, 7)]	n	n	'dʒjihn⋅tzji⋅
+'dʒeːhn⋅	[(6, 7)]	n	n	'dʒeːhn⋅
+'dʒoː⋅njiz⋅	[(6, 7)]	n	n	'dʒoː⋅njiz⋅
+
+'jihmːon⋅ jihmːon
+o e
+'jihmːon⋅	[(6, 7)]	o	e	'jihmːen⋅
+'no⋅	[(2, 3)]	o	e	'ne⋅
+'do⋅no⋅	[(2, 3), (5, 6)]	o	e	'de⋅ne⋅
+'dohtz⋅	[(2, 3)]	o	e	'dehtz⋅
+'o⋅	[(1, 2)]	o	e	'e⋅
+'od⋅ni⋅	[(1, 2)]	o	e	'ed⋅ni⋅
+'ohn⋅noːː⋅	[(1, 2)]	o	e	'ehn⋅noːː⋅
+'otz⋅tzoːdʒ⋅	[(1, 2)]	o	e	'etz⋅tzoːdʒ⋅
+'oz⋅	[(1, 2)]	o	e	'ez⋅
+'tzji⋅tzohtz⋅	[(8, 9)]	o	e	'tzji⋅tzehtz⋅
+'tzo⋅	[(3, 4)]	o	e	'tze⋅
+'tzohtz⋅ni⋅	[(3, 4)]	o	e	'tzehtz⋅ni⋅
+'tzo⋅njihn⋅	[(3, 4)]	o	e	'tze⋅njihn⋅
+'njihtz⋅votz⋅	[(9, 10)]	o	e	'njihtz⋅vetz⋅
+'pohtz⋅zitz⋅no⋅	[(2, 3), (13, 14)]	o	e	'pehtz⋅zitz⋅ne⋅
+'zohn⋅	[(2, 3)]	o	e	'zehn⋅
+'zohn⋅vohtz⋅	[(2, 3), (7, 8)]	o	e	'zehn⋅vehtz⋅
+
+'zi⋅noːt⋅ zinoːt
+t θ
+'dehtz⋅	[(4, 5)]	t	θ	'dehθz⋅
+'etz⋅tzoːdʒ⋅	[(2, 3), (5, 6)]	t	θ	'eθz⋅θzoːdʒ⋅
+'i⋅jiz⋅toː⋅	[(7, 8)]	t	θ	'i⋅jiz⋅θoː⋅
+'i⋅oːtz⋅	[(5, 6)]	t	θ	'i⋅oːθz⋅
+'tzji⋅tzehtz⋅	[(1, 2), (6, 7), (10, 11)]	t	θ	'θzji⋅θzehθz⋅
+'tze⋅	[(1, 2)]	t	θ	'θze⋅
+'tzehtz⋅ni⋅	[(1, 2), (5, 6)]	t	θ	'θzehθz⋅ni⋅
+'tze⋅njihn⋅	[(1, 2)]	t	θ	'θze⋅njihn⋅
+'noːd⋅noːhtz⋅	[(10, 11)]	t	θ	'noːd⋅noːhθz⋅
+'njihtz⋅vetz⋅	[(5, 6), (10, 11)]	t	θ	'njihθz⋅veθz⋅
+'oːhn⋅tzoː⋅	[(6, 7)]	t	θ	'oːhn⋅θzoː⋅
+'oːhn⋅tzi⋅oː⋅	[(6, 7)]	t	θ	'oːhn⋅θzi⋅oː⋅
+'pehtz⋅zitz⋅ne⋅	[(4, 5), (9, 10)]	t	θ	'pehθz⋅ziθz⋅ne⋅
+'zehn⋅vehtz⋅	[(9, 10)]	t	θ	'zehn⋅vehθz⋅
+'zi⋅noːt⋅	[(7, 8)]	t	θ	'zi⋅noːθ⋅
+'toːtz⋅nji⋅	[(1, 2), (4, 5)]	t	θ	'θoːθz⋅nji⋅
+'oːp⋅toːhtz⋅	[(5, 6), (9, 10)]	t	θ	'oːp⋅θoːhθz⋅
+'dʒjihn⋅tzji⋅	[(8, 9)]	t	θ	'dʒjihn⋅θzji⋅
+
+'i⋅ i
+i o
+'ji⋅nji⋅ni⋅	[(2, 3), (6, 7), (9, 10)]	i	o	'jo⋅njo⋅no⋅
+'jihmːen⋅	[(2, 3)]	i	o	'johmːen⋅
+'jihn⋅	[(2, 3)]	i	o	'john⋅
+'dji⋅	[(3, 4)]	i	o	'djo⋅
+'di⋅	[(2, 3)]	i	o	'do⋅
+'ed⋅ni⋅	[(5, 6)]	i	o	'ed⋅no⋅
+'i⋅	[(1, 2)]	i	o	'o⋅
+'i⋅jiz⋅θoː⋅	[(1, 2), (4, 5)]	i	o	'o⋅joz⋅θoː⋅
+'i⋅noːhn⋅	[(1, 2)]	i	o	'o⋅noːhn⋅
+'i⋅oːθz⋅	[(1, 2)]	i	o	'o⋅oːθz⋅
+'θzji⋅θzehθz⋅	[(4, 5)]	i	o	'θzjo⋅θzehθz⋅
+'θzehθz⋅ni⋅	[(9, 10)]	i	o	'θzehθz⋅no⋅
+'θze⋅njihn⋅	[(7, 8)]	i	o	'θze⋅njohn⋅
+'njihθz⋅veθz⋅	[(3, 4)]	i	o	'njohθz⋅veθz⋅
+'nidʒ⋅	[(2, 3)]	i	o	'nodʒ⋅
+'oːhn⋅θzi⋅oː⋅	[(8, 9)]	i	o	'oːhn⋅θzo⋅oː⋅
+'pehθz⋅ziθz⋅ne⋅	[(8, 9)]	i	o	'pehθz⋅zoθz⋅ne⋅
+'zi⋅noːθ⋅	[(2, 3)]	i	o	'zo⋅noːθ⋅
+'zoː⋅vjihn⋅	[(7, 8)]	i	o	'zoː⋅vjohn⋅
+'θoːθz⋅nji⋅	[(9, 10)]	i	o	'θoːθz⋅njo⋅
+'dʒjihn⋅θzji⋅	[(4, 5), (11, 12)]	i	o	'dʒjohn⋅θzjo⋅
+'dʒoː⋅njiz⋅	[(8, 9)]	i	o	'dʒoː⋅njoz⋅
+
+'də⋅bə⋅ dəbə
+b p
+'e⋅be⋅mi⋅	[(3, 4)]	b	p	'e⋅pe⋅mi⋅
+'bə⋅	[(1, 2)]	b	p	'pə⋅
+'də⋅bə⋅	[(4, 5)]	b	p	'də⋅pə⋅
+'əd⋅bi⋅	[(4, 5)]	b	p	'əd⋅pi⋅
+'əjn⋅bə⋅oː⋅	[(5, 6)]	b	p	'əjn⋅pə⋅oː⋅
+'si⋅boːt⋅	[(4, 5)]	b	p	'si⋅poːt⋅
+
+'əd⋅pi⋅ ədpi
+p b
+'e⋅pe⋅mi⋅	[(3, 4)]	p	b	'e⋅be⋅mi⋅
+'pə⋅	[(1, 2)]	p	b	'bə⋅
+'də⋅pə⋅	[(4, 5)]	p	b	'də⋅bə⋅
+'əd⋅pi⋅	[(4, 5)]	p	b	'əd⋅bi⋅
+'əjn⋅pə⋅oː⋅	[(5, 6)]	p	b	'əjn⋅bə⋅oː⋅
+'pəjl⋅sil⋅nə⋅	[(1, 2)]	p	b	'bəjl⋅sil⋅nə⋅
+'poː⋅	[(1, 2)]	p	b	'boː⋅
+'si⋅poːt⋅	[(4, 5)]	p	b	'si⋅boːt⋅
+'oːp⋅toːjl⋅	[(3, 4)]	p	b	'oːb⋅toːjl⋅
+
+'əs⋅ əs
+s z
+'əs⋅	[(2, 3)]	s	z	'əz⋅
+'i⋅es⋅toː⋅	[(4, 5)]	s	z	'i⋅ez⋅toː⋅
+'bəjl⋅sil⋅nə⋅	[(6, 7)]	s	z	'bəjl⋅zil⋅nə⋅
+'səjm⋅	[(1, 2)]	s	z	'zəjm⋅
+'səjn⋅vəjl⋅	[(1, 2)]	s	z	'zəjn⋅vəjl⋅
+'si⋅boːt⋅	[(1, 2)]	s	z	'zi⋅boːt⋅
+'soːjm⋅	[(1, 2)]	s	z	'zoːjm⋅
+'soː⋅vejm⋅	[(1, 2)]	s	z	'zoː⋅vejm⋅
+'dʒoː⋅mes⋅	[(8, 9)]	s	z	'dʒoː⋅mez⋅
+
+'moːd⋅moːjl⋅ moːdmoːjl
+j tʃ
+'ejmːən⋅	[(2, 3)]	j	tʃ	'etʃmːən⋅
+'ejn⋅	[(2, 3)]	j	tʃ	'etʃn⋅
+'dəjl⋅	[(3, 4)]	j	tʃ	'dətʃl⋅
+'əjn⋅bə⋅oː⋅	[(2, 3)]	j	tʃ	'ətʃn⋅bə⋅oː⋅
+'i⋅noːjm⋅	[(6, 7)]	j	tʃ	'i⋅noːtʃm⋅
+'ke⋅ləjl⋅	[(6, 7)]	j	tʃ	'ke⋅lətʃl⋅
+'kəjl⋅mi⋅	[(3, 4)]	j	tʃ	'kətʃl⋅mi⋅
+'kə⋅mejm⋅	[(6, 7)]	j	tʃ	'kə⋅metʃm⋅
+'moːd⋅moːjl⋅	[(9, 10)]	j	tʃ	'moːd⋅moːtʃl⋅
+'nejl⋅vək⋅	[(3, 4)]	j	tʃ	'netʃl⋅vək⋅
+'oːjm⋅koː⋅	[(3, 4)]	j	tʃ	'oːtʃm⋅koː⋅
+'oːjn⋅	[(3, 4)]	j	tʃ	'oːtʃn⋅
+'oːjn⋅li⋅oː⋅	[(3, 4)]	j	tʃ	'oːtʃn⋅li⋅oː⋅
+'bəjl⋅zil⋅nə⋅	[(3, 4)]	j	tʃ	'bətʃl⋅zil⋅nə⋅
+'zəjm⋅	[(3, 4)]	j	tʃ	'zətʃm⋅
+'zəjn⋅vəjl⋅	[(3, 4), (8, 9)]	j	tʃ	'zətʃn⋅vətʃl⋅
+'zoːjm⋅	[(4, 5)]	j	tʃ	'zoːtʃm⋅
+'zoː⋅vejm⋅	[(7, 8)]	j	tʃ	'zoː⋅vetʃm⋅
+'oːb⋅toːjl⋅	[(8, 9)]	j	tʃ	'oːb⋅toːtʃl⋅
+'dʒejn⋅ke⋅	[(4, 5)]	j	tʃ	'dʒetʃn⋅ke⋅
+'dʒeːjm⋅	[(5, 6)]	j	tʃ	'dʒeːtʃm⋅
+
+'nidʒ⋅ nidʒ
+i v̩
+'e⋅be⋅mi⋅	[(7, 8)]	i	v̩	'e⋅be⋅mv̩⋅
+'e⋅i⋅	[(3, 4)]	i	v̩	'e⋅v̩⋅
+'di⋅	[(2, 3)]	i	v̩	'dv̩⋅
+'əd⋅bi⋅	[(5, 6)]	i	v̩	'əd⋅bv̩⋅
+'i⋅	[(1, 2)]	i	v̩	'v̩⋅
+'i⋅ez⋅toː⋅	[(1, 2)]	i	v̩	'v̩⋅ez⋅toː⋅
+'i⋅noːtʃm⋅	[(1, 2)]	i	v̩	'v̩⋅noːtʃm⋅
+'i⋅oːk⋅	[(1, 2)]	i	v̩	'v̩⋅oːk⋅
+'kətʃl⋅mi⋅	[(8, 9)]	i	v̩	'kətʃl⋅mv̩⋅
+'nidʒ⋅	[(2, 3)]	i	v̩	'nv̩dʒ⋅
+'oːtʃn⋅li⋅oː⋅	[(8, 9)]	i	v̩	'oːtʃn⋅lv̩⋅oː⋅
+'bətʃl⋅zil⋅nə⋅	[(8, 9)]	i	v̩	'bətʃl⋅zv̩l⋅nə⋅
+'zi⋅boːt⋅	[(2, 3)]	i	v̩	'zv̩⋅boːt⋅
+
+'e⋅be⋅mv̩⋅ ebemv̩
+m ŋ
+'e⋅be⋅mv̩⋅	[(6, 7)]	m	ŋ	'e⋅be⋅ŋv̩⋅
+'v̩⋅noːtʃm⋅	[(9, 10)]	m	ŋ	'v̩⋅noːtʃŋ⋅
+'kətʃl⋅mv̩⋅	[(7, 8)]	m	ŋ	'kətʃl⋅ŋv̩⋅
+'kə⋅metʃm⋅	[(4, 5), (8, 9)]	m	ŋ	'kə⋅ŋetʃŋ⋅
+'moːd⋅moːtʃl⋅	[(1, 2), (6, 7)]	m	ŋ	'ŋoːd⋅ŋoːtʃl⋅
+'oːtʃm⋅koː⋅	[(5, 6)]	m	ŋ	'oːtʃŋ⋅koː⋅
+'zətʃm⋅	[(5, 6)]	m	ŋ	'zətʃŋ⋅
+'zoːtʃm⋅	[(6, 7)]	m	ŋ	'zoːtʃŋ⋅
+'zoː⋅vetʃm⋅	[(9, 10)]	m	ŋ	'zoː⋅vetʃŋ⋅
+'dʒeːtʃm⋅	[(7, 8)]	m	ŋ	'dʒeːtʃŋ⋅
+'dʒoː⋅mez⋅	[(6, 7)]	m	ŋ	'dʒoː⋅ŋez⋅
+
+'bətʃl⋅zv̩l⋅nə⋅ bətʃlzv̩lnə
+ə a
+'etʃmːən⋅	[(6, 7)]	ə	a	'etʃmːan⋅
+'bə⋅	[(2, 3)]	ə	a	'ba⋅
+'də⋅bə⋅	[(2, 3), (5, 6)]	ə	a	'da⋅ba⋅
+'dətʃl⋅	[(2, 3)]	ə	a	'datʃl⋅
+'ə⋅	[(1, 2)]	ə	a	'a⋅
+'əd⋅bv̩⋅	[(1, 2)]	ə	a	'ad⋅bv̩⋅
+'ətʃn⋅bə⋅oː⋅	[(1, 2), (7, 8)]	ə	a	'atʃn⋅ba⋅oː⋅
+'ək⋅loːdʒ⋅	[(1, 2)]	ə	a	'ak⋅loːdʒ⋅
+'əz⋅	[(1, 2)]	ə	a	'az⋅
+'ke⋅lətʃl⋅	[(5, 6)]	ə	a	'ke⋅latʃl⋅
+'kə⋅	[(2, 3)]	ə	a	'ka⋅
+'kətʃl⋅ŋv̩⋅	[(2, 3)]	ə	a	'katʃl⋅ŋv̩⋅
+'kə⋅ŋetʃŋ⋅	[(2, 3)]	ə	a	'ka⋅ŋetʃŋ⋅
+'netʃl⋅vək⋅	[(8, 9)]	ə	a	'netʃl⋅vak⋅
+'bətʃl⋅zv̩l⋅nə⋅	[(2, 3), (13, 14)]	ə	a	'batʃl⋅zv̩l⋅na⋅
+'zətʃŋ⋅	[(2, 3)]	ə	a	'zatʃŋ⋅
+'zətʃn⋅vətʃl⋅	[(2, 3), (8, 9)]	ə	a	'zatʃn⋅vatʃl⋅
+
+'toːk⋅ne⋅ toːkne
+e o
+'e⋅be⋅ŋv̩⋅	[(1, 2), (4, 5)]	e	o	'o⋅bo⋅ŋv̩⋅
+'e⋅v̩⋅	[(1, 2)]	e	o	'o⋅v̩⋅
+'etʃmːan⋅	[(1, 2)]	e	o	'otʃmːan⋅
+'etʃn⋅	[(1, 2)]	e	o	'otʃn⋅
+'de⋅	[(2, 3)]	e	o	'do⋅
+'v̩⋅ez⋅toː⋅	[(4, 5)]	e	o	'v̩⋅oz⋅toː⋅
+'ke⋅latʃl⋅	[(2, 3)]	e	o	'ko⋅latʃl⋅
+'ka⋅ŋetʃŋ⋅	[(5, 6)]	e	o	'ka⋅ŋotʃŋ⋅
+'netʃl⋅vak⋅	[(2, 3)]	e	o	'notʃl⋅vak⋅
+'zoː⋅vetʃŋ⋅	[(6, 7)]	e	o	'zoː⋅votʃŋ⋅
+'toːk⋅ne⋅	[(7, 8)]	e	o	'toːk⋅no⋅
+'dʒetʃn⋅ke⋅	[(3, 4), (9, 10)]	e	o	'dʒotʃn⋅ko⋅
+'dʒoː⋅ŋez⋅	[(7, 8)]	e	o	'dʒoː⋅ŋoz⋅
+
+'do⋅ do
+o ɔ
+'o⋅bo⋅ŋv̩⋅	[(1, 2), (4, 5)]	o	ɔ	'ɔ⋅bɔ⋅ŋv̩⋅
+'o⋅v̩⋅	[(1, 2)]	o	ɔ	'ɔ⋅v̩⋅
+'otʃmːan⋅	[(1, 2)]	o	ɔ	'ɔtʃmːan⋅
+'otʃn⋅	[(1, 2)]	o	ɔ	'ɔtʃn⋅
+'do⋅	[(2, 3)]	o	ɔ	'dɔ⋅
+'v̩⋅oz⋅toː⋅	[(4, 5)]	o	ɔ	'v̩⋅ɔz⋅toː⋅
+'ko⋅latʃl⋅	[(2, 3)]	o	ɔ	'kɔ⋅latʃl⋅
+'ka⋅ŋotʃŋ⋅	[(5, 6)]	o	ɔ	'ka⋅ŋɔtʃŋ⋅
+'notʃl⋅vak⋅	[(2, 3)]	o	ɔ	'nɔtʃl⋅vak⋅
+'zoː⋅votʃŋ⋅	[(6, 7)]	o	ɔ	'zoː⋅vɔtʃŋ⋅
+'toːk⋅no⋅	[(7, 8)]	o	ɔ	'toːk⋅nɔ⋅
+'dʒotʃn⋅ko⋅	[(3, 4), (9, 10)]	o	ɔ	'dʒɔtʃn⋅kɔ⋅
+'dʒoː⋅ŋoz⋅	[(7, 8)]	o	ɔ	'dʒoː⋅ŋɔz⋅
+
+'oːtʃŋ⋅koː⋅ oːtʃŋkoː
+oː ju
+'atʃn⋅ba⋅oː⋅	[(9, 11)]	oː	ju	'atʃn⋅ba⋅ju⋅
+'ak⋅loːdʒ⋅	[(5, 7)]	oː	ju	'ak⋅ljudʒ⋅
+'v̩⋅ɔz⋅toː⋅	[(8, 10)]	oː	ju	'v̩⋅ɔz⋅tju⋅
+'v̩⋅noːtʃŋ⋅	[(5, 7)]	oː	ju	'v̩⋅njutʃŋ⋅
+'v̩⋅oːk⋅	[(4, 6)]	oː	ju	'v̩⋅juk⋅
+'ŋoːd⋅ŋoːtʃl⋅	[(2, 4), (7, 9)]	oː	ju	'ŋjud⋅ŋjutʃl⋅
+'oːtʃŋ⋅koː⋅	[(1, 3), (8, 10)]	oː	ju	'jutʃŋ⋅kju⋅
+'oːtʃn⋅	[(1, 3)]	oː	ju	'jutʃn⋅
+'oːtʃn⋅lv̩⋅oː⋅	[(1, 3), (11, 13)]	oː	ju	'jutʃn⋅lv̩⋅ju⋅
+'boː⋅	[(2, 4)]	oː	ju	'bju⋅
+'zv̩⋅boːt⋅	[(6, 8)]	oː	ju	'zv̩⋅bjut⋅
+'zoːtʃŋ⋅	[(2, 4)]	oː	ju	'zjutʃŋ⋅
+'zoː⋅vɔtʃŋ⋅	[(2, 4)]	oː	ju	'zju⋅vɔtʃŋ⋅
+'toːk⋅nɔ⋅	[(2, 4)]	oː	ju	'tjuk⋅nɔ⋅
+'oːb⋅toːtʃl⋅	[(1, 3), (6, 8)]	oː	ju	'jub⋅tjutʃl⋅
+'dʒoː⋅ŋɔz⋅	[(3, 5)]	oː	ju	'dʒju⋅ŋɔz⋅
+
+'dɔ⋅ dɔ
+d l
+'dɔ⋅	[(1, 2)]	d	l	'lɔ⋅
+'da⋅ba⋅	[(1, 2)]	d	l	'la⋅ba⋅
+'datʃl⋅	[(1, 2)]	d	l	'latʃl⋅
+'dv̩⋅	[(1, 2)]	d	l	'lv̩⋅
+'ad⋅bv̩⋅	[(2, 3)]	d	l	'al⋅bv̩⋅
+'ak⋅ljudʒ⋅	[(7, 8)]	d	l	'ak⋅ljulʒ⋅
+'ŋjud⋅ŋjutʃl⋅	[(4, 5)]	d	l	'ŋjul⋅ŋjutʃl⋅
+'nv̩dʒ⋅	[(4, 5)]	d	l	'nv̩lʒ⋅
+'dʒɔtʃn⋅kɔ⋅	[(1, 2)]	d	l	'lʒɔtʃn⋅kɔ⋅
+'dʒeːtʃŋ⋅	[(1, 2)]	d	l	'lʒeːtʃŋ⋅
+'dʒju⋅ŋɔz⋅	[(1, 2)]	d	l	'lʒju⋅ŋɔz⋅
+
+'jutʃn⋅lv̩⋅ju⋅ jutʃnlv̩ju
+ʃ s
+'ɔtʃmːan⋅	[(3, 4)]	ʃ	s	'ɔtsmːan⋅
+'ɔtʃn⋅	[(3, 4)]	ʃ	s	'ɔtsn⋅
+'latʃl⋅	[(4, 5)]	ʃ	s	'latsl⋅
+'atʃn⋅ba⋅ju⋅	[(3, 4)]	ʃ	s	'atsn⋅ba⋅ju⋅
+'v̩⋅njutʃŋ⋅	[(8, 9)]	ʃ	s	'v̩⋅njutsŋ⋅
+'kɔ⋅latʃl⋅	[(7, 8)]	ʃ	s	'kɔ⋅latsl⋅
+'katʃl⋅ŋv̩⋅	[(4, 5)]	ʃ	s	'katsl⋅ŋv̩⋅
+'ka⋅ŋɔtʃŋ⋅	[(7, 8)]	ʃ	s	'ka⋅ŋɔtsŋ⋅
+'ŋjul⋅ŋjutʃl⋅	[(10, 11)]	ʃ	s	'ŋjul⋅ŋjutsl⋅
+'nɔtʃl⋅vak⋅	[(4, 5)]	ʃ	s	'nɔtsl⋅vak⋅
+'jutʃŋ⋅kju⋅	[(4, 5)]	ʃ	s	'jutsŋ⋅kju⋅
+'jutʃn⋅	[(4, 5)]	ʃ	s	'jutsn⋅
+'jutʃn⋅lv̩⋅ju⋅	[(4, 5)]	ʃ	s	'jutsn⋅lv̩⋅ju⋅
+'batʃl⋅zv̩l⋅na⋅	[(4, 5)]	ʃ	s	'batsl⋅zv̩l⋅na⋅
+'zatʃŋ⋅	[(4, 5)]	ʃ	s	'zatsŋ⋅
+'zatʃn⋅vatʃl⋅	[(4, 5), (10, 11)]	ʃ	s	'zatsn⋅vatsl⋅
+'zjutʃŋ⋅	[(5, 6)]	ʃ	s	'zjutsŋ⋅
+'zju⋅vɔtʃŋ⋅	[(8, 9)]	ʃ	s	'zju⋅vɔtsŋ⋅
+'jub⋅tjutʃl⋅	[(9, 10)]	ʃ	s	'jub⋅tjutsl⋅
+'lʒɔtʃn⋅kɔ⋅	[(5, 6)]	ʃ	s	'lʒɔtsn⋅kɔ⋅
+'lʒeːtʃŋ⋅	[(6, 7)]	ʃ	s	'lʒeːtsŋ⋅
+
+'v̩⋅juk⋅ v̩juk
+j h
+'atsn⋅ba⋅ju⋅	[(9, 10)]	j	h	'atsn⋅ba⋅hu⋅
+'ak⋅ljulʒ⋅	[(5, 6)]	j	h	'ak⋅lhulʒ⋅
+'v̩⋅ɔz⋅tju⋅	[(8, 9)]	j	h	'v̩⋅ɔz⋅thu⋅
+'v̩⋅njutsŋ⋅	[(5, 6)]	j	h	'v̩⋅nhutsŋ⋅
+'v̩⋅juk⋅	[(4, 5)]	j	h	'v̩⋅huk⋅
+'ŋjul⋅ŋjutsl⋅	[(2, 3), (7, 8)]	j	h	'ŋhul⋅ŋhutsl⋅
+'jutsŋ⋅kju⋅	[(1, 2), (8, 9)]	j	h	'hutsŋ⋅khu⋅
+'jutsn⋅	[(1, 2)]	j	h	'hutsn⋅
+'jutsn⋅lv̩⋅ju⋅	[(1, 2), (11, 12)]	j	h	'hutsn⋅lv̩⋅hu⋅
+'bju⋅	[(2, 3)]	j	h	'bhu⋅
+'zv̩⋅bjut⋅	[(6, 7)]	j	h	'zv̩⋅bhut⋅
+'zjutsŋ⋅	[(2, 3)]	j	h	'zhutsŋ⋅
+'zju⋅vɔtsŋ⋅	[(2, 3)]	j	h	'zhu⋅vɔtsŋ⋅
+'tjuk⋅nɔ⋅	[(2, 3)]	j	h	'thuk⋅nɔ⋅
+'jub⋅tjutsl⋅	[(1, 2), (6, 7)]	j	h	'hub⋅thutsl⋅
+'lʒju⋅ŋɔz⋅	[(3, 4)]	j	h	'lʒhu⋅ŋɔz⋅
+
+'ɔtsn⋅ ɔtsn
+t tʃ
+'ɔtsmːan⋅	[(2, 3)]	t	tʃ	'ɔtʃsmːan⋅
+'ɔtsn⋅	[(2, 3)]	t	tʃ	'ɔtʃsn⋅
+'latsl⋅	[(3, 4)]	t	tʃ	'latʃsl⋅
+'atsn⋅ba⋅hu⋅	[(2, 3)]	t	tʃ	'atʃsn⋅ba⋅hu⋅
+'v̩⋅ɔz⋅thu⋅	[(7, 8)]	t	tʃ	'v̩⋅ɔz⋅tʃhu⋅
+'v̩⋅nhutsŋ⋅	[(7, 8)]	t	tʃ	'v̩⋅nhutʃsŋ⋅
+'kɔ⋅latsl⋅	[(6, 7)]	t	tʃ	'kɔ⋅latʃsl⋅
+'katsl⋅ŋv̩⋅	[(3, 4)]	t	tʃ	'katʃsl⋅ŋv̩⋅
+'ka⋅ŋɔtsŋ⋅	[(6, 7)]	t	tʃ	'ka⋅ŋɔtʃsŋ⋅
+'ŋhul⋅ŋhutsl⋅	[(9, 10)]	t	tʃ	'ŋhul⋅ŋhutʃsl⋅
+'nɔtsl⋅vak⋅	[(3, 4)]	t	tʃ	'nɔtʃsl⋅vak⋅
+'hutsŋ⋅khu⋅	[(3, 4)]	t	tʃ	'hutʃsŋ⋅khu⋅
+'hutsn⋅	[(3, 4)]	t	tʃ	'hutʃsn⋅
+'hutsn⋅lv̩⋅hu⋅	[(3, 4)]	t	tʃ	'hutʃsn⋅lv̩⋅hu⋅
+'batsl⋅zv̩l⋅na⋅	[(3, 4)]	t	tʃ	'batʃsl⋅zv̩l⋅na⋅
+'zatsŋ⋅	[(3, 4)]	t	tʃ	'zatʃsŋ⋅
+'zatsn⋅vatsl⋅	[(3, 4), (9, 10)]	t	tʃ	'zatʃsn⋅vatʃsl⋅
+'zv̩⋅bhut⋅	[(8, 9)]	t	tʃ	'zv̩⋅bhutʃ⋅
+'zhutsŋ⋅	[(4, 5)]	t	tʃ	'zhutʃsŋ⋅
+'zhu⋅vɔtsŋ⋅	[(7, 8)]	t	tʃ	'zhu⋅vɔtʃsŋ⋅
+'thuk⋅nɔ⋅	[(1, 2)]	t	tʃ	'tʃhuk⋅nɔ⋅
+'hub⋅thutsl⋅	[(5, 6), (8, 9)]	t	tʃ	'hub⋅tʃhutʃsl⋅
+'lʒɔtsn⋅kɔ⋅	[(4, 5)]	t	tʃ	'lʒɔtʃsn⋅kɔ⋅
+'lʒeːtsŋ⋅	[(5, 6)]	t	tʃ	'lʒeːtʃsŋ⋅
+
+'nɔtsl⋅vak⋅ nɔtslvak
+ts ts
+'ɔtsmːan⋅	[(2, 4)]	ts	ts	'ɔtsmːan⋅
+'ɔtsn⋅	[(2, 4)]	ts	ts	'ɔtsn⋅
+'latsl⋅	[(3, 5)]	ts	ts	'latsl⋅
+'atsn⋅ba⋅ju⋅	[(2, 4)]	ts	ts	'atsn⋅ba⋅ju⋅
+'v̩⋅njutsŋ⋅	[(7, 9)]	ts	ts	'v̩⋅njutsŋ⋅
+'kɔ⋅latsl⋅	[(6, 8)]	ts	ts	'kɔ⋅latsl⋅
+'katsl⋅ŋv̩⋅	[(3, 5)]	ts	ts	'katsl⋅ŋv̩⋅
+'ka⋅ŋɔtsŋ⋅	[(6, 8)]	ts	ts	'ka⋅ŋɔtsŋ⋅
+'ŋjul⋅ŋjutsl⋅	[(9, 11)]	ts	ts	'ŋjul⋅ŋjutsl⋅
+'nɔtsl⋅vak⋅	[(3, 5)]	ts	ts	'nɔtsl⋅vak⋅
+'jutsŋ⋅kju⋅	[(3, 5)]	ts	ts	'jutsŋ⋅kju⋅
+'jutsn⋅	[(3, 5)]	ts	ts	'jutsn⋅
+'jutsn⋅lv̩⋅ju⋅	[(3, 5)]	ts	ts	'jutsn⋅lv̩⋅ju⋅
+'batsl⋅zv̩l⋅na⋅	[(3, 5)]	ts	ts	'batsl⋅zv̩l⋅na⋅
+'zatsŋ⋅	[(3, 5)]	ts	ts	'zatsŋ⋅
+'zatsn⋅vatsl⋅	[(3, 5), (9, 11)]	ts	ts	'zatsn⋅vatsl⋅
+'zjutsŋ⋅	[(4, 6)]	ts	ts	'zjutsŋ⋅
+'zju⋅vɔtsŋ⋅	[(7, 9)]	ts	ts	'zju⋅vɔtsŋ⋅
+'jub⋅tjutsl⋅	[(8, 10)]	ts	ts	'jub⋅tjutsl⋅
+'lʒɔtsn⋅kɔ⋅	[(4, 6)]	ts	ts	'lʒɔtsn⋅kɔ⋅
+'lʒeːtsŋ⋅	[(5, 7)]	ts	ts	'lʒeːtsŋ⋅
+
+'katsl⋅ŋv̩⋅ katslŋv̩
+l n
+'lɔ⋅	[(1, 2)]	l	n	'nɔ⋅
+'la⋅ba⋅	[(1, 2)]	l	n	'na⋅ba⋅
+'latsl⋅	[(1, 2), (5, 6)]	l	n	'natsn⋅
+'lv̩⋅	[(1, 2)]	l	n	'nv̩⋅
+'al⋅bv̩⋅	[(2, 3)]	l	n	'an⋅bv̩⋅
+'ak⋅ljulʒ⋅	[(4, 5), (7, 8)]	l	n	'ak⋅njunʒ⋅
+'kɔ⋅latsl⋅	[(4, 5), (8, 9)]	l	n	'kɔ⋅natsn⋅
+'katsl⋅ŋv̩⋅	[(5, 6)]	l	n	'katsn⋅ŋv̩⋅
+'ŋjul⋅ŋjutsl⋅	[(4, 5), (11, 12)]	l	n	'ŋjun⋅ŋjutsn⋅
+'nɔtsl⋅vak⋅	[(5, 6)]	l	n	'nɔtsn⋅vak⋅
+'nv̩lʒ⋅	[(4, 5)]	l	n	'nv̩nʒ⋅
+'jutsn⋅lv̩⋅ju⋅	[(7, 8)]	l	n	'jutsn⋅nv̩⋅ju⋅
+'batsl⋅zv̩l⋅na⋅	[(5, 6), (10, 11)]	l	n	'batsn⋅zv̩n⋅na⋅
+'zatsn⋅vatsl⋅	[(11, 12)]	l	n	'zatsn⋅vatsn⋅
+'jub⋅tjutsl⋅	[(10, 11)]	l	n	'jub⋅tjutsn⋅
+'lʒɔtsn⋅kɔ⋅	[(1, 2)]	l	n	'nʒɔtsn⋅kɔ⋅
+'lʒeːtsŋ⋅	[(1, 2)]	l	n	'nʒeːtsŋ⋅
+'lʒju⋅ŋɔz⋅	[(1, 2)]	l	n	'nʒju⋅ŋɔz⋅
+
+origin : ɡ>dʒ : e>a : s>ð : a>æ : i>ь : v>u : dʒ>tʃ : k>x : o>oː : m>n : u>v̩ : n>l : j>ʑ : l>ʎ : ʑ>z : d>ð : ʃ>x : p>w : b>p
+origin : ɡ>dʒ : e>ə : u>o : a>e : o>oː : j>h : ə>o : k>tʃ : b>m : l>tʃ : ʃ>s : o>oː : oː>uː : m>ɸ : uː>u : t>l : p>b : n>h̃ : s>ʃ
+origin : ɡ>dʒ : e>ə : u>o : a>e : o>oː : j>h : ə>o : k>tʃ : b>m : l>tʃ : ʃ>s : m>n : e>je : s>z : e>i : n>n : o>e : t>θ : i>o
+origin : ɡ>dʒ : e>ə : u>o : a>e : o>oː : b>p : p>b : s>z : j>tʃ : i>v̩ : m>ŋ : ə>a : e>o : o>ɔ : oː>ju : d>l : ʃ>s : j>h : t>tʃ
+origin : ɡ>dʒ : e>ə : u>o : a>e : o>oː : b>p : p>b : s>z : j>tʃ : i>v̩ : m>ŋ : ə>a : e>o : o>ɔ : oː>ju : d>l : ʃ>s : ts>ts : l>n
+0 'a.ba.mi.       	'æ.pæ.ʎь.       	'e.ɸe.ɸi.          	'jo.njo.no.       	'ɔ.bɔ.ŋv̩.         	'ɔ.bɔ.ŋv̩.       
+1 'a.i.           	'æ.ь.           	'e.i.              	'ji:.             	'ɔ.v̩.             	'ɔ.v̩.           
+2 'ajm:en.        	'æzm:æʎ.        	'ehm:uh̃.          	'johm:en.         	'ɔtʃsm:an.         	'ɔtsm:an.        
+3 'ajn.           	'æzʎ.           	'eh:̃.             	'john.            	'ɔtʃsn.            	'ɔtsn.           
+4 'be.            	'pæ.            	'ɸu.               	'ne.              	'ba.               	'ba.             
+5 'da.            	'ðæ.            	'de.               	'djo.             	'lɔ.               	'nɔ.             
+6 'de.be.         	'ðæ.pæ.         	'du.ɸu.            	'de.ne.           	'la.ba.            	'na.ba.          
+7 'dejl.          	'ðæzʎ.          	'duhlʃ.            	'dehθz.           	'latʃsl.           	'natsn.          
+8 'di.            	'ðь.            	'di.               	'do.              	'lv̩.              	'nv̩.            
+9 'e.             	'æ.             	'u.                	'e.               	'a.                	'a.              
+10 'ed.bi.         	'æð.pь.         	'ud.ɸi.            	'ed.no.           	'al.bv̩.           	'an.bv̩.         
+11 'ejn.be.u.      	'æzʎ.pæ.v̩.     	'uh:̃.ɸo::.        	'ehn.no::.        	'atʃsn.ba.hu.      	'atsn.ba.ju.     
+12 'ek.luɡ.        	'æx.ʎv̩tx.      	'ulʃ.lʃudʒ.        	'eθz.θzo:dʒ.      	'ak.lhulʒ.         	'ak.njunʒ.       
+13 'es.            	'æð.            	'uʃ.               	'ez.              	'az.               	'az.             
+14 'i.             	'ь.             	'i.                	'o.               	'v̩.               	'v̩.             
+15 'i.as.tu.       	'ь.æð.tv̩.      	'i.eʃ.lu.          	'o.joz.θo:.       	'v̩.ɔz.tʃhu.       	'v̩.ɔz.tju.      
+16 'i.nojm.        	'ь.ʎo:zʎ.       	'i.h̃uhɸ.          	'o.no:hn.         	'v̩.nhutʃsŋ.       	'v̩.njutsŋ.      
+17 'i.uk.          	'ь.v̩x.         	'i.ulʃ.            	'o::θz.           	'v̩.huk.           	'v̩.juk.         
+18 'ka.lejl.       	'xæ.ʎæzʎ.       	'lʃe.lʃuhlʃ.       	'θzjo.θzehθz.     	'kɔ.latʃsl.        	'kɔ.natsn.       
+19 'ke.            	'xæ.            	'lʃu.              	'θze.             	'ka.               	'ka.             
+20 'kejl.mi.       	'xæzʎ.ʎь.       	'lʃuhlʃ.ɸi.        	'θzehθz.no.       	'katʃsl.ŋv̩.       	'katsn.ŋv̩.      
+21 'ke.majm.       	'xæ.ʎæzʎ.       	'lʃu.ɸehɸ.         	'θze.njohn.       	'ka.ŋɔtʃsŋ.        	'ka.ŋɔtsŋ.       
+22 'mud.mojl.      	'ʎv̩ð.ʎo:zʎ.    	'ɸud.ɸuhlʃ.        	'no:d.no:hθz.     	'ŋhul.ŋhutʃsl.     	'ŋjun.ŋjutsn.    
+23 'najl.vek.      	'ʎæzʎ.v̩æx.     	'h̃ehlʃ.vulʃ.      	'njohθz.veθz.     	'nɔtʃsl.vak.       	'nɔtsn.vak.      
+24 'niɡ.           	'ʎьtx.          	'h̃idʒ.            	'nodʒ.            	'nv̩lʒ.            	'nv̩nʒ.          
+25 'ojm.ku.        	'o:zʎ.xv̩.      	'uhɸ.lʃu.          	'o:hn.θzo:.       	'hutʃsŋ.khu.       	'jutsŋ.kju.      
+26 'ojn.           	'o:zʎ.          	'uh:̃.             	'o:hn.            	'hutʃsn.           	'jutsn.          
+27 'ojn.li.u.      	'o:zʎ.ʎь.v̩.    	'uh:̃.lʃi.u.       	'o:hn.θzo::.      	'hutʃsn.lv̩.hu.    	'jutsn.nv̩.ju.   
+28 'pejl.sil.ne.   	'wæzʎ.ðьʎ.ʎæ.   	'buhlʃ.ʃilʃ.h̃u.   	'pehθz.zoθz.ne.   	'batʃsl.zv̩l.na.   	'batsn.zv̩n.na.  
+29 'pu.            	'wv̩.           	'bu.               	'po:.             	'bhu.              	'bju.            
+30 'sejm.          	'ðæzʎ.          	'ʃuhɸ.             	'zehn.            	'zatʃsŋ.           	'zatsŋ.          
+31 'sejn.vejl.     	'ðæzʎ.v̩æzʎ.    	'ʃuh:̃.vuhlʃ.      	'zehn.vehθz.      	'zatʃsn.vatʃsl.    	'zatsn.vatsn.    
+32 'si.but.        	'ðь.pv̩t.       	'ʃi.ɸul.           	'zo.no:θ.         	'zv̩.bhutʃ.        	'zv̩.bjut.       
+33 'sojm.          	'ðo:zʎ.         	'ʃuhɸ.             	'zo:hn.           	'zhutʃsŋ.          	'zjutsŋ.         
+34 'su.vajm.       	'ðu:æzʎ.        	'ʃu.vehɸ.          	'zo:.vjohn.       	'zhu.vɔtʃsŋ.       	'zju.vɔtsŋ.      
+35 'tuk.na.        	'tv̩x.ʎæ.       	'lulʃ.h̃e.         	'θo:θz.njo.       	'tʃhuk.nɔ.         	'tjuk.nɔ.        
+36 'up.tojl.       	'v̩w.to:zʎ.     	'ub.luhlʃ.         	'o:p.θo:hθz.      	'hub.tʃhutʃsl.     	'jub.tjutsn.     
+37 'ɡajn.ka.       	'txæzʎ.xæ.      	'dʒeh:̃.lʃe.       	'dʒjohn.θzjo.     	'lʒɔtʃsn.kɔ.       	'nʒɔtsn.kɔ.      
+38 'ɡe:jm.         	'txe:zʎ.        	'dʒe:hɸ.           	'dʒe:hn.          	'lʒe:tʃsŋ.         	'nʒe:tsŋ.        
+39 'ɡu.mas.        	'txv̩.ʎæð.      	'dʒu.ɸeʃ.          	'dʒo:.njoz.       	'lʒhu.ŋɔz.         	'nʒju.ŋɔz.       

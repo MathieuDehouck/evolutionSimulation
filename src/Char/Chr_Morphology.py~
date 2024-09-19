@@ -1,0 +1,27 @@
+"""
+..
+  Morphological processes
+  Mathieu Dehouck
+  10/2023
+"""
+
+from abc import ABCMeta, abstractmethod
+
+
+class Abstract_Morphology(metaclass=ABCMeta):
+    """
+    an abstract class for the Morphology hierarchy.
+    """
+
+    @abstractmethod
+    def __init__(self):
+        ()
+
+    @abstractmethod
+    def affect(self, language):
+        """
+        Apply this change to a language.
+        """
+
+
+class Abstract_

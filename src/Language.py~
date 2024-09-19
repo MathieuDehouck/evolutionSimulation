@@ -1,0 +1,30 @@
+"""
+..
+  What the represent language states.
+  Mathieu Dehouck
+  10/2023
+"""
+
+
+
+
+
+class Language():
+
+    def __init__(self, index, voc):
+        self.index = index
+        self.voc = voc
+        self.sounds = []
+
+
+    def set_vocabulary(self, voc, syllable_sep):
+        self.voc = sorted(voc)
+        self.sounds = set()
+
+        for w in voc:
+            for x in w:
+                if x not in syllable_sep:
+                    self.sounds.add(x)
+        
+        self.sounds = sorted(self.sounds)
+        self.syllable_sep = syllable_sep
