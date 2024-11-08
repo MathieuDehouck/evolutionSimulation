@@ -39,7 +39,7 @@ class Abstract_Form(metaclass=ABCMeta):
     @abstractmethod
     def __repr__(self):
         """
-        Return the representation of this word.
+        Return the r of this word.
         """
 
 
