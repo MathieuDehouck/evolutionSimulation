@@ -1,8 +1,10 @@
 import queue
+import random
 from random import choice
 from typing import TypeVar, Generic, List
 
 import numpy as np
+from matplotlib import pyplot as plt
 
 T = TypeVar('T')
 
@@ -64,6 +66,9 @@ class Node(Generic[T]):
     def __eq__(self, other):
         return self.index == other.index
 
+    def __sub__(self, other):
+        return self.lang - other.lang
+
     def __hash__(self):
         return hash(self.index)
 
@@ -112,14 +117,15 @@ class Tree(Generic[T]):
     def __str__(self):
         return "\n".join(map(lambda t: '->' * t.depth + str(t.lang), self.depth_first))
 
-    def plot(self, colormap=None):
+    def plot(self, colormap=None, axes=None, collision_list=None):
         if colormap is None:
             colormap = cmap
         depth = self.depth_first
         vertices = list(map(lambda t: (t.index, (t.lang, cmap[t.depth % len(cmap)])), depth))
         edges = [(t.index, t.parent.index) if not t.is_root else (t.index, t.index) for t in depth]
-        print(edges)
-        self.root.lang(vertices, edges)
+        if collision_list is not None:
+            collision_list = [(c[0], c[1], cmap[c[2] % len(cmap)]) for c in collision_list]
+        return self.root.lang(vertices, edges, axes=axes, collision_list=collision_list)
 
 
 def top_down_random_tree(max_depth, max_width, root_lang):
@@ -147,7 +153,8 @@ def top_down_random_tree(max_depth, max_width, root_lang):
         for i in range(max_depth - node.depth - 1):
             child = node.children
             if child:
-                p_child = np.array(list(map(lambda n: node.lang - n.lang, child)))
+                # Choose a child with probability.
+                p_child = np.array(list(map(lambda n: 1 / (node - n), child)))
                 s = sum(p_child)
                 if s:
                     p_child = p_child / s
@@ -157,17 +164,77 @@ def top_down_random_tree(max_depth, max_width, root_lang):
             else:
                 a_lang = node.lang.random_modif
             node = Node(parent=node)
-            node.lang = (a_lang + node.parent.lang).random_modif
+            node.lang = (a_lang + node.parent.lang).random_modif  # + should take into account the distance of points.
+            # TODO: add language distance, maybe directly in + ?
 
     return tree
 
 
-def naive_parallel_evolution(max_time, max_width, root_langs: List[T]):
+def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T], colormap=None, alpha=2 / 3, beta=1 / 3):
+    if colormap is None:
+        colormap = cmap
     tree_list = [Tree(Node(lang=l)) for l in root_langs]
-    for i in range(max_time):
-        continue
-    return tree_list
+    collision_list = []
+    leaf_list = [t.root for t in tree_list]  # Contains a list of the nodes might evolve
+
+    for time in range(max_time):
+        random.shuffle(leaf_list)
+        new_leaf_list = []
+        leaf_index = 0
+        while leaf_index < len(leaf_list):
+            # print(leaf_index, len(leaf_list))
+            cur_lang = leaf_list[leaf_index]
+            random_factor = np.random.random()
+
+            # the further we are from max_width the more chances we have of seeing evolutions. This is a pure evolution.
+            if random_factor > alpha * len(new_leaf_list) / max_width:
+                node = Node(parent=cur_lang)
+                node.lang = cur_lang.lang.random_modif
+                new_leaf_list.append(node)
+
+            # Evolve base on distance
+            if random_factor > beta:
+                # Compute choice probabilities based on distance
+                p_leaves = np.array(
+                    list(
+                        map(
+                            lambda n: 1 / (cur_lang - n) if cur_lang - n else 0,
+                            leaf_list
+                        )
+                    )
+                )
+                s = sum(p_leaves)
+                if s:
+                    p_leaves = p_leaves / s
+                else:
+                    p_leaves = np.array([1 / len(p_leaves) for _ in p_leaves])
+                a_lang = np.random.choice(leaf_list, p=p_leaves).lang
+                node = Node(parent=cur_lang)
+                node.lang = (
+                        a_lang + node.parent.lang).random_modif
+                collision_list.append((a_lang, cur_lang.lang, time))  # Time should be seen as the depth in the tree
+                new_leaf_list.append(node)
+            else:
+                new_leaf_list.append(cur_lang)
+
+            leaf_index += 1
+        leaf_list = new_leaf_list
+        for t in tree_list:
+            print(t)
+    return tree_list, collision_list
+
+
+def plot_list_tree(tree_list, collision_list, colormap=None, ax=None):
+    for t in tree_list[:-1]:
+        ax = t.plot(axes=ax, colormap=colormap)
+    ax = tree_list[-1].plot(axes=ax, colormap=colormap, collision_list=collision_list)
+    return ax
 
 
 if __name__ == '__main__':
-    top_down_random_tree(10, 10, None)
+    import real_space
+    cube_langs = [real_space.Language([1, 0, 0]), real_space.Language([0, 1, 0]), real_space.Language([0, 0, 1])]
+    tl, cl = naive_parallel_evolution(2, 10, cube_langs)
+    axes = plot_list_tree(tl, cl)
+    plt.show()
+    # top_down_random_tree(10, 10, real_space.Language([0, 0, 0]))
