@@ -142,7 +142,7 @@ def top_down_random_tree(max_depth, max_width, root_lang):
     node = root
     for i in range(max_depth - 1):
         node = Node(parent=node)
-        node.lang = node.parent.lang.random_modif
+        node.lang = abs(node.parent.lang)
 
     for w in range(max_width - 1):
         nodes = tree.depth_first
@@ -162,34 +162,39 @@ def top_down_random_tree(max_depth, max_width, root_lang):
                     p_child = np.array([1 / len(p_child) for _ in p_child])
                 a_lang = np.random.choice(child, p=p_child).lang
             else:
-                a_lang = node.lang.random_modif
+                a_lang = abs(node.lang)
             node = Node(parent=node)
-            node.lang = (a_lang + node.parent.lang).random_modif  # + should take into account the distance of points.
+            # + should take into account the distance of points.
+            node.lang = abs(a_lang + node.parent.lang)
             # TODO: add language distance, maybe directly in + ?
 
     return tree
 
 
-def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T], colormap=None, alpha=2 / 3, beta=1 / 3):
+def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
+                             alpha: float = 2 / 3, beta: float = 1 / 3,
+                             colormap=None):
     if colormap is None:
         colormap = cmap
-    tree_list = [Tree(Node(lang=l)) for l in root_langs]
+    tree_list = [Tree(Node(lang=lang)) for lang in root_langs]
     collision_list = []
-    leaf_list = [t.root for t in tree_list]  # Contains a list of the nodes might evolve
+    # Contains a list of the nodes might evolve
+    leaf_list = [t.root for t in tree_list]
 
     for time in range(max_time):
         random.shuffle(leaf_list)
         new_leaf_list = []
         leaf_index = 0
         while leaf_index < len(leaf_list):
-            # print(leaf_index, len(leaf_list))
             cur_lang = leaf_list[leaf_index]
             random_factor = np.random.random()
 
-            # the further we are from max_width the more chances we have of seeing evolutions. This is a pure evolution.
+            # The further we are from max_width
+            # the more chances we have of seeing evolutions.
+            # This is a pure evolution.
             if random_factor > alpha * len(new_leaf_list) / max_width:
                 node = Node(parent=cur_lang)
-                node.lang = cur_lang.lang.random_modif
+                node.lang = abs(cur_lang.lang)
                 new_leaf_list.append(node)
 
             # Evolve base on distance
@@ -198,7 +203,8 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T], colo
                 p_leaves = np.array(
                     list(
                         map(
-                            lambda n: 1 / (cur_lang - n) if cur_lang - n else 0,
+                            lambda n: 1 / (cur_lang - n)
+                            if cur_lang - n else 0.,
                             leaf_list
                         )
                     )
@@ -210,8 +216,7 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T], colo
                     p_leaves = np.array([1 / len(p_leaves) for _ in p_leaves])
                 a_lang = np.random.choice(leaf_list, p=p_leaves).lang
                 node = Node(parent=cur_lang)
-                node.lang = (
-                        a_lang + node.parent.lang).random_modif
+                node.lang = a_lang + node.parent.lang
                 collision_list.append((a_lang, cur_lang.lang, time))  # Time should be seen as the depth in the tree
                 new_leaf_list.append(node)
             else:

@@ -1,13 +1,17 @@
-from typing import Iterable
+from typing import TypeVar, Iterable
 import numpy as np
 import tree_gen
 import random
-from src.languageGeometry.grammar_definition import Grammar
 import matplotlib.pyplot as plt
 
 
+T = TypeVar('T')
+
+
 class Language:
-    def __init__(self, coordinates: Iterable[float], grammar: "Grammar" = None):
+    def __init__(self,
+                 coordinates: Iterable[float],
+                 grammar: T = None):
         self.coordinates = np.array(coordinates)
         self.grammar = grammar
 
@@ -27,7 +31,12 @@ class Language:
             x, y = e
             return (x + y) / 2
 
-        return Language(list(map(function, zip(self.coordinates, other.coordinates))))
+        g1, g2 = self.grammar, other.grammar
+        if g1 is not None and g2 is not None:
+            _ = g1 * g2
+        else:
+            g3 = None
+        return Language(list(map(function, zip(self.coordinates, other.coordinates))), grammar=g3)
 
     def __repr__(self):
         return repr(self.coordinates)
@@ -80,8 +89,7 @@ class Language:
     def __getitem__(self, item):
         return self.coordinates[item]
 
-    @property
-    def random_modif(self):
+    def __abs__(self):
         i = random.randint(0, self.dim - 1)
         m = random.choice((-2, -1, 1, 2))
         coordinages = self.coordinates.copy()

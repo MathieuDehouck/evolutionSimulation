@@ -8,7 +8,7 @@ from src.languageGeometry.grammar_definition import Grammar
 
 
 class Language:
-    def __init__(self, coordinates: [float, float], grammar: "Grammar" = None):
+    def __init__(self, coordinates: [float, float], grammar: "T" = None):
         assert len(coordinates) == 2
         self.coordinates = coordinates  # Latitude and Longitude
         self.grammar = grammar
@@ -66,14 +66,19 @@ class Language:
         Plot of a graph
         """
         axes = self.ambient_space()
-        vertices = (list(map(lambda t: t[1], sorted(vertices, key=lambda t: t[0]))))
-        _points = list((t[0] for t in vertices))  # List of the latitude + longitude of the points
+        vertices = list(map(lambda t: t[1],
+                            sorted(vertices, key=lambda t: t[0])))
+        # List of the latitude + longitude of the points
+        _points = list((t[0] for t in vertices))
         points = list(map(self.lat_lon_to_3D, _points))
-        coordinates = tuple(np.array(list(t[i] for t in points)) for i in range(3))  # List of all coords for each axis
+        # List of all coords for each axis
+        coordinates = tuple(np.array(list(t[i] for t in points))
+                            for i in range(3))
         colors = list(map(lambda t: t[1], vertices))
         axes.scatter(*coordinates, c=colors)
         for (i, j) in edges:
-            # edges[0] = (0, 0) since the first element in depth first order is the root
+            # edges[0] = (0, 0) since the first element in depth first order
+            # is the root
             p1, p2 = points[i], points[j]
             edge_coordinates = tuple([p1[i], p2[i]] for i in range(3))
             edge_color = colors[j]
