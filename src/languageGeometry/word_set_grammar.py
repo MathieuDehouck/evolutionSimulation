@@ -24,6 +24,9 @@ class Grammar:
     def __add__(self, other):
         return Grammar(self.words)
 
+    def __contains__(self, item):
+        return item in self.words
+
     def __copy__(self):
         return Grammar(self.words.copy())
 
@@ -46,11 +49,12 @@ def mean_observable(tree_list, baselangs):
         for leaf in leaves:
             lang = leaf.lang
             for w in lang.grammar.words:
-                index = next(k for k, v in enumerate(baselangs) if w in v.words)
+                index = next(k for k, v in enumerate(baselangs) if w in v)
                 result[i][index] += 1
                 n_words += 1
+        s = sum(result[i])
         for w in range(len(tree_list)):
-            result[i][w] = round(result[i][w] / n_words, 3)
+            result[i][w] = round(result[i][w] / s, 3)
     return result
 
 
@@ -84,8 +88,7 @@ if __name__ == '__main__':
     g1, g2, g3 = Grammar(lesmots[:n // 3]), Grammar(lesmots[n // 3:2 * n // 3]), Grammar(lesmots[2 * n // 3:])
     cube_langs = [real_space.Language([1, 0, 0], grammar=g1), real_space.Language([0, 1, 0], grammar=g2),
                   real_space.Language([0, 0, 1], grammar=g3)]
-    tl, cl, ll = tg.naive_parallel_evolution(10, 5, cube_langs)
-    print(len(ll))
+    tl, cl, ll = tg.naive_parallel_evolution(10, 5, cube_langs, beta=3/4)
     basegrammars = [g1, g2, g3]
     histogram(tl, basegrammars)
     # top_down_random_tree(10, 10, real_space.Language([0, 0, 0]))

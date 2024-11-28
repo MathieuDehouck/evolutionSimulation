@@ -172,7 +172,7 @@ def top_down_random_tree(max_depth, max_width, root_lang):
             child = node.children
             if child:
                 # Choose a child with probability.
-                p_child = np.array(list(map(lambda n: 1 / (node - n), child)))
+                p_child = np.array(list(map(lambda n: 1 / distance(node, n), child)))
                 s = sum(p_child)
                 if s:
                     p_child = p_child / s
@@ -188,7 +188,7 @@ def top_down_random_tree(max_depth, max_width, root_lang):
     return tree
 
 
-def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
+def naive_parallel_evolution(max_time: int, max_width: int, root_langs: List[T],
                              alpha: float = 2 / 3, beta: float = 1 / 3,
                              colormap=None):
     if colormap is None:
@@ -201,6 +201,7 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
     for time in range(max_time):
         random.shuffle(leaf_list)
         new_leaf_list = []
+
         leaf_index = 0
         while leaf_index < len(leaf_list):
             cur_lang = leaf_list[leaf_index]
@@ -209,20 +210,14 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
             # The further we are from max_width
             # the more chances we have of seeing evolutions.
             # This is a pure evolution.
-            if random_factor > alpha * len(new_leaf_list) / max_width:
-                node = Node(parent=cur_lang)
-                node.lang = random_modification(cur_lang.lang)
-                new_leaf_list.append(node)
-
             # Evolve base on distance
             if random_factor > beta:
-                # print("Evo")
                 # Compute choice probabilities based on distance
                 p_leaves = np.array(
                     list(
                         map(
-                            lambda n: 1 / (cur_lang - n)
-                            if cur_lang - n else 0.,
+                            lambda n: 1 / distance(cur_lang, n)
+                            if distance(cur_lang, n) else 0.,
                             leaf_list
                         )
                     )
@@ -233,19 +228,46 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
                 else:
                     p_leaves = np.array([1 / len(p_leaves) for _ in p_leaves])
                 a_lang = np.random.choice(leaf_list, p=p_leaves)
-                n1, n2 = Node(parent=cur_lang), Node(parent=a_lang)
-                n1.lang, n2.lang = copy(cur_lang.lang), copy(a_lang.lang)
+
+                # Create new children if they don't exist
+                if cur_lang.children:
+                    n1 = cur_lang.children[0]
+                else:
+                    n1 = Node(parent=cur_lang)
+                    n1.lang = copy(cur_lang.lang)
+
+                if a_lang.children:
+                    n2 = a_lang.children[0]
+                else:
+                    n2 = Node(parent=a_lang)
+                    n2.lang = copy(a_lang.lang)
+
                 cross_modification(n1.lang, n2.lang)
                 # Time should be seen as the depth in the tree
                 collision_list.append((a_lang.lang, cur_lang.lang, time))
                 new_leaf_list.append(n1)
                 new_leaf_list.append(n2)
+
             else:
-                n = Node(parent=cur_lang)
-                n.lang = cur_lang.lang
-                new_leaf_list.append(n)
+                if cur_lang.children:
+                    pass
+                else:
+                    new_node = Node(parent=cur_lang)
+                    new_node.lang = cur_lang.lang
+                    new_leaf_list.append(new_node)
 
             leaf_index += 1
+
+        leaf_index = 0
+        while leaf_index < len(leaf_list):
+            cur_lang = leaf_list[leaf_index]
+            random_factor = np.random.random()
+            if random_factor > alpha * len(new_leaf_list) / max_width:
+                node = Node(parent=cur_lang)
+                node.lang = random_modification(cur_lang.lang)
+                new_leaf_list.append(node)
+            leaf_index += 1
+
         leaf_list = new_leaf_list
     return tree_list, collision_list, leaf_list
 
