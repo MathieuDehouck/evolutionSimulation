@@ -4,6 +4,7 @@ from random import choice
 from typing import TypeVar, Generic, List
 
 import numpy as np
+from copy import copy
 from matplotlib import pyplot as plt
 
 T = TypeVar('T')
@@ -15,6 +16,23 @@ cmap = list(f"xkcd:{t}" for t in pcbar)
 
 class NotImplementedYet(Exception):
     content = "BUG"
+
+
+# In the following functions, language should contain a representation for a geometry and a grammar.
+def cross_modification(language1, language2):
+    language1 * language2
+
+
+def distance(language1, language2):
+    return language1 - language2
+
+
+def random_modification(language):
+    return abs(language)
+
+
+def filiation(language1, language2):
+    return language1 + language2
 
 
 class Node(Generic[T]):
@@ -142,7 +160,7 @@ def top_down_random_tree(max_depth, max_width, root_lang):
     node = root
     for i in range(max_depth - 1):
         node = Node(parent=node)
-        node.lang = abs(node.parent.lang)
+        node.lang = random_modification(node.parent.lang)
 
     for w in range(max_width - 1):
         nodes = tree.depth_first
@@ -165,8 +183,7 @@ def top_down_random_tree(max_depth, max_width, root_lang):
                 a_lang = abs(node.lang)
             node = Node(parent=node)
             # + should take into account the distance of points.
-            node.lang = abs(a_lang + node.parent.lang)
-            # TODO: add language distance, maybe directly in + ?
+            node.lang = random_modification(filiation(a_lang, node.parent.lang))
 
     return tree
 
@@ -194,11 +211,12 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
             # This is a pure evolution.
             if random_factor > alpha * len(new_leaf_list) / max_width:
                 node = Node(parent=cur_lang)
-                node.lang = abs(cur_lang.lang)
+                node.lang = random_modification(cur_lang.lang)
                 new_leaf_list.append(node)
 
             # Evolve base on distance
             if random_factor > beta:
+                print("Evo")
                 # Compute choice probabilities based on distance
                 p_leaves = np.array(
                     list(
@@ -214,18 +232,21 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
                     p_leaves = p_leaves / s
                 else:
                     p_leaves = np.array([1 / len(p_leaves) for _ in p_leaves])
-                a_lang = np.random.choice(leaf_list, p=p_leaves).lang
-                node = Node(parent=cur_lang)
-                node.lang = a_lang + node.parent.lang
-                collision_list.append((a_lang, cur_lang.lang, time))  # Time should be seen as the depth in the tree
-                new_leaf_list.append(node)
+                a_lang = np.random.choice(leaf_list, p=p_leaves)
+                n1, n2 = Node(parent=cur_lang), Node(parent=a_lang)
+                n1.lang, n2.lang = copy(cur_lang.lang), copy(a_lang.lang)
+                cross_modification(n1.lang, n2.lang)
+                # Time should be seen as the depth in the tree
+                collision_list.append((a_lang.lang, cur_lang.lang, time))
+                new_leaf_list.append(n1)
+                new_leaf_list.append(n2)
             else:
-                new_leaf_list.append(cur_lang)
+                n = Node(parent=cur_lang)
+                n.lang = cur_lang.lang
+                new_leaf_list.append(n)
 
             leaf_index += 1
         leaf_list = new_leaf_list
-        for t in tree_list:
-            print(t)
     return tree_list, collision_list
 
 
@@ -236,10 +257,21 @@ def plot_list_tree(tree_list, collision_list, colormap=None, ax=None):
     return ax
 
 
+def lang_list_tree(tree_list):
+    for i, t in enumerate(tree_list):
+        print(f"\nArbre {i}:\n-----------------------------------")
+        print(str(t))
+
+
 if __name__ == '__main__':
     import real_space
-    cube_langs = [real_space.Language([1, 0, 0]), real_space.Language([0, 1, 0]), real_space.Language([0, 0, 1])]
-    tl, cl = naive_parallel_evolution(2, 10, cube_langs)
-    axes = plot_list_tree(tl, cl)
+    import src.languageGeometry.word_set_grammar as gram
+    n = 24
+    lesmots = [f"mot_{i}" for i in range(n)]
+    g1, g2, g3 = gram.Grammar(lesmots[:n//3]), gram.Grammar(lesmots[n//3:2*n//3]), gram.Grammar(lesmots[2*n//3:])
+    cube_langs = [real_space.Language([1, 0, 0], grammar=g1), real_space.Language([0, 1, 0], grammar=g2), real_space.Language([0, 0, 1], grammar=g3)]
+    tl, cl = naive_parallel_evolution(10, 5, cube_langs)
+    # axes = plot_list_tree(tl, cl)
+    lang_list_tree(tl)
     plt.show()
     # top_down_random_tree(10, 10, real_space.Language([0, 0, 0]))

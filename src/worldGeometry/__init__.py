@@ -8,5 +8,5 @@ A World Geometry should be a class `Language` with the following methods defined
     __str__ and __repr__ for debugging
     __call__(vertices, edges, *args, *kwargs) which plots a tree based on a list of its vertices (with colours) and
         edges.
-    random_modif(self) returns an instance of Language with a small modification on the position of its argument
+    __abs__(self) returns an instance of Language with a small modification on the position of its argument
 """

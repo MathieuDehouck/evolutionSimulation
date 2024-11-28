@@ -3,7 +3,7 @@ import numpy as np
 import tree_gen
 import random
 import matplotlib.pyplot as plt
-
+from copy import copy
 
 T = TypeVar('T')
 
@@ -31,18 +31,19 @@ class Language:
             x, y = e
             return (x + y) / 2
 
+        return Language(coordinates=function((self.coordinates, other.coordinates)), grammar=self.grammar + other.grammar)
+
+    def __mul__(self, other):
         g1, g2 = self.grammar, other.grammar
         if g1 is not None and g2 is not None:
             _ = g1 * g2
-        else:
-            g3 = None
-        return Language(list(map(function, zip(self.coordinates, other.coordinates))), grammar=g3)
+        return g1, g2
 
     def __repr__(self):
-        return repr(self.coordinates)
+        return repr(self.coordinates) + " --- " + repr(self.grammar)
 
     def __str__(self):
-        return str(self.coordinates)
+        return str(self.coordinates) + " --- " + str(self.grammar)
 
     @staticmethod
     def ambient_space():
@@ -94,7 +95,11 @@ class Language:
         m = random.choice((-2, -1, 1, 2))
         coordinages = self.coordinates.copy()
         coordinages[i] += m
-        return Language(coordinages)
+        grammar = copy(self.grammar)
+        return Language(coordinages, grammar=grammar)
+
+    def __copy__(self):
+        return Language(coordinates=copy(self.coordinates), grammar=copy(self.grammar))
 
 
 if __name__ == '__main__':
