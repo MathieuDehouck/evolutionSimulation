@@ -216,7 +216,7 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
 
             # Evolve base on distance
             if random_factor > beta:
-                print("Evo")
+                # print("Evo")
                 # Compute choice probabilities based on distance
                 p_leaves = np.array(
                     list(
@@ -247,7 +247,7 @@ def naive_parallel_evolution(max_time: int, max_width, root_langs: List[T],
 
             leaf_index += 1
         leaf_list = new_leaf_list
-    return tree_list, collision_list
+    return tree_list, collision_list, leaf_list
 
 
 def plot_list_tree(tree_list, collision_list, colormap=None, ax=None):
@@ -270,7 +270,7 @@ if __name__ == '__main__':
     lesmots = [f"mot_{i}" for i in range(n)]
     g1, g2, g3 = gram.Grammar(lesmots[:n//3]), gram.Grammar(lesmots[n//3:2*n//3]), gram.Grammar(lesmots[2*n//3:])
     cube_langs = [real_space.Language([1, 0, 0], grammar=g1), real_space.Language([0, 1, 0], grammar=g2), real_space.Language([0, 0, 1], grammar=g3)]
-    tl, cl = naive_parallel_evolution(10, 5, cube_langs)
+    tl, cl, ll = naive_parallel_evolution(10, 5, cube_langs)
     # axes = plot_list_tree(tl, cl)
     lang_list_tree(tl)
     plt.show()

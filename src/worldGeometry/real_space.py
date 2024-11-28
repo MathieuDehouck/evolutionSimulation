@@ -1,6 +1,5 @@
 from typing import TypeVar, Iterable
 import numpy as np
-import tree_gen
 import random
 import matplotlib.pyplot as plt
 from copy import copy
@@ -103,6 +102,7 @@ class Language:
 
 
 if __name__ == '__main__':
+    import src.worldGeometry.tree_gen as tree_gen
     lang0 = Language([0, 0, 0])
     # print(lang0)
     evo = tree_gen.top_down_random_tree(10, 10, root_lang=lang0)
