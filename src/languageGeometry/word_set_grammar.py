@@ -58,16 +58,16 @@ def mean_observable(tree_list, baselangs):
     return result
 
 
-def histogram(tree_list, baselangs):
+def histogram(tree_list, baselangs, savepath=None, beta=0):
     values = mean_observable(tree_list, baselangs)
     langs = [f"Base = ${i}$" for i in range(len(baselangs))]
     x = np.arange(len(langs))
-    width = .9/len(langs)
+    width = .9 / len(langs)
     mul = 0
 
     fig, ax = plt.subplots(layout='constrained')
     for baselang, arrivals in enumerate(values):
-        offset = width*mul
+        offset = width * mul
         rects = ax.bar(x + offset, arrivals, width, label=baselang)
         ax.bar_label(rects, padding=3)
         mul += 1
@@ -76,19 +76,27 @@ def histogram(tree_list, baselangs):
     ax.set_xticks(x + width, langs)
     ax.legend(loc='upper left', ncols=len(langs))
     ax.set_ylim(0, 1.1)
-    ax.set_title("Per")
-    plt.show()
+    ax.set_title(f"Word switching for beta = {beta}")
+    if savepath is None:
+        plt.show()
+    else:
+        plt.savefig(f"{savepath}.pdf", format="pdf")
 
 
 if __name__ == '__main__':
+    from sys import path
+    path.append("../..")
+    path.append("..")
     import src.worldGeometry.tree_gen as tg
     import src.worldGeometry.real_space as real_space
+
     n = 24
     lesmots = [f"mot_{i}" for i in range(n)]
     g1, g2, g3 = Grammar(lesmots[:n // 3]), Grammar(lesmots[n // 3:2 * n // 3]), Grammar(lesmots[2 * n // 3:])
+    basegrammars = [g1, g2, g3]
     cube_langs = [real_space.Language([1, 0, 0], grammar=g1), real_space.Language([0, 1, 0], grammar=g2),
                   real_space.Language([0, 0, 1], grammar=g3)]
-    tl, cl, ll = tg.naive_parallel_evolution(10, 5, cube_langs, beta=3/4)
-    basegrammars = [g1, g2, g3]
-    histogram(tl, basegrammars)
+    for k, b in enumerate(np.arange(start=0, stop=1, step=.1)):
+        tl, cl, ll = tg.naive_parallel_evolution(10, 5, cube_langs, beta=b)
+        histogram(tl, basegrammars, savepath=f"../../Figures/WordSet/Histogram_Word_Set_beta={k}", beta=b)
     # top_down_random_tree(10, 10, real_space.Language([0, 0, 0]))
