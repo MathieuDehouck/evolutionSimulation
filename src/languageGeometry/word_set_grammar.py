@@ -3,6 +3,7 @@ from typing import Iterable
 from copy import copy
 import numpy as np
 import matplotlib.pyplot as plt
+from numba.cpython.builtins import max_iterable
 
 
 class Grammar:
@@ -41,32 +42,42 @@ class Grammar:
         return
 
 
+def sanitize_number(f):
+    return round(f, 3)
+
 def mean_observable(tree_list, baselangs):
     result = np.zeros((len(tree_list), len(baselangs)))
-    for i, t in enumerate(tree_list):
+    for origin, t in enumerate(tree_list):
         leaves = t.leaves()
         n_words = 0
         for leaf in leaves:
             lang = leaf.lang
             for w in lang.grammar.words:
-                index = next(k for k, v in enumerate(baselangs) if w in v)
-                result[i][index] += 1
+                arrival = next(k for k, v in enumerate(baselangs) if w in v)
+                result[origin][arrival] += 1
                 n_words += 1
-        s = sum(result[i])
+        s = sum(result[origin])
         for w in range(len(tree_list)):
-            result[i][w] = round(result[i][w] / s, 3)
+            result[origin][w] = sanitize_number(result[origin][w] / s)
     return result
 
 
-def histogram(tree_list, baselangs, savepath=None, beta=0):
+def histogram(tree_list, baselangs, savepath=None, beta=0, mt=0, mw=0):
     values = mean_observable(tree_list, baselangs)
     langs = [f"Base = ${i}$" for i in range(len(baselangs))]
     x = np.arange(len(langs))
     width = .9 / len(langs)
     mul = 0
 
+    # dist_matrix = np.zeros((len(baselangs), len(baselangs)))
+    # for i in range(len(baselangs)):
+    #     for j in range(len(baselangs)):
+    #         dist_matrix[i, j] = baselangs[i] - baselangs[j]
+
+    # print(dist_matrix)
+
     fig, ax = plt.subplots(layout='constrained')
-    for baselang, arrivals in enumerate(values):
+    for baselang, arrivals in enumerate(values.T):
         offset = width * mul
         rects = ax.bar(x + offset, arrivals, width, label=baselang)
         ax.bar_label(rects, padding=3)
@@ -76,7 +87,7 @@ def histogram(tree_list, baselangs, savepath=None, beta=0):
     ax.set_xticks(x + width, langs)
     ax.legend(loc='upper left', ncols=len(langs))
     ax.set_ylim(0, 1.1)
-    ax.set_title(f"Word switching for beta = {beta}")
+    ax.set_title(f"Word switching for beta = {beta},\nn_langs = {len(langs)}, t = {mt}, w = {mw}")
     if savepath is None:
         plt.show()
     else:
@@ -86,17 +97,40 @@ def histogram(tree_list, baselangs, savepath=None, beta=0):
 if __name__ == '__main__':
     from sys import path
     path.append("../..")
+    path.append("../../..")
     path.append("..")
     import src.worldGeometry.tree_gen as tg
     import src.worldGeometry.real_space as real_space
 
     n = 24
+    n_langs = 4
+    max_time = 10
+    max_width = 9
+
+    cube_vertices = [
+        [0, 0, 0],
+        [1, 0, 0],
+        [0, 1, 0],
+        [0, 0, 1],
+        [1, 0, 1],
+        [0, 1, 1],
+        [1, 1, 0],
+        [1, 1, 1],
+    ]
+
     lesmots = [f"mot_{i}" for i in range(n)]
-    g1, g2, g3 = Grammar(lesmots[:n // 3]), Grammar(lesmots[n // 3:2 * n // 3]), Grammar(lesmots[2 * n // 3:])
-    basegrammars = [g1, g2, g3]
-    cube_langs = [real_space.Language([1, 0, 0], grammar=g1), real_space.Language([0, 1, 0], grammar=g2),
-                  real_space.Language([0, 0, 1], grammar=g3)]
+    basegrammars = list(Grammar(lesmots[(i - 1) * n // n_langs : i * n // n_langs]) for i in range(1, n_langs))
+    basegrammars.append(Grammar(lesmots[(n_langs - 1) * n // n_langs:]))
+    cube_langs = list(real_space.Language(coordinates=cube_vertices[i], grammar=basegrammars[i]) for i in range(n_langs))
+
+    # b = 0.0
+    # tl, cl, ll = tg.naive_parallel_evolution(max_time, max_width, cube_langs, beta=b)
+    # histogram(
+    #     tl, basegrammars,
+    #     savepath=f"../../Figures/WordSet/HWS_b={round(b, 2)}_nl={len(basegrammars)}_t={max_time}_w={max_width}", beta=b
+    #     )
+
     for k, b in enumerate(np.arange(start=0, stop=1, step=.1)):
-        tl, cl, ll = tg.naive_parallel_evolution(10, 5, cube_langs, beta=b)
-        histogram(tl, basegrammars, savepath=f"../../Figures/WordSet/Histogram_Word_Set_beta={k}", beta=b)
-    # top_down_random_tree(10, 10, real_space.Language([0, 0, 0]))
+        tl, cl, ll = tg.naive_parallel_evolution(max_time, max_width, cube_langs, beta=b)
+        histogram(tl, basegrammars, savepath=f"../../Figures/WordSet/HWS_b={round(b, 2)}_nl={len(basegrammars)}_t={max_time}_w={max_width}", beta=b, mt=max_time, mw=max_width)
+

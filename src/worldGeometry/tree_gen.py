@@ -216,7 +216,7 @@ def naive_parallel_evolution(max_time: int, max_width: int, root_langs: List[T],
                 p_leaves = np.array(
                     list(
                         map(
-                            lambda n: 1 / distance(cur_lang, n)
+                            lambda n: 1 / distance(cur_lang, n) # change for 1/len(leaf_list)
                             if distance(cur_lang, n) else 0.,
                             leaf_list
                         )
