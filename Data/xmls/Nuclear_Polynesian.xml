@@ -1,0 +1,194 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Nuclear Polynesian</plang>
+			<pform>*Sawaiki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nuclear Polynesian/Sawaiki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Hawai'i</form>
+				<concepts>
+					<c>Hawai'i</c>
+					<c>Hawai'i</c>
+				</concepts>
+				<url source="wiki">/wiki/Hawai'i#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Hawaii</form>
+				<concepts>
+					<c>Honolulu</c>
+					<c>capital</c>
+					<c>Pacific Ocean</c>
+					<c>Hawaii</c>
+				</concepts>
+				<url source="wiki">/wiki/Hawaii#English</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">Hawaiʻi</form>
+				<concepts>
+					<c>Hawaii</c>
+				</concepts>
+				<url source="wiki">/wiki/Hawaiʻi#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">Hawaiʻi</form>
+				<concepts>
+					<c>Hawaiian</c>
+				</concepts>
+				<url source="wiki">/wiki/Hawaiʻi#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">Hawaiki</form>
+				<concepts>
+					<c>Hawaiki</c>
+				</concepts>
+				<url source="wiki">/wiki/Hawaiki#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">Savai'i</form>
+				<concepts>
+					<c>Savai'i</c>
+				</concepts>
+				<url source="wiki">/wiki/Savai'i#Samoan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nuclear Polynesian</plang>
+			<pform>*ae</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nuclear Polynesian/ae</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻae</form>
+				<concepts>
+					<c>rise</c>
+					<c>soft</c>
+					<c>say yes</c>
+					<c>consent</c>
+					<c>smooth</c>
+					<c>mashed</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻae#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻae</form>
+				<concepts>
+					<c>saliva</c>
+					<c>sap</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻae#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻae</form>
+				<concepts>
+					<c>yes</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻae#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">āe</form>
+				<concepts>
+					<c>yes</c>
+				</concepts>
+				<url source="wiki">/wiki/āe#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rarotongan</lang>
+				<form script="LATIN">āe</form>
+				<concepts>
+					<c>yes</c>
+				</concepts>
+				<url source="wiki">/wiki/āe#Rarotongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nuclear Polynesian</plang>
+			<pform>*nui</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nuclear Polynesian/nui</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">nui</form>
+				<concepts>
+					<c>abundant</c>
+					<c>great</c>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/nui#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">nui</form>
+				<concepts>
+					<c>group</c>
+					<c>dimension</c>
+					<c>size</c>
+					<c>plenty</c>
+					<c>number</c>
+					<c>a lot</c>
+					<c>area</c>
+				</concepts>
+				<url source="wiki">/wiki/nui#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">nui</form>
+				<concepts>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/nui#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">nui</form>
+				<concepts>
+					<c>great</c>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/nui#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">nui nui</form>
+				<concepts>
+					<c>immense</c>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/nui_nui#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">nui</form>
+				<concepts>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/nui#Tahitian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

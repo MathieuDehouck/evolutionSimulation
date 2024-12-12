@@ -1,0 +1,1457 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ca</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6748</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tusom</lang>
+				<form script="LATIN">ci</form>
+				<concepts>
+					<c>necklace</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6748</url>
+			</reflex>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">ca</form>
+				<concepts>
+					<c>necklace</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6748</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*caaŋ——7004</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7004</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">caŋ</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7004</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*car</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6920</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">cə́r</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6920</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ci</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6766</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">ci</form>
+				<concepts>
+					<c>horn</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6766</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*cik</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7079</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">cik</form>
+				<concepts>
+					<c>wash</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7079</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*con</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6880</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">con</form>
+				<concepts>
+					<c>help</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6880</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*dik</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6965</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">rik</form>
+				<concepts>
+					<c>burn</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6965</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*haaŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7011</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">han</form>
+				<concepts>
+					<c>bright</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7011</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*hol</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7115</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">huj</form>
+				<concepts>
+					<c>ginger</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7115</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*jaam</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7012</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>run</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7012</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6737</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Meithei</lang>
+				<form script="LATIN">ka</form>
+				<concepts>
+					<c>ascend</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6737</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*kaw——7030</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7030</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">kaw</form>
+				<concepts>
+					<c>dry</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7030</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">káw</form>
+				<concepts>
+					<c>dry</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7030</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*kup</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6940</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">kup</form>
+				<concepts>
+					<c>finish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6940</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">kəp</form>
+				<concepts>
+					<c>finish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6940</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*kɐn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6874</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">kan</form>
+				<concepts>
+					<c>cross</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6874</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*kʰaj——6788</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khoirao</lang>
+				<form script="LATIN">khai</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Rongmei  ∕  Nruanghmei</lang>
+				<form script="LATIN">kha</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">khai</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">khai</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">khai</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">kháy</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul (Northern)</lang>
+				<form script="LATIN">kʰi</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul (Standard)</lang>
+				<form script="LATIN">kʰai</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">kʰaj</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6788</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*kʰaj——6797</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6797</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tusom</lang>
+				<form script="LATIN">kʃie</form>
+				<concepts>
+					<c>knife</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6797</url>
+			</reflex>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">kʰaj</form>
+				<concepts>
+					<c>knife</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6797</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*kʰok</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7147</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">khok</form>
+				<concepts>
+					<c>deaf</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7147</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*kʰuul</pform>
+			<graph>True</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6915</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tankghul (Central)</lang>
+				<form script="LATIN">kʰui</form>
+				<concepts>
+					<c>village</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6915</url>
+			</reflex>
+			<reflex>
+				<lang>Tusom</lang>
+				<form script="LATIN">kfɯ</form>
+				<concepts>
+					<c>village</c>
+					<c>state</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6915</url>
+			</reflex>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">kʰu</form>
+				<concepts>
+					<c>village</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6915</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*lo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7155</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">ro</form>
+				<concepts>
+					<c>vomit</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7155</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*m-reŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/322</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">məreŋ</form>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/322</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*maŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6886</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">mang</form>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6886</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">məŋ</form>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6886</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*mi——6765</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6765</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">mi</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6765</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">mi</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6765</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*nap</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6932</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sorbung</lang>
+				<form script="LATIN">náap</form>
+				<concepts>
+					<c>stick</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6932</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*nir</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7045</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">nir</form>
+				<concepts>
+					<c>wrinkle</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7045</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*niŋ——6898</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6898</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">niŋ</form>
+				<concepts>
+					<c>stand</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6898</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*niŋ——7154</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7154</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">nìŋ</form>
+				<concepts>
+					<c>spin</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7154</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*pew</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7146</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">pew</form>
+				<concepts>
+					<c>blind</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7146</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*pi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7164</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">pi</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7164</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">pi</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7164</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*pʰaaŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7005</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">phaŋ</form>
+				<concepts>
+					<c>branch</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7005</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*pʰan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6869</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">phən</form>
+				<concepts>
+					<c>blow</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6869</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*pʰi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7140</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tusom</lang>
+				<form script="LATIN">psɯ</form>
+				<concepts>
+					<c>cloth</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7140</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*raj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7157</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">ray</form>
+				<concepts>
+					<c>wait</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7157</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*rew——7142</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7142</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">rew</form>
+				<concepts>
+					<c>thirsty</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7142</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ri——6760</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6760</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">ri</form>
+				<concepts>
+					<c>blow</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6760</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ri——6767</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6767</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">rì</form>
+				<concepts>
+					<c>medicine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6767</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ri——7061</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7061</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">ri</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7061</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*row</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7072</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">raw</form>
+				<concepts>
+					<c>cook</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7072</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*saam——6857</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6857</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">sam</form>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6857</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*saaŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7003</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">saŋ</form>
+				<concepts>
+					<c>tall</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7003</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*se</pform>
+			<graph>True</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7160</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul (Northern)</lang>
+				<form script="LATIN">ʃi</form>
+				<concepts>
+					<c>buffalo</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7160</url>
+			</reflex>
+			<reflex>
+				<lang>Tankghul (Central)</lang>
+				<form script="LATIN">ʃi</form>
+				<concepts>
+					<c>buffalo</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7160</url>
+			</reflex>
+			<reflex>
+				<lang>Tusom</lang>
+				<form script="LATIN">ʃi</form>
+				<concepts>
+					<c>cattle</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7160</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*si</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6769</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bodo</lang>
+				<form script="LATIN">se</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6769</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tek</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6960</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">tek</form>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6960</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tep</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6994</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">təp</form>
+				<concepts>
+					<c>slow</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6994</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tow——6835</pform>
+			<graph>True</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6835</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kachai</lang>
+				<form script="LATIN">te</form>
+				<concepts>
+					<c>speech</c>
+					<c>word</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6835</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">tui</form>
+				<concepts>
+					<c>language</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6835</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">tui</form>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6835</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">tuy</form>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6835</url>
+			</reflex>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">tuj</form>
+				<concepts>
+					<c>speech</c>
+					<c>word</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6835</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tsaan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6872</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">zən</form>
+				<concepts>
+					<c>sharp</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6872</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">śəm</form>
+				<concepts>
+					<c>sharp</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6872</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tsej</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6820</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tusom</lang>
+				<form script="LATIN">za</form>
+				<concepts>
+					<c>spear</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6820</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tsik</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6964</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">zik</form>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6964</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tʰeŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6891</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">theŋ</form>
+				<concepts>
+					<c>dry</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6891</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tʰum</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6864</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dimasa</lang>
+				<form script="LATIN">thum</form>
+				<concepts>
+					<c>hide</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6864</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">thúm</form>
+				<concepts>
+					<c>hide</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6864</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*tʰɐr</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6916</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sorbung</lang>
+				<form script="LATIN">tʰàar</form>
+				<concepts>
+					<c>clean</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6916</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">thər</form>
+				<concepts>
+					<c>clean</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6916</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*waar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6922</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">var</form>
+				<concepts>
+					<c>mushroom</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6922</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*waw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7112</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">vao</form>
+				<concepts>
+					<c>shout</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7112</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">wáw</form>
+				<concepts>
+					<c>shout</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7112</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ŋum</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6865</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">ŋum</form>
+				<concepts>
+					<c>round</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6865</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʃa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7129</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">sha</form>
+				<concepts>
+					<c>hear</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7129</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">śa</form>
+				<concepts>
+					<c>hear</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7129</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʃaŋ——6884</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6884</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ukhrul</lang>
+				<form script="LATIN">ʃɐŋ</form>
+				<concepts>
+					<c>clan</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6884</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʃo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7021</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">śo</form>
+				<concepts>
+					<c>open</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7021</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʃon</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7158</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">śon</form>
+				<concepts>
+					<c>weak</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7158</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʃu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7139</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">śɯ</form>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7139</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʃuŋ——7020</pform>
+			<graph>True</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7020</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">shung</form>
+				<concepts>
+					<c>shut</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7020</url>
+			</reflex>
+			<reflex>
+				<lang>Tangkhul</lang>
+				<form script="LATIN">śuŋ</form>
+				<concepts>
+					<c>close</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7020</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʔej</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7055</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Huishu</lang>
+				<form script="LATIN">ʔu</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7055</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangkhulic</plang>
+			<pform>*ʔi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7053</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kachai</lang>
+				<form script="LATIN">ʔi</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/7053</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,455 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*balaŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/balaŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">pala</form>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/pala#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">balang</form>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/balang#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*bina</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/bina</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">bina</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/bina#Gamilaraay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*birriŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/birriŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">biri</form>
+				<concepts>
+					<c>chest</c>
+				</concepts>
+				<url source="wiki">/wiki/biri#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">pirri</form>
+				<concepts>
+					<c>chest</c>
+				</concepts>
+				<url source="wiki">/wiki/pirri#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">birring</form>
+				<concepts>
+					<c>chest</c>
+				</concepts>
+				<url source="wiki">/wiki/birring#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*bulārr</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/bulārr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">bulaarr</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/bulaarr#Gamilaraay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*dhalañ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/dhalañ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">thalay</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/thalay#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">thalay</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/thalay#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">dhalayn</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/dhalayn#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*dharraŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/dharraŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">tharra</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/tharra#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">tharra</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/tharra#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">dharrang</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/dharrang#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*dhinaŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/dhinaŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">thina</form>
+				<concepts>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/thina#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">thina</form>
+				<concepts>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/thina#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">dinnang</form>
+				<concepts>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/dinnang#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*ganāy</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/ganāy</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">ganaay</form>
+				<concepts>
+					<c>digging stick</c>
+				</concepts>
+				<url source="wiki">/wiki/ganaay#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">gannai</form>
+				<concepts>
+					<c>yamstick</c>
+				</concepts>
+				<url source="wiki">/wiki/gannai#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*gunaŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/gunaŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Ngiyambaa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*guya</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/guya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">guya</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/guya#Gamilaraay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*gīñ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/gīñ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">gii</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/gii#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">kii</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/kii#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">geen</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/geen#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*mara</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/mara</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">mara</form>
+				<concepts>
+					<c>finger</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/mara#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">mura</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/mura#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*yarrañ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/yarrañ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">yarray</form>
+				<concepts>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/yarray#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">yarray</form>
+				<concepts>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/yarray#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">yarrayn</form>
+				<concepts>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/yarrayn#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*ŋamuŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/ŋamuŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">ngamu</form>
+				<concepts>
+					<c>breastmilk</c>
+					<c>milk</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/ngamu#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">ngamu</form>
+				<concepts>
+					<c>milk</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/ngamu#Ngiyambaa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Central New South Wales</plang>
+			<pform>*ŋuluŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central New South Wales/ŋuluŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">ngulu</form>
+				<concepts>
+					<c>face</c>
+					<c>forehead</c>
+				</concepts>
+				<url source="wiki">/wiki/ngulu#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Ngiyambaa</lang>
+				<form script="LATIN">ngulu</form>
+				<concepts>
+					<c>face</c>
+					<c>forehead</c>
+				</concepts>
+				<url source="wiki">/wiki/ngulu#Ngiyambaa</url>
+			</reflex>
+			<reflex>
+				<lang>Wiradhuri</lang>
+				<form script="LATIN">ngulung</form>
+				<concepts>
+					<c>face</c>
+					<c>forehead</c>
+				</concepts>
+				<url source="wiki">/wiki/ngulung#Wiradjuri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,139 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Edekiri</plang>
+			<pform>*i-gùrè</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Edekiri/i-gùrè</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">egurè</form>
+				<concepts>
+					<c>village</c>
+					<c>hut</c>
+					<c>farmhouse</c>
+					<c>town</c>
+				</concepts>
+				<url source="wiki">/wiki/egure#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">eguè</form>
+				<concepts>
+					<c>village</c>
+					<c>hamlet</c>
+				</concepts>
+				<url source="wiki">/wiki/egue#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Edekiri</plang>
+			<pform>*o-ɲĩ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Edekiri/o-ɲĩ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">oyin</form>
+				<concepts>
+					<c>honey</c>
+					<c>bee</c>
+					<c>sweetness</c>
+				</concepts>
+				<url source="wiki">/wiki/oyin#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Edekiri</plang>
+			<pform>*ɛ-ɣɪ̃̀ɣɪ̃́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Edekiri/ɛ-ɣɪ̃̀ɣɪ̃́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">yìnyín</form>
+				<concepts>
+					<c>hail</c>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/yinyin#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹghẹ̀nghẹ́n</form>
+				<concepts>
+					<c>hail</c>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹghẹnghẹn#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹyị̀nyị́n</form>
+				<concepts>
+					<c>hail</c>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹyịnyịn#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Edekiri</plang>
+			<pform>*ɛ̀-ɣɔ̀rɪ̀ɣɔ̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Edekiri/ɛ̀-ɣɔ̀rɪ̀ɣɔ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Itsekiri</lang>
+				<form script="LATIN">èghẹ̀righọ̀</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/eghẹrighọ#Itsekiri</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">eghighọ</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/eghighọ#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">èghìghọ̀</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/eghighọ#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">èwọ̀rìwọ̀</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/ewọriwọ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

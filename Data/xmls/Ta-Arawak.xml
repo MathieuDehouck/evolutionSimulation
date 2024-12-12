@@ -1,0 +1,62 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Ta-Arawak</plang>
+			<pform>*kanawa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Ta-Arawak/kanawa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">canoa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoa#Asturian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Ta-Arawak</plang>
+			<pform>*kʰapɨ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Ta-Arawak/kʰapɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">uhabu</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/uhabu#Garifuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Ta-Arawak</plang>
+			<pform>*kʰayapa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Ta-Arawak/kʰayapa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Wayuu</lang>
+				<form script="LATIN">jayapa</form>
+				<concepts>
+					<c>flea</c>
+				</concepts>
+				<url source="wiki">/wiki/jayapa#Wayuu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

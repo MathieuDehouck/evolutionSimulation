@@ -1,0 +1,686 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*ako</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/ako</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">tako</form>
+				<concepts>
+					<c>vagina</c>
+				</concepts>
+				<url source="wiki">/wiki/tako#Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*atoʔa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/atoʔa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">atúa</form>
+				<concepts>
+					<c>nape</c>
+				</concepts>
+				<url source="wiki">/wiki/atúa#Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*ekʷ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/ekʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">óga</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/óga#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">oka</form>
+				<concepts>
+					<c>burrow</c>
+					<c>hiding place</c>
+					<c>refuge</c>
+					<c>house</c>
+					<c>den</c>
+				</concepts>
+				<url source="wiki">/wiki/oka#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Paraguayan Guaraní</lang>
+				<form script="LATIN">óga, o</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/óga#Paraguayan_Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*ewit</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/ewit</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">eíra</form>
+				<concepts>
+					<c>molasses</c>
+					<c>syrup</c>
+				</concepts>
+				<url source="wiki">/wiki/eíra#Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*eⁿtɨ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/eⁿtɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">tendy</form>
+				<concepts>
+					<c>burn</c>
+					<c>blaze</c>
+				</concepts>
+				<url source="wiki">/wiki/tendy#Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*po</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/po</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">po</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/po#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">pú</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/pú#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">pú</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/pú#Nheengatu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*pɨtˀa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/pɨtˀa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">pyta</form>
+				<concepts>
+					<c>heel</c>
+				</concepts>
+				<url source="wiki">/wiki/pyta#Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*pɨt͡ʃˀã</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/pɨt͡ʃˀã</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">pysã</form>
+				<concepts>
+					<c>finger</c>
+					<c>toe</c>
+				</concepts>
+				<url source="wiki">/wiki/pysã#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">pysã</form>
+				<concepts>
+					<c>toe</c>
+				</concepts>
+				<url source="wiki">/wiki/pysã#Old_Tupi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*tukan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/tukan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">տուկան</form>
+				<translit>tukan</translit>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/տուկան#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">тукан</form>
+				<translit>tukan</translit>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/тукан#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">tucà</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tucà#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">toekan</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/toekan#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">tukano</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tukano#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">tukaani</form>
+				<concepts>
+					<c>toucanet</c>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tukaani#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">toucan</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/toucan#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">tucano</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tucano#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Tukan</form>
+				<concepts>
+					<c>Tucana</c>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/Tukan#German</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">тукан</form>
+				<translit>tukan</translit>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/тукан#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">tukan</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tukan#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">tukana</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tukana#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">tukana</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tukana#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">tukan</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tukan#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">tucano</form>
+				<concepts>
+					<c>supporting</c>
+				</concepts>
+				<url source="wiki">/wiki/tucano#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">tucano</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tucano#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">tucan</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tucan#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">тукан</form>
+				<translit>tukan</translit>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/тукан#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">tucano</form>
+				<concepts>
+					<c>Tucanoan</c>
+				</concepts>
+				<url source="wiki">/wiki/tucano#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">tucán</form>
+				<concepts>
+					<c>toucan</c>
+				</concepts>
+				<url source="wiki">/wiki/tucán#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*tˀɨ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/tˀɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">ty</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="wiki">/wiki/ty#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">y</form>
+				<concepts>
+					<c>humid</c>
+				</concepts>
+				<url source="wiki">/wiki/y#Old_Tupi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*urupˀu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/urupˀu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">urubú</form>
+				<concepts>
+					<c>buzzard</c>
+					<c>black vulture</c>
+				</concepts>
+				<url source="wiki">/wiki/urubú#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">yryvu</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/yryvu#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">urubú</form>
+				<concepts>
+					<c>New World vulture</c>
+				</concepts>
+				<url source="wiki">/wiki/urubú#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">urubu</form>
+				<concepts>
+					<c>New World vulture</c>
+				</concepts>
+				<url source="wiki">/wiki/urubu#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">urubu</form>
+				<concepts>
+					<c>New World vulture</c>
+					<c>referee</c>
+					<c>goth</c>
+					<c>player</c>
+					<c>ambulance chaser</c>
+					<c>funeral director</c>
+					<c>jinx</c>
+					<c>vulture</c>
+					<c>usurer</c>
+				</concepts>
+				<url source="wiki">/wiki/urubu#Portuguese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*wetʲɨk</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/wetʲɨk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">jety</form>
+				<concepts>
+					<c>sweet potato</c>
+				</concepts>
+				<url source="wiki">/wiki/jety#Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*ɨpʷa-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/ɨpʷa-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">yvate</form>
+				<concepts>
+					<c>tall</c>
+					<c>high</c>
+				</concepts>
+				<url source="wiki">/wiki/yvate#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">yvága</form>
+				<concepts>
+					<c>heaven</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/yvága#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">ybaka</form>
+				<concepts>
+					<c>heaven</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ybaka#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">ybaté</form>
+				<concepts>
+					<c>height</c>
+					<c>top</c>
+					<c>altitude</c>
+				</concepts>
+				<url source="wiki">/wiki/ybaté#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">ybaté</form>
+				<concepts>
+					<c>high</c>
+					<c>elevated</c>
+				</concepts>
+				<url source="wiki">/wiki/ybaté#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">ybaté</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ybaté#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">ybaté</form>
+				<concepts>
+					<c>upwards</c>
+				</concepts>
+				<url source="wiki">/wiki/ybaté#Old_Tupi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*ʔɨ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/ʔɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aurá</lang>
+				<form script="LATIN">ʔɨ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔɨ#Aurá</url>
+			</reflex>
+			<reflex>
+				<lang>Awetí</lang>
+				<form script="LATIN">ʔɨ</form>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔɨ#Awetí</url>
+			</reflex>
+			<reflex>
+				<lang>Emerillon</lang>
+				<form script="LATIN">ʔɨ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔɨ#Emerillon</url>
+			</reflex>
+			<reflex>
+				<lang>Guajá</lang>
+				<form script="LATIN">ʔɨ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔɨ#Guajá</url>
+			</reflex>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">y</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/y#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">ií</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ií#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">'y</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/'y#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Tapirapé</lang>
+				<form script="LATIN">ʔɨ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔɨ#Tapirapé</url>
+			</reflex>
+			<reflex>
+				<lang>Tembé</lang>
+				<form script="LATIN">ʔɨ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔɨ#Tembé</url>
+			</reflex>
+			<reflex>
+				<lang>Xingú Asuriní</lang>
+				<form script="LATIN">ʔɨ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔɨ#Xingú_Asuriní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupian</plang>
+			<pform>*ᵑkam</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupian/ᵑkam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">káma</form>
+				<concepts>
+					<c>nipple</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/káma#Guaraní</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

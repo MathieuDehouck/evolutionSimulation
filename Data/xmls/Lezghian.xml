@@ -1,0 +1,459 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*jiq:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/jiq:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕘𐔼</form>
+				<translit>ġi</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕘𐔼#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Budukh</lang>
+				<form script="CYRILLIC">йыгъ</form>
+				<translit>jığ</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/йыгъ#Budukh</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">йугъ</form>
+				<translit>juġ</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/йугъ#Lezgi</url>
+			</reflex>
+			<reflex>
+				<lang>Tabasaran</lang>
+				<form script="CYRILLIC">йигъ</form>
+				<translit>jiġ</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/йигъ#Tabasaran</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">гъи</form>
+				<translit>ɣi</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/гъи#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*jirḳʷ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/jirḳʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕆𐕞𐕡𐕄</form>
+				<translit>hüwḳ</translit>
+				<concepts>
+					<c>mind</c>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕆𐕞𐕡𐕄#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Archi</lang>
+				<form script="CYRILLIC">икӏв</form>
+				<translit>ikʷʼ</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/икӏв#Archi</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">рикӏ</form>
+				<translit>riḳ</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/рикӏ#Lezgi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*melc:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/melc:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕌𐕒𐕡𐔵</form>
+				<translit>muz</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕌𐕒𐕡𐔵#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Archi</lang>
+				<form script="CYRILLIC">мац</form>
+				<translit>mac</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/мац#Archi</url>
+			</reflex>
+			<reflex>
+				<lang>Budukh</lang>
+				<form script="CYRILLIC">мез</form>
+				<translit>mez</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/мез#Budukh</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">мез</form>
+				<translit>mez</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/мез#Lezgi</url>
+			</reflex>
+			<reflex>
+				<lang>Tabasaran</lang>
+				<form script="CYRILLIC">мелз</form>
+				<translit>melz</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/мелз#Tabasaran</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">муз</form>
+				<translit>muz</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/муз#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*muč</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/muč</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕌𐕒𐕡𐕐</form>
+				<translit>muš</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕌𐕒𐕡𐕐#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">муш</form>
+				<translit>muš</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/муш#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*q̇:a</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/q̇:a</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕍𐕈</form>
+				<translit>q̇å</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕍𐕈#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Archi</lang>
+				<form script="CYRILLIC">къа</form>
+				<translit>qʼa</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/къа#Archi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*q̇äl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/q̇äl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐔴𐔾</form>
+				<translit>el</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/𐔴𐔾#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Budukh</lang>
+				<form script="CYRILLIC">кьел</form>
+				<translit>qʼel</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/кьел#Budukh</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">кьел</form>
+				<translit>q̇el</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/кьел#Lezgi</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">ел</form>
+				<translit>el</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/ел#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*req̇ʷ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/req̇ʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">ракь</form>
+				<translit>raq̇</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ракь#Lezgi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*s:a</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/s:a</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕚𐔰</form>
+				<translit>sa</translit>
+				<concepts>
+					<c>but</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕚𐔰#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕚𐔰</form>
+				<translit>sa</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕚𐔰#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Archi</lang>
+				<form script="CYRILLIC">ос</form>
+				<translit>os</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ос#Archi</url>
+			</reflex>
+			<reflex>
+				<lang>Budukh</lang>
+				<form script="CYRILLIC">сад</form>
+				<translit>sad</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/сад#Budukh</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">сад</form>
+				<translit>sad</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/сад#Lezgi</url>
+			</reflex>
+			<reflex>
+				<lang>Tabasaran</lang>
+				<form script="CYRILLIC">саб</form>
+				<translit>sab</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/саб#Tabasaran</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">са</form>
+				<translit>sa</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/са#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*zon</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/zon</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghul</lang>
+				<form script="CYRILLIC">зун</form>
+				<translit>zun</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/зун#Aghul</url>
+			</reflex>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐔵𐕒𐕡</form>
+				<translit>zu</translit>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/𐔵𐕒𐕡#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">зун</form>
+				<translit>zun</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/зун#Lezgi</url>
+			</reflex>
+			<reflex>
+				<lang>Tabasaran</lang>
+				<form script="CYRILLIC">узу</form>
+				<translit>uzu</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/узу#Tabasaran</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">зу</form>
+				<translit>zu</translit>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/зу#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Lezghian</plang>
+			<pform>*ǯʷ(e)-n</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Lezghian/ǯʷ(e)-n</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕛𐔽𐔰𐕎</form>
+				<translit>vˁan</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕛𐔽𐔰𐕎#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">ваън</form>
+				<translit>va̱n</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/ваън#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

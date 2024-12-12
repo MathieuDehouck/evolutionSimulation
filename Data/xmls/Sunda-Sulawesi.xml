@@ -1,0 +1,22 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Sunda-Sulawesi</plang>
+			<pform>*bagus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Sunda-Sulawesi/bagus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Rembong</lang>
+				<form script="LATIN">bagus</form>
+				<concepts>
+					<c>handsome</c>
+				</concepts>
+				<url source="wiki">/wiki/bagus#Rembong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

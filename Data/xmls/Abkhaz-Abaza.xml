@@ -1,0 +1,1577 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*abatɕʰaqʼʲa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/abatɕʰaqʼʲa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ფაცხა</form>
+				<translit>pacxa</translit>
+				<concepts>
+					<c>hut</c>
+				</concepts>
+				<url source="wiki">/wiki/ფაცხა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">paska</form>
+				<concepts>
+					<c>hut</c>
+				</concepts>
+				<url source="wiki">/wiki/paska#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*abǝɣ́ǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/abǝɣ́ǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">бгъьы́</form>
+				<translit>bɣʲə́</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/бгъьы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">абӷьы́</form>
+				<translit>abğʲə́</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/абӷьы#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*adamrá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/adamrá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">дамра́</form>
+				<translit>damrá</translit>
+				<concepts>
+					<c>grave</c>
+				</concepts>
+				<url source="wiki">/wiki/дамра#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">адамра́</form>
+				<translit>adamrá</translit>
+				<concepts>
+					<c>tomb</c>
+					<c>dolmen</c>
+					<c>grave</c>
+				</concepts>
+				<url source="wiki">/wiki/адамра#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*adaɡʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/adaɡʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">дагва</form>
+				<translit>dagʷa</translit>
+				<concepts>
+					<c>deaf</c>
+				</concepts>
+				<url source="wiki">/wiki/дагва#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">адагәа</form>
+				<translit>adagʷa</translit>
+				<concepts>
+					<c>deaf</c>
+				</concepts>
+				<url source="wiki">/wiki/адагәа#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">დაგუ̂ა</form>
+				<translit>dagûa</translit>
+				<concepts>
+					<c>deaf</c>
+				</concepts>
+				<url source="wiki">/wiki/დაგუა#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*adʷǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/adʷǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">адәы́</form>
+				<translit>adʷə́</translit>
+				<concepts>
+					<c>field</c>
+				</concepts>
+				<url source="wiki">/wiki/адәы#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*afá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/afá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">фара́</form>
+				<translit>fará</translit>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/фара#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́фара</form>
+				<translit>áfara</translit>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/афара#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*agʷártʰa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/agʷártʰa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">гва́рта</form>
+				<translit>gʷárta</translit>
+				<concepts>
+					<c>flock</c>
+				</concepts>
+				<url source="wiki">/wiki/гварта#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">агәа́рҭа</form>
+				<translit>agʷárta</translit>
+				<concepts>
+					<c>flock</c>
+				</concepts>
+				<url source="wiki">/wiki/агәарҭа#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">აგვართა</form>
+				<translit>agvarta</translit>
+				<concepts>
+					<c>flock</c>
+				</concepts>
+				<url source="wiki">/wiki/აგვართა#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*akʷá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/akʷá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">ква</form>
+				<translit>kʷa</translit>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/ква#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ақәа́</form>
+				<translit>akʷá</translit>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/ақәа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*amatʰə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/amatʰə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">мата</form>
+				<translit>mata</translit>
+				<concepts>
+					<c>shoulder</c>
+				</concepts>
+				<url source="wiki">/wiki/мата#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">амаҭ</form>
+				<translit>amat</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/амаҭ#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*anǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/anǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">аны́</form>
+				<translit>anə́</translit>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/аны#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́н</form>
+				<translit>án</translit>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/ан#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*atɕʰəɡʷə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/atɕʰəɡʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">цгвы</form>
+				<translit>cgʷə</translit>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/цгвы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ацгәы</form>
+				<translit>acgʷə</translit>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/ацгәы#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*aʃaqʰa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/aʃaqʰa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ашьха</form>
+				<translit>ašxa</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/ашьха#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*aʑʷʕʷan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/aʑʷʕʷan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвгӏванд</form>
+				<translit>žʷʻʷand</translit>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/жвгӏванд#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">аҙәиан</form>
+				<translit>aźʷjan</translit>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/аҙәиан#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*aʑʷʕʷaqar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/aʑʷʕʷaqar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвгӏвахъа</form>
+				<translit>žʷʻʷaqa</translit>
+				<concepts>
+					<c>shoulder</c>
+				</concepts>
+				<url source="wiki">/wiki/жвгӏвахъа#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ажәҩахыр</form>
+				<translit>aẑʷjʷaxər</translit>
+				<concepts>
+					<c>shoulder</c>
+				</concepts>
+				<url source="wiki">/wiki/ажәҩахыр#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*aʕapʰənə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/aʕapʰənə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">гӏапны</form>
+				<translit>ʻapnə</translit>
+				<concepts>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏапны#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ааԥын</form>
+				<translit>aapən</translit>
+				<concepts>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/ааԥын#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">აფუნი</form>
+				<translit>apuni</translit>
+				<concepts>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/აფუნი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*aʕə́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/aʕə́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">агӏба́</form>
+				<translit>aʻbá</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/агӏба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ааба́</form>
+				<translit>aabá</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ааба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*bǝž́ǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/bǝž́ǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">быжьба́</form>
+				<translit>bəźbá</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/быжьба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">бжьба́</form>
+				<translit>bžbá</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/бжьба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*dá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/dá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">да</form>
+				<translit>da</translit>
+				<concepts>
+					<c>vein</c>
+					<c>sinew</c>
+				</concepts>
+				<url source="wiki">/wiki/да#Abaza</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*lasǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/lasǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">ласы́</form>
+				<translit>lasə́</translit>
+				<concepts>
+					<c>light</c>
+				</concepts>
+				<url source="wiki">/wiki/ласы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́лас</form>
+				<translit>álas</translit>
+				<concepts>
+					<c>light</c>
+				</concepts>
+				<url source="wiki">/wiki/алас#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*laśá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/laśá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">ласа́</form>
+				<translit>lasá</translit>
+				<concepts>
+					<c>wool</c>
+				</concepts>
+				<url source="wiki">/wiki/ласа#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́ласа</form>
+				<translit>álasa</translit>
+				<concepts>
+					<c>wool</c>
+				</concepts>
+				<url source="wiki">/wiki/аласа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*lá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/lá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">ла</form>
+				<translit>la</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ла#Abaza</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*mǝšʷǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/mǝšʷǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">мшвы́</form>
+				<translit>mšʷə́</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/мшвы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́мшә</form>
+				<translit>ámŝʷ</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/амшә#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*napxá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/napxá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́наԥха</form>
+				<translit>ánapxa</translit>
+				<concepts>
+					<c>traitor</c>
+				</concepts>
+				<url source="wiki">/wiki/анаԥха#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*pš́ǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/pš́ǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">пщба́</form>
+				<translit>pśbá</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/пщба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ԥшьба́</form>
+				<translit>pšbá</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ԥшьба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*sasə́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/sasə́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">сасы́</form>
+				<translit>sasə́</translit>
+				<concepts>
+					<c>guest</c>
+				</concepts>
+				<url source="wiki">/wiki/сасы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́сас</form>
+				<translit>ásas</translit>
+				<concepts>
+					<c>guest</c>
+				</concepts>
+				<url source="wiki">/wiki/асас#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*sába</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/sába</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">са́ба</form>
+				<translit>sába</translit>
+				<concepts>
+					<c>dust</c>
+				</concepts>
+				<url source="wiki">/wiki/саба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">аса́ба</form>
+				<translit>asába</translit>
+				<concepts>
+					<c>dust</c>
+				</concepts>
+				<url source="wiki">/wiki/асаба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*wasá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/wasá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">уаса́</form>
+				<translit>wasá</translit>
+				<concepts>
+					<c>sheep</c>
+				</concepts>
+				<url source="wiki">/wiki/уаса#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ауаса́</form>
+				<translit>awasá</translit>
+				<concepts>
+					<c>sheep</c>
+				</concepts>
+				<url source="wiki">/wiki/ауаса#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*wárba</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/wárba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">уа́рба</form>
+				<translit>wárba</translit>
+				<concepts>
+					<c>eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/уарба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а-уа́рба</form>
+				<translit>a-wárba</translit>
+				<concepts>
+					<c>kite</c>
+				</concepts>
+				<url source="wiki">/wiki/ауарба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*xǝšǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/xǝšǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">хшы́</form>
+				<translit>xšə́</translit>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/хшы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́хш</form>
+				<translit>áxŝ</translit>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/ахш#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*xǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/xǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">хпа́</form>
+				<translit>xpá</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/хпа#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">хԥа́</form>
+				<translit>xpá</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/хԥа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*xʷǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/xʷǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">хвба́</form>
+				<translit>xʷbá</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/хвба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">хәба́</form>
+				<translit>xʷbá</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/хәба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*zaḱə́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/zaḱə́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">зкьы́</form>
+				<translit>zkʲə́</translit>
+				<concepts>
+					<c>thousand</c>
+				</concepts>
+				<url source="wiki">/wiki/зкьы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">зықы́</form>
+				<translit>zəkə́</translit>
+				<concepts>
+					<c>thousand</c>
+				</concepts>
+				<url source="wiki">/wiki/зықы#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*zá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/zá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">закӏы́</form>
+				<translit>zakʼə́</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/закӏы#Abaza</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*zʷə́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/zʷə́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвба́</form>
+				<translit>žʷbá</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/жвба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәба́</form>
+				<translit>ẑʷbá</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/жәба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*čʷǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/čʷǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">цба́</form>
+				<translit>cbá</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/цба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">фба́</form>
+				<translit>fbá</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/фба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*ħá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/ħá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">хӏа</form>
+				<translit>ḥa</translit>
+				<concepts>
+					<c>pear</c>
+				</concepts>
+				<url source="wiki">/wiki/хӏа#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">аҳа́</form>
+				<translit>aḥá</translit>
+				<concepts>
+					<c>pear</c>
+				</concepts>
+				<url source="wiki">/wiki/аҳа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*śábəša</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/śábəša</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">са́бша</form>
+				<translit>sábša</translit>
+				<concepts>
+					<c>Saturday</c>
+				</concepts>
+				<url source="wiki">/wiki/сабша#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">аса́бша</form>
+				<translit>asábŝa</translit>
+				<concepts>
+					<c>Saturday</c>
+				</concepts>
+				<url source="wiki">/wiki/асабша#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*šʷǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/šʷǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">швкӏы́</form>
+				<translit>šʷkʼə́</translit>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/швкӏы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">шәкы́</form>
+				<translit>ŝʷkʼə́</translit>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/шәкы#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žáḳ́a</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žáḳ́a</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жа́кӏьа</form>
+				<translit>žákʲʼa</translit>
+				<concepts>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/жакӏьа#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ажа́кьа</form>
+				<translit>aẑákʲʼa</translit>
+				<concepts>
+					<c>moustache</c>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/ажакьа#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ბჟაკე</form>
+				<translit>bžaḳe</translit>
+				<concepts>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/ბჟაკე#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жваба́</form>
+				<translit>žʷabá</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/жваба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәаба́</form>
+				<translit>ẑʷabá</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/жәаба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷájəbǝž́ǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷájəbǝž́ǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвибыжь</form>
+				<translit>žʷibəź</translit>
+				<concepts>
+					<c>seventeen</c>
+				</concepts>
+				<url source="wiki">/wiki/жвибыжь#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәибжь</form>
+				<translit>ẑʷibž</translit>
+				<concepts>
+					<c>seventeen</c>
+				</concepts>
+				<url source="wiki">/wiki/жәибжь#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷájəpš́ǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷájəpš́ǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвипщ</form>
+				<translit>žʷipś</translit>
+				<concepts>
+					<c>fourteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жвипщ#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәиԥшь</form>
+				<translit>ẑʷipš</translit>
+				<concepts>
+					<c>fourteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жәиԥшь#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷájəza</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷájəza</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвиз</form>
+				<translit>žʷiz</translit>
+				<concepts>
+					<c>eleven</c>
+				</concepts>
+				<url source="wiki">/wiki/жвиз#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәе́иза</form>
+				<translit>ẑʷéiza</translit>
+				<concepts>
+					<c>eleven</c>
+				</concepts>
+				<url source="wiki">/wiki/жәеиза#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷájəzʷǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷájəzʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвежв</form>
+				<translit>žʷežʷ</translit>
+				<concepts>
+					<c>nineteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жвежв#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">зе́ижә</form>
+				<translit>zéiẑʷ</translit>
+				<concepts>
+					<c>nineteen</c>
+				</concepts>
+				<url source="wiki">/wiki/зеижә#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷáxǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷáxǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвах</form>
+				<translit>žʷax</translit>
+				<concepts>
+					<c>thirteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жвах#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәа́ха</form>
+				<translit>ẑʷáxa</translit>
+				<concepts>
+					<c>thirteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жәаха#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷáxʷǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷáxʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвыхв</form>
+				<translit>žʷəxʷ</translit>
+				<concepts>
+					<c>fifteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жвыхв#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәо́хә</form>
+				<translit>ẑʷóxʷ</translit>
+				<concepts>
+					<c>fifteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жәохә#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷáčʷǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷáčʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвиц</form>
+				<translit>žʷic</translit>
+				<concepts>
+					<c>sixteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жвиц#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәаф</form>
+				<translit>ẑʷaf</translit>
+				<concepts>
+					<c>sixteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жәаф#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷáʕǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷáʕǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвагӏ</form>
+				<translit>žʷaʻ</translit>
+				<concepts>
+					<c>eighteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жвагӏ#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәаа</form>
+				<translit>ẑʷaa</translit>
+				<concepts>
+					<c>eighteen</c>
+				</concepts>
+				<url source="wiki">/wiki/жәаа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*žʷáʕʷǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/žʷáʕʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жвыгӏв</form>
+				<translit>žʷəʻʷ</translit>
+				<concepts>
+					<c>twelve</c>
+				</concepts>
+				<url source="wiki">/wiki/жвыгӏв#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">жәа́ҩа</form>
+				<translit>ẑʷájʷa</translit>
+				<concepts>
+					<c>twelve</c>
+				</concepts>
+				<url source="wiki">/wiki/жәаҩа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*ž́á</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/ž́á</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">жьа́</form>
+				<translit>źá</translit>
+				<concepts>
+					<c>hare</c>
+				</concepts>
+				<url source="wiki">/wiki/жьа#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ажьа́</form>
+				<translit>ažá</translit>
+				<concepts>
+					<c>hare</c>
+				</concepts>
+				<url source="wiki">/wiki/ажьа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*ǵáma</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/ǵáma</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">гьама́</form>
+				<translit>gʲamá</translit>
+				<concepts>
+					<c>taste</c>
+				</concepts>
+				<url source="wiki">/wiki/гьама#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а-гьа́ма</form>
+				<translit>a-gʲáma</translit>
+				<concepts>
+					<c>taste</c>
+				</concepts>
+				<url source="wiki">/wiki/агьама#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*ʕʷǝžʷá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/ʕʷǝžʷá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">гӏважва́</form>
+				<translit>ʻʷažʷá</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏважва#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ҩажәа́</form>
+				<translit>jʷaẑʷá</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/ҩажәа#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Abkhaz-Abaza</plang>
+			<pform>*ʕʷǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Abkhaz-Abaza/ʕʷǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">гӏвба́</form>
+				<translit>ʻʷbá</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏвба#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ҩба́</form>
+				<translit>jʷbá</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ҩба#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

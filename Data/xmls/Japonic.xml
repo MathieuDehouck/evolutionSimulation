@@ -1,0 +1,3424 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*-a</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/-a</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">島</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/島#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">島</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/島#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Kunigami</lang>
+				<form script="CJK">油</form>
+				<translit>andā</translit>
+				<concepts>
+					<c>oil</c>
+				</concepts>
+				<url source="wiki">/wiki/油#Kunigami</url>
+			</reflex>
+			<reflex>
+				<lang>Miyako</lang>
+				<form script="CJK">油</form>
+				<translit>avva</translit>
+				<concepts>
+					<c>oil</c>
+				</concepts>
+				<url source="wiki">/wiki/油#Miyako</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">島</form>
+				<translit>sima</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/島#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*Osi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/Osi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">牛</form>
+				<concepts>
+					<c>ox</c>
+					<c>bull</c>
+					<c>cow</c>
+					<c>beef</c>
+					<c>cattle</c>
+				</concepts>
+				<url source="wiki">/wiki/牛#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Yonaguni</lang>
+				<form script="CJK">牛</form>
+				<translit>uchi</translit>
+				<concepts>
+					<c>cattle</c>
+					<c>cow</c>
+				</concepts>
+				<url source="wiki">/wiki/牛#Yonaguni</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*a</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/a</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">吾</form>
+				<translit>a, are</translit>
+				<concepts>
+					<c>oneself</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/吾#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*amai</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/amai</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">雨</form>
+				<translit>ame2, ama</translit>
+				<concepts>
+					<c>rainfall</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/雨#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*anti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/anti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">味</form>
+				<concepts>
+					<c>flavor</c>
+					<c>charm</c>
+					<c>bad aji</c>
+					<c>taste</c>
+					<c>feeling</c>
+					<c>aji</c>
+					<c>experience</c>
+					<c>sensation</c>
+					<c>flavour</c>
+				</concepts>
+				<url source="wiki">/wiki/味#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">味</form>
+				<concepts>
+					<c>flavor</c>
+					<c>charm</c>
+					<c>bad aji</c>
+					<c>taste</c>
+					<c>feeling</c>
+					<c>aji</c>
+					<c>experience</c>
+					<c>sensation</c>
+					<c>flavour</c>
+				</concepts>
+				<url source="wiki">/wiki/味#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">味</form>
+				<concepts>
+					<c>mysterious</c>
+					<c>strange</c>
+					<c>clever</c>
+					<c>witty</c>
+					<c>smart</c>
+				</concepts>
+				<url source="wiki">/wiki/味#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">味</form>
+				<concepts>
+					<c>mysterious</c>
+					<c>strange</c>
+					<c>clever</c>
+					<c>witty</c>
+					<c>smart</c>
+				</concepts>
+				<url source="wiki">/wiki/味#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*aponki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/aponki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">扇</form>
+				<concepts>
+					<c>fan</c>
+				</concepts>
+				<url source="wiki">/wiki/扇#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*apu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/apu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">会う</form>
+				<concepts>
+					<c>meet with</c>
+					<c>bump into</c>
+					<c>gather</c>
+					<c>come together</c>
+					<c>come across</c>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/会う#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">合う</form>
+				<concepts>
+					<c>agree</c>
+					<c>fit</c>
+					<c>proper</c>
+					<c>match</c>
+				</concepts>
+				<url source="wiki">/wiki/合う#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">合う</form>
+				<concepts>
+					<c>together</c>
+				</concepts>
+				<url source="wiki">/wiki/合う#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*asa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/asa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">明日</form>
+				<concepts>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/明日#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">明日</form>
+				<concepts>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/明日#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">朝</form>
+				<concepts>
+					<c>Japan</c>
+					<c>Democratic People's Republic of Korea</c>
+					<c>Korea</c>
+					<c>morning</c>
+					<c>dynasty</c>
+					<c>epoch</c>
+					<c>regime</c>
+					<c>period</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">朝</form>
+				<concepts>
+					<c>Japan</c>
+					<c>Democratic People's Republic of Korea</c>
+					<c>Korea</c>
+					<c>morning</c>
+					<c>dynasty</c>
+					<c>epoch</c>
+					<c>regime</c>
+					<c>period</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">朝</form>
+				<concepts>
+					<c>downtown</c>
+					<c>morning</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">朝</form>
+				<concepts>
+					<c>downtown</c>
+					<c>morning</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">朝</form>
+				<concepts>
+					<c>dynasty</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">朝</form>
+				<concepts>
+					<c>dynasty</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">朝</form>
+				<translit>asa</translit>
+				<concepts>
+					<c>morn</c>
+					<c>morning</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*asita</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/asita</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">明日</form>
+				<translit>asita</translit>
+				<concepts>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/明日#Old_Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">朝</form>
+				<translit>asita</translit>
+				<concepts>
+					<c>morrow</c>
+				</concepts>
+				<url source="wiki">/wiki/朝#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*awo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/awo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">青</form>
+				<concepts>
+					<c>green</c>
+					<c>green light</c>
+					<c>black</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/青#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">青</form>
+				<concepts>
+					<c>young</c>
+					<c>unripe</c>
+				</concepts>
+				<url source="wiki">/wiki/青#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">青い</form>
+				<concepts>
+					<c>green</c>
+					<c>unripe</c>
+					<c>pale</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/青い#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*awoi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/awoi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">藍</form>
+				<concepts>
+					<c>the</c>
+				</concepts>
+				<url source="wiki">/wiki/藍#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*entu-re</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/entu-re</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="HIRAGANA">いずれ</form>
+				<concepts>
+					<c>eventually</c>
+					<c>someday</c>
+					<c>in the end</c>
+					<c>one day</c>
+					<c>before long</c>
+				</concepts>
+				<url source="wiki">/wiki/いずれ#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*enu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/enu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">狗</form>
+				<concepts>
+					<c>dog</c>
+					<c>puppy</c>
+				</concepts>
+				<url source="wiki">/wiki/狗#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*erə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/erə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">色</form>
+				<concepts>
+					<c>coloring</c>
+					<c>design</c>
+				</concepts>
+				<url source="wiki">/wiki/色#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*esoi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/esoi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">石</form>
+				<translit>isi</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/石#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*ikari</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/ikari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">錨</form>
+				<concepts>
+					<c>anchor</c>
+				</concepts>
+				<url source="wiki">/wiki/錨#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*intomi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/intomi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">泉</form>
+				<concepts>
+					<c>wellspring</c>
+				</concepts>
+				<url source="wiki">/wiki/泉#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*intu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/intu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">出づ</form>
+				<concepts>
+					<c>leave</c>
+					<c>produce</c>
+					<c>pull out</c>
+					<c>come out</c>
+					<c>go out</c>
+					<c>depart</c>
+					<c>show up</c>
+				</concepts>
+				<url source="wiki">/wiki/出づ#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">出づ</form>
+				<translit>idu</translit>
+				<concepts>
+					<c>leave</c>
+					<c>produce</c>
+					<c>pull out</c>
+					<c>come out</c>
+					<c>go out</c>
+					<c>depart</c>
+					<c>show up</c>
+				</concepts>
+				<url source="wiki">/wiki/出づ#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*ipu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/ipu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">言う</form>
+				<concepts>
+					<c>cry</c>
+					<c>name</c>
+					<c>say</c>
+					<c>call</c>
+					<c>tell</c>
+				</concepts>
+				<url source="wiki">/wiki/言う#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*itoko</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/itoko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="HIRAGANA">いとこ</form>
+				<translit>ito1ko1</translit>
+				<concepts>
+					<c>cousin</c>
+					<c>familial</c>
+				</concepts>
+				<url source="wiki">/wiki/いとこ#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kai</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kai</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Okinawan</lang>
+				<form script="CJK">木</form>
+				<translit>kī</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/木#Okinawan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kama</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kama</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">缶</form>
+				<concepts>
+					<c>can</c>
+					<c>tin</c>
+				</concepts>
+				<url source="wiki">/wiki/缶#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kamkapu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kamkapu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">考える</form>
+				<concepts>
+					<c>prepare</c>
+					<c>consider</c>
+					<c>expect</c>
+					<c>imagine</c>
+					<c>reflect</c>
+					<c>think</c>
+					<c>meditate</c>
+					<c>contrive</c>
+				</concepts>
+				<url source="wiki">/wiki/考える#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kamui</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kamui</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ainu</lang>
+				<form script="KATAKANA">カムイ</form>
+				<translit>kamuy</translit>
+				<concepts>
+					<c>bear</c>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/カムイ#Ainu</url>
+			</reflex>
+			<reflex>
+				<lang>Ainu</lang>
+				<form script="KATAKANA">カムイ</form>
+				<translit>kamuy</translit>
+				<concepts>
+					<c>important</c>
+					<c>terrible</c>
+				</concepts>
+				<url source="wiki">/wiki/カムイ#Ainu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kanay</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kanay</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">銀</form>
+				<translit>kane, kana</translit>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/銀#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kanti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kanti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">舵</form>
+				<concepts>
+					<c>tiller</c>
+					<c>helm</c>
+				</concepts>
+				<url source="wiki">/wiki/舵#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kapa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kapa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">川</form>
+				<concepts>
+					<c>river</c>
+					<c>brook</c>
+					<c>stream</c>
+				</concepts>
+				<url source="wiki">/wiki/川#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*katana</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/katana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">刀</form>
+				<concepts>
+					<c>bronze</c>
+					<c>katana</c>
+					<c>scalpel</c>
+					<c>sword</c>
+				</concepts>
+				<url source="wiki">/wiki/刀#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">刀</form>
+				<concepts>
+					<c>knife</c>
+					<c>blade</c>
+					<c>sword</c>
+				</concepts>
+				<url source="wiki">/wiki/刀#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kensu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kensu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">傷</form>
+				<concepts>
+					<c>harm</c>
+					<c>wound</c>
+					<c>injury</c>
+					<c>sorrow</c>
+					<c>damage</c>
+					<c>grief</c>
+				</concepts>
+				<url source="wiki">/wiki/傷#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Kunigami</lang>
+				<form script="CJK">傷</form>
+				<translit>khijī</translit>
+				<concepts>
+					<c>wound</c>
+				</concepts>
+				<url source="wiki">/wiki/傷#Kunigami</url>
+			</reflex>
+			<reflex>
+				<lang>Miyako</lang>
+				<form script="CJK">傷</form>
+				<translit>kizï</translit>
+				<concepts>
+					<c>wound</c>
+				</concepts>
+				<url source="wiki">/wiki/傷#Miyako</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">瑕</form>
+				<translit>ki1zu</translit>
+				<concepts>
+					<c>blemish</c>
+					<c>injury</c>
+					<c>scar</c>
+					<c>crack</c>
+					<c>flaw</c>
+					<c>scratch</c>
+				</concepts>
+				<url source="wiki">/wiki/瑕#Old_Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Yonaguni</lang>
+				<form script="CJK">傷</form>
+				<translit>kidi</translit>
+				<concepts>
+					<c>wound</c>
+				</concepts>
+				<url source="wiki">/wiki/傷#Yonaguni</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kesa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kesa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">今朝</form>
+				<concepts>
+					<c>this morning</c>
+				</concepts>
+				<url source="wiki">/wiki/今朝#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kimi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kimi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">黍</form>
+				<translit>ki1mi1</translit>
+				<concepts>
+					<c>common</c>
+					<c>proso millet</c>
+					<c>Panicum miliaceum</c>
+				</concepts>
+				<url source="wiki">/wiki/黍#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kinəpu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kinəpu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">昨日</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/昨日#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*koy</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/koy</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">黄</form>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/黄#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kumo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kumo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yonaguni</lang>
+				<form script="CJK">雲</form>
+				<translit>nmu</translit>
+				<concepts>
+					<c>cloud</c>
+				</concepts>
+				<url source="wiki">/wiki/雲#Yonaguni</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kunki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kunki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ainu</lang>
+				<form script="KATAKANA">クンギ</form>
+				<translit>kungi</translit>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/クンギ#Ainu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kuntira</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kuntira</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">鯨</form>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/鯨#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="HIRAGANA">くぢら</form>
+				<translit>kudira</translit>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/くぢら#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kusa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kusa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">草</form>
+				<concepts>
+					<c>grass</c>
+					<c>cursive</c>
+					<c>draft</c>
+				</concepts>
+				<url source="wiki">/wiki/草#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kusori</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kusori</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ainu</lang>
+				<form script="KATAKANA">クスリ</form>
+				<translit>kusuri</translit>
+				<concepts>
+					<c>medicine</c>
+				</concepts>
+				<url source="wiki">/wiki/クスリ#Ainu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kuwu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kuwu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">蹴う</form>
+				<translit>kuu</translit>
+				<concepts>
+					<c>kick</c>
+				</concepts>
+				<url source="wiki">/wiki/蹴う#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kəkənə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kəkənə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">九</form>
+				<concepts>
+					<c>a great many</c>
+					<c>myriad</c>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/九#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">九</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/九#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kəmay</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kəmay</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">米</form>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/米#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kəpa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kəpa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">強い</form>
+				<concepts>
+					<c>hard</c>
+					<c>tough</c>
+					<c>stubborn</c>
+					<c>stiff</c>
+				</concepts>
+				<url source="wiki">/wiki/強い#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">怖い</form>
+				<concepts>
+					<c>scared</c>
+					<c>scary</c>
+					<c>frightening</c>
+					<c>afraid</c>
+					<c>terrifying</c>
+					<c>frightened</c>
+				</concepts>
+				<url source="wiki">/wiki/怖い#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kərəsu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kərəsu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="HIRAGANA">ころす</form>
+				<translit>ko2ro2su</translit>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/ころす#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*kəsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/kəsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">腰</form>
+				<concepts>
+					<c>lower back</c>
+					<c>loins</c>
+				</concepts>
+				<url source="wiki">/wiki/腰#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*maparu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/maparu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">回る</form>
+				<concepts>
+					<c>roll</c>
+					<c>go around</c>
+					<c>revolve</c>
+					<c>circulate</c>
+					<c>spin</c>
+					<c>return</c>
+					<c>come around</c>
+					<c>turn</c>
+					<c>prevail</c>
+				</concepts>
+				<url source="wiki">/wiki/回る#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*mapia</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/mapia</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">前</form>
+				<concepts>
+					<c>past</c>
+					<c>previous</c>
+					<c>front</c>
+				</concepts>
+				<url source="wiki">/wiki/前#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*matu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/matu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">松</form>
+				<concepts>
+					<c>pine tree</c>
+				</concepts>
+				<url source="wiki">/wiki/松#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*memensu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/memensu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">蚯蚓</form>
+				<concepts>
+					<c>earthworm</c>
+				</concepts>
+				<url source="wiki">/wiki/蚯蚓#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*mi-ki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/mi-ki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">御酒</form>
+				<translit>mi1ki1</translit>
+				<concepts>
+					<c>wine</c>
+				</concepts>
+				<url source="wiki">/wiki/御酒#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*miti</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/miti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">道</form>
+				<concepts>
+					<c>Taoism</c>
+					<c>Tao</c>
+				</concepts>
+				<url source="wiki">/wiki/道#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*muysV</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/muysV</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">味噌</form>
+				<translit>mèi cēnɡ</translit>
+				<concepts>
+					<c>miso</c>
+				</concepts>
+				<url source="wiki">/wiki/味噌#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">miso</form>
+				<concepts>
+					<c>miso</c>
+				</concepts>
+				<url source="wiki">/wiki/miso#French</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">मिसो</form>
+				<translit>miso</translit>
+				<concepts>
+					<c>miso</c>
+				</concepts>
+				<url source="wiki">/wiki/मिसो#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">miso</form>
+				<concepts>
+					<c>miso</c>
+				</concepts>
+				<url source="wiki">/wiki/miso#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Macanese</lang>
+				<form script="LATIN">missó</form>
+				<concepts>
+					<c>miso</c>
+				</concepts>
+				<url source="wiki">/wiki/missó#Macanese</url>
+			</reflex>
+			<reflex>
+				<lang>Macanese</lang>
+				<form script="LATIN">miçó</form>
+				<concepts>
+					<c>miso</c>
+				</concepts>
+				<url source="wiki">/wiki/miçó#Macanese</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">ми́со</form>
+				<translit>míso</translit>
+				<concepts>
+					<c>miso</c>
+				</concepts>
+				<url source="wiki">/wiki/мисо#Russian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*mənə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/mənə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">物</form>
+				<concepts>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/物#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">物</form>
+				<concepts>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/物#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*naka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/naka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">中</form>
+				<concepts>
+					<c>everywhere</c>
+					<c>during</c>
+					<c>all over</c>
+					<c>throughout</c>
+				</concepts>
+				<url source="wiki">/wiki/中#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*namita</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/namita</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">涙</form>
+				<concepts>
+					<c>teardrop</c>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/涙#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*nana</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/nana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">七</form>
+				<translit>nana</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/七#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*nono</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/nono</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">布</form>
+				<translit>nuno1</translit>
+				<concepts>
+					<c>cloth</c>
+				</concepts>
+				<url source="wiki">/wiki/布#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*nonsi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/nonsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">虹</form>
+				<translit>no1zi, nuzi, nizi</translit>
+				<concepts>
+					<c>rainbow</c>
+				</concepts>
+				<url source="wiki">/wiki/虹#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pVmpV</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pVmpV</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">蛇</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/蛇#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">蛇</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/蛇#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">蛇</form>
+				<translit>pe2mi1</translit>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/蛇#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pako</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pako</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Amis</lang>
+				<form script="LATIN">hako</form>
+				<concepts>
+					<c>box</c>
+				</concepts>
+				<url source="wiki">/wiki/hako#Amis</url>
+			</reflex>
+			<reflex>
+				<lang>Sakizaya</lang>
+				<form script="LATIN">haku</form>
+				<concepts>
+					<c>box</c>
+					<c>case</c>
+				</concepts>
+				<url source="wiki">/wiki/haku#Sakizaya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pana</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Amis</lang>
+				<form script="LATIN">hana</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/hana#Amis</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">花</form>
+				<concepts>
+					<c>red-light district</c>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/花#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Yami</lang>
+				<form script="LATIN">hana</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/hana#Yami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*panay</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/panay</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">羽</form>
+				<translit>pane</translit>
+				<concepts>
+					<c>wing</c>
+					<c>down</c>
+					<c>feather</c>
+					<c>plume</c>
+				</concepts>
+				<url source="wiki">/wiki/羽#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pantukasi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pantukasi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">恥ずかしい</form>
+				<concepts>
+					<c>shy</c>
+					<c>embarrassed</c>
+					<c>embarrassing</c>
+					<c>ashamed</c>
+				</concepts>
+				<url source="wiki">/wiki/恥ずかしい#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pantuy</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pantuy</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">恥</form>
+				<concepts>
+					<c>shame</c>
+				</concepts>
+				<url source="wiki">/wiki/恥#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pato</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pato</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">鳩</form>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/鳩#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*patu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/patu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">初</form>
+				<concepts>
+					<c>first</c>
+				</concepts>
+				<url source="wiki">/wiki/初#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">初</form>
+				<concepts>
+					<c>first</c>
+				</concepts>
+				<url source="wiki">/wiki/初#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">初</form>
+				<concepts>
+					<c>first</c>
+					<c>start</c>
+				</concepts>
+				<url source="wiki">/wiki/初#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">初</form>
+				<concepts>
+					<c>first</c>
+					<c>start</c>
+				</concepts>
+				<url source="wiki">/wiki/初#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">初</form>
+				<translit>patu</translit>
+				<concepts>
+					<c>first</c>
+					<c>new</c>
+					<c>initial</c>
+				</concepts>
+				<url source="wiki">/wiki/初#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*penti</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/penti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">肘</form>
+				<concepts>
+					<c>elbow</c>
+				</concepts>
+				<url source="wiki">/wiki/肘#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">陽</form>
+				<concepts>
+					<c>open</c>
+					<c>yang</c>
+				</concepts>
+				<url source="wiki">/wiki/陽#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">陽</form>
+				<concepts>
+					<c>plus</c>
+					<c>sunlight</c>
+					<c>male</c>
+					<c>positive</c>
+					<c>light</c>
+					<c>yang</c>
+					<c>open</c>
+					<c>sun</c>
+					<c>overt</c>
+				</concepts>
+				<url source="wiki">/wiki/陽#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">日</form>
+				<translit>pi1</translit>
+				<concepts>
+					<c>days</c>
+				</concepts>
+				<url source="wiki">/wiki/日#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pikari</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pikari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">光</form>
+				<concepts>
+					<c>enlightening</c>
+					<c>gleam</c>
+					<c>run out</c>
+					<c>glory</c>
+					<c>honour</c>
+					<c>shine</c>
+					<c>pride</c>
+					<c>exhaust</c>
+					<c>light</c>
+					<c>shining</c>
+					<c>scenery</c>
+					<c>honor</c>
+					<c>gleaming</c>
+				</concepts>
+				<url source="wiki">/wiki/光#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">光</form>
+				<concepts>
+					<c>enlightening</c>
+					<c>gleam</c>
+					<c>run out</c>
+					<c>glory</c>
+					<c>honour</c>
+					<c>shine</c>
+					<c>pride</c>
+					<c>exhaust</c>
+					<c>light</c>
+					<c>shining</c>
+					<c>scenery</c>
+					<c>honor</c>
+					<c>gleaming</c>
+				</concepts>
+				<url source="wiki">/wiki/光#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pikaru</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pikaru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">光</form>
+				<translit>pikaru</translit>
+				<concepts>
+					<c>light</c>
+				</concepts>
+				<url source="wiki">/wiki/光#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*piru</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/piru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">昼</form>
+				<concepts>
+					<c>midday</c>
+					<c>noon</c>
+					<c>day</c>
+					<c>daytime</c>
+				</concepts>
+				<url source="wiki">/wiki/昼#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">晝</form>
+				<translit>pi1ru</translit>
+				<concepts>
+					<c>daytime</c>
+				</concepts>
+				<url source="wiki">/wiki/晝#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*poi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/poi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">火</form>
+				<concepts>
+					<c>Antares</c>
+				</concepts>
+				<url source="wiki">/wiki/火#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">火</form>
+				<concepts>
+					<c>Antares</c>
+				</concepts>
+				<url source="wiki">/wiki/火#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">火</form>
+				<concepts>
+					<c>Tuesday</c>
+					<c>squad</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/火#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">火</form>
+				<concepts>
+					<c>Tuesday</c>
+					<c>squad</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/火#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">火</form>
+				<concepts>
+					<c>fire</c>
+					<c>imminently</c>
+					<c>light</c>
+					<c>explosive</c>
+					<c>passion</c>
+					<c>burning</c>
+				</concepts>
+				<url source="wiki">/wiki/火#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">火</form>
+				<concepts>
+					<c>fire</c>
+					<c>imminently</c>
+					<c>light</c>
+					<c>explosive</c>
+					<c>passion</c>
+					<c>burning</c>
+				</concepts>
+				<url source="wiki">/wiki/火#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*poka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/poka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">外</form>
+				<concepts>
+					<c>external</c>
+					<c>outside</c>
+					<c>except for</c>
+				</concepts>
+				<url source="wiki">/wiki/外#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pənay</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pənay</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">骨</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/骨#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*pəsi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/pəsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">星</form>
+				<translit>posi</translit>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/星#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*sakai</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/sakai</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">սակե</form>
+				<translit>sake</translit>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/սակե#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">sake</form>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/sake#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">zaak</form>
+				<concepts>
+					<c>shop</c>
+					<c>court case</c>
+					<c>thing</c>
+					<c>matter</c>
+					<c>affair</c>
+					<c>a matter</c>
+					<c>business</c>
+					<c>law suit</c>
+					<c>store</c>
+				</concepts>
+				<url source="wiki">/wiki/zaak#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">saké</form>
+				<concepts>
+					<c>rice wine</c>
+					<c>saké</c>
+				</concepts>
+				<url source="wiki">/wiki/saké#English</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">sake</form>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/sake#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">saké</form>
+				<concepts>
+					<c>saké</c>
+					<c>rice wine</c>
+				</concepts>
+				<url source="wiki">/wiki/saké#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Sake</form>
+				<concepts>
+					<c>sake</c>
+					<c>saké</c>
+				</concepts>
+				<url source="wiki">/wiki/Sake#German</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">סָאקֶה</form>
+				<translit>sake</translit>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/סאקה#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">sake</form>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/sake#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">sakè</form>
+				<concepts>
+					<c>sake</c>
+					<c>rice wine</c>
+				</concepts>
+				<url source="wiki">/wiki/sakè#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">sake</form>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/sake#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">saqué</form>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/saqué#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">sake</form>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/sake#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">сакэ́</form>
+				<translit>sakɛ́</translit>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/сакэ#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">sake</form>
+				<concepts>
+					<c>sake</c>
+				</concepts>
+				<url source="wiki">/wiki/sake#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">sake</form>
+				<concepts>
+					<c>saké</c>
+				</concepts>
+				<url source="wiki">/wiki/sake#Swedish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*sato</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/sato</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">里</form>
+				<translit>sato1</translit>
+				<concepts>
+					<c>village</c>
+					<c>hometown</c>
+				</concepts>
+				<url source="wiki">/wiki/里#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*sawo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/sawo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">棹</form>
+				<concepts>
+					<c>shamisen</c>
+				</concepts>
+				<url source="wiki">/wiki/棹#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*sipo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/sipo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">塩</form>
+				<concepts>
+					<c>salt</c>
+					<c>saltiness</c>
+					<c>hardship</c>
+					<c>trouble</c>
+					<c>salter</c>
+					<c>toil</c>
+				</concepts>
+				<url source="wiki">/wiki/塩#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*siroy</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/siroy</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">尻</form>
+				<concepts>
+					<c>butt</c>
+					<c>ass</c>
+				</concepts>
+				<url source="wiki">/wiki/尻#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*sisi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/sisi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">獣</form>
+				<concepts>
+					<c>beast</c>
+				</concepts>
+				<url source="wiki">/wiki/獣#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*sita</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/sita</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Okinawan</lang>
+				<form script="CJK">下</form>
+				<translit>shicha</translit>
+				<concepts>
+					<c>below</c>
+				</concepts>
+				<url source="wiki">/wiki/下#Okinawan</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">下</form>
+				<translit>sita</translit>
+				<concepts>
+					<c>below</c>
+				</concepts>
+				<url source="wiki">/wiki/下#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*suntuy</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/suntuy</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">筋</form>
+				<concepts>
+					<c>muscle</c>
+					<c>vein</c>
+					<c>tendon</c>
+					<c>road</c>
+				</concepts>
+				<url source="wiki">/wiki/筋#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*tanai</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/tanai</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">種</form>
+				<concepts>
+					<c>origin</c>
+					<c>cause</c>
+					<c>class</c>
+					<c>type</c>
+					<c>appeal</c>
+					<c>interest</c>
+				</concepts>
+				<url source="wiki">/wiki/種#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*to</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/to</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jeju</lang>
+				<form script="HANGUL">도</form>
+				<translit>do</translit>
+				<concepts>
+					<c>deity</c>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/도#Jeju</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*tonari</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/tonari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">隣</form>
+				<translit>to1nari</translit>
+				<concepts>
+					<c>neighbor</c>
+					<c>neighbour</c>
+				</concepts>
+				<url source="wiki">/wiki/隣#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*tora</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/tora</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">虎</form>
+				<translit>*to1ra</translit>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/虎#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*tuna</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/tuna</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">綱</form>
+				<concepts>
+					<c>class</c>
+				</concepts>
+				<url source="wiki">/wiki/綱#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*tuyu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/tuyu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">露</form>
+				<concepts>
+					<c>naked</c>
+					<c>frank</c>
+					<c>blatant</c>
+					<c>bare</c>
+					<c>obvious</c>
+					<c>open</c>
+				</concepts>
+				<url source="wiki">/wiki/露#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">露</form>
+				<concepts>
+					<c>naked</c>
+					<c>frank</c>
+					<c>blatant</c>
+					<c>bare</c>
+					<c>obvious</c>
+					<c>open</c>
+				</concepts>
+				<url source="wiki">/wiki/露#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*təpə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/təpə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">遠い</form>
+				<concepts>
+					<c>distant</c>
+					<c>far from</c>
+					<c>long ago</c>
+					<c>far</c>
+					<c>far off</c>
+				</concepts>
+				<url source="wiki">/wiki/遠い#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*uma</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/uma</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ainu</lang>
+				<form script="KATAKANA">ウンマ</form>
+				<translit>umma</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ウンマ#Ainu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*untay</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/untay</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">腕</form>
+				<concepts>
+					<c>arm</c>
+				</concepts>
+				<url source="wiki">/wiki/腕#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*untura</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/untura</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">鶉</form>
+				<concepts>
+					<c>a</c>
+				</concepts>
+				<url source="wiki">/wiki/鶉#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*uwo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/uwo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">魚</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/魚#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">魚</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/魚#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">魚</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/魚#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">魚</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/魚#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*uwu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/uwu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">植える</form>
+				<concepts>
+					<c>raise</c>
+					<c>insert</c>
+					<c>plant</c>
+					<c>inoculate</c>
+					<c>instill</c>
+					<c>implant</c>
+				</concepts>
+				<url source="wiki">/wiki/植える#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wasai</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wasai</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">쌀</form>
+				<translit>ssal</translit>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/쌀#Korean</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wata</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wata</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">腸</form>
+				<concepts>
+					<c>bowels</c>
+				</concepts>
+				<url source="wiki">/wiki/腸#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wepi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wepi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">酔い</form>
+				<concepts>
+					<c>motion sickness</c>
+					<c>drunkenness</c>
+				</concepts>
+				<url source="wiki">/wiki/酔い#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wonpa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wonpa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">叔母</form>
+				<concepts>
+					<c>aunt</c>
+					<c>prostitute</c>
+					<c>prison guard</c>
+				</concepts>
+				<url source="wiki">/wiki/叔母#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wontəru</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wontəru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">踊る</form>
+				<concepts>
+					<c>dance</c>
+				</concepts>
+				<url source="wiki">/wiki/踊る#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wopUi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wopUi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">甥</form>
+				<concepts>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/甥#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wopitə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wopitə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">夫</form>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/夫#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wosamu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wosamu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">修める</form>
+				<concepts>
+					<c>master</c>
+				</concepts>
+				<url source="wiki">/wiki/修める#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">収める</form>
+				<concepts>
+					<c>finish</c>
+					<c>dedicate</c>
+				</concepts>
+				<url source="wiki">/wiki/収める#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">治める</form>
+				<concepts>
+					<c>govern</c>
+					<c>pacify</c>
+					<c>dominate</c>
+					<c>tranquilize</c>
+					<c>suppress</c>
+					<c>rule</c>
+				</concepts>
+				<url source="wiki">/wiki/治める#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wosanki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wosanki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">乎佐藝</form>
+				<translit>wosagi1</translit>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/をさぎ#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*wənə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/wənə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">斧</form>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/斧#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yOnkamu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yOnkamu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">歪む</form>
+				<concepts>
+					<c>warped</c>
+					<c>bend</c>
+					<c>crooked</c>
+					<c>warp</c>
+					<c>twisted</c>
+					<c>deformed</c>
+				</concepts>
+				<url source="wiki">/wiki/歪む#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yama</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yama</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">山</form>
+				<translit>yama</translit>
+				<concepts>
+					<c>hill</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/山#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yapara</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yapara</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">柔ら</form>
+				<concepts>
+					<c>jujitsu</c>
+					<c>judo</c>
+				</concepts>
+				<url source="wiki">/wiki/柔ら#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">柔ら</form>
+				<concepts>
+					<c>jujitsu</c>
+					<c>judo</c>
+				</concepts>
+				<url source="wiki">/wiki/柔ら#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">柔ら</form>
+				<concepts>
+					<c>soft</c>
+					<c>supple</c>
+				</concepts>
+				<url source="wiki">/wiki/柔ら#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">柔ら</form>
+				<concepts>
+					<c>soft</c>
+					<c>supple</c>
+				</concepts>
+				<url source="wiki">/wiki/柔ら#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">柔ら</form>
+				<translit>yapara</translit>
+				<concepts>
+					<c>soft</c>
+					<c>supple</c>
+				</concepts>
+				<url source="wiki">/wiki/柔ら#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">夜</form>
+				<translit>yo1</translit>
+				<concepts>
+					<c>evening</c>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/夜#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yoki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yoki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">雪</form>
+				<translit>yuki1</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/雪#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yoru</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yoru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">夜</form>
+				<translit>yo1ru</translit>
+				<concepts>
+					<c>evening</c>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/夜#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yowa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yowa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">弱い</form>
+				<concepts>
+					<c>powerless</c>
+					<c>vincible</c>
+					<c>delicate</c>
+					<c>inept</c>
+					<c>incompetent</c>
+					<c>weak</c>
+					<c>vulnerable</c>
+				</concepts>
+				<url source="wiki">/wiki/弱い#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yukəpu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yukəpu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">憩う</form>
+				<concepts>
+					<c>give someone a break</c>
+				</concepts>
+				<url source="wiki">/wiki/憩う#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">憩う</form>
+				<concepts>
+					<c>take a breather</c>
+					<c>rest</c>
+					<c>repose</c>
+				</concepts>
+				<url source="wiki">/wiki/憩う#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yupu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yupu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">夕</form>
+				<concepts>
+					<c>evening</c>
+				</concepts>
+				<url source="wiki">/wiki/夕#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">四</form>
+				<translit>yo2</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/四#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yəkə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yəkə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">横</form>
+				<concepts>
+					<c>unexpected</c>
+					<c>sudden</c>
+					<c>self-willed</c>
+					<c>arbitrary</c>
+					<c>horizontal</c>
+					<c>sideways</c>
+					<c>brimming</c>
+				</concepts>
+				<url source="wiki">/wiki/横#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yəməy</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yəməy</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">黃泉</form>
+				<translit>yo2mi2</translit>
+				<concepts>
+					<c>afterworld</c>
+					<c>underworld</c>
+				</concepts>
+				<url source="wiki">/wiki/黃泉#Old_Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*yəynta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/yəynta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">枝</form>
+				<concepts>
+					<c>branch</c>
+					<c>edge</c>
+				</concepts>
+				<url source="wiki">/wiki/枝#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Japonic</plang>
+			<pform>*əpə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Japonic/əpə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">多く</form>
+				<concepts>
+					<c>largely</c>
+					<c>mostly</c>
+				</concepts>
+				<url source="wiki">/wiki/多く#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">多く</form>
+				<concepts>
+					<c>majority</c>
+					<c>a lot</c>
+				</concepts>
+				<url source="wiki">/wiki/多く#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">大</form>
+				<concepts>
+					<c>great</c>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/大#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">大いに</form>
+				<concepts>
+					<c>greatly</c>
+					<c>very</c>
+				</concepts>
+				<url source="wiki">/wiki/大いに#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">大きい</form>
+				<concepts>
+					<c>important</c>
+					<c>crucial</c>
+					<c>broad</c>
+					<c>big</c>
+					<c>immense</c>
+				</concepts>
+				<url source="wiki">/wiki/大きい#Japanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

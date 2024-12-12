@@ -1,0 +1,4016 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ab-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ab-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">абаха</form>
+				<translit>abaxa</translit>
+				<concepts>
+					<c>take</c>
+				</concepts>
+				<url source="wiki">/wiki/абаха#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">авх</form>
+				<translit>avx</translit>
+				<concepts>
+					<c>take</c>
+				</concepts>
+				<url source="wiki">/wiki/авх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">abi</form>
+				<concepts>
+					<c>take</c>
+				</concepts>
+				<url source="wiki">/wiki/abi#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">авах</form>
+				<translit>avax</translit>
+				<concepts>
+					<c>receive</c>
+					<c>seize</c>
+					<c>accept</c>
+					<c>grab</c>
+					<c>claim</c>
+					<c>obtain</c>
+					<c>take off</c>
+					<c>hit</c>
+					<c>acquire</c>
+					<c>assume</c>
+					<c>take</c>
+					<c>appropriate</c>
+					<c>buy</c>
+				</concepts>
+				<url source="wiki">/wiki/авах#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*alima</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/alima</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">алим</form>
+				<translit>alim</translit>
+				<concepts>
+					<c>pear</c>
+					<c>apple</c>
+				</concepts>
+				<url source="wiki">/wiki/алим#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*aral</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/aral</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">阿熱勒</form>
+				<translit>ā rè lè</translit>
+				<concepts>
+					<c>Aral</c>
+					<c>Arele</c>
+				</concepts>
+				<url source="wiki">/wiki/阿熱勒#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Aral</form>
+				<concepts>
+					<c>Xinjiang</c>
+					<c>Aral</c>
+				</concepts>
+				<url source="wiki">/wiki/Aral#English</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">арл</form>
+				<translit>arl</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/арл#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kazakh</lang>
+				<form script="CYRILLIC">арал</form>
+				<translit>aral</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/арал#Kazakh</url>
+			</reflex>
+			<reflex>
+				<lang>Kyrgyz</lang>
+				<form script="CYRILLIC">арал</form>
+				<translit>aral</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/арал#Kyrgyz</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">арал</form>
+				<translit>aral</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/арал#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">aral</form>
+				<concepts>
+					<c>island</c>
+					<c>archipelago</c>
+				</concepts>
+				<url source="wiki">/wiki/aral#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Uyghur</lang>
+				<form script="ARABIC">ئارال</form>
+				<translit>aral</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/ئارال#Uyghur</url>
+			</reflex>
+			<reflex>
+				<lang>Uzbek</lang>
+				<form script="LATIN">orol</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/orol#Uzbek</url>
+			</reflex>
+			<reflex>
+				<lang>Yakut</lang>
+				<form script="CYRILLIC">арыы</form>
+				<translit>arıı</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/арыы#Yakut</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*axïl</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/axïl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">айл</form>
+				<translit>ajl</translit>
+				<concepts>
+					<c>family</c>
+					<c>household</c>
+				</concepts>
+				<url source="wiki">/wiki/айл#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*barï-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/barï-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">барих</form>
+				<translit>barix</translit>
+				<concepts>
+					<c>subjugate</c>
+					<c>build</c>
+					<c>hold</c>
+					<c>grab</c>
+					<c>light</c>
+					<c>make</c>
+					<c>handle</c>
+				</concepts>
+				<url source="wiki">/wiki/барих#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*bi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/bi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">би</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/bi#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">би</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/bi#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Khamnigan Mongol</lang>
+				<form script="CYRILLIC">би</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Khamnigan_Mongol</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Mongol</lang>
+				<form script="MONGOLIAN">ᠪᠢ</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᠢ#Middle_Mongol</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">би</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="MONGOLIAN">ᠪᠢ</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᠢ#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="MONGOLIAN">ᠪᠢ</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᠢ#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*bida</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/bida</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">бидэ</form>
+				<translit>bide</translit>
+				<concepts>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/бидэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">бид</form>
+				<translit>bid</translit>
+				<concepts>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/бид#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">бид</form>
+				<translit>bid</translit>
+				<concepts>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/бид#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*buka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/buka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">буха</form>
+				<translit>buxa</translit>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/буха#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᡠᡴᠠ</form>
+				<translit>buka</translit>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᡠᡴᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">бух</form>
+				<translit>bux</translit>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/бух#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*bulugan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/bulugan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">булһн</form>
+				<translit>bulğn</translit>
+				<concepts>
+					<c>sable</c>
+				</concepts>
+				<url source="wiki">/wiki/булһн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">булга</form>
+				<translit>bulga</translit>
+				<concepts>
+					<c>sable</c>
+				</concepts>
+				<url source="wiki">/wiki/булга#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*casun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/casun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">jasung</form>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/jasung#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">цасн</form>
+				<translit>tsasn</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/цасн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">casun</form>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/casun#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">цас</form>
+				<translit>cas</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/цас#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ci</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ci</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">ши</form>
+				<translit>ši</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/ши#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">чи</form>
+				<translit>çi</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/чи#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">ci</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/ci#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">чи</form>
+				<translit>či</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/чи#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*cïlaxun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/cïlaxun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">чолун</form>
+				<translit>çolun</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/чолун#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">cilo</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/cilo#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">чулуу</form>
+				<translit>čuluu</translit>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+					<c>calculus</c>
+				</concepts>
+				<url source="wiki">/wiki/чулуу#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*dabusun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/dabusun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">дабһан</form>
+				<translit>dabhan</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/дабһан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">давсн</form>
+				<translit>davsn</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/давсн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">давс</form>
+				<translit>davs</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/давс#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*darasun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/darasun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">darasun</form>
+				<concepts>
+					<c>wine</c>
+				</concepts>
+				<url source="wiki">/wiki/darasun#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">дарс</form>
+				<translit>dars</translit>
+				<concepts>
+					<c>wine</c>
+				</concepts>
+				<url source="wiki">/wiki/дарс#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*dorugun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/dorugun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">дорго</form>
+				<translit>dorgo</translit>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/дорго#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*dörben</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/dörben</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">дүрбэн</form>
+				<translit>dürben</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/дүрбэн#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">дөрвн</form>
+				<translit>dörvn</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/дөрвн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">дөрөв</form>
+				<translit>döröv</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/дөрөв#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ebcexün</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ebcexün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">업진</form>
+				<translit>eopjin</translit>
+				<concepts>
+					<c>brisket</c>
+				</concepts>
+				<url source="wiki">/wiki/업진#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">өвчүү</form>
+				<translit>övčüü</translit>
+				<concepts>
+					<c>breastbone</c>
+					<c>sternum</c>
+				</concepts>
+				<url source="wiki">/wiki/өвчүү#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ebül</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ebül</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">үбэл</form>
+				<translit>übel</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/үбэл#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">倫</form>
+				<translit>lún</translit>
+				<concepts>
+					<c>type</c>
+					<c>kind</c>
+					<c>class</c>
+					<c>equal</c>
+					<c>match</c>
+					<c>normal</c>
+					<c>human</c>
+					<c>reason</c>
+					<c>logic</c>
+					<c>coherence</c>
+					<c>order</c>
+					<c>logical</c>
+					<c>sequence</c>
+				</concepts>
+				<url source="wiki">/wiki/倫</url>
+			</reflex>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">補</form>
+				<translit>bǔ</translit>
+				<concepts>
+					<c>compensate</c>
+					<c>repair</c>
+					<c>make up</c>
+					<c>augment</c>
+					<c>increase</c>
+					<c>raise</c>
+					<c>fix</c>
+					<c>nourish</c>
+					<c>mend</c>
+					<c>advantage</c>
+					<c>add</c>
+					<c>benefit</c>
+					<c>E</c>
+					<c>profit</c>
+					<c>Bu</c>
+					<c>recompense</c>
+				</concepts>
+				<url source="wiki">/wiki/補</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">uwun</form>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/uwun#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">үвл</form>
+				<translit>üvl</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/үвл#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">өвөл</form>
+				<translit>övöl</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/өвөл#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ebür</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ebür</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">овур</form>
+				<translit>owur</translit>
+				<concepts>
+					<c>bosom</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/овур#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">өвр</form>
+				<translit>övr</translit>
+				<concepts>
+					<c>bosom</c>
+					<c>southern</c>
+				</concepts>
+				<url source="wiki">/wiki/өвр#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">өвөр</form>
+				<translit>övör</translit>
+				<concepts>
+					<c>bosom</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/өвөр#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">өвөр</form>
+				<translit>övör</translit>
+				<concepts>
+					<c>inner</c>
+				</concepts>
+				<url source="wiki">/wiki/өвөр#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">өвөр</form>
+				<translit>övör</translit>
+				<concepts>
+					<c>inside</c>
+				</concepts>
+				<url source="wiki">/wiki/өвөр#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*eljigen</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/eljigen</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">njige</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/njige#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᡳᡥᡝᠨ</form>
+				<translit>eihen</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᡳᡥᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mangghuer</lang>
+				<form script="LATIN">erjige</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/erjige#Mangghuer</url>
+			</reflex>
+			<reflex>
+				<lang>Mongghul</lang>
+				<form script="LATIN">jige</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/jige#Mongghul</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">илжиг</form>
+				<translit>ilžig</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/илжиг#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*gal</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/gal</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">гал</form>
+				<translit>gal</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/гал#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">khan</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/khan#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">һал</form>
+				<translit>ğal</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/һал#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">гал</form>
+				<translit>gal</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/гал#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*gar-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/gar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">гараха</form>
+				<translit>garaxa</translit>
+				<concepts>
+					<c>go out</c>
+				</concepts>
+				<url source="wiki">/wiki/гараха#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">һарх</form>
+				<translit>ğarx</translit>
+				<concepts>
+					<c>go out</c>
+				</concepts>
+				<url source="wiki">/wiki/һарх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">xar</form>
+				<concepts>
+					<c>go out</c>
+				</concepts>
+				<url source="wiki">/wiki/xar#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">гарах</form>
+				<translit>garax</translit>
+				<concepts>
+					<c>ablative</c>
+				</concepts>
+				<url source="wiki">/wiki/гарах#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">гарах</form>
+				<translit>garax</translit>
+				<concepts>
+					<c>find</c>
+					<c>be born</c>
+					<c>happen</c>
+					<c>climb</c>
+					<c>emerge</c>
+					<c>go out</c>
+					<c>begin</c>
+					<c>break out</c>
+					<c>go over</c>
+					<c>occur</c>
+					<c>born</c>
+					<c>go through</c>
+				</concepts>
+				<url source="wiki">/wiki/гарах#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*gurban</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/gurban</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">гурбан</form>
+				<translit>gurban</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/гурбан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">һурвн</form>
+				<translit>ğurvn</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/һурвн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">һурвн</form>
+				<translit>ğurvn</translit>
+				<concepts>
+					<c>triad</c>
+				</concepts>
+				<url source="wiki">/wiki/һурвн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">гурав</form>
+				<translit>gurav</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/гурав#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*harban</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/harban</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">арбан</form>
+				<translit>arban</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/арбан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">арвн</form>
+				<translit>arvn</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/арвн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">арав</form>
+				<translit>arav</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/арав#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*heligen</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/heligen</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">элкн</form>
+				<translit>elkn</translit>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/элкн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">элэг</form>
+				<translit>eleg</translit>
+				<concepts>
+					<c>mockery</c>
+					<c>derision</c>
+				</concepts>
+				<url source="wiki">/wiki/элэг#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*hulaxan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/hulaxan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">улаан</form>
+				<translit>ulaan</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/улаан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">улан</form>
+				<translit>ulan</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/улан#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">улан</form>
+				<translit>ulan</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/улан#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">улаан</form>
+				<translit>ulaan</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/улаан#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Written Oirat</lang>
+				<form script="MONGOLIAN">ᡇᠯᠠᡃᠨ</form>
+				<translit>ulān</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡇᠯᠠᡃᠨ#Written_Oirat</url>
+			</reflex>
+			<reflex>
+				<lang>Written Oirat</lang>
+				<form script="MONGOLIAN">ᡇᠯᠠᡃᠨ</form>
+				<translit>ulān</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡇᠯᠠᡃᠨ#Written_Oirat</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*hunu-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/hunu-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">унаха</form>
+				<translit>unaxa</translit>
+				<concepts>
+					<c>ride</c>
+				</concepts>
+				<url source="wiki">/wiki/унаха#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">унх</form>
+				<translit>unx</translit>
+				<concepts>
+					<c>ride</c>
+				</concepts>
+				<url source="wiki">/wiki/унх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">унах</form>
+				<translit>unax</translit>
+				<concepts>
+					<c>fall</c>
+				</concepts>
+				<url source="wiki">/wiki/унах#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*hutasun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/hutasun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">ndasung</form>
+				<concepts>
+					<c>thread</c>
+				</concepts>
+				<url source="wiki">/wiki/ndasung#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">ndasun</form>
+				<concepts>
+					<c>thread</c>
+				</concepts>
+				<url source="wiki">/wiki/ndasun#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᡠᡨᠠ</form>
+				<translit>futa</translit>
+				<concepts>
+					<c>rope</c>
+					<c>string</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᡠᡨᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">утас</form>
+				<translit>utas</translit>
+				<concepts>
+					<c>cable</c>
+					<c>wire</c>
+					<c>thread</c>
+					<c>telephone</c>
+					<c>string</c>
+				</concepts>
+				<url source="wiki">/wiki/утас#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ide-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ide-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">эдихэ</form>
+				<translit>edixe</translit>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/эдихэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">идх</form>
+				<translit>idx</translit>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/идх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">идэх</form>
+				<translit>idex</translit>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/идэх#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ire-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ire-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">ерэхэ</form>
+				<translit>jerexe</translit>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/ерэхэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">ire</form>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/ire#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">ирх</form>
+				<translit>irx</translit>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/ирх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">ирэх</form>
+				<translit>irex</translit>
+				<concepts>
+					<c>occur</c>
+					<c>arrive</c>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/ирэх#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*jarïxa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/jarïxa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">заряа</form>
+				<translit>zarjaa</translit>
+				<concepts>
+					<c>hedgehog</c>
+				</concepts>
+				<url source="wiki">/wiki/заряа#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">зара</form>
+				<translit>zara</translit>
+				<concepts>
+					<c>hedgehog</c>
+				</concepts>
+				<url source="wiki">/wiki/зара#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зараа</form>
+				<translit>zaraa</translit>
+				<concepts>
+					<c>hedgehog</c>
+				</concepts>
+				<url source="wiki">/wiki/зараа#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*jaxun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/jaxun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">зуун</form>
+				<translit>zuun</translit>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/зуун#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зуу</form>
+				<translit>zuu</translit>
+				<concepts>
+					<c>one hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/зуу#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="MONGOLIAN">ᠵᠠᠭᠤᠨ</form>
+				<translit>ǰaɣun</translit>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᠠᠭᠤᠨ#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*jerge</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/jerge</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">cərgə</form>
+				<concepts>
+					<c>array</c>
+					<c>row</c>
+					<c>order</c>
+					<c>file</c>
+					<c>line</c>
+					<c>rank</c>
+				</concepts>
+				<url source="wiki">/wiki/cərgə#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">чарга</form>
+				<translit>čarha</translit>
+				<concepts>
+					<c>queue</c>
+					<c>turn</c>
+				</concepts>
+				<url source="wiki">/wiki/чарга#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Chuvash</lang>
+				<form script="CYRILLIC">йӗрке</form>
+				<translit>jĕrk̬e</translit>
+				<concepts>
+					<c>order</c>
+					<c>line</c>
+				</concepts>
+				<url source="wiki">/wiki/йӗрке#Chuvash</url>
+			</reflex>
+			<reflex>
+				<lang>Hungarian</lang>
+				<form script="LATIN">sereg</form>
+				<concepts>
+					<c>army</c>
+					<c>pile</c>
+					<c>crowd</c>
+					<c>lot</c>
+					<c>flock</c>
+					<c>heap</c>
+					<c>multitude</c>
+				</concepts>
+				<url source="wiki">/wiki/sereg#Hungarian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Mongol</lang>
+				<form script="MONGOLIAN">ᠵᠡᠷᠭᠡ</form>
+				<translit>ǰerge</translit>
+				<concepts>
+					<c>row</c>
+					<c>rank</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᠡᠷᠭᠡ#Middle_Mongol</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зэрэг</form>
+				<translit>zereg</translit>
+				<concepts>
+					<c>adjacent</c>
+					<c>graded</c>
+					<c>degreed</c>
+					<c>simultaneous</c>
+				</concepts>
+				<url source="wiki">/wiki/зэрэг#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зэрэг</form>
+				<translit>zereg</translit>
+				<concepts>
+					<c>as soon as</c>
+					<c>simultaneously</c>
+					<c>together</c>
+					<c>and so on</c>
+					<c>adjacently</c>
+				</concepts>
+				<url source="wiki">/wiki/зэрэг#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зэрэг</form>
+				<translit>zereg</translit>
+				<concepts>
+					<c>category</c>
+					<c>sort</c>
+					<c>class</c>
+					<c>power</c>
+					<c>title</c>
+					<c>row</c>
+					<c>kind</c>
+					<c>ordinality</c>
+					<c>rank</c>
+					<c>degree</c>
+					<c>degree of comparison</c>
+					<c>grade</c>
+				</concepts>
+				<url source="wiki">/wiki/зэрэг#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Pashto</lang>
+				<form script="ARABIC">جرګه</form>
+				<translit>jarga(h)</translit>
+				<concepts>
+					<c>council</c>
+					<c>jirga</c>
+					<c>assembly</c>
+				</concepts>
+				<url source="wiki">/wiki/جرګه#Pashto</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">szereg</form>
+				<concepts>
+					<c>array</c>
+					<c>a number of</c>
+				</concepts>
+				<url source="wiki">/wiki/szereg#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">szereg</form>
+				<concepts>
+					<c>row</c>
+					<c>array</c>
+					<c>series</c>
+				</concepts>
+				<url source="wiki">/wiki/szereg#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">șirag</form>
+				<concepts>
+					<c>string</c>
+				</concepts>
+				<url source="wiki">/wiki/șirag#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">шере́нга</form>
+				<translit>šerénga</translit>
+				<concepts>
+					<c>row</c>
+					<c>rank</c>
+				</concepts>
+				<url source="wiki">/wiki/шеренга#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">šèreg</form>
+				<concepts>
+					<c>crew</c>
+					<c>troop</c>
+					<c>host</c>
+					<c>multitude</c>
+				</concepts>
+				<url source="wiki">/wiki/šereg#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">черга</form>
+				<translit>čerha</translit>
+				<concepts>
+					<c>queue</c>
+					<c>turn</c>
+				</concepts>
+				<url source="wiki">/wiki/черга#Ukrainian</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">جرگہ</form>
+				<concepts>
+					<c>council</c>
+					<c>jirga</c>
+				</concepts>
+				<url source="wiki">/wiki/جرگہ#Urdu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*jirüken</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/jirüken</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">зүрхэн</form>
+				<translit>zürxen</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/зүрхэн#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">зүркн</form>
+				<translit>zürkn</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/зүркн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Khamnigan Mongol</lang>
+				<form script="CYRILLIC">дзүрэкү</form>
+				<translit>dzürekü</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/дзүрэкү#Khamnigan_Mongol</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зүрх</form>
+				<translit>zürx</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/зүрх#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="MONGOLIAN">ᠵᠢᠷᠦᠬᠡ</form>
+				<translit>ǰirüke</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᠢᠷᠦᠬᠡ#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*jujaxan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/jujaxan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">зузаан</form>
+				<translit>zuzaan</translit>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/зузаан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">zhuzhan</form>
+				<concepts>
+					<c>thick</c>
+					<c>dense</c>
+				</concepts>
+				<url source="wiki">/wiki/zhuzhan#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">зузан</form>
+				<translit>zuzan</translit>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/зузан#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зузаан</form>
+				<translit>zuzaan</translit>
+				<concepts>
+					<c>thick</c>
+					<c>close</c>
+					<c>dense</c>
+				</concepts>
+				<url source="wiki">/wiki/зузаан#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*juljïgan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/juljïgan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">jeljegha</form>
+				<concepts>
+					<c>young</c>
+				</concepts>
+				<url source="wiki">/wiki/jeljegha#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">jenjeghe</form>
+				<concepts>
+					<c>young</c>
+				</concepts>
+				<url source="wiki">/wiki/jenjeghe#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зулзага</form>
+				<translit>zulzaga</translit>
+				<concepts>
+					<c>fledgling</c>
+					<c>shoot</c>
+					<c>cub</c>
+					<c>sprout</c>
+				</concepts>
+				<url source="wiki">/wiki/зулзага#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*jïda</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/jïda</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">cida</form>
+				<concepts>
+					<c>lance</c>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/cida#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">дзі́да</form>
+				<translit>dzída</translit>
+				<concepts>
+					<c>pike</c>
+					<c>lance</c>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/дзіда#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">жада</form>
+				<translit>žada</translit>
+				<concepts>
+					<c>lance</c>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/жада#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">жад</form>
+				<translit>žad</translit>
+				<concepts>
+					<c>foreign</c>
+				</concepts>
+				<url source="wiki">/wiki/жад#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">dzida</form>
+				<concepts>
+					<c>bimbo</c>
+					<c>catheter</c>
+					<c>airhead</c>
+					<c>spear</c>
+					<c>shaft</c>
+					<c>pike</c>
+				</concepts>
+				<url source="wiki">/wiki/dzida#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">cidden</form>
+				<concepts>
+					<c>really</c>
+					<c>greatly</c>
+					<c>seriously</c>
+					<c>truly</c>
+				</concepts>
+				<url source="wiki">/wiki/cidden#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkmen</lang>
+				<form script="LATIN">ýat</form>
+				<concepts>
+					<c>foreign</c>
+				</concepts>
+				<url source="wiki">/wiki/ýat#Turkmen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*jïgasun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/jïgasun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">загаһан</form>
+				<translit>zagahan</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/загаһан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Daur</lang>
+				<form script="LATIN">jaus</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/jaus#Daur</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">заһсн</form>
+				<translit>zağsn</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/заһсн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongghul</lang>
+				<form script="LATIN">jighasi</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/jighasi#Mongghul</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">загас</form>
+				<translit>zagas</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/загас#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kada</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kada</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">хада</form>
+				<translit>xada</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/хада#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хад</form>
+				<translit>xad</translit>
+				<concepts>
+					<c>blackcurrant</c>
+				</concepts>
+				<url source="wiki">/wiki/хад#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kaïcï</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kaïcï</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">কেঁচি</form>
+				<translit>kẽsi</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/কেঁচি#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">qayçı</form>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/qayçı#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Bashkir</lang>
+				<form script="CYRILLIC">ҡайсы</form>
+				<translit>qaysı</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/ҡайсы#Bashkir</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">কাঁচি</form>
+				<translit>kãci</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/কাঁচি#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">хайша</form>
+				<translit>xajša</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/хайша#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Central Kurdish</lang>
+				<form script="ARABIC">قەیچی</form>
+				<translit>qeyçî</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/قەیچی#Central_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">海</form>
+				<translit>hǎi</translit>
+				<concepts>
+					<c>abroad</c>
+					<c>randomly</c>
+					<c>casually</c>
+					<c>sea</c>
+					<c>profuse</c>
+					<c>unrestrainedly</c>
+					<c>hoi</c>
+					<c>overseas</c>
+					<c>abundance</c>
+					<c>infiniteness</c>
+					<c>numerous</c>
+					<c>ocean</c>
+					<c>big</c>
+					<c>Hai</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/海</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">क़ैंची</form>
+				<translit>qa͠icī</translit>
+				<concepts>
+					<c>shears</c>
+					<c>scissors</c>
+					<c>clippers</c>
+				</concepts>
+				<url source="wiki">/wiki/क़ैंची#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">хәәч</form>
+				<translit>xääç</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/хәәч#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kazakh</lang>
+				<form script="CYRILLIC">қайшы</form>
+				<translit>qaişy</translit>
+				<concepts>
+					<c>contradictory</c>
+				</concepts>
+				<url source="wiki">/wiki/қайшы#Kazakh</url>
+			</reflex>
+			<reflex>
+				<lang>Kazakh</lang>
+				<form script="CYRILLIC">қайшы</form>
+				<translit>qaişy</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/қайшы#Kazakh</url>
+			</reflex>
+			<reflex>
+				<lang>Kyrgyz</lang>
+				<form script="CYRILLIC">кайчы</form>
+				<translit>kaycı</translit>
+				<concepts>
+					<c>pair of scissors</c>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/кайчы#Kyrgyz</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хайч</form>
+				<translit>xajč</translit>
+				<concepts>
+					<c>pliers</c>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/хайч#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">قیچی</form>
+				<translit>qeyči</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/قیچی#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਕੈਂਚੀ</form>
+				<translit>kaiñcī</translit>
+				<concepts>
+					<c>shears</c>
+					<c>scissors</c>
+					<c>clippers</c>
+				</concepts>
+				<url source="wiki">/wiki/ਕੈਂਚੀ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Talysh</lang>
+				<form script="LATIN">ğayçi</form>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/ğayçi#Talysh</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">قَین٘چی</form>
+				<translit>qa͠icī</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/قینچی#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">قینچی</form>
+				<translit>qaiñcī</translit>
+				<concepts>
+					<c>scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/قینچی#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Uzbek</lang>
+				<form script="LATIN">qaychi</form>
+				<concepts>
+					<c>pair of scissors</c>
+				</concepts>
+				<url source="wiki">/wiki/qaychi#Uzbek</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">hải</form>
+				<translit>海</translit>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/hải#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kelen</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kelen</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">kielien</form>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/kielien#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">келн</form>
+				<translit>keln</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/келн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="MONGOLIAN">ᠬᠡᠯᠡ</form>
+				<translit>kele</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠬᠡᠯᠡ#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kuruxun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kuruxun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">ghurun</form>
+				<concepts>
+					<c>flour</c>
+					<c>powder</c>
+				</concepts>
+				<url source="wiki">/wiki/ghurun#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">хурһн</form>
+				<translit>xurğn</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/хурһн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хуруу</form>
+				<translit>xuruu</translit>
+				<concepts>
+					<c>finger</c>
+					<c>spoke</c>
+					<c>toe</c>
+				</concepts>
+				<url source="wiki">/wiki/хуруу#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kurïgan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kurïgan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">ghurghang</form>
+				<concepts>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/ghurghang#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">ghugvan</form>
+				<concepts>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/ghugvan#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">ghurghun</form>
+				<concepts>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/ghurghun#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хурга</form>
+				<translit>xurga</translit>
+				<concepts>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/хурга#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kuxur</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kuxur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">хур</form>
+				<translit>xur</translit>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/хур#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">хуур</form>
+				<translit>xuur</translit>
+				<concepts>
+					<c>musical instrument</c>
+					<c>violin</c>
+					<c>fiddle</c>
+					<c>string instrument</c>
+				</concepts>
+				<url source="wiki">/wiki/хуур#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Mongol</lang>
+				<form script="MONGOLIAN">ᠬᠤᠭᠤᠷ</form>
+				<translit>quɣur</translit>
+				<concepts>
+					<c>lute</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠬᠤᠭᠤᠷ#Middle_Mongol</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хуур</form>
+				<translit>xuur</translit>
+				<concepts>
+					<c>musical instrument</c>
+					<c>violin</c>
+					<c>fiddle</c>
+					<c>string instrument</c>
+				</concepts>
+				<url source="wiki">/wiki/хуур#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kïmusun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kïmusun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">ghimusun</form>
+				<concepts>
+					<c>hoof</c>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/ghimusun#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">хумсн</form>
+				<translit>xumsn</translit>
+				<concepts>
+					<c>fingernail</c>
+					<c>claw</c>
+				</concepts>
+				<url source="wiki">/wiki/хумсн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хумс</form>
+				<translit>xums</translit>
+				<concepts>
+					<c>trigger</c>
+					<c>clove</c>
+				</concepts>
+				<url source="wiki">/wiki/хумс#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kökexür</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kökexür</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">kukur</form>
+				<concepts>
+					<c>quiver</c>
+				</concepts>
+				<url source="wiki">/wiki/kukur#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">cucurum</form>
+				<concepts>
+					<c>quiver</c>
+				</concepts>
+				<url source="wiki">/wiki/cucurum#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хөхүүр</form>
+				<translit>xöxüür</translit>
+				<concepts>
+					<c>snuffbox</c>
+					<c>waterskin</c>
+					<c>goatskin</c>
+				</concepts>
+				<url source="wiki">/wiki/хөхүүр#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">cucură</form>
+				<concepts>
+					<c>quiver</c>
+				</concepts>
+				<url source="wiki">/wiki/cucură#Romanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*küjüxün</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/küjüxün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">gujung</form>
+				<concepts>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/gujung#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Daur</lang>
+				<form script="LATIN">xujuu</form>
+				<concepts>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/xujuu#Daur</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">ghuzhun</form>
+				<concepts>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/ghuzhun#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">күзүн</form>
+				<translit>küzün</translit>
+				<concepts>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/күзүн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kangjia</lang>
+				<form script="LATIN">güjün</form>
+				<concepts>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/güjün#Kangjia</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хүзүү</form>
+				<translit>xüzüü</translit>
+				<concepts>
+					<c>neck</c>
+					<c>headland</c>
+				</concepts>
+				<url source="wiki">/wiki/хүзүү#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*kür-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/kür-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">хүрэхэ</form>
+				<translit>xürexe</translit>
+				<concepts>
+					<c>reach</c>
+					<c>arrive at</c>
+				</concepts>
+				<url source="wiki">/wiki/хүрэхэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">күрх</form>
+				<translit>kürx</translit>
+				<concepts>
+					<c>reach</c>
+					<c>arrive at</c>
+				</concepts>
+				<url source="wiki">/wiki/күрх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">хүрэх</form>
+				<translit>xürex</translit>
+				<concepts>
+					<c>suffice</c>
+					<c>reach</c>
+					<c>arrive at</c>
+					<c>accomplish</c>
+				</concepts>
+				<url source="wiki">/wiki/хүрэх#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*mede-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/mede-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">мэдэхэ</form>
+				<translit>medexe</translit>
+				<concepts>
+					<c>know</c>
+				</concepts>
+				<url source="wiki">/wiki/мэдэхэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">mejie</form>
+				<concepts>
+					<c>know</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/mejie#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">медх</form>
+				<translit>medx</translit>
+				<concepts>
+					<c>govern</c>
+					<c>understand</c>
+					<c>recognise</c>
+					<c>know</c>
+					<c>manage</c>
+				</concepts>
+				<url source="wiki">/wiki/медх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">мэдэх</form>
+				<translit>medex</translit>
+				<concepts>
+					<c>understand</c>
+					<c>know</c>
+					<c>maybe</c>
+					<c>probably</c>
+					<c>in charge</c>
+				</concepts>
+				<url source="wiki">/wiki/мэдэх#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*modun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/modun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">mutun</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/mutun#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">модн</form>
+				<translit>modn</translit>
+				<concepts>
+					<c>twig</c>
+					<c>timber</c>
+					<c>branch</c>
+					<c>wood</c>
+					<c>tree</c>
+					<c>forest</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/модн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">мод</form>
+				<translit>mod</translit>
+				<concepts>
+					<c>lumber</c>
+					<c>skateboard</c>
+					<c>timber</c>
+					<c>grove</c>
+					<c>wood</c>
+					<c>tree</c>
+					<c>firewood</c>
+					<c>stave</c>
+					<c>staff</c>
+					<c>arbor</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/мод#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*namur</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/namur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">намар</form>
+				<translit>namar</translit>
+				<concepts>
+					<c>fall</c>
+					<c>autumn</c>
+				</concepts>
+				<url source="wiki">/wiki/намар#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">намр</form>
+				<translit>namr</translit>
+				<concepts>
+					<c>fall</c>
+					<c>autumn</c>
+				</concepts>
+				<url source="wiki">/wiki/намр#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">намар</form>
+				<translit>namar</translit>
+				<concepts>
+					<c>fall</c>
+					<c>autumn</c>
+				</concepts>
+				<url source="wiki">/wiki/намар#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*naxur</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/naxur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">nohur</form>
+				<concepts>
+					<c>puddle</c>
+					<c>pond</c>
+				</concepts>
+				<url source="wiki">/wiki/nohur#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">нуур</form>
+				<translit>nuur</translit>
+				<concepts>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/нуур#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">惱</form>
+				<translit>nǎo</translit>
+				<concepts>
+					<c>angered</c>
+					<c>irritated</c>
+					<c>dislike</c>
+					<c>hate</c>
+					<c>unhappy</c>
+					<c>loathe</c>
+					<c>vexed</c>
+				</concepts>
+				<url source="wiki">/wiki/惱</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">нур</form>
+				<translit>nur</translit>
+				<concepts>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/нур#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">нуур</form>
+				<translit>nuur</translit>
+				<concepts>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/нуур#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="MONGOLIAN">ᠨᠠᠭᠤᠷ</form>
+				<translit>naɣur</translit>
+				<concepts>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᠠᠭᠤᠷ#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*nayiman</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/nayiman</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">найман</form>
+				<translit>najman</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/найман#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">нәәмн</form>
+				<translit>näämn</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/нәәмн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">найм</form>
+				<translit>najm</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/найм#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*nixe-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/nixe-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">нээхэ</form>
+				<translit>neexe</translit>
+				<concepts>
+					<c>open</c>
+				</concepts>
+				<url source="wiki">/wiki/нээхэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Mongol</lang>
+				<form script="MONGOLIAN">ᠨᠡᠭᠡᠬᠦᠢ</form>
+				<translit>negeküi</translit>
+				<concepts>
+					<c>open</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᠡᠭᠡᠬᠦᠢ#Middle_Mongol</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">нээх</form>
+				<translit>neex</translit>
+				<concepts>
+					<c>open</c>
+				</concepts>
+				<url source="wiki">/wiki/нээх#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*nokaï</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/nokaï</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">нохой</form>
+				<translit>noxoj</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/нохой#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">ноха</form>
+				<translit>noxa</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ноха#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mangghuer</lang>
+				<form script="LATIN">nughuai</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/nughuai#Mangghuer</url>
+			</reflex>
+			<reflex>
+				<lang>Mongghul</lang>
+				<form script="LATIN">nuhui</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/nuhui#Mongghul</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">нохой</form>
+				<translit>noxoj</translit>
+				<concepts>
+					<c>villain</c>
+					<c>intricate</c>
+					<c>wolf</c>
+					<c>dog</c>
+					<c>difficult</c>
+				</concepts>
+				<url source="wiki">/wiki/нохой#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*sidün</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/sidün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">堵</form>
+				<translit>dū</translit>
+				<concepts>
+					<c>encounter</c>
+					<c>stifled</c>
+					<c>stop up</c>
+					<c>suffocated</c>
+					<c>block up</c>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/堵</url>
+			</reflex>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">失</form>
+				<translit>shī</translit>
+				<concepts>
+					<c>fail</c>
+					<c>neglect</c>
+					<c>fault</c>
+					<c>mislay</c>
+					<c>wrongdoing</c>
+					<c>lose</c>
+					<c>miss</c>
+					<c>lose track</c>
+					<c>breach</c>
+					<c>violate</c>
+					<c>mistake</c>
+				</concepts>
+				<url source="wiki">/wiki/失</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">shidun</form>
+				<concepts>
+					<c>prong</c>
+					<c>tooth</c>
+					<c>cog</c>
+				</concepts>
+				<url source="wiki">/wiki/shidun#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">шүдн</form>
+				<translit>şüdn</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/шүдн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">шүд</form>
+				<translit>šüd</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/шүд#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*sirexe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/sirexe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">şirə</form>
+				<concepts>
+					<c>crux</c>
+					<c>gist</c>
+					<c>juice</c>
+					<c>cream</c>
+					<c>sap</c>
+					<c>nectar</c>
+				</concepts>
+				<url source="wiki">/wiki/şirə#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">shire</form>
+				<concepts>
+					<c>table</c>
+				</concepts>
+				<url source="wiki">/wiki/shire#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Hijazi Arabic</lang>
+				<form script="ARABIC">شيرة</form>
+				<translit>šīra</translit>
+				<concepts>
+					<c>syrup</c>
+				</concepts>
+				<url source="wiki">/wiki/شيرة#Hijazi_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">ширә</form>
+				<translit>şirä</translit>
+				<concepts>
+					<c>throne</c>
+					<c>table</c>
+				</concepts>
+				<url source="wiki">/wiki/ширә#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kazakh</lang>
+				<form script="CYRILLIC">сыра</form>
+				<translit>syra</translit>
+				<concepts>
+					<c>beer</c>
+				</concepts>
+				<url source="wiki">/wiki/сыра#Kazakh</url>
+			</reflex>
+			<reflex>
+				<lang>Kyrgyz</lang>
+				<form script="CYRILLIC">сыра</form>
+				<translit>sıra</translit>
+				<concepts>
+					<c>beer</c>
+				</concepts>
+				<url source="wiki">/wiki/сыра#Kyrgyz</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">шира</form>
+				<translit>šira</translit>
+				<concepts>
+					<c>must</c>
+				</concepts>
+				<url source="wiki">/wiki/шира#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">ширээ</form>
+				<translit>širee</translit>
+				<concepts>
+					<c>table</c>
+				</concepts>
+				<url source="wiki">/wiki/ширээ#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">شیره</form>
+				<translit>šire</translit>
+				<concepts>
+					<c>juice</c>
+					<c>vigor</c>
+					<c>new wine</c>
+					<c>sap</c>
+				</concepts>
+				<url source="wiki">/wiki/شیره#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">шѝра</form>
+				<concepts>
+					<c>must</c>
+				</concepts>
+				<url source="wiki">/wiki/шира#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Altai</lang>
+				<form script="CYRILLIC">сыра</form>
+				<translit>sïra</translit>
+				<concepts>
+					<c>beer</c>
+				</concepts>
+				<url source="wiki">/wiki/сыра#Southern_Altai</url>
+			</reflex>
+			<reflex>
+				<lang>Tatar</lang>
+				<form script="CYRILLIC">сыра</form>
+				<translit>sıra</translit>
+				<concepts>
+					<c>beer</c>
+				</concepts>
+				<url source="wiki">/wiki/сыра#Tatar</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">şıra</form>
+				<concepts>
+					<c>must</c>
+				</concepts>
+				<url source="wiki">/wiki/şıra#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkmen</lang>
+				<form script="LATIN">şire</form>
+				<concepts>
+					<c>juice</c>
+				</concepts>
+				<url source="wiki">/wiki/şire#Turkmen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*solaŋga</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/solaŋga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">һолонго</form>
+				<translit>holongo</translit>
+				<concepts>
+					<c>rainbow</c>
+				</concepts>
+				<url source="wiki">/wiki/һолонго#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">солңһ</form>
+				<translit>solñğ</translit>
+				<concepts>
+					<c>rainbow</c>
+				</concepts>
+				<url source="wiki">/wiki/солңһ#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongghul</lang>
+				<form script="LATIN">snaghua</form>
+				<concepts>
+					<c>haze</c>
+					<c>rainbow</c>
+					<c>mist</c>
+					<c>steam</c>
+				</concepts>
+				<url source="wiki">/wiki/snaghua#Mongghul</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">солонго</form>
+				<translit>solongo</translit>
+				<concepts>
+					<c>rainbow</c>
+				</concepts>
+				<url source="wiki">/wiki/солонго#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*sormusun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/sormusun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">сормуус</form>
+				<translit>sormuus</translit>
+				<concepts>
+					<c>eyelash</c>
+				</concepts>
+				<url source="wiki">/wiki/сормуус#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*tarbagan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/tarbagan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khakas</lang>
+				<form script="CYRILLIC">тарбаған</form>
+				<translit>tarbağan</translit>
+				<concepts>
+					<c>tarbagan</c>
+					<c>marmot</c>
+				</concepts>
+				<url source="wiki">/wiki/тарбаған#Khakas</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡨᠠᡵᠪᠠᡥᡳ</form>
+				<translit>tarbahi</translit>
+				<concepts>
+					<c>marmot</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡨᠠᡵᠪᠠᡥᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">тарвага</form>
+				<translit>tarvaga</translit>
+				<concepts>
+					<c>tarbagan</c>
+					<c>small</c>
+					<c>marmot</c>
+				</concepts>
+				<url source="wiki">/wiki/тарвага#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*taxulai</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/taxulai</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">туула</form>
+				<translit>tuula</translit>
+				<concepts>
+					<c>hare</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/туула#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mangghuer</lang>
+				<form script="LATIN">taolai</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/taolai#Mangghuer</url>
+			</reflex>
+			<reflex>
+				<lang>Mogholi</lang>
+				<form script="ARABIC">ایتوله</form>
+				<translit>ītaula</translit>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/ایتوله#Mogholi</url>
+			</reflex>
+			<reflex>
+				<lang>Mongghul</lang>
+				<form script="LATIN">tuulii</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/tuulii#Mongghul</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">туулай</form>
+				<translit>tuulaj</translit>
+				<concepts>
+					<c>hare</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/туулай#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*temexen</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/temexen</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">темән</form>
+				<translit>temän</translit>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/темән#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡨᡝᠮᡝᠨ</form>
+				<translit>temen</translit>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡨᡝᠮᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">тэмээ</form>
+				<translit>temee</translit>
+				<concepts>
+					<c>bishop</c>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/тэмээ#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">тэмэн</form>
+				<translit>temen</translit>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/тэмэн#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Yakut</lang>
+				<form script="CYRILLIC">тэбиэн</form>
+				<translit>tebien</translit>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/тэбиэн#Yakut</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*tergen</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/tergen</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">тергн</form>
+				<translit>tergn</translit>
+				<concepts>
+					<c>cart</c>
+				</concepts>
+				<url source="wiki">/wiki/тергн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">тэрэг</form>
+				<translit>tereg</translit>
+				<concepts>
+					<c>cart</c>
+					<c>motorcar</c>
+					<c>rook</c>
+				</concepts>
+				<url source="wiki">/wiki/тэрэг#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*usun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/usun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">se</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/se#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">уһан</form>
+				<translit>uhan</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/уһан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Daur</lang>
+				<form script="LATIN">os</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/os#Daur</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">usu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/usu#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>East Yugur</lang>
+				<form script="LATIN">qusun</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/qusun#East_Yugur</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">усн</form>
+				<translit>usn</translit>
+				<concepts>
+					<c>water</c>
+					<c>fluent</c>
+				</concepts>
+				<url source="wiki">/wiki/усн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mangghuer</lang>
+				<form script="LATIN">suzu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/suzu#Mangghuer</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Mongol</lang>
+				<form script="MONGOLIAN">ᠤᠰᠤᠨ</form>
+				<translit>usun</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠤᠰᠤᠨ#Middle_Mongol</url>
+			</reflex>
+			<reflex>
+				<lang>Mogholi</lang>
+				<form script="LATIN">usun</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/usun#Mogholi</url>
+			</reflex>
+			<reflex>
+				<lang>Mongghul</lang>
+				<form script="LATIN">szu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/szu#Mongghul</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">ус</form>
+				<translit>us</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ус#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="MONGOLIAN">ᠤᠰᠤ</form>
+				<translit>usu</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠤᠰᠤ#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Written Oirat</lang>
+				<form script="MONGOLIAN">ᡇᠰᡇᠨ</form>
+				<translit>usun</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡇᠰᡇᠨ#Written_Oirat</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*yisün</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/yisün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">юһэн</form>
+				<translit>juhen</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/юһэн#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">йисн</form>
+				<translit>yisn</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/йисн#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">ес</form>
+				<translit>jes</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ес#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ïmaxan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ïmaxan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">imang</form>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/imang#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">iman</form>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/iman#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">яман</form>
+				<translit>yaman</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/яман#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᠮᠠᡥᡡ</form>
+				<translit>imahū</translit>
+				<concepts>
+					<c>goral</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᠮᠠᡥᡡ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">ямаа</form>
+				<translit>jamaa</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ямаа#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">иман</form>
+				<translit>iman</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/иман#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ög-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ög-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bonan</lang>
+				<form script="LATIN">ox</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/ox#Bonan</url>
+			</reflex>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">үгэхэ</form>
+				<translit>ügexe</translit>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/үгэхэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Dongxiang</lang>
+				<form script="LATIN">ogi</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/ogi#Dongxiang</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">өгх</form>
+				<translit>ögx</translit>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/өгх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">өгөх</form>
+				<translit>ögöx</translit>
+				<concepts>
+					<c>marry off</c>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/өгөх#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*üge</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/üge</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">үгэ</form>
+				<translit>üge</translit>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/үгэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">үг</form>
+				<translit>üg</translit>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/үг#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongghul</lang>
+				<form script="LATIN">ugo</form>
+				<concepts>
+					<c>language</c>
+					<c>speech</c>
+					<c>word</c>
+					<c>information</c>
+					<c>sentence</c>
+				</concepts>
+				<url source="wiki">/wiki/ugo#Mongghul</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">үг</form>
+				<translit>üg</translit>
+				<concepts>
+					<c>speech</c>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/үг#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*üile</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/üile</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">үйлэ</form>
+				<translit>üjle</translit>
+				<concepts>
+					<c>act</c>
+					<c>action</c>
+					<c>matter</c>
+				</concepts>
+				<url source="wiki">/wiki/үйлэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">үүл</form>
+				<translit>üül</translit>
+				<concepts>
+					<c>act</c>
+					<c>action</c>
+					<c>matter</c>
+				</concepts>
+				<url source="wiki">/wiki/үүл#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠸᡝᡳᠯᡝᠨ</form>
+				<translit>weilen</translit>
+				<concepts>
+					<c>crime</c>
+					<c>project</c>
+					<c>engineering</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠸᡝᡳᠯᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">үйл</form>
+				<translit>üjl</translit>
+				<concepts>
+					<c>deed</c>
+					<c>destiny</c>
+					<c>action</c>
+					<c>work</c>
+					<c>misfortune</c>
+					<c>fortune</c>
+					<c>fate</c>
+					<c>act</c>
+					<c>accomplishment</c>
+				</concepts>
+				<url source="wiki">/wiki/үйл#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*üje-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/üje-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">үзэхэ</form>
+				<translit>üzexe</translit>
+				<concepts>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/үзэхэ#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">үзх</form>
+				<translit>üzx</translit>
+				<concepts>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/үзх#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">үзэх</form>
+				<translit>üzex</translit>
+				<concepts>
+					<c>investigate</c>
+					<c>learn</c>
+					<c>verify</c>
+					<c>prophesy</c>
+					<c>deem</c>
+					<c>empathize</c>
+					<c>try</c>
+					<c>experience</c>
+					<c>attempt</c>
+					<c>see</c>
+					<c>inspect</c>
+					<c>study</c>
+					<c>strive</c>
+					<c>test</c>
+					<c>undergo</c>
+				</concepts>
+				<url source="wiki">/wiki/үзэх#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ünixen</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ünixen</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Daur</lang>
+				<form script="LATIN">unie</form>
+				<concepts>
+					<c>cow</c>
+				</concepts>
+				<url source="wiki">/wiki/unie#Daur</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">үнээ</form>
+				<translit>ünee</translit>
+				<concepts>
+					<c>cow</c>
+				</concepts>
+				<url source="wiki">/wiki/үнээ#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*šiker</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/šiker</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">шэхэр</form>
+				<translit>šexer</translit>
+				<concepts>
+					<c>sugar</c>
+				</concepts>
+				<url source="wiki">/wiki/шэхэр#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">шикр</form>
+				<translit>şikr</translit>
+				<concepts>
+					<c>sugar</c>
+				</concepts>
+				<url source="wiki">/wiki/шикр#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">шикр-балта</form>
+				<translit>şikr-balta</translit>
+				<concepts>
+					<c>sweet</c>
+					<c>candy</c>
+					<c>confection</c>
+				</concepts>
+				<url source="wiki">/wiki/шикр-балта#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">чихэр</form>
+				<translit>čixer</translit>
+				<concepts>
+					<c>sugar</c>
+					<c>candy</c>
+				</concepts>
+				<url source="wiki">/wiki/чихэр#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Altai</lang>
+				<form script="CYRILLIC">чикир</form>
+				<translit>čikir</translit>
+				<concepts>
+					<c>sugar</c>
+				</concepts>
+				<url source="wiki">/wiki/чикир#Southern_Altai</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Altai</lang>
+				<form script="CYRILLIC">шикир</form>
+				<translit>šikir</translit>
+				<concepts>
+					<c>sugar</c>
+				</concepts>
+				<url source="wiki">/wiki/шикир#Southern_Altai</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvan</lang>
+				<form script="CYRILLIC">чигир</form>
+				<translit>çigir</translit>
+				<concepts>
+					<c>sugar</c>
+				</concepts>
+				<url source="wiki">/wiki/чигир#Tuvan</url>
+			</reflex>
+			<reflex>
+				<lang>Uyghur</lang>
+				<form script="ARABIC">شېكەر</form>
+				<translit>shëker</translit>
+				<concepts>
+					<c>sugar</c>
+				</concepts>
+				<url source="wiki">/wiki/شېكەر#Uyghur</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mongolic</plang>
+			<pform>*ǰirguxan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mongolic/ǰirguxan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buryat</lang>
+				<form script="CYRILLIC">зургаан</form>
+				<translit>zurgaan</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/зургаан#Buryat</url>
+			</reflex>
+			<reflex>
+				<lang>Kalmyk</lang>
+				<form script="CYRILLIC">зурһан</form>
+				<translit>zurğan</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/зурһан#Kalmyk</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">зургаа</form>
+				<translit>zurgaa</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/зургаа#Mongolian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

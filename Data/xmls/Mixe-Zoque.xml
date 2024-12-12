@@ -1,0 +1,561 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*kakawa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/kakawa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">cacauã</form>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/cacauã#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">cacagüés</form>
+				<concepts>
+					<c>peanut</c>
+				</concepts>
+				<url source="wiki">/wiki/cacagüés#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">kakahuete</form>
+				<concepts>
+					<c>peanut</c>
+				</concepts>
+				<url source="wiki">/wiki/kakahuete#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Bikol Central</lang>
+				<form script="LATIN">kakaw</form>
+				<concepts>
+					<c>cacao</c>
+				</concepts>
+				<url source="wiki">/wiki/kakaw#Bikol_Central</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">cacau</form>
+				<concepts>
+					<c>mess</c>
+					<c>cacao</c>
+					<c>cocoa bean</c>
+					<c>disorder</c>
+				</concepts>
+				<url source="wiki">/wiki/cacau#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">cacauet</form>
+				<concepts>
+					<c>peanut</c>
+				</concepts>
+				<url source="wiki">/wiki/cacauet#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Cebuano</lang>
+				<form script="LATIN">kakaw</form>
+				<concepts>
+					<c>cocoa bean</c>
+				</concepts>
+				<url source="wiki">/wiki/kakaw#Cebuano</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">cacahuatl</form>
+				<concepts>
+					<c>cacao</c>
+				</concepts>
+				<url source="wiki">/wiki/cacahuatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Danish</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cacao</c>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Danish</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">cacao</form>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/cacao#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">cacao</form>
+				<concepts>
+					<c>cocoa bean</c>
+					<c>Theobroma cacao</c>
+					<c>tree</c>
+					<c>cacao</c>
+				</concepts>
+				<url source="wiki">/wiki/cacao#English</url>
+			</reflex>
+			<reflex>
+				<lang>Estonian</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cocoa powder</c>
+					<c>hot chocolate</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Estonian</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">kaakao</form>
+				<concepts>
+					<c>hot chocolate</c>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/kaakao#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">cacahuète</form>
+				<concepts>
+					<c>peanut</c>
+					<c>goober</c>
+				</concepts>
+				<url source="wiki">/wiki/cacahuète#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">cacao</form>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/cacao#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Kakao</form>
+				<concepts>
+					<c>cacao</c>
+					<c>hot chocolate</c>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/Kakao#German</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">κακάο</form>
+				<translit>kakáo</translit>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/κακάο#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Icelandic</lang>
+				<form script="LATIN">kakó</form>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/kakó#Icelandic</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cacao</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Lower Sorbian</lang>
+				<form script="LATIN">kakawa</form>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/kakawa#Lower_Sorbian</url>
+			</reflex>
+			<reflex>
+				<lang>Luxembourgish</lang>
+				<form script="LATIN">Kakuett</form>
+				<concepts>
+					<c>peanut</c>
+					<c>monkey nut</c>
+				</concepts>
+				<url source="wiki">/wiki/Kakuett#Luxembourgish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cocoa powder</c>
+					<c>cocoa</c>
+					<c>anus</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">cacau</form>
+				<concepts>
+					<c>cacao</c>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/cacau#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">cacào</form>
+				<concepts>
+					<c>cacao</c>
+				</concepts>
+				<url source="wiki">/wiki/cacào#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">cacao</form>
+				<concepts>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/cacao#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovak</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cocoa</c>
+					<c>cocoa bean</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Slovak</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">cacahuete</form>
+				<concepts>
+					<c>peanut</c>
+				</concepts>
+				<url source="wiki">/wiki/cacahuete#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">cacao</form>
+				<concepts>
+					<c>cocoa powder</c>
+					<c>cocoa bean</c>
+					<c>confusion</c>
+				</concepts>
+				<url source="wiki">/wiki/cacao#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cacao</c>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">kakao</form>
+				<concepts>
+					<c>cacao</c>
+					<c>cocoa</c>
+				</concepts>
+				<url source="wiki">/wiki/kakao#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">kakaw</form>
+				<concepts>
+					<c>cacao</c>
+				</concepts>
+				<url source="wiki">/wiki/kakaw#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*nɨː</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/nɨː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chimalapa Zoque</lang>
+				<form script="LATIN">nɨʔ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nɨʔ#Chimalapa_Zoque</url>
+			</reflex>
+			<reflex>
+				<lang>Rayón Zoque</lang>
+				<form script="LATIN">nɨʔ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nɨʔ#Rayón_Zoque</url>
+			</reflex>
+			<reflex>
+				<lang>Sayula Popoluca</lang>
+				<form script="LATIN">nɨʔ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nɨʔ#Sayula_Popoluca</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*pahk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/pahk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Highland Popoluca</lang>
+				<form script="LATIN">pac</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/pac#Highland_Popoluca</url>
+			</reflex>
+			<reflex>
+				<lang>Oluta Popoluca</lang>
+				<form script="LATIN">pacʉ</form>
+				<concepts>
+					<c>bone</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/pacʉ#Oluta_Popoluca</url>
+			</reflex>
+			<reflex>
+				<lang>Oluta Popoluca</lang>
+				<form script="LATIN">pacʉ</form>
+				<concepts>
+					<c>skinny</c>
+				</concepts>
+				<url source="wiki">/wiki/pacʉ#Oluta_Popoluca</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*pa꞉hȼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/pa꞉hȼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Highland Popoluca</lang>
+				<form script="LATIN">patsca̱ŋ</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/patsca̱ŋ#Highland_Popoluca</url>
+			</reflex>
+			<reflex>
+				<lang>Totontepec Mixe</lang>
+				<form script="LATIN">paats</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/paats#Totontepec_Mixe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*pe꞉t-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/pe꞉t-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Highland Popoluca</lang>
+				<form script="LATIN">petcuy</form>
+				<concepts>
+					<c>broom</c>
+				</concepts>
+				<url source="wiki">/wiki/petcuy#Highland_Popoluca</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*po꞉mah</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/po꞉mah</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Akatek</lang>
+				<form script="LATIN">pom</form>
+				<concepts>
+					<c>copal</c>
+				</concepts>
+				<url source="wiki">/wiki/pom#Akatek</url>
+			</reflex>
+			<reflex>
+				<lang>Chuj</lang>
+				<form script="LATIN">pom</form>
+				<concepts>
+					<c>copal</c>
+				</concepts>
+				<url source="wiki">/wiki/pom#Chuj</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">pom</form>
+				<concepts>
+					<c>copal</c>
+				</concepts>
+				<url source="wiki">/wiki/pom#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">pom</form>
+				<concepts>
+					<c>copal</c>
+				</concepts>
+				<url source="wiki">/wiki/pom#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*po꞉yah</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/po꞉yah</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Highland Popoluca</lang>
+				<form script="LATIN">po̱ya</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/po̱ya#Highland_Popoluca</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*to꞉hȼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/to꞉hȼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Highland Popoluca</lang>
+				<form script="LATIN">tóts</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/tóts#Highland_Popoluca</url>
+			</reflex>
+			<reflex>
+				<lang>Rayón Zoque</lang>
+				<form script="LATIN">tojts</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/tojts#Rayón_Zoque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*tu꞉h</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/tu꞉h</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Highland Popoluca</lang>
+				<form script="LATIN">tuj</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/tuj#Highland_Popoluca</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixe-Zoque</plang>
+			<pform>*ȼiku</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixe-Zoque/ȼiku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Highland Popoluca</lang>
+				<form script="LATIN">chi̱cu</form>
+				<concepts>
+					<c>white-nosed coati</c>
+				</concepts>
+				<url source="wiki">/wiki/chi̱cu#Highland_Popoluca</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">chi̱co</form>
+				<concepts>
+					<c>white-nosed coati</c>
+				</concepts>
+				<url source="wiki">/wiki/chi̱co#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">chiʼik</form>
+				<concepts>
+					<c>white-nosed coati</c>
+				</concepts>
+				<url source="wiki">/wiki/chiʼik#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

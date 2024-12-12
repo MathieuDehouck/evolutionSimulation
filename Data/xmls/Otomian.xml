@@ -1,0 +1,147 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Otomian</plang>
+			<pform>*cibi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomian/cibi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">tsibi</form>
+				<concepts>
+					<c>fire</c>
+					<c>pistol</c>
+					<c>struggle</c>
+					<c>electricity</c>
+					<c>difficulty</c>
+					<c>uropygial gland</c>
+				</concepts>
+				<url source="wiki">/wiki/tsibi#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomian</plang>
+			<pform>*khwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomian/khwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Mazahua</lang>
+				<form script="LATIN">cjuaꞌa</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/cjuaꞌa#Central_Mazahua</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomian</plang>
+			<pform>*n-gǫ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomian/n-gǫ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Mazahua</lang>
+				<form script="LATIN">ngõꞌõ</form>
+				<concepts>
+					<c>rat</c>
+				</concepts>
+				<url source="wiki">/wiki/ngõꞌõ#Central_Mazahua</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomian</plang>
+			<pform>*tʔəąši</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomian/tʔəąši</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Mazahua</lang>
+				<form script="LATIN">tꞌünxü</form>
+				<concepts>
+					<c>grasshopper</c>
+				</concepts>
+				<url source="wiki">/wiki/tꞌünxü#Central_Mazahua</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomian</plang>
+			<pform>*za</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomian/za</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Mazahua</lang>
+				<form script="LATIN">zaꞌa</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/zaꞌa#Central_Mazahua</url>
+			</reflex>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">za</form>
+				<concepts>
+					<c>firewood</c>
+					<c>wood</c>
+					<c>stick</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/za#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomian</plang>
+			<pform>*ʔi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomian/ʔi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">ñꞌi</form>
+				<concepts>
+					<c>chili pepper</c>
+					<c>sauce</c>
+				</concepts>
+				<url source="wiki">/wiki/ñꞌi#Mezquital_Otomi</url>
+			</reflex>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">ñꞌi</form>
+				<concepts>
+					<c>spicy</c>
+				</concepts>
+				<url source="wiki">/wiki/ñꞌi#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

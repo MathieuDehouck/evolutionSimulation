@@ -1,0 +1,39 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Eastern Polynesian</plang>
+			<pform>*maŋō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Eastern Polynesian/maŋō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">mako</form>
+				<concepts>
+					<c>mako shark</c>
+					<c>mako</c>
+				</concepts>
+				<url source="wiki">/wiki/mako#English</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">manō</form>
+				<concepts>
+					<c>shark</c>
+				</concepts>
+				<url source="wiki">/wiki/manō#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">mangō</form>
+				<concepts>
+					<c>shark</c>
+				</concepts>
+				<url source="wiki">/wiki/mangō#Maori</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

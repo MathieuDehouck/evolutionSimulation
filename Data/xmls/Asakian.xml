@@ -1,0 +1,50 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Asakian</plang>
+			<pform>*lak</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/602</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sak (Dodem)</lang>
+				<form script="LATIN">lɑk²</form>
+				<concepts>
+					<c>skin</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/602</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Asakian</plang>
+			<pform>*rip-hi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/2086</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chairel</lang>
+				<form script="LATIN">rīphī</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/2086</url>
+			</reflex>
+			<reflex>
+				<lang>Lui</lang>
+				<form script="LATIN">rīphī</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/2086</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

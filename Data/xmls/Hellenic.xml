@@ -1,0 +1,139 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Hellenic</plang>
+			<pform>*gʷatiléus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Hellenic/gʷatiléus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">βασιλεύς</form>
+				<translit>basileús</translit>
+				<concepts>
+					<c>chief</c>
+					<c>king</c>
+					<c>lord</c>
+					<c>master</c>
+					<c>patron</c>
+				</concepts>
+				<url source="wiki">/wiki/βασιλεύς#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">باسل</form>
+				<concepts>
+					<c>brave</c>
+				</concepts>
+				<url source="wiki">/wiki/باسل#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲃⲁⲥⲓⲗⲉⲩⲥ</form>
+				<translit>basileus</translit>
+				<concepts>
+					<c>king</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲃⲁⲥⲓⲗⲉⲩⲥ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">basilean</form>
+				<concepts>
+					<c>royalist</c>
+					<c>basilean</c>
+				</concepts>
+				<url source="wiki">/wiki/basilean#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">basileolatry</form>
+				<concepts>
+					<c>basileiolatry</c>
+					<c>basileolatry</c>
+				</concepts>
+				<url source="wiki">/wiki/basileolatry#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">basileus</form>
+				<concepts>
+					<c>basileus</c>
+					<c>basileus</c>
+				</concepts>
+				<url source="wiki">/wiki/basileus#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">basilolatry</form>
+				<concepts>
+					<c>basileiolatry</c>
+					<c>basilolatry</c>
+				</concepts>
+				<url source="wiki">/wiki/basilolatry#English</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">βασιλιάς</form>
+				<translit>vasiliás</translit>
+				<concepts>
+					<c>king</c>
+				</concepts>
+				<url source="wiki">/wiki/βασιλιάς#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">basileus</form>
+				<concepts>
+					<c>king</c>
+					<c>emperor</c>
+				</concepts>
+				<url source="wiki">/wiki/basileus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Mycenaean Greek</lang>
+				<form script="LINEAR B">𐀣𐀯𐀩𐀄</form>
+				<translit>qa-si-re-u</translit>
+				<concepts>
+					<c>king</c>
+				</concepts>
+				<url source="wiki">/wiki/𐀣𐀯𐀩𐀄#Mycenaean_Greek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Hellenic</plang>
+			<pform>*əpatōr</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Hellenic/əpatōr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">ἀπάτωρ</form>
+				<translit>apátōr</translit>
+				<concepts>
+					<c>fatherless</c>
+					<c>orphan</c>
+					<c>bastard</c>
+				</concepts>
+				<url source="wiki">/wiki/ἀπάτωρ#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">απάτωρ</form>
+				<translit>apátor</translit>
+				<concepts>
+					<c>fatherless</c>
+				</concepts>
+				<url source="wiki">/wiki/απάτωρ#Greek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

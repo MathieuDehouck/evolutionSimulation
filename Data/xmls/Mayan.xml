@@ -1,0 +1,1239 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*7otzil</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/7otzil</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">óotsil</form>
+				<concepts>
+					<c>miserable</c>
+					<c>poor</c>
+				</concepts>
+				<url source="wiki">/wiki/óotsil#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*Am</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/Am</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">am</form>
+				<concepts>
+					<c>spider</c>
+				</concepts>
+				<url source="wiki">/wiki/am#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*aahqʼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/aahqʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Itzá</lang>
+				<form script="LATIN">akʼ</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/akʼ#Itzá</url>
+			</reflex>
+			<reflex>
+				<lang>Mopan Maya</lang>
+				<form script="LATIN">akʼ</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/akʼ#Mopan_Maya</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">aakʼ</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/aakʼ#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*aaj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/aaj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">aj</form>
+				<concepts>
+					<c>cane</c>
+					<c>firework</c>
+				</concepts>
+				<url source="wiki">/wiki/aj#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*aatzʼaam</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/aatzʼaam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jakaltek</lang>
+				<form script="LATIN">atzꞌam</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/atzꞌam#Jakaltek</url>
+			</reflex>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">atzʼam</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/atzʼam#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*ahq</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/ahq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">aq</form>
+				<concepts>
+					<c>woodlouse</c>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/aq#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">áak</form>
+				<concepts>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/áak#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*ahqʼabʼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/ahqʼabʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">Aqʼabʼal</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/Aqʼabʼal#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*ahyiin</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/ahyiin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">ayin</form>
+				<concepts>
+					<c>alligator</c>
+				</concepts>
+				<url source="wiki">/wiki/ayin#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Mopan Maya</lang>
+				<form script="LATIN">ʼayin</form>
+				<concepts>
+					<c>alligator</c>
+					<c>crocodile</c>
+				</concepts>
+				<url source="wiki">/wiki/ʼayin#Mopan_Maya</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">áayin</form>
+				<concepts>
+					<c>alligator</c>
+					<c>caiman</c>
+					<c>crocodile</c>
+				</concepts>
+				<url source="wiki">/wiki/áayin#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*bʼaaq</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/bʼaaq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">bʼaq</form>
+				<concepts>
+					<c>bone</c>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/bʼaq#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">bʼaq</form>
+				<concepts>
+					<c>thin</c>
+				</concepts>
+				<url source="wiki">/wiki/bʼaq#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">baak</form>
+				<concepts>
+					<c>bone</c>
+					<c>horn</c>
+				</concepts>
+				<url source="wiki">/wiki/baak#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*bʼaaʼtzʼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/bʼaaʼtzʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">bʼatzʼ</form>
+				<concepts>
+					<c>howler monkey</c>
+				</concepts>
+				<url source="wiki">/wiki/bʼatzʼ#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">batzʼ</form>
+				<concepts>
+					<c>howler monkey</c>
+				</concepts>
+				<url source="wiki">/wiki/batzʼ#Tzotzil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*bʼahlam</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/bʼahlam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">bʼalam</form>
+				<concepts>
+					<c>jaguar</c>
+				</concepts>
+				<url source="wiki">/wiki/bʼalam#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Lacandon</lang>
+				<form script="LATIN">barum</form>
+				<concepts>
+					<c>jaguar</c>
+				</concepts>
+				<url source="wiki">/wiki/barum#Lacandon</url>
+			</reflex>
+			<reflex>
+				<lang>Tojolabal</lang>
+				<form script="LATIN">bʼajlam</form>
+				<concepts>
+					<c>jaguar</c>
+				</concepts>
+				<url source="wiki">/wiki/bʼajlam#Tojolabal</url>
+			</reflex>
+			<reflex>
+				<lang>Tzeltal</lang>
+				<form script="LATIN">balam</form>
+				<concepts>
+					<c>guardian</c>
+					<c>jaguar</c>
+					<c>official</c>
+					<c>priest</c>
+				</concepts>
+				<url source="wiki">/wiki/balam#Tzeltal</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">bolom</form>
+				<concepts>
+					<c>jaguar</c>
+				</concepts>
+				<url source="wiki">/wiki/bolom#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">báalam</form>
+				<concepts>
+					<c>jaguar</c>
+				</concepts>
+				<url source="wiki">/wiki/báalam#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*chaaʼm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/chaaʼm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jakaltek</lang>
+				<form script="LATIN">txam</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/txam#Jakaltek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*ekaj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/ekaj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jakaltek</lang>
+				<form script="LATIN">eche</form>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/eche#Jakaltek</url>
+			</reflex>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">ikäj</form>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/ikäj#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*hahlahw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/hahlahw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jakaltek</lang>
+				<form script="LATIN">halaw</form>
+				<concepts>
+					<c>lowland paca</c>
+				</concepts>
+				<url source="wiki">/wiki/halaw#Jakaltek</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">jolov</form>
+				<concepts>
+					<c>lowland paca</c>
+				</concepts>
+				<url source="wiki">/wiki/jolov#Tzotzil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*haʼ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/haʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Achi</lang>
+				<form script="LATIN">yaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yaʼ#Achi</url>
+			</reflex>
+			<reflex>
+				<lang>Akatek</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Akatek</url>
+			</reflex>
+			<reflex>
+				<lang>Chol</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Chol</url>
+			</reflex>
+			<reflex>
+				<lang>Epigraphic Mayan</lang>
+				<form script="LATIN">haʼ</form>
+				<concepts>
+					<c>water</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/haʼ#Epigraphic_Mayan</url>
+			</reflex>
+			<reflex>
+				<lang>Itzá</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Itzá</url>
+			</reflex>
+			<reflex>
+				<lang>Ixil</lang>
+				<form script="LATIN">aʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aʼ#Ixil</url>
+			</reflex>
+			<reflex>
+				<lang>Jakaltek</lang>
+				<form script="LATIN">haꞌ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/haꞌ#Jakaltek</url>
+			</reflex>
+			<reflex>
+				<lang>Lacandon</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Lacandon</url>
+			</reflex>
+			<reflex>
+				<lang>Mopan Maya</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>water</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Mopan_Maya</url>
+			</reflex>
+			<reflex>
+				<lang>Mopan Maya</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>watery</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Mopan_Maya</url>
+			</reflex>
+			<reflex>
+				<lang>Tzeltal</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Tzeltal</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">ʼaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʼaʼ#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Wastek</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Wastek</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">jaʼ</form>
+				<concepts>
+					<c>lake</c>
+					<c>water</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/jaʼ#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*ityaaj</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/ityaaj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jakaltek</lang>
+				<form script="LATIN">itaj</form>
+				<concepts>
+					<c>herb</c>
+				</concepts>
+				<url source="wiki">/wiki/itaj#Jakaltek</url>
+			</reflex>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">ichaj</form>
+				<concepts>
+					<c>greens</c>
+					<c>herb</c>
+				</concepts>
+				<url source="wiki">/wiki/ichaj#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*jooj</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/jooj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jakaltek</lang>
+				<form script="LATIN">hoh</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/hoh#Jakaltek</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">joj</form>
+				<concepts>
+					<c>common raven</c>
+				</concepts>
+				<url source="wiki">/wiki/joj#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">joj</form>
+				<concepts>
+					<c>raven</c>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/joj#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*juun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/juun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">jun</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/jun#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">hun</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/hun#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kOj</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kOj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">koh</form>
+				<concepts>
+					<c>tooth</c>
+					<c>beak</c>
+				</concepts>
+				<url source="wiki">/wiki/koh#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kaahn</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kaahn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lacandon</lang>
+				<form script="LATIN">kan</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/kan#Lacandon</url>
+			</reflex>
+			<reflex>
+				<lang>Tzeltal</lang>
+				<form script="LATIN">chan</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/chan#Tzeltal</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">chon</form>
+				<concepts>
+					<c>sell</c>
+				</concepts>
+				<url source="wiki">/wiki/chon#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">chon</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/chon#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">kaan</form>
+				<concepts>
+					<c>worm</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/kaan#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kabʼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kabʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">chob</form>
+				<concepts>
+					<c>cornfield</c>
+				</concepts>
+				<url source="wiki">/wiki/chob#Tzotzil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kahwoq</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kahwoq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">chauk</form>
+				<concepts>
+					<c>lightning</c>
+					<c>thunder</c>
+				</concepts>
+				<url source="wiki">/wiki/chauk#Tzotzil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kehj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kehj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">kej</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/kej#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kuhkay</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kuhkay</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">kukay</form>
+				<concepts>
+					<c>firefly</c>
+				</concepts>
+				<url source="wiki">/wiki/kukay#Tzotzil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kyar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kyar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">kay</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/kay#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*kyitahm</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/kyitahm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">chitom</form>
+				<concepts>
+					<c>pork</c>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/chitom#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">kitam</form>
+				<concepts>
+					<c>collared peccary</c>
+				</concepts>
+				<url source="wiki">/wiki/kitam#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*maaʼx</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/maaʼx</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lacandon</lang>
+				<form script="LATIN">maʼax</form>
+				<concepts>
+					<c>monkey</c>
+				</concepts>
+				<url source="wiki">/wiki/maʼax#Lacandon</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">maʼax</form>
+				<concepts>
+					<c>monkey</c>
+				</concepts>
+				<url source="wiki">/wiki/maʼax#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*me7b'aa7</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/me7b'aa7</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">mebʼaʼ</form>
+				<concepts>
+					<c>orphan</c>
+					<c>poor</c>
+				</concepts>
+				<url source="wiki">/wiki/mebʼaʼ#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*moohch</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/moohch</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">muuch</form>
+				<concepts>
+					<c>toad</c>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/muuch#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*paat</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/paat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">paach</form>
+				<concepts>
+					<c>back</c>
+				</concepts>
+				<url source="wiki">/wiki/paach#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*qʼahqʼ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/qʼahqʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">qʼaqʼ</form>
+				<concepts>
+					<c>light</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/qʼaqʼ#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">kʼáakʼ</form>
+				<concepts>
+					<c>measles</c>
+					<c>smallpox</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/kʼáakʼ#Yucatec_Maya</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">kʼáakʼ</form>
+				<concepts>
+					<c>roast</c>
+				</concepts>
+				<url source="wiki">/wiki/kʼáakʼ#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*qʼiihng</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/qʼiihng</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">qʼij</form>
+				<concepts>
+					<c>sun</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/qʼij#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">kʼiin</form>
+				<concepts>
+					<c>time</c>
+					<c>sun</c>
+					<c>date</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/kʼiin#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*sanik</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/sanik</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">sanïk</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/sanïk#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">síinik</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/síinik#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*sihnaʼng</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/sihnaʼng</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">sinaʼj</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/sinaʼj#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">síinaʼan</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/síinaʼan#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*soohtzʼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/soohtzʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">sotzʼ</form>
+				<concepts>
+					<c>bat</c>
+				</concepts>
+				<url source="wiki">/wiki/sotzʼ#Kaqchikel</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*taqʼaang</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/taqʼaang</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">chakʼan</form>
+				<concepts>
+					<c>savanna</c>
+					<c>plain</c>
+				</concepts>
+				<url source="wiki">/wiki/chakʼan#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*tyaqiing</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/tyaqiing</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">tikin</form>
+				<concepts>
+					<c>dry</c>
+				</concepts>
+				<url source="wiki">/wiki/tikin#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*tzʼuunuʼn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/tzʼuunuʼn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">tzʼunün</form>
+				<concepts>
+					<c>hummingbird</c>
+				</concepts>
+				<url source="wiki">/wiki/tzʼunün#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">tsʼunuʼun</form>
+				<concepts>
+					<c>hummingbird</c>
+				</concepts>
+				<url source="wiki">/wiki/tsʼunuʼun#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*ukʼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/ukʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">ükʼ</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ükʼ#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">ukʼ</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ukʼ#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*waaj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/waaj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tzotzil</lang>
+				<form script="LATIN">vaj</form>
+				<concepts>
+					<c>tortilla</c>
+				</concepts>
+				<url source="wiki">/wiki/vaj#Tzotzil</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">waaj</form>
+				<concepts>
+					<c>tortilla</c>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/waaj#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mayan</plang>
+			<pform>*xangabʼ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mayan/xangabʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">xajabʼ</form>
+				<concepts>
+					<c>sandal</c>
+				</concepts>
+				<url source="wiki">/wiki/xajabʼ#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Yucatec Maya</lang>
+				<form script="LATIN">xanab</form>
+				<concepts>
+					<c>sandal</c>
+					<c>shoe</c>
+				</concepts>
+				<url source="wiki">/wiki/xanab#Yucatec_Maya</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

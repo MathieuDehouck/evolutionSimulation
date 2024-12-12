@@ -1,0 +1,3148 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*asɨ̨ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/asɨ̨ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">adi̱</form>
+				<concepts>
+					<c>delicious</c>
+				</concepts>
+				<url source="wiki">/wiki/adi̱#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">asun</form>
+				<concepts>
+					<c>delicious</c>
+				</concepts>
+				<url source="wiki">/wiki/asun#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*awą</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/awą</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">ama</form>
+				<concepts>
+					<c>when</c>
+				</concepts>
+				<url source="wiki">/wiki/ama#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">ama</form>
+				<concepts>
+					<c>when</c>
+				</concepts>
+				<url source="wiki">/wiki/ama#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*inoʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/inoʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">inu</form>
+				<concepts>
+					<c>mirror</c>
+					<c>glasses</c>
+					<c>glass</c>
+				</concepts>
+				<url source="wiki">/wiki/inu#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">inu</form>
+				<concepts>
+					<c>cigarette</c>
+				</concepts>
+				<url source="wiki">/wiki/inu#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*itu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/itu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">itū</form>
+				<concepts>
+					<c>milpa</c>
+				</concepts>
+				<url source="wiki">/wiki/itū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*iyǫ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/iyǫ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">iñu</form>
+				<concepts>
+					<c>spine</c>
+				</concepts>
+				<url source="wiki">/wiki/iñu#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">iñu</form>
+				<concepts>
+					<c>spine</c>
+				</concepts>
+				<url source="wiki">/wiki/iñu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kàtìʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kàtìʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">catyi</form>
+				<concepts>
+					<c>cotton</c>
+				</concepts>
+				<url source="wiki">/wiki/catyi#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kàá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kàá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">càà</form>
+				<concepts>
+					<c>time</c>
+					<c>metal</c>
+					<c>bucket</c>
+					<c>bell</c>
+				</concepts>
+				<url source="wiki">/wiki/caa#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">ka̱a</form>
+				<concepts>
+					<c>radio</c>
+					<c>metal</c>
+					<c>tape recorder</c>
+					<c>bell</c>
+				</concepts>
+				<url source="wiki">/wiki/ka̱a#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kákà</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kákà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kaka</form>
+				<concepts>
+					<c>quicklime</c>
+				</concepts>
+				<url source="wiki">/wiki/kaka#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kákú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kákú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kaku</form>
+				<concepts>
+					<c>be born</c>
+				</concepts>
+				<url source="wiki">/wiki/kaku#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*káxíʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/káxíʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">kaxi</form>
+				<concepts>
+					<c>suckle</c>
+				</concepts>
+				<url source="wiki">/wiki/kaxi#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">kaxi</form>
+				<concepts>
+					<c>thresh</c>
+					<c>grind</c>
+					<c>crush</c>
+				</concepts>
+				<url source="wiki">/wiki/kaxi#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">caji</form>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/caji#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kaji</form>
+				<concepts>
+					<c>clearly</c>
+				</concepts>
+				<url source="wiki">/wiki/kaji#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*káʔwį́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/káʔwį́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kaꞌma</form>
+				<concepts>
+					<c>burn</c>
+				</concepts>
+				<url source="wiki">/wiki/kaꞌma#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kíxí</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kíxí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kii</form>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/kii#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kòòʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kòòʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ko̱ó</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ko̱ó#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">còò</form>
+				<concepts>
+					<c>worm</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/coo#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">coō</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/coō#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">ko̱ó</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ko̱ó#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">koo</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/koo#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kóʔó</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kóʔó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">koꞌo</form>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/koꞌo#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kùkà</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kùkà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">cucā</form>
+				<concepts>
+					<c>comb</c>
+				</concepts>
+				<url source="wiki">/wiki/cucā#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kuka</form>
+				<concepts>
+					<c>comb</c>
+				</concepts>
+				<url source="wiki">/wiki/kuka#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kùʔwì</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kùʔwì</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">cuhū</form>
+				<concepts>
+					<c>thicket</c>
+					<c>copse</c>
+					<c>brush</c>
+				</concepts>
+				<url source="wiki">/wiki/cuhū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kúnú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kúnú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kunu</form>
+				<concepts>
+					<c>weave</c>
+				</concepts>
+				<url source="wiki">/wiki/kunu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kɨ̀wį̀ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kɨ̀wį̀ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">cumi</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/cumi#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kɨ́tɨ́ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kɨ́tɨ́ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">quɨtɨ</form>
+				<concepts>
+					<c>animal</c>
+				</concepts>
+				<url source="wiki">/wiki/quɨtɨ#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kɨtɨ</form>
+				<concepts>
+					<c>animal</c>
+				</concepts>
+				<url source="wiki">/wiki/kɨtɨ#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kʷaą</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kʷaą</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kuaan</form>
+				<concepts>
+					<c>buy</c>
+				</concepts>
+				<url source="wiki">/wiki/kuaan#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kʷeyųʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kʷeyųʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ndikuáñú</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/ndikuáñú#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">cuáñu</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/cuáñu#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Pedro Amuzgos Amuzgo</lang>
+				<form script="LATIN">tyocüañon</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/tyocüañon#San_Pedro_Amuzgos_Amuzgo</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">cuaño</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/cuaño#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">ndikuéín</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/ndikuéín#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">ntikuáñu</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/ntikuáñu#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">kuañu</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/kuañu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*kʷeʔyi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/kʷeʔyi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">cuehē</form>
+				<concepts>
+					<c>sickness</c>
+				</concepts>
+				<url source="wiki">/wiki/cuehē#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*láà</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/láà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">laa</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/laa#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*láʔwà</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/láʔwà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">láꞌo̱</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/láꞌo̱#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*nònìʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/nònìʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">nuni</form>
+				<concepts>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/nuni#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*nòʔó</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/nòʔó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">jnuꞌun</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/jnuꞌun#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*nɨyɨ̨ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/nɨyɨ̨ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">neñe</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/neñe#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">nɨñɨ</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/nɨñɨ#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*one</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/one</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">uña</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/uña#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*oni</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/oni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">uñi</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/uñi#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*owe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/owe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">uā</form>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/uā#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*oʔwe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/oʔwe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">uhā</form>
+				<concepts>
+					<c>salty</c>
+				</concepts>
+				<url source="wiki">/wiki/uhā#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sawiʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sawiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">sa̱ví</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/sa̱ví#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">sàvì</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/savi#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">saū</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/saū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">dzavui</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/dzavui#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">dai̱</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/dai̱#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">sa̱ví</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/sa̱ví#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">sau</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/sau#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*si-yuʔųʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/si-yuʔųʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">xūhún</form>
+				<concepts>
+					<c>money</c>
+				</concepts>
+				<url source="wiki">/wiki/xūhún#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sikǫ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sikǫ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">dzico</form>
+				<concepts>
+					<c>huipil</c>
+				</concepts>
+				<url source="wiki">/wiki/dzico#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sitaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sitaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">staā</form>
+				<concepts>
+					<c>tortilla</c>
+				</concepts>
+				<url source="wiki">/wiki/staā#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">dzita</form>
+				<concepts>
+					<c>tortilla</c>
+				</concepts>
+				<url source="wiki">/wiki/dzita#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sitįʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sitįʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">xityi</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/xityi#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">xitni</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/xitni#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">dzitni</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/dzitni#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">xi̱tin</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/xi̱tin#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sukųʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sukųʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">dzuq</form>
+				<concepts>
+					<c>throat</c>
+					<c>neck</c>
+					<c>collar</c>
+				</concepts>
+				<url source="wiki">/wiki/dzuq#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sutu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sutu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">duti̱</form>
+				<concepts>
+					<c>priest</c>
+				</concepts>
+				<url source="wiki">/wiki/duti̱#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sáʔwą́ʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sáʔwą́ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">dáꞌo̱n</form>
+				<concepts>
+					<c>clothing</c>
+					<c>cloth</c>
+				</concepts>
+				<url source="wiki">/wiki/dáꞌo̱n#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">saꞌma</form>
+				<concepts>
+					<c>fabric</c>
+					<c>clothing</c>
+					<c>rag</c>
+					<c>tablecloth</c>
+					<c>napkin</c>
+					<c>cloth</c>
+					<c>clothes</c>
+				</concepts>
+				<url source="wiki">/wiki/saꞌma#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sìtàʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sìtàʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ayutla Mixtec</lang>
+				<form script="LATIN">xi̱taꞌ</form>
+				<concepts>
+					<c>tortilla</c>
+				</concepts>
+				<url source="wiki">/wiki/xi̱taꞌ#Ayutla_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sísì</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sísì</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">xixi</form>
+				<concepts>
+					<c>aunt</c>
+				</concepts>
+				<url source="wiki">/wiki/xixi#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*sítò</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/sítò</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">xito</form>
+				<concepts>
+					<c>uncle</c>
+				</concepts>
+				<url source="wiki">/wiki/xito#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tasųʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tasųʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">ta̱sún</form>
+				<concepts>
+					<c>hawk</c>
+				</concepts>
+				<url source="wiki">/wiki/ta̱sún#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tatiʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tatiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">tatyi</form>
+				<concepts>
+					<c>wind</c>
+					<c>ghost</c>
+					<c>breath</c>
+				</concepts>
+				<url source="wiki">/wiki/tatyi#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tiyįʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tiyįʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">tnii</form>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/tnii#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*towį</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/towį</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">jnuu</form>
+				<concepts>
+					<c>black</c>
+					<c>dark</c>
+				</concepts>
+				<url source="wiki">/wiki/jnuu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tuųʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tuųʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">tnuu</form>
+				<concepts>
+					<c>soot</c>
+				</concepts>
+				<url source="wiki">/wiki/tnuu#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tèyé</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tèyé</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">chāa</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/chāa#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">chaa</form>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/chaa#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*téyù</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/téyù</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">teyu</form>
+				<concepts>
+					<c>bench</c>
+				</concepts>
+				<url source="wiki">/wiki/teyu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tìxí</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tìxí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">chisi</form>
+				<concepts>
+					<c>belly</c>
+				</concepts>
+				<url source="wiki">/wiki/chisi#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">chii</form>
+				<concepts>
+					<c>belly</c>
+				</concepts>
+				<url source="wiki">/wiki/chii#Yosondúa_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">chii</form>
+				<concepts>
+					<c>under</c>
+					<c>inside</c>
+				</concepts>
+				<url source="wiki">/wiki/chii#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tíyǫ́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tíyǫ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">tyiño</form>
+				<concepts>
+					<c>authority</c>
+					<c>work</c>
+					<c>job</c>
+					<c>order</c>
+					<c>occupation</c>
+				</concepts>
+				<url source="wiki">/wiki/tyiño#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">jniñu</form>
+				<concepts>
+					<c>matter</c>
+					<c>issue</c>
+				</concepts>
+				<url source="wiki">/wiki/jniñu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tútù</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tútù</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">tutu</form>
+				<concepts>
+					<c>whistle</c>
+				</concepts>
+				<url source="wiki">/wiki/tutu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tɨ-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tɨ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">tiàká</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/tiàká#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Ayutla Mixtec</lang>
+				<form script="LATIN">tya̱kaꞌ</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/tya̱kaꞌ#Ayutla_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">tiaka</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/tiaka#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">chácá</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/chácá#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">tiu̱ún</form>
+				<concepts>
+					<c>turkey hen</c>
+				</concepts>
+				<url source="wiki">/wiki/tiu̱ún#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">chaka</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/chaka#Yosondúa_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">chuun</form>
+				<concepts>
+					<c>hen</c>
+				</concepts>
+				<url source="wiki">/wiki/chuun#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*tɨyɨ̨ʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/tɨyɨ̨ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">tìín</form>
+				<concepts>
+					<c>rat</c>
+				</concepts>
+				<url source="wiki">/wiki/tìín#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">tɨñí</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/tɨñí#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Sinicahua Mixtec</lang>
+				<form script="LATIN">tniñi</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/tniñi#Sinicahua_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*uxe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/uxe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">usa</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/usa#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*uxi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/uxi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">usi</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/usi#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*wiluʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/wiluʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">vílu</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/vílu#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Sinicahua Mixtec</lang>
+				<form script="LATIN">vilu</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/vilu#Sinicahua_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">vilu</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/vilu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*wiʔⁿdeʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/wiʔⁿdeʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">vìhnyà</form>
+				<concepts>
+					<c>prickly pear cactus</c>
+				</concepts>
+				<url source="wiki">/wiki/vihnya#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*wéʔyí</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/wéʔyí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">veꞌe</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/veꞌe#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*wítį́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/wítį́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">huitna</form>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/huitna#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">vijna</form>
+				<concepts>
+					<c>now</c>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/vijna#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*xeʔų</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/xeʔų</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">sahun</form>
+				<concepts>
+					<c>fifteen</c>
+				</concepts>
+				<url source="wiki">/wiki/sahun#Chayuco_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*xitų</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/xitų</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">jinū</form>
+				<concepts>
+					<c>oven</c>
+				</concepts>
+				<url source="wiki">/wiki/jinū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*xèʔè</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/xèʔè</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">jahā</form>
+				<concepts>
+					<c>bottom</c>
+					<c>foot</c>
+					<c>base</c>
+				</concepts>
+				<url source="wiki">/wiki/jahā#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">saha</form>
+				<concepts>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/saha#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*xìyòʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/xìyòʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">tsiyo</form>
+				<concepts>
+					<c>comal</c>
+				</concepts>
+				<url source="wiki">/wiki/tsiyo#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">jiō</form>
+				<concepts>
+					<c>comal</c>
+				</concepts>
+				<url source="wiki">/wiki/jiō#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yaa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yaa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">yâá</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/yâá#Alcozauca_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yakʷįʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yakʷįʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ya̱kuín</form>
+				<concepts>
+					<c>armadillo</c>
+				</concepts>
+				<url source="wiki">/wiki/ya̱kuín#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">yakun</form>
+				<concepts>
+					<c>nine-banded armadillo</c>
+				</concepts>
+				<url source="wiki">/wiki/yakun#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yaquin</form>
+				<concepts>
+					<c>armadillo</c>
+				</concepts>
+				<url source="wiki">/wiki/yaquin#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">yakuín</form>
+				<concepts>
+					<c>armadillo</c>
+				</concepts>
+				<url source="wiki">/wiki/yakuín#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yawiʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yawiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yau</form>
+				<concepts>
+					<c>agave</c>
+				</concepts>
+				<url source="wiki">/wiki/yau#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yavui</form>
+				<concepts>
+					<c>agave</c>
+				</concepts>
+				<url source="wiki">/wiki/yavui#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">yái̱</form>
+				<concepts>
+					<c>agave</c>
+				</concepts>
+				<url source="wiki">/wiki/yái̱#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">yau</form>
+				<concepts>
+					<c>maguey</c>
+				</concepts>
+				<url source="wiki">/wiki/yau#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yosoʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yosoʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">yódo̱</form>
+				<concepts>
+					<c>plain</c>
+				</concepts>
+				<url source="wiki">/wiki/yódo̱#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yuʔwę</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yuʔwę</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">ñoꞌo̱ma̱</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/ñoꞌo̱ma̱#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yuʔų</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yuʔų</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ñuhu</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ñuhu#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yáwì</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yáwì</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yaū</form>
+				<concepts>
+					<c>hole</c>
+				</concepts>
+				<url source="wiki">/wiki/yaū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yáʔáʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yáʔáʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">yaꞌá</form>
+				<concepts>
+					<c>chili pepper</c>
+				</concepts>
+				<url source="wiki">/wiki/yaꞌá#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Ayutla Mixtec</lang>
+				<form script="LATIN">ya̱ꞌaꞌ</form>
+				<concepts>
+					<c>chili pepper</c>
+				</concepts>
+				<url source="wiki">/wiki/ya̱ꞌaꞌ#Ayutla_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yaha</form>
+				<concepts>
+					<c>chili pepper</c>
+				</concepts>
+				<url source="wiki">/wiki/yaha#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">yaꞌá</form>
+				<concepts>
+					<c>chili pepper</c>
+				</concepts>
+				<url source="wiki">/wiki/yaꞌá#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">yaꞌa</form>
+				<concepts>
+					<c>pass</c>
+				</concepts>
+				<url source="wiki">/wiki/yaꞌa#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yénì</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yénì</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ñani</form>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/ñani#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yòòʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yòòʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">yo̱ó</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/yo̱ó#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Ayutla Mixtec</lang>
+				<form script="LATIN">yoo̱ꞌ</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/yoo̱ꞌ#Ayutla_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yoō</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/yoō#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yoo</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/yoo#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">yo̱ó</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/yo̱ó#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">yoo</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/yoo#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yóʔóʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yóʔóʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">yoꞌo</form>
+				<concepts>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/yoꞌo#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yùkù</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yùkù</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">yuku</form>
+				<concepts>
+					<c>plant</c>
+				</concepts>
+				<url source="wiki">/wiki/yuku#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yùté</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yùté</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">i̱ta</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/i̱ta#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">yutya</form>
+				<concepts>
+					<c>tender</c>
+					<c>unripe</c>
+				</concepts>
+				<url source="wiki">/wiki/yutya#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yūcha</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/yūcha#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yùùʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yùùʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">yuu</form>
+				<concepts>
+					<c>mat</c>
+				</concepts>
+				<url source="wiki">/wiki/yuu#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yuū</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/yuū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yuu</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/yuu#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">yuu̱</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/yuu̱#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yúkúʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yúkúʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ikú</form>
+				<concepts>
+					<c>wilderness</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/ikú#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">yucu</form>
+				<concepts>
+					<c>greens</c>
+					<c>herb</c>
+				</concepts>
+				<url source="wiki">/wiki/yucu#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yucu</form>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/yucu#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yucu</form>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/yucu#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yútų́ʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yútų́ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yunu</form>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/yunu#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yutnu</form>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/yutnu#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">yujnu</form>
+				<concepts>
+					<c>wood</c>
+					<c>stick</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/yujnu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yúwíʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yúwíʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yuu</form>
+				<concepts>
+					<c>lick</c>
+				</concepts>
+				<url source="wiki">/wiki/yuu#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yuvui</form>
+				<concepts>
+					<c>mat</c>
+				</concepts>
+				<url source="wiki">/wiki/yuvui#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">yúu̱</form>
+				<concepts>
+					<c>mat</c>
+				</concepts>
+				<url source="wiki">/wiki/yúu̱#Tezoatlán_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yúų̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yúų̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ñuu</form>
+				<concepts>
+					<c>shake</c>
+				</concepts>
+				<url source="wiki">/wiki/ñuu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yúʔúʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yúʔúʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">yuꞌú</form>
+				<concepts>
+					<c>lip</c>
+					<c>edge</c>
+					<c>shore</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/yuꞌú#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yuhu</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/yuhu#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yuhu</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/yuhu#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yę-yɨwɨʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yę-yɨwɨʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ñayevui</form>
+				<concepts>
+					<c>person</c>
+				</concepts>
+				<url source="wiki">/wiki/ñayevui#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yɨkɨ̨ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yɨkɨ̨ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ayutla Mixtec</lang>
+				<form script="LATIN">i̱kinꞌ</form>
+				<concepts>
+					<c>squash</c>
+				</concepts>
+				<url source="wiki">/wiki/i̱kinꞌ#Ayutla_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Sinicahua Mixtec</lang>
+				<form script="LATIN">yikin</form>
+				<concepts>
+					<c>squash</c>
+				</concepts>
+				<url source="wiki">/wiki/yikin#Sinicahua_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yɨyɨ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yɨyɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ìì</form>
+				<concepts>
+					<c>coati</c>
+				</concepts>
+				<url source="wiki">/wiki/ìì#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">yiyī</form>
+				<concepts>
+					<c>white-nosed coati</c>
+				</concepts>
+				<url source="wiki">/wiki/yiyī#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">teyeye</form>
+				<concepts>
+					<c>white-nosed coati</c>
+				</concepts>
+				<url source="wiki">/wiki/teyeye#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yɨɨ̨ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yɨɨ̨ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">ñiī</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/ñiī#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ñee</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/ñee#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*yɨ́kɨ́ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/yɨ́kɨ́ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">yeque</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/yeque#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">yɨkɨ</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/yɨkɨ#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*íkú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/íkú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">icu</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/icu#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ycu</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/ycu#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">iku</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/iku#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ínà</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ínà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">ina</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ina#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">inà</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ina#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">teina</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/teina#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">ti̱na</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ti̱na#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">tǐna</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/tǐna#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ina</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ina#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ínì</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ínì</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ini</form>
+				<concepts>
+					<c>inside</c>
+				</concepts>
+				<url source="wiki">/wiki/ini#Yosondúa_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ini</form>
+				<concepts>
+					<c>stomach</c>
+				</concepts>
+				<url source="wiki">/wiki/ini#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ísù</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ísù</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">isu</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/isu#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">izu</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/izu#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">isù</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/isu#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">isū</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/isū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ydzu</form>
+				<concepts>
+					<c>horse</c>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/ydzu#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">isu</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/isu#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">isu</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/isu#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ítà</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ítà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ita</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/ita#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">ità</form>
+				<concepts>
+					<c>flower garden</c>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/ita#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">itā</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/itā#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ita</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/ita#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ita</form>
+				<concepts>
+					<c>plant</c>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/ita#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ítíʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ítíʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ychi</form>
+				<concepts>
+					<c>road</c>
+				</concepts>
+				<url source="wiki">/wiki/ychi#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ichi</form>
+				<concepts>
+					<c>thirsty</c>
+					<c>dry</c>
+				</concepts>
+				<url source="wiki">/wiki/ichi#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*òʔǫ̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/òʔǫ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">ohon</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ohon#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">hoho</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/hoho#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ùwì</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ùwì</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">uu</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/uu#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">uū</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/uū#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">vvui</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/vvui#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ɨ̀ɨ̨̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ɨ̀ɨ̨̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chayuco Mixtec</lang>
+				<form script="LATIN">ɨɨn</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ɨɨn#Chayuco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Magdalena Peñasco Mixtec</lang>
+				<form script="LATIN">iin</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/iin#Magdalena_Peñasco_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">ee</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ee#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ɨɨn</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ɨɨn#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdikaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdikaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ndika</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ndika#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdixį</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdixį</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">disi</form>
+				<concepts>
+					<c>wing</c>
+				</concepts>
+				<url source="wiki">/wiki/disi#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdáʔáʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdáʔáʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">ndaha</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ndaha#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">ndaꞌa</form>
+				<concepts>
+					<c>arm</c>
+					<c>paw</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ndaꞌa#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdìxę̀ʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdìxę̀ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ndu̱xán</form>
+				<concepts>
+					<c>sandal</c>
+				</concepts>
+				<url source="wiki">/wiki/ndu̱xán#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">ndijān</form>
+				<concepts>
+					<c>sandal</c>
+				</concepts>
+				<url source="wiki">/wiki/ndijān#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Sinicahua Mixtec</lang>
+				<form script="LATIN">ndijan</form>
+				<concepts>
+					<c>sandal</c>
+				</concepts>
+				<url source="wiki">/wiki/ndijan#Sinicahua_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">ndisa̱</form>
+				<concepts>
+					<c>sandal</c>
+					<c>shoe</c>
+				</concepts>
+				<url source="wiki">/wiki/ndisa̱#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Western Juxtlahuaca Mixtec</lang>
+				<form script="LATIN">nti̱xán</form>
+				<concepts>
+					<c>sandal</c>
+				</concepts>
+				<url source="wiki">/wiki/nti̱xán#Western_Juxtlahuaca_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdòòʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdòòʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">doo</form>
+				<concepts>
+					<c>cane</c>
+				</concepts>
+				<url source="wiki">/wiki/doo#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdòʔó</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdòʔó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">doho</form>
+				<concepts>
+					<c>adobe</c>
+				</concepts>
+				<url source="wiki">/wiki/doho#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdútéʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdútéʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">ndutya</form>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/ndutya#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">nducha</form>
+				<concepts>
+					<c>dissolve</c>
+					<c>smelt</c>
+				</concepts>
+				<url source="wiki">/wiki/nducha#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">nducha</form>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/nducha#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">duta</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/duta#Teposcolula_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Tezoatlán Mixtec</lang>
+				<form script="LATIN">ndúta̱</form>
+				<concepts>
+					<c>water</c>
+					<c>well</c>
+				</concepts>
+				<url source="wiki">/wiki/ndúta̱#Tezoatlán_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">nducha</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nducha#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdútíʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdútíʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">nduchí</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/nduchí#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Ayutla Mixtec</lang>
+				<form script="LATIN">ndu̱chiꞌ</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/ndu̱chiꞌ#Ayutla_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Miguel el Grande Mixtec</lang>
+				<form script="LATIN">nduchi</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/nduchi#San_Miguel_el_Grande_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">nduchi</form>
+				<concepts>
+					<c>bean</c>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/nduchi#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mixtec</plang>
+			<pform>*ⁿdɨwɨʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mixtec/ⁿdɨwɨʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teposcolula Mixtec</lang>
+				<form script="LATIN">devui</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/devui#Teposcolula_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

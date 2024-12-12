@@ -1,0 +1,473 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*keeʔku</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/keeʔku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chichicapan Zapotec</lang>
+				<form script="LATIN">guiꞌw</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/guiꞌw#Chichicapan_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">gueeu</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/gueeu#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kiiʔttzi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kiiʔttzi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">guiiche</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/guiiche#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">guíits</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/guíits#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">quichi</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/quichi#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kiyok</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kiyok</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">tyoo</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/tyoo#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kw-ella</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kw-ella</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">benda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/benda#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">benda</form>
+				<concepts>
+					<c>sister</c>
+				</concepts>
+				<url source="wiki">/wiki/benda#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">cualya</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/cualya#Tataltepec_Chatino</url>
+			</reflex>
+			<reflex>
+				<lang>Teojomulco Chatino</lang>
+				<form script="LATIN">duela</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/duela#Teojomulco_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kw-eʔtti(k)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kw-eʔtti(k)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">baat</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/baat#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">cuiji</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/cuiji#Tataltepec_Chatino</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">bet</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/bet#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kw-eʔyoʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kw-eʔyoʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chichicapan Zapotec</lang>
+				<form script="LATIN">bweꞌhewu</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/bweꞌhewu#Chichicapan_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">buu</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/buu#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kwe-sinaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kwe-sinaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">bziny</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/bziny#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">tiña̱ꞌ</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/tiña̱ꞌ#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kwe-tyeʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kwe-tyeʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">cuityeeꞌ</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/cuityeeꞌ#Tataltepec_Chatino</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">bcheꞋ</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/bcheꞋ#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*kwe-tyiiʔ(s)sa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/kwe-tyiiʔ(s)sa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">bdzɨz</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/bdzɨz#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Yatzachi Zapotec</lang>
+				<form script="LATIN">biachez</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/biachez#Yatzachi_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*laʔtyiʔ tawoʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/laʔtyiʔ tawoʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">lazdoo</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/lazdoo#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*nissa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/nissa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">nisa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nisa#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">nis</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nis#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Yatzachi Zapotec</lang>
+				<form script="LATIN">nis</form>
+				<concepts>
+					<c>water</c>
+					<c>juice</c>
+				</concepts>
+				<url source="wiki">/wiki/nis#Yatzachi_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Yatzachi Zapotec</lang>
+				<form script="LATIN">nis</form>
+				<concepts>
+					<c>watery</c>
+				</concepts>
+				<url source="wiki">/wiki/nis#Yatzachi_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">nis</form>
+				<concepts>
+					<c>water</c>
+					<c>juice</c>
+				</concepts>
+				<url source="wiki">/wiki/nis#Zoogocho_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">nis</form>
+				<concepts>
+					<c>watery</c>
+				</concepts>
+				<url source="wiki">/wiki/nis#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*tyittą</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/tyittą</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">dzɨt</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/dzɨt#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">tyijya̱</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/tyijya̱#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*tyiʔla</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/tyiʔla</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chichicapan Zapotec</lang>
+				<form script="LATIN">dzɨhyi</form>
+				<concepts>
+					<c>griddle</c>
+					<c>comal</c>
+				</concepts>
+				<url source="wiki">/wiki/dzɨhyi#Chichicapan_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">dzɨly</form>
+				<concepts>
+					<c>comal</c>
+				</concepts>
+				<url source="wiki">/wiki/dzɨly#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">ña̱</form>
+				<concepts>
+					<c>griddle</c>
+					<c>comal</c>
+				</concepts>
+				<url source="wiki">/wiki/ña̱#Tataltepec_Chatino</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">žil</form>
+				<concepts>
+					<c>comal</c>
+				</concepts>
+				<url source="wiki">/wiki/žil#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotecan</plang>
+			<pform>*yaka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotecan/yaka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">yag</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/yag#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">yaca</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/yaca#Tataltepec_Chatino</url>
+			</reflex>
+			<reflex>
+				<lang>Zacatepec Chatino</lang>
+				<form script="LATIN">yaka</form>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/yaka#Zacatepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

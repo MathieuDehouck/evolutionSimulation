@@ -1,0 +1,188 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Qiangic</plang>
+			<pform>*pram</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/3608</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lavrung (Jinchuan Guaninqiao)</lang>
+				<form script="LATIN">phrə̂m</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/3608</url>
+			</reflex>
+			<reflex>
+				<lang>rGyalrong (Jinchuan Guaninqiao Wobzi)</lang>
+				<form script="LATIN">pʰrə̂m</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/3608</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Qiangic</plang>
+			<pform>*r-dzwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Daofu</lang>
+				<form script="LATIN">ʁjə</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Longxi)</lang>
+				<form script="LATIN">zà</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Longxi)</lang>
+				<form script="LATIN">ʁà</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Longxi)</lang>
+				<form script="LATIN">ʁué</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">ʁdzə</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">ʁzə</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mianchi)</lang>
+				<form script="LATIN">dʐí</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5673</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Qiangic</plang>
+			<pform>*s-lu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1786</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tangut [Xixia]</lang>
+				<form script="LATIN">lhi̯u¹</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1786</url>
+			</reflex>
+			<reflex>
+				<lang>Tangut [Xixia]</lang>
+				<form script="LATIN">z̀i̯u²</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1786</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Qiangic</plang>
+			<pform>*s-ra</pform>
+			<graph>True</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6725</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Qiang (Longxi)</lang>
+				<form script="LATIN">zǎ</form>
+				<concepts>
+					<c>cry</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6725</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">zəʴ</form>
+				<concepts>
+					<c>cry</c>
+					<c>weep</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6725</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">zɪj</form>
+				<concepts>
+					<c>cry</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6725</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">zɪj</form>
+				<concepts>
+					<c>cry</c>
+					<c>chirp</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6725</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mianchi)</lang>
+				<form script="LATIN">zè</form>
+				<concepts>
+					<c>cry</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6725</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Yadu)</lang>
+				<form script="LATIN">zei</form>
+				<concepts>
+					<c>cry</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/6725</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

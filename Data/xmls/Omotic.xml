@@ -1,0 +1,22 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Omotic</plang>
+			<pform>*Hāččʼí</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Omotic/Hāččʼí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Zayse-Zergulla</lang>
+				<form script="LATIN">waːtse</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/waːtse#Zayse-Zergulla</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

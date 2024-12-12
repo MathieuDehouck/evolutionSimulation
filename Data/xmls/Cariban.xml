@@ -1,0 +1,632 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*jôtɨpô</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/jôtɨpô</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Apalaí</lang>
+				<form script="LATIN">zehpo</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/zehpo#Apalaí</url>
+			</reflex>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">jetïpë</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/jetïpë#Trió</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*kapu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/kapu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">kapu</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/kapu#Trió</url>
+			</reflex>
+			<reflex>
+				<lang>Yao (South America)</lang>
+				<form script="LATIN">capou</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/capou#Yao_(South_America)</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*karipona</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/karipona</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">Carib</form>
+				<concepts>
+					<c>Caribbean</c>
+				</concepts>
+				<url source="wiki">/wiki/Carib#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">caníbal</form>
+				<concepts>
+					<c>cannibal</c>
+				</concepts>
+				<url source="wiki">/wiki/caníbal#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">caníbal</form>
+				<concepts>
+					<c>cannibal</c>
+				</concepts>
+				<url source="wiki">/wiki/caníbal#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">caníbal</form>
+				<concepts>
+					<c>cannibalistic</c>
+				</concepts>
+				<url source="wiki">/wiki/caníbal#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">caníbal</form>
+				<concepts>
+					<c>cannibalistic</c>
+				</concepts>
+				<url source="wiki">/wiki/caníbal#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">carib</form>
+				<concepts>
+					<c>Carib</c>
+				</concepts>
+				<url source="wiki">/wiki/carib#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">carib</form>
+				<concepts>
+					<c>Carib</c>
+				</concepts>
+				<url source="wiki">/wiki/carib#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">carib</form>
+				<concepts>
+					<c>Carib</c>
+					<c>Cariban</c>
+				</concepts>
+				<url source="wiki">/wiki/carib#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Cari'na</form>
+				<concepts>
+					<c>Cari'na</c>
+					<c>Cari'na</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/karipona</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Caribbean</form>
+				<concepts>
+					<c>Caribbean Sea</c>
+					<c>Central America</c>
+					<c>Caribbean</c>
+				</concepts>
+				<url source="wiki">/wiki/Caribbean#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Caribbean</form>
+				<concepts>
+					<c>Central America</c>
+					<c>Caribbean</c>
+				</concepts>
+				<url source="wiki">/wiki/Caribbean#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Caribe</form>
+				<concepts>
+					<c>Caribe</c>
+					<c>Caribe</c>
+				</concepts>
+				<url source="wiki">/wiki/Caribe#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Kalinya</form>
+				<concepts>
+					<c>Kalinya</c>
+					<c>Kalinya</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/karipona</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">cannibale</form>
+				<concepts>
+					<c>cannibal</c>
+				</concepts>
+				<url source="wiki">/wiki/cannibale#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">Caribaeus</form>
+				<concepts>
+					<c>Caribbean</c>
+				</concepts>
+				<url source="wiki">/wiki/Caribaeus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">Caribe</form>
+				<concepts>
+					<c>Caribbean Sea</c>
+					<c>Caribbean</c>
+				</concepts>
+				<url source="wiki">/wiki/Caribe#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">Caribe</form>
+				<concepts>
+					<c>Caribbean</c>
+				</concepts>
+				<url source="wiki">/wiki/Caribe#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">caníbal</form>
+				<concepts>
+					<c>cannibal</c>
+				</concepts>
+				<url source="wiki">/wiki/caníbal#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">caníbal</form>
+				<concepts>
+					<c>cannibalistic</c>
+				</concepts>
+				<url source="wiki">/wiki/caníbal#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">caribe</form>
+				<concepts>
+					<c>hot</c>
+					<c>Caribbean</c>
+					<c>Cariban</c>
+				</concepts>
+				<url source="wiki">/wiki/caribe#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*nunô</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/nunô</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">nunnë</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/nunnë#Trió</url>
+			</reflex>
+			<reflex>
+				<lang>Yao (South America)</lang>
+				<form script="LATIN">noene</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/noene#Yao_(South_America)</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*pitupô</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/pitupô</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">pihpë</form>
+				<concepts>
+					<c>skin</c>
+				</concepts>
+				<url source="wiki">/wiki/pihpë#Trió</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*tikô</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/tikô</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">gigre</form>
+				<concepts>
+					<c>windlass</c>
+					<c>winch</c>
+				</concepts>
+				<url source="wiki">/wiki/gigre#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">chigoe</form>
+				<concepts>
+					<c>Tunga penetrans</c>
+					<c>chigoe</c>
+				</concepts>
+				<url source="wiki">/wiki/chigoe#English</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*tirikô</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/tirikô</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">sirikë</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/sirikë#Trió</url>
+			</reflex>
+			<reflex>
+				<lang>Yao (South America)</lang>
+				<form script="LATIN">chirika</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/chirika#Yao_(South_America)</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*tuna</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/tuna</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Akawaio</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Akawaio</url>
+			</reflex>
+			<reflex>
+				<lang>Apalaí</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Apalaí</url>
+			</reflex>
+			<reflex>
+				<lang>Carijona</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Carijona</url>
+			</reflex>
+			<reflex>
+				<lang>Chaima</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Chaima</url>
+			</reflex>
+			<reflex>
+				<lang>Hixkaryana</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Hixkaryana</url>
+			</reflex>
+			<reflex>
+				<lang>Kuikúro</lang>
+				<form script="LATIN">tunga</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tunga#Kuikúro</url>
+			</reflex>
+			<reflex>
+				<lang>Kuikúro</lang>
+				<form script="LATIN">tuã</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuã#Kuikúro</url>
+			</reflex>
+			<reflex>
+				<lang>Macushi</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Macushi</url>
+			</reflex>
+			<reflex>
+				<lang>Mapoyo</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Mapoyo</url>
+			</reflex>
+			<reflex>
+				<lang>Opón</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Opón</url>
+			</reflex>
+			<reflex>
+				<lang>Panare</lang>
+				<form script="LATIN">tïna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tïna#Panare</url>
+			</reflex>
+			<reflex>
+				<lang>Pemon</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Pemon</url>
+			</reflex>
+			<reflex>
+				<lang>Purukotó</lang>
+				<form script="LATIN">tuná</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Purukotó</url>
+			</reflex>
+			<reflex>
+				<lang>Sapará</lang>
+				<form script="LATIN">tu꞉ná</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Sapará</url>
+			</reflex>
+			<reflex>
+				<lang>Tamanaku</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Tamanaku</url>
+			</reflex>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Trió</url>
+			</reflex>
+			<reflex>
+				<lang>Waimiri-Atroari</lang>
+				<form script="LATIN">syna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/syna#Waimiri-Atroari</url>
+			</reflex>
+			<reflex>
+				<lang>Waiwai</lang>
+				<form script="LATIN">tuuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuuna#Waiwai</url>
+			</reflex>
+			<reflex>
+				<lang>Wayana</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Wayana</url>
+			</reflex>
+			<reflex>
+				<lang>Wayumará</lang>
+				<form script="LATIN">tuná</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Wayumará</url>
+			</reflex>
+			<reflex>
+				<lang>Yabarana</lang>
+				<form script="LATIN">tuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuna#Yabarana</url>
+			</reflex>
+			<reflex>
+				<lang>Yukpa</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Yukpa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*tôpu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/tôpu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">tëpu</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/tëpu#Trió</url>
+			</reflex>
+			<reflex>
+				<lang>Yao (South America)</lang>
+				<form script="LATIN">tapou</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/tapou#Yao_(South_America)</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*weju</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/weju</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Trió</lang>
+				<form script="LATIN">wei</form>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/wei#Trió</url>
+			</reflex>
+			<reflex>
+				<lang>Yao (South America)</lang>
+				<form script="LATIN">weyo</form>
+				<concepts>
+					<c>sun</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/weyo#Yao_(South_America)</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*ôrô</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/ôrô</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kaxuyana</lang>
+				<form script="LATIN">soro</form>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/soro#Kaxuyana</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Cariban</plang>
+			<pform>*ôwna</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Cariban/ôwna</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yao (South America)</lang>
+				<form script="LATIN">hoenaly</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/hoenaly#Yao_(South_America)</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

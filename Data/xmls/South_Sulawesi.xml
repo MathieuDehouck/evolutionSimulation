@@ -1,0 +1,51 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>South Sulawesi</plang>
+			<pform>*babine</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-South Sulawesi/babine</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Makasar</lang>
+				<form script="LATIN">baine</form>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/baine#Makasar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>South Sulawesi</plang>
+			<pform>*kɨlloŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-South Sulawesi/kɨlloŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buginese</lang>
+				<form script="LATIN">ellong</form>
+				<concepts>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/ellong#Buginese</url>
+			</reflex>
+			<reflex>
+				<lang>Makasar</lang>
+				<form script="LATIN">kallong</form>
+				<concepts>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/kallong#Makasar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

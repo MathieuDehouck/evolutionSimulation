@@ -1,0 +1,436 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*bluː</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/bluː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">blu</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/blu#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ceː₂m</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ceː₂m</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">sem</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/sem#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ciː</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ciː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">si</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/si#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ckaw ~ gaw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ckaw ~ gaw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">chơgơu</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/chơgơu#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*kləːm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/kləːm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">klơm</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/klơm#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*knɛː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/knɛː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">kơne</form>
+				<concepts>
+					<c>rat</c>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/kơne#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*kɔːn</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/kɔːn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">kon</form>
+				<concepts>
+					<c>offspring</c>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/kon#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*kʦɨːŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/kʦɨːŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">kơting</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/kơting#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*plaj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/plaj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">plei</form>
+				<concepts>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/plei#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*rɔːj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/rɔːj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">roi</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/roi#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*sɔk</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/sɔk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">sŏk</form>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/sŏk#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*taːɲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/taːɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">tanh</form>
+				<concepts>
+					<c>plait</c>
+					<c>weave</c>
+				</concepts>
+				<url source="wiki">/wiki/tanh#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*tməw</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/tməw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">tơmo</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/tơmo#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*toʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/toʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">tŏ</form>
+				<concepts>
+					<c>hot</c>
+				</concepts>
+				<url source="wiki">/wiki/tŏ#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ɓəs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ɓəs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">'bih</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/'bih#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ɟriː</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ɟriː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">jri</form>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="wiki">/wiki/jri#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ɟrlaː</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ɟrlaː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">jơla</form>
+				<concepts>
+					<c>thorn</c>
+				</concepts>
+				<url source="wiki">/wiki/jơla#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ɟruʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ɟruʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">jrŭ</form>
+				<concepts>
+					<c>deep</c>
+				</concepts>
+				<url source="wiki">/wiki/jrŭ#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ɟɨt</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ɟɨt</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">jĭt</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/jĭt#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ʔiər</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ʔiər</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">iĕr</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/iĕr#Bahnar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Bahnaric</plang>
+			<pform>*ʔuɲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Bahnaric/ʔuɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">ŭnh</form>
+				<concepts>
+					<c>lantern</c>
+					<c>stove</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ŭnh#Bahnar</url>
+			</reflex>
+			<reflex>
+				<lang>Sedang</lang>
+				<form script="LATIN">on</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/on#Sedang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

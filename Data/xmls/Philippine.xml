@@ -1,0 +1,349 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Philippine</plang>
+			<pform>*gábut</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Philippine/gábut</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aklanon</lang>
+				<form script="LATIN">gabot</form>
+				<concepts>
+					<c>pull out</c>
+				</concepts>
+				<url source="wiki">/wiki/gabot#Aklanon</url>
+			</reflex>
+			<reflex>
+				<lang>Hiligaynon</lang>
+				<form script="LATIN">gabut</form>
+				<concepts>
+					<c>extract</c>
+					<c>uproot</c>
+					<c>pull out</c>
+				</concepts>
+				<url source="wiki">/wiki/gabut#Hiligaynon</url>
+			</reflex>
+			<reflex>
+				<lang>Mansaka</lang>
+				<form script="LATIN">gabot</form>
+				<concepts>
+					<c>extract</c>
+					<c>pull out</c>
+				</concepts>
+				<url source="wiki">/wiki/gabot#Mansaka</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Philippine</plang>
+			<pform>*huaji</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Philippine/huaji</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Iranun</lang>
+				<form script="LATIN">ari</form>
+				<concepts>
+					<c>sibling</c>
+				</concepts>
+				<url source="wiki">/wiki/ari#Iranun</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Philippine</plang>
+			<pform>*luaŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Philippine/luaŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">luwang</form>
+				<concepts>
+					<c>measurement</c>
+					<c>extensiveness</c>
+					<c>size</c>
+					<c>vastness</c>
+					<c>width</c>
+					<c>spaciousness</c>
+				</concepts>
+				<url source="wiki">/wiki/luwang#Tagalog</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Philippine</plang>
+			<pform>*sidáq</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Philippine/sidáq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bikol Central</lang>
+				<form script="LATIN">sira</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/sira#Bikol_Central</url>
+			</reflex>
+			<reflex>
+				<lang>Hanunoo</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Hanunoo</url>
+			</reflex>
+			<reflex>
+				<lang>Ilocano</lang>
+				<form script="LATIN">sida</form>
+				<concepts>
+					<c>side dish</c>
+					<c>viand</c>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/sida#Ilocano</url>
+			</reflex>
+			<reflex>
+				<lang>Pangasinan</lang>
+				<form script="LATIN">sira</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/sira#Pangasinan</url>
+			</reflex>
+			<reflex>
+				<lang>Remontado Agta</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Remontado_Agta</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Tagalog</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Philippine</plang>
+			<pform>*sədaq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Philippine/sədaq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Butuanon</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Butuanon</url>
+			</reflex>
+			<reflex>
+				<lang>Capiznon</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Capiznon</url>
+			</reflex>
+			<reflex>
+				<lang>Cebuano</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Cebuano</url>
+			</reflex>
+			<reflex>
+				<lang>Cuyunon</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Cuyunon</url>
+			</reflex>
+			<reflex>
+				<lang>Dibabawon Manobo</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>mudfish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Dibabawon_Manobo</url>
+			</reflex>
+			<reflex>
+				<lang>Hiligaynon</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Hiligaynon</url>
+			</reflex>
+			<reflex>
+				<lang>Ibanag</lang>
+				<form script="LATIN">sira</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/sira#Ibanag</url>
+			</reflex>
+			<reflex>
+				<lang>Iraya</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Iraya</url>
+			</reflex>
+			<reflex>
+				<lang>Kinaray-a</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Kinaray-a</url>
+			</reflex>
+			<reflex>
+				<lang>Maguindanao</lang>
+				<form script="LATIN">seda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/seda#Maguindanao</url>
+			</reflex>
+			<reflex>
+				<lang>Mansaka</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Mansaka</url>
+			</reflex>
+			<reflex>
+				<lang>Maranao</lang>
+				<form script="LATIN">seda'</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/seda'#Maranao</url>
+			</reflex>
+			<reflex>
+				<lang>Masbate Sorsogon</lang>
+				<form script="LATIN">sira</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/sira#Masbate_Sorsogon</url>
+			</reflex>
+			<reflex>
+				<lang>Masbatenyo</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Masbatenyo</url>
+			</reflex>
+			<reflex>
+				<lang>Miraya Bikol</lang>
+				<form script="LATIN">sira</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/sira#Miraya_Bikol</url>
+			</reflex>
+			<reflex>
+				<lang>Ratagnon</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Ratagnon</url>
+			</reflex>
+			<reflex>
+				<lang>Romblomanon</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Romblomanon</url>
+			</reflex>
+			<reflex>
+				<lang>Tadyawan</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Tadyawan</url>
+			</reflex>
+			<reflex>
+				<lang>Tontemboan</lang>
+				<form script="LATIN">seda'</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/seda'#Tontemboan</url>
+			</reflex>
+			<reflex>
+				<lang>Waray Sorsogon</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Waray_Sorsogon</url>
+			</reflex>
+			<reflex>
+				<lang>Waray-Waray</lang>
+				<form script="LATIN">isda</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/isda#Waray-Waray</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Philippine</plang>
+			<pform>*taqul</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Philippine/taqul</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">tahol</form>
+				<concepts>
+					<c>bark</c>
+					<c>barking</c>
+				</concepts>
+				<url source="wiki">/wiki/tahol#Tagalog</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,1492 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*-ye</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/-ye</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">iye</form>
+				<concepts>
+					<c>life</c>
+				</concepts>
+				<url source="wiki">/wiki/iye#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*V́-cĩcĩ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/V́-cĩcĩ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">eṣinṣin</form>
+				<concepts>
+					<c>fly</c>
+					<c>housefly</c>
+				</concepts>
+				<url source="wiki">/wiki/eṣinṣin#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*V́-ɣó</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/V́-ɣó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ewó</form>
+				<concepts>
+					<c>what</c>
+					<c>which</c>
+				</concepts>
+				<url source="wiki">/wiki/ewo#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ió</form>
+				<concepts>
+					<c>cowry</c>
+					<c>money</c>
+				</concepts>
+				<url source="wiki">/wiki/io#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*kú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/kú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ifè</lang>
+				<form script="LATIN">ku</form>
+				<concepts>
+					<c>die</c>
+				</concepts>
+				<url source="wiki">/wiki/ku#Ifè</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*à-kèlé</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/à-kèlé</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">àkèlé</form>
+				<concepts>
+					<c>toad</c>
+				</concepts>
+				<url source="wiki">/wiki/akele#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">àkèré</form>
+				<concepts>
+					<c>small</c>
+				</concepts>
+				<url source="wiki">/wiki/akere#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*à-ɓã</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/à-ɓã</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Itsekiri</lang>
+				<form script="LATIN">àghan</form>
+				<concepts>
+					<c>you</c>
+					<c>they</c>
+				</concepts>
+				<url source="wiki">/wiki/aghan#Itsekiri</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">àghan</form>
+				<concepts>
+					<c>he</c>
+					<c>you</c>
+					<c>she</c>
+					<c>they</c>
+				</concepts>
+				<url source="wiki">/wiki/aghan#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọ̀wọn</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>they</c>
+				</concepts>
+				<url source="wiki">/wiki/ọwọn#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*á-byá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/á-byá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ábiá</form>
+				<concepts>
+					<c>dog</c>
+					<c>animal</c>
+				</concepts>
+				<url source="wiki">/wiki/abia#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">aza</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/aza#Olukumi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*á-lɛ̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/á-lɛ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">alálẹ̀</form>
+				<concepts>
+					<c>landlord</c>
+					<c>ancestor</c>
+					<c>landowner</c>
+				</concepts>
+				<url source="wiki">/wiki/alalẹ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*é-jò</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/é-jò</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">éjò</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ejo#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*é-lĩ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/é-lĩ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">erin</form>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/erin#Olukumi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*é-tĩ́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/é-tĩ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Itsekiri</lang>
+				<form script="LATIN">etín</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/etin#Itsekiri</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">étín</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/etin#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">etí</form>
+				<concepts>
+					<c>side</c>
+					<c>ear</c>
+					<c>edge</c>
+				</concepts>
+				<url source="wiki">/wiki/eti#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*é-ɓó</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/é-ɓó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">éwó</form>
+				<concepts>
+					<c>stupid</c>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ewo#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ewúrẹ́</form>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ewurẹ#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">eúrẹ́</form>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/eurẹ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*é-ɲĩ́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/é-ɲĩ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">éyín</form>
+				<concepts>
+					<c>teeth</c>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/eyin#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">eyín</form>
+				<concepts>
+					<c>teeth</c>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/eyin#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*í-gĩ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/í-gĩ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">igi</form>
+				<concepts>
+					<c>ridge</c>
+					<c>wood</c>
+					<c>tree</c>
+					<c>cane</c>
+					<c>diagram</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/igi#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ò-dòdó</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ò-dòdó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">àdòdó</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/adodo#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ò-ɗũ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ò-ɗũ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">òdu</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/odu#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ó-cù</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ó-cù</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">óchù</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/ochu#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">osu</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/osu#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">oṣù</form>
+				<concepts>
+					<c>new moon</c>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/oṣu#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">òṣùpá</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/oṣupa#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ó-ko</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ó-ko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">oko</form>
+				<concepts>
+					<c>penis</c>
+				</concepts>
+				<url source="wiki">/wiki/oko#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ó-lũ̀</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ó-lũ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ólù</form>
+				<concepts>
+					<c>sleep</c>
+					<c>nap</c>
+					<c>slumber</c>
+				</concepts>
+				<url source="wiki">/wiki/olu#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ó-mĩ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ó-mĩ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ómi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/omi#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">omi</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/omi#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ó-ɓũ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ó-ɓũ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ede Idaca</lang>
+				<form script="LATIN">owun</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/owun#Ede_Idaca</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">ówún</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/owun#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">oghun</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/oghun#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ó-ɗú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ó-ɗú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ódú</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/odu#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">eríkọ</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/erikọ#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọrúkọ</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/ọrukọ#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọrụ́kọ</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/ọrụkọ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ú-cu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ú-cu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ifè</lang>
+				<form script="LATIN">itsu</form>
+				<concepts>
+					<c>yam</c>
+				</concepts>
+				<url source="wiki">/wiki/itsu#Ifè</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">iṣu</form>
+				<concepts>
+					<c>tuber</c>
+				</concepts>
+				<url source="wiki">/wiki/iṣu#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">uṣu</form>
+				<concepts>
+					<c>yam</c>
+				</concepts>
+				<url source="wiki">/wiki/uṣu#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ú-dì</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ú-dì</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">újì</form>
+				<concepts>
+					<c>hawk</c>
+					<c>kite</c>
+				</concepts>
+				<url source="wiki">/wiki/uji#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">udì</form>
+				<concepts>
+					<c>bottom</c>
+					<c>base</c>
+				</concepts>
+				<url source="wiki">/wiki/udi#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">udì</form>
+				<concepts>
+					<c>reason</c>
+					<c>purpose</c>
+					<c>cause</c>
+				</concepts>
+				<url source="wiki">/wiki/udi#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ú-lí</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ú-lí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Itsekiri</lang>
+				<form script="LATIN">ulí</form>
+				<concepts>
+					<c>house</c>
+					<c>home</c>
+				</concepts>
+				<url source="wiki">/wiki/uli#Itsekiri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ̀-bʊ́kɔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ̀-bʊ́kɔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">òbúkọ</form>
+				<concepts>
+					<c>he-goat</c>
+					<c>womanizer</c>
+					<c>billy goat</c>
+				</concepts>
+				<url source="wiki">/wiki/obukọ#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">òbúkọ</form>
+				<concepts>
+					<c>he-goat</c>
+					<c>billy goat</c>
+				</concepts>
+				<url source="wiki">/wiki/obukọ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ̀-kʊ́ta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ̀-kʊ́ta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">òkwúta</form>
+				<concepts>
+					<c>stone</c>
+					<c>pebble</c>
+					<c>grinding stone</c>
+					<c>laterite</c>
+				</concepts>
+				<url source="wiki">/wiki/okwuta#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">òkúta</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+					<c>grinding stone</c>
+				</concepts>
+				<url source="wiki">/wiki/okuta#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọ̀kúta</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/ọkuta#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ̀-kʊ̃̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ̀-kʊ̃̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọ̀kùn</form>
+				<concepts>
+					<c>millipede</c>
+				</concepts>
+				<url source="wiki">/wiki/ọkun#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ̀-ɗɔ̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ̀-ɗɔ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ọ̀dọ̀</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/ọdọ#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-bɪ̃̀rɪ̃</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-bɪ̃̀rɪ̃</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">obìnrin</form>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/obinrin#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọbị̀nrịn</form>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/ọbịnrịn#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-cɛ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-cɛ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọṣẹ</form>
+				<concepts>
+					<c>soap</c>
+				</concepts>
+				<url source="wiki">/wiki/ọṣẹ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-dɛ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-dɛ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọdẹ</form>
+				<concepts>
+					<c>hunting</c>
+					<c>hunter</c>
+					<c>security guard</c>
+				</concepts>
+				<url source="wiki">/wiki/ọdẹ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-dʊ̃́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-dʊ̃́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ọ́dọ́</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/ọdọ#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-jɔ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-jɔ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọjọ́</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ọjọ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-kɔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-kɔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">ọkọ</form>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/ọkọ#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">ọkọ</form>
+				<concepts>
+					<c>vehicle</c>
+				</concepts>
+				<url source="wiki">/wiki/ọkọ#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">akọ</form>
+				<concepts>
+					<c>scabbard</c>
+					<c>sheath</c>
+				</concepts>
+				<url source="wiki">/wiki/akọ#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọkọ</form>
+				<concepts>
+					<c>hoe</c>
+				</concepts>
+				<url source="wiki">/wiki/ọkọ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-mã</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-mã</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ọ́ma</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/ọma#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Itsekiri</lang>
+				<form script="LATIN">ọma</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/ọma#Itsekiri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-tɪ̃́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-tɪ̃́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọtí</form>
+				<concepts>
+					<c>alcohol</c>
+					<c>liquor</c>
+				</concepts>
+				<url source="wiki">/wiki/ọti#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-yà</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-yà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ọ́yà</form>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/ọya#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">aya</form>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/aya#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">aya</form>
+				<concepts>
+					<c>chest</c>
+					<c>bravery</c>
+					<c>heart</c>
+					<c>courage</c>
+				</concepts>
+				<url source="wiki">/wiki/aya#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɔ́-ɓɔ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɔ́-ɓɔ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Itsekiri</lang>
+				<form script="LATIN">ẹwọ́</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹwọ#Itsekiri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ̀-byɛ̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ̀-byɛ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹ̀jẹ̀</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹjẹ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ̀-fà</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ̀-fà</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ẹ̀fà</form>
+				<concepts>
+					<c>buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹfa#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹ̀fà</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹfa#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ̀-là</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ̀-là</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">èèrà</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/eera#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹ̀ẹ̀rà</form>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹẹra#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ̀-lɪ̃</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ̀-lɪ̃</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ẹ̀lẹ</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹlẹ#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ́-fã̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ́-fã̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ẹfà</form>
+				<concepts>
+					<c>buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹfa#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">ẹfàn</form>
+				<concepts>
+					<c>buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹfan#Olukumi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ́-ja</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ́-ja</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ẹ́ja</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹja#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ́-kʊ̃̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ́-kʊ̃̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ẹ́kọ̀</form>
+				<concepts>
+					<c>leopard</c>
+					<c>big cat</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹkọ#Igala</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ́-lɔ̃</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ́-lɔ̃</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹran</form>
+				<concepts>
+					<c>meat</c>
+					<c>animal</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹran#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ́-wɛ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ́-wɛ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ifè</lang>
+				<form script="LATIN">ɛyɛ</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ɛyɛ#Ifè</url>
+			</reflex>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ẹ́wẹ</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹwẹ#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">ẹyẹ</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹyẹ#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹyẹ</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹyẹ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɛ́-ɣɪ̃</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɛ́-ɣɪ̃</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">ẹ́ghẹ́n</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹghẹn#Olukumi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɪ̀-làwɔ̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɪ̀-làwɔ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ìlàwò</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/ilawo#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ị̀ràọ̀</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/ịraọ#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɪ́-fá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɪ́-fá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">Ífá</form>
+				<concepts>
+					<c>spirit</c>
+				</concepts>
+				<url source="wiki">/wiki/Ifa#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">Ifá</form>
+				<concepts>
+					<c>spirit</c>
+					<c>divination</c>
+					<c>wisdom</c>
+					<c>oracle</c>
+				</concepts>
+				<url source="wiki">/wiki/Ifa#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ɪ́-ŋmʊ̃́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ɪ́-ŋmʊ̃́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ímọ́</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/imọ#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">imú</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/imu#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ʊ̀-gbɪ̃́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ʊ̀-gbɪ̃́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Igala</lang>
+				<form script="LATIN">ìgbí</form>
+				<concepts>
+					<c>snail</c>
+				</concepts>
+				<url source="wiki">/wiki/igbi#Igala</url>
+			</reflex>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">ugbẹ́n</form>
+				<concepts>
+					<c>snail</c>
+				</concepts>
+				<url source="wiki">/wiki/ugbẹn#Olukumi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruboid</plang>
+			<pform>*ʊ́-ɓã́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruboid/ʊ́-ɓã́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">uwán</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/uwan#Olukumi</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ahọ́n</form>
+				<concepts>
+					<c>tongue</c>
+					<c>speech</c>
+				</concepts>
+				<url source="wiki">/wiki/ahọn#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

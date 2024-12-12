@@ -1,0 +1,299 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*Hasw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/Hasw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵙⵡ</form>
+				<translit>sw</translit>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵙⵡ#Central_Atlas_Tamazight</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*a-fuʔs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/a-fuʔs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⴰⴼⵓⵙ</form>
+				<translit>afus</translit>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ⴰⴼⵓⵙ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">afus</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/afus#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Tarifit</lang>
+				<form script="LATIN">fus</form>
+				<concepts>
+					<c>arm</c>
+					<c>handle</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/fus#Tarifit</url>
+			</reflex>
+			<reflex>
+				<lang>Tuareg</lang>
+				<form script="LATIN">ăfus</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ăfus#Tuareg</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*a-lɣəm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/a-lɣəm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hausa</lang>
+				<form script="LATIN">rā̀ƙumī</form>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/raƙumi#Hausa</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">alɣem</form>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/alɣem#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Tarifit</lang>
+				<form script="LATIN">ařɣem</form>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/ařɣem#Tarifit</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ràkúnmí</form>
+				<concepts>
+					<c>camel</c>
+				</concepts>
+				<url source="wiki">/wiki/rakunmi#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*a-ǵăllid</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/a-ǵăllid</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⴰⴳⵍⵍⵉⴷ</form>
+				<translit>agllid</translit>
+				<concepts>
+					<c>lord</c>
+					<c>king</c>
+					<c>master</c>
+				</concepts>
+				<url source="wiki">/wiki/ⴰⴳⵍⵍⵉⴷ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">agellid</form>
+				<concepts>
+					<c>lord</c>
+					<c>master</c>
+				</concepts>
+				<url source="wiki">/wiki/agellid#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Tarifit</lang>
+				<form script="LATIN">ajellid</form>
+				<concepts>
+					<c>king</c>
+				</concepts>
+				<url source="wiki">/wiki/ajellid#Tarifit</url>
+			</reflex>
+			<reflex>
+				<lang>Tashelhit</lang>
+				<form script="TIFINAGH">ⴰⴳⵍⵍⵉⴷ</form>
+				<translit>agllid</translit>
+				<concepts>
+					<c>king</c>
+				</concepts>
+				<url source="wiki">/wiki/ⴰⴳⵍⵍⵉⴷ#Tashelhit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*a-ẓrəf</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/a-ẓrəf</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⴰⵥⵔⴼ</form>
+				<translit>aẓrf</translit>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/ⴰⵥⵔⴼ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Hausa</lang>
+				<form script="LATIN">azurfa</form>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/azurfa#Hausa</url>
+			</reflex>
+			<reflex>
+				<lang>Tuareg</lang>
+				<form script="LATIN">aẓrəf</form>
+				<concepts>
+					<c>money</c>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/aẓrəf#Tuareg</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*e‐ɣăf</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/e‐ɣăf</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵉⵖⴼ</form>
+				<translit>iɣf</translit>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵉⵖⴼ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Tuareg</lang>
+				<form script="LATIN">eɣăf</form>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/eɣăf#Tuareg</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*iləs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/iləs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵉⵍⵙ</form>
+				<translit>ils</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵉⵍⵙ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">iles</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/iles#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Tarifit</lang>
+				<form script="LATIN">iřes</form>
+				<concepts>
+					<c>tongue</c>
+					<c>dialect</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/iřes#Tarifit</url>
+			</reflex>
+			<reflex>
+				<lang>Tashelhit</lang>
+				<form script="TIFINAGH">ⵉⵍⵙ</form>
+				<translit>ils</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵉⵍⵙ#Tashelhit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Berber</plang>
+			<pform>*sin-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Berber/sin-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵉⵙⵉⵏ</form>
+				<translit>isin</translit>
+				<concepts>
+					<c>know</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵉⵙⵉⵏ#Central_Atlas_Tamazight</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

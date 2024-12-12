@@ -1,0 +1,50 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Hmong-Mien</plang>
+			<pform>*hnjeinˣ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Hmong-Mien/hnjeinˣ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>White Hmong</lang>
+				<form script="LATIN">hnyav</form>
+				<concepts>
+					<c>heavy</c>
+				</concepts>
+				<url source="wiki">/wiki/hnyav#White_Hmong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Hmong-Mien</plang>
+			<pform>*m-nɔk</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Hmong-Mien/m-nɔk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Iu Mien</lang>
+				<form script="LATIN">norqc</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/norqc#Iu_Mien</url>
+			</reflex>
+			<reflex>
+				<lang>White Hmong</lang>
+				<form script="LATIN">noog</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/noog#White_Hmong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

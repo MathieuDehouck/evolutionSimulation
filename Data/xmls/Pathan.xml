@@ -1,0 +1,23 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Pathan</plang>
+			<pform>*ṓspəna</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Pathan/ṓspəna</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Pashto</lang>
+				<form script="ARABIC">وسپنه</form>
+				<translit>wë́spëna</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/وسپنه#Pashto</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,78 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Malayo-Sumbawan</plang>
+			<pform>*bagus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayo-Sumbawan/bagus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬩᬕᬸᬲ᭄</form>
+				<translit>bagus</translit>
+				<concepts>
+					<c>handsome</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬩᬕᬸᬲ᭄#Balinese</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">bagus</form>
+				<concepts>
+					<c>handsome</c>
+					<c>good</c>
+				</concepts>
+				<url source="wiki">/wiki/bagus#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">bagus</form>
+				<concepts>
+					<c>handsome</c>
+					<c>good</c>
+				</concepts>
+				<url source="wiki">/wiki/bagus#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Rembong</lang>
+				<form script="LATIN">bagus</form>
+				<concepts>
+					<c>handsome</c>
+				</concepts>
+				<url source="wiki">/wiki/bagus#Rembong</url>
+			</reflex>
+			<reflex>
+				<lang>Sasak</lang>
+				<form script="LATIN">bagus</form>
+				<concepts>
+					<c>handsome</c>
+				</concepts>
+				<url source="wiki">/wiki/bagus#Sasak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayo-Sumbawan</plang>
+			<pform>*wadi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayo-Sumbawan/wadi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬳᬤᬶ</form>
+				<translit>adi</translit>
+				<concepts>
+					<c>sibling</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬳᬤᬶ#Balinese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

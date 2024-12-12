@@ -1,0 +1,210 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Siouan</plang>
+			<pform>*(i-)sį́•te</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Siouan/(i-)sį́•te</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Crow</lang>
+				<form script="LATIN">chíisa</form>
+				<concepts>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/chíisa#Crow</url>
+			</reflex>
+			<reflex>
+				<lang>Dakota</lang>
+				<form script="LATIN">sįté</form>
+				<concepts>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/sįté#Dakota</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Siouan</plang>
+			<pform>*awą́•se</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Siouan/awą́•se</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Crow</lang>
+				<form script="LATIN">úuwata</form>
+				<concepts>
+					<c>money</c>
+					<c>metal</c>
+				</concepts>
+				<url source="wiki">/wiki/úuwata#Crow</url>
+			</reflex>
+			<reflex>
+				<lang>Dakota</lang>
+				<form script="LATIN">máza</form>
+				<concepts>
+					<c>iron</c>
+					<c>metal</c>
+				</concepts>
+				<url source="wiki">/wiki/máza#Dakota</url>
+			</reflex>
+			<reflex>
+				<lang>Lakota</lang>
+				<form script="LATIN">máza</form>
+				<concepts>
+					<c>iron</c>
+					<c>metal</c>
+				</concepts>
+				<url source="wiki">/wiki/máza#Lakota</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Siouan</plang>
+			<pform>*hká•xi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Siouan/hká•xi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dakota</lang>
+				<form script="LATIN">khąğí</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/khąğí#Dakota</url>
+			</reflex>
+			<reflex>
+				<lang>Lakota</lang>
+				<form script="LATIN">khąğí</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/khąğí#Lakota</url>
+			</reflex>
+			<reflex>
+				<lang>Quapaw</lang>
+				<form script="LATIN">kkáxe</form>
+				<concepts>
+					<c>raven</c>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/kkáxe#Quapaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Siouan</plang>
+			<pform>*sará•</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Siouan/sará•</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Crow</lang>
+				<form script="LATIN">taláa</form>
+				<concepts>
+					<c>gasoline</c>
+					<c>grease</c>
+					<c>petrol</c>
+					<c>oil</c>
+				</concepts>
+				<url source="wiki">/wiki/taláa#Crow</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Siouan</plang>
+			<pform>*wašą́•ka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Siouan/wašą́•ka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Crow</lang>
+				<form script="LATIN">sáaka</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/sáaka#Crow</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Siouan</plang>
+			<pform>*wašų́ke</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Siouan/wašų́ke</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Assiniboine</lang>
+				<form script="LATIN">šų́ga</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/šų́ga#Assiniboine</url>
+			</reflex>
+			<reflex>
+				<lang>Crow</lang>
+				<form script="LATIN">bishká</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/bishká#Crow</url>
+			</reflex>
+			<reflex>
+				<lang>Dakota</lang>
+				<form script="LATIN">šų́ka</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/šų́ka#Dakota</url>
+			</reflex>
+			<reflex>
+				<lang>Lakota</lang>
+				<form script="LATIN">šúŋka</form>
+				<concepts>
+					<c>dog</c>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/šúŋka#Lakota</url>
+			</reflex>
+			<reflex>
+				<lang>Osage</lang>
+				<form script="LATIN">šǫ́ke</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/šǫ́ke#Osage</url>
+			</reflex>
+			<reflex>
+				<lang>Quapaw</lang>
+				<form script="LATIN">šǫ́ke</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/šǫ́ke#Quapaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

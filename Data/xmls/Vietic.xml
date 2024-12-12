@@ -1,0 +1,2352 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-giːʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-giːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gậy</form>
+				<concepts>
+					<c>cane</c>
+					<c>a</c>
+					<c>staff</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/gậy#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-jəm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-jəm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">râm</form>
+				<concepts>
+					<c>shady</c>
+				</concepts>
+				<url source="wiki">/wiki/râm#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-keːʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-keːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">妓</form>
+				<translit>jī</translit>
+				<concepts>
+					<c>prostitute</c>
+				</concepts>
+				<url source="wiki">/wiki/妓#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gái</form>
+				<concepts>
+					<c>wife</c>
+					<c>Mrs</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/gái#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gấy</form>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/gấy#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-laːɲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-laːɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">lươnh</form>
+				<concepts>
+					<c>eel</c>
+				</concepts>
+				<url source="wiki">/wiki/lươnh#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lươn</form>
+				<concepts>
+					<c>median strip</c>
+					<c>Asian swamp eel</c>
+					<c>central reservation</c>
+				</concepts>
+				<url source="wiki">/wiki/lươn#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-mɛːŋʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-mɛːŋʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">miếng</form>
+				<concepts>
+					<c>crumb</c>
+					<c>piece</c>
+				</concepts>
+				<url source="wiki">/wiki/miếng#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mánh</form>
+				<concepts>
+					<c>trick</c>
+					<c>piece</c>
+				</concepts>
+				<url source="wiki">/wiki/mánh#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-naŋʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-naŋʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nặng</form>
+				<concepts>
+					<c>severe</c>
+					<c>harsh</c>
+					<c>critical</c>
+					<c>heavy</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/nặng#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nặng</form>
+				<concepts>
+					<c>weigh</c>
+				</concepts>
+				<url source="wiki">/wiki/nặng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-roːŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-roːŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">蠬</form>
+				<translit>ròu᷄</translit>
+				<concepts>
+					<c>dragon</c>
+				</concepts>
+				<url source="wiki">/wiki/蠬#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">rồng</form>
+				<concepts>
+					<c>dragon</c>
+				</concepts>
+				<url source="wiki">/wiki/rồng#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">rồng</form>
+				<translit>蠬</translit>
+				<concepts>
+					<c>dragon</c>
+				</concepts>
+				<url source="wiki">/wiki/rồng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-teːʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-teːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">đái</form>
+				<concepts>
+					<c>piss</c>
+				</concepts>
+				<url source="wiki">/wiki/đái#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">đấy</form>
+				<concepts>
+					<c>that</c>
+					<c>there</c>
+				</concepts>
+				<url source="wiki">/wiki/đấy#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*-ɲɛːlʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/-ɲɛːlʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nhẹ</form>
+				<concepts>
+					<c>gentle</c>
+					<c>mild</c>
+					<c>light</c>
+					<c>small</c>
+				</concepts>
+				<url source="wiki">/wiki/nhẹ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*b-laŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/b-laŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="LATIN">blang</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/blang#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlăng</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/tlăng#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lăng</form>
+				<concepts>
+					<c>mausoleum</c>
+				</concepts>
+				<url source="wiki">/wiki/lăng#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trăng</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/trăng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*baːk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/baːk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bạc</form>
+				<concepts>
+					<c>miserable</c>
+					<c>ill</c>
+				</concepts>
+				<url source="wiki">/wiki/bạc#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*bɔː</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/bɔː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bò</form>
+				<concepts>
+					<c>a</c>
+				</concepts>
+				<url source="wiki">/wiki/bò#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*bɔːʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/bɔːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bọ</form>
+				<concepts>
+					<c>guinea pig</c>
+					<c>bug</c>
+					<c>insect</c>
+				</concepts>
+				<url source="wiki">/wiki/bọ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*c-kaːŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/c-kaːŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gang</form>
+				<concepts>
+					<c>handspan</c>
+				</concepts>
+				<url source="wiki">/wiki/gang#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*c-luː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/c-luː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlu</form>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/tlu#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trâu</form>
+				<concepts>
+					<c>hard</c>
+					<c>tough</c>
+					<c>enduring</c>
+				</concepts>
+				<url source="wiki">/wiki/trâu#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trâu</form>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/trâu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*cat</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/cat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chắt</form>
+				<concepts>
+					<c>great-grandchild</c>
+				</concepts>
+				<url source="wiki">/wiki/chắt#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*caːwʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/caːwʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">cháo</form>
+				<concepts>
+					<c>rice congee</c>
+				</concepts>
+				<url source="wiki">/wiki/cháo#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ciɲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ciɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">chân</form>
+				<concepts>
+					<c>leg</c>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/chân#Muong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*cɛːt</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/cɛːt</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bọ chét</form>
+				<concepts>
+					<c>flea</c>
+				</concepts>
+				<url source="wiki">/wiki/bọ_chét#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chét</form>
+				<concepts>
+					<c>handful</c>
+				</concepts>
+				<url source="wiki">/wiki/chét#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*haːr</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/haːr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">hal</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/hal#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Thavung</lang>
+				<form script="THAI">ฮาน</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ฮาน#Thavung</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">hai</form>
+				<concepts>
+					<c>eldest</c>
+					<c>firstborn</c>
+				</concepts>
+				<url source="wiki">/wiki/hai#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-hɔːjʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-hɔːjʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">khói</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/khói#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-laŋʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-laŋʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlẳng</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/tlẳng#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trắng</form>
+				<concepts>
+					<c>pale</c>
+					<c>light</c>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/trắng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-laː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-laː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trưa</form>
+				<concepts>
+					<c>midday</c>
+					<c>noon</c>
+				</concepts>
+				<url source="wiki">/wiki/trưa#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-laːk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-laːk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlước</form>
+				<concepts>
+					<c>before</c>
+					<c>previously</c>
+					<c>ago</c>
+				</concepts>
+				<url source="wiki">/wiki/tlước#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlước</form>
+				<concepts>
+					<c>previous</c>
+				</concepts>
+				<url source="wiki">/wiki/tlước#Muong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-ləːŋʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-ləːŋʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">𠨡</form>
+				<translit>tlứng</translit>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/𠨡#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlởng</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/tlởng#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trứng</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/trứng#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trứng</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/trứng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-raːw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-raːw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">khao</form>
+				<concepts>
+					<c>apricot blossom</c>
+				</concepts>
+				<url source="wiki">/wiki/khao#Muong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-ruːʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-ruːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">sấu</form>
+				<concepts>
+					<c>genus</c>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/sấu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-rɔːrʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-rɔːrʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">khỏl</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/khỏl#Muong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-rɛh</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-rɛh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">sẻ</form>
+				<concepts>
+					<c>sparrow</c>
+				</concepts>
+				<url source="wiki">/wiki/sẻ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-voːŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-voːŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">công</form>
+				<concepts>
+					<c>top</c>
+					<c>seme</c>
+				</concepts>
+				<url source="wiki">/wiki/công#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-ɗeː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-ɗeː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nai</form>
+				<concepts>
+					<c>innocent</c>
+					<c>naive</c>
+				</concepts>
+				<url source="wiki">/wiki/nai#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-ɟɔːt</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-ɟɔːt</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">𤝞</form>
+				<translit>chuọt</translit>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/𤝞#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chuột</form>
+				<concepts>
+					<c>mouse</c>
+					<c>murid</c>
+					<c>biceps</c>
+					<c>starter</c>
+				</concepts>
+				<url source="wiki">/wiki/chuột#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chuột</form>
+				<translit>𤝞</translit>
+				<concepts>
+					<c>mouse</c>
+					<c>murid</c>
+					<c>biceps</c>
+					<c>starter</c>
+				</concepts>
+				<url source="wiki">/wiki/chuột#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-ɲǝːʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-ɲǝːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nhớ</form>
+				<concepts>
+					<c>miss</c>
+					<c>remember</c>
+				</concepts>
+				<url source="wiki">/wiki/nhớ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*k-ʄɔh</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/k-ʄɔh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nhỏ</form>
+				<concepts>
+					<c>girlie</c>
+					<c>girl</c>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/nhỏ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*kɔːʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/kɔːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">có</form>
+				<concepts>
+					<c>do</c>
+				</concepts>
+				<url source="wiki">/wiki/có#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">có</form>
+				<concepts>
+					<c>only</c>
+				</concepts>
+				<url source="wiki">/wiki/có#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">có</form>
+				<concepts>
+					<c>present</c>
+					<c>here</c>
+					<c>yes</c>
+				</concepts>
+				<url source="wiki">/wiki/có#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">có</form>
+				<concepts>
+					<c>there be</c>
+					<c>have</c>
+				</concepts>
+				<url source="wiki">/wiki/có#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*laːs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/laːs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">lãi</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/lãi#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lưỡi</form>
+				<concepts>
+					<c>cutting edge</c>
+					<c>tongue</c>
+					<c>blade</c>
+				</concepts>
+				<url source="wiki">/wiki/lưỡi#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lại</form>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/lại#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lại</form>
+				<concepts>
+					<c>once more</c>
+					<c>on the other hand</c>
+					<c>again</c>
+					<c>meanwhile</c>
+				</concepts>
+				<url source="wiki">/wiki/lại#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*m-rəɲʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/m-rəɲʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">khễnh</form>
+				<concepts>
+					<c>body louse</c>
+				</concepts>
+				<url source="wiki">/wiki/khễnh#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">rận</form>
+				<concepts>
+					<c>body louse</c>
+				</concepts>
+				<url source="wiki">/wiki/rận#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*m-ŋəːʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/m-ŋəːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ngựa</form>
+				<concepts>
+					<c>horse</c>
+					<c>trestle</c>
+				</concepts>
+				<url source="wiki">/wiki/ngựa#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*mɔːs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/mɔːs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">muỗi</form>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/muỗi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*mɛːŋʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/mɛːŋʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">miệng</form>
+				<concepts>
+					<c>family member</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/miệng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*p-laːl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/p-laːl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trai</form>
+				<concepts>
+					<c>male</c>
+				</concepts>
+				<url source="wiki">/wiki/trai#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*p-laːɲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/p-laːɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">tràn</form>
+				<concepts>
+					<c>round</c>
+					<c>flat</c>
+				</concepts>
+				<url source="wiki">/wiki/tràn#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*p-luːn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/p-luːn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="LATIN">blun</form>
+				<concepts>
+					<c>worm</c>
+				</concepts>
+				<url source="wiki">/wiki/blun#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">giun</form>
+				<concepts>
+					<c>worm</c>
+				</concepts>
+				<url source="wiki">/wiki/giun#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trùn</form>
+				<concepts>
+					<c>worm</c>
+				</concepts>
+				<url source="wiki">/wiki/trùn#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*p-rah</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/p-rah</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">khã</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/khã#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Nguôn</lang>
+				<form script="LATIN">rả</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/rả#Nguôn</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">sữa</form>
+				<concepts>
+					<c>Alstonia</c>
+				</concepts>
+				<url source="wiki">/wiki/sữa#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*p-ruːʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/p-ruːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">khảu</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/khảu#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">sáu</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/sáu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*p-seːʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/p-seːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">rái</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/rái#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*p-suːɲʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/p-suːɲʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">rốn</form>
+				<concepts>
+					<c>navel</c>
+					<c>belly button</c>
+				</concepts>
+				<url source="wiki">/wiki/rốn#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*paː</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/paː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">pa</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/pa#Muong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*paːk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/paːk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bác</form>
+				<concepts>
+					<c>refute</c>
+					<c>dismiss</c>
+					<c>reject</c>
+					<c>turn down</c>
+				</concepts>
+				<url source="wiki">/wiki/bác#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*paːmʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/paːmʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bươm bướm</form>
+				<concepts>
+					<c>butterfly</c>
+				</concepts>
+				<url source="wiki">/wiki/bươm_bướm#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bướm</form>
+				<concepts>
+					<c>vulva</c>
+					<c>butterfly</c>
+				</concepts>
+				<url source="wiki">/wiki/bướm#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*paːs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/paːs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bưởi</form>
+				<concepts>
+					<c>boob</c>
+					<c>pomelo</c>
+					<c>jug</c>
+				</concepts>
+				<url source="wiki">/wiki/bưởi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*paːɲʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/paːɲʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bán</form>
+				<concepts>
+					<c>sell</c>
+				</concepts>
+				<url source="wiki">/wiki/bán#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*poːŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/poːŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thavung</lang>
+				<form script="THAI">โปง</form>
+				<translit>pôːŋ</translit>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/โปง#Thavung</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*pɛːw</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/pɛːw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">beo</form>
+				<concepts>
+					<c>leopard</c>
+					<c>cheetah</c>
+					<c>jaguar</c>
+				</concepts>
+				<url source="wiki">/wiki/beo#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*pɨəwʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/pɨəwʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bướu</form>
+				<concepts>
+					<c>gizzard</c>
+					<c>goiter</c>
+					<c>hump</c>
+					<c>goitre</c>
+				</concepts>
+				<url source="wiki">/wiki/bướu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*r-kaː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/r-kaː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">ca</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ca#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Thavung</lang>
+				<form script="THAI">กา</form>
+				<translit>kaː¹</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/กา#Thavung</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gà</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/gà#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gà</form>
+				<concepts>
+					<c>newbie</c>
+					<c>inexperienced</c>
+					<c>unskilled</c>
+				</concepts>
+				<url source="wiki">/wiki/gà#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gà</form>
+				<concepts>
+					<c>up the ante</c>
+				</concepts>
+				<url source="wiki">/wiki/gà#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*saːj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/saːj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">tai</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/tai#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*siː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/siː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">tay</form>
+				<concepts>
+					<c>arm</c>
+					<c>dude</c>
+					<c>guy</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/tay#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-keː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-keː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gai</form>
+				<concepts>
+					<c>thorn</c>
+					<c>prickle</c>
+					<c>pineapple</c>
+					<c>hemp-nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/gai#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-koːk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-koːk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gốc</form>
+				<concepts>
+					<c>original</c>
+				</concepts>
+				<url source="wiki">/wiki/gốc#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gốc</form>
+				<concepts>
+					<c>root</c>
+					<c>foot</c>
+					<c>origin</c>
+				</concepts>
+				<url source="wiki">/wiki/gốc#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-kɔːc</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-kɔːc</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gọt</form>
+				<concepts>
+					<c>peel</c>
+					<c>sharpen</c>
+				</concepts>
+				<url source="wiki">/wiki/gọt#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-lɛːl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-lɛːl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lè</form>
+				<concepts>
+					<c>spit out</c>
+					<c>stick out</c>
+				</concepts>
+				<url source="wiki">/wiki/lè#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-muːʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-muːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">máu</form>
+				<concepts>
+					<c>health</c>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/máu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-puːj</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-puːj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">vui</form>
+				<concepts>
+					<c>joyful</c>
+					<c>merry</c>
+					<c>gay</c>
+				</concepts>
+				<url source="wiki">/wiki/vui#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-ruːj</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-ruːj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">khui</form>
+				<concepts>
+					<c>broach</c>
+					<c>open</c>
+					<c>expose</c>
+					<c>unpack</c>
+				</concepts>
+				<url source="wiki">/wiki/khui#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">sôi</form>
+				<concepts>
+					<c>boiling</c>
+					<c>boiled</c>
+				</concepts>
+				<url source="wiki">/wiki/sôi#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">sủi</form>
+				<concepts>
+					<c>bubble</c>
+				</concepts>
+				<url source="wiki">/wiki/sủi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-rɛːw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-rɛːw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">cheo</form>
+				<concepts>
+					<c>chevrotain</c>
+					<c>mouse deer</c>
+				</concepts>
+				<url source="wiki">/wiki/cheo#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">cheo cheo</form>
+				<concepts>
+					<c>chevrotain</c>
+					<c>mouse deer</c>
+				</concepts>
+				<url source="wiki">/wiki/cheo_cheo#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-ŋəs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-ŋəs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ngửi</form>
+				<concepts>
+					<c>smell</c>
+					<c>sniff</c>
+				</concepts>
+				<url source="wiki">/wiki/ngửi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*t-ɓaːŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/t-ɓaːŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mang</form>
+				<concepts>
+					<c>muntjac</c>
+				</concepts>
+				<url source="wiki">/wiki/mang#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*tiː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/tiː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">ti</form>
+				<concepts>
+					<c>walk</c>
+					<c>go</c>
+				</concepts>
+				<url source="wiki">/wiki/ti#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">đi</form>
+				<concepts>
+					<c>away</c>
+					<c>out of sight</c>
+				</concepts>
+				<url source="wiki">/wiki/đi#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">đi</form>
+				<concepts>
+					<c>travel</c>
+					<c>go</c>
+					<c>leave</c>
+					<c>go by</c>
+					<c>wear</c>
+					<c>get on</c>
+					<c>board</c>
+					<c>set out</c>
+					<c>run</c>
+				</concepts>
+				<url source="wiki">/wiki/đi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*tɔh</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/tɔh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">đỏ</form>
+				<concepts>
+					<c>communist</c>
+					<c>red</c>
+					<c>lucky</c>
+					<c>burning</c>
+					<c>fortunate</c>
+				</concepts>
+				<url source="wiki">/wiki/đỏ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*tʰəh</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/tʰəh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">thở</form>
+				<concepts>
+					<c>breathe</c>
+					<c>exhale</c>
+					<c>breathe out</c>
+				</concepts>
+				<url source="wiki">/wiki/thở#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*valʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/valʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">váy</form>
+				<concepts>
+					<c>skirt</c>
+					<c>dress</c>
+				</concepts>
+				<url source="wiki">/wiki/váy#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*viːt</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/viːt</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">鴨</form>
+				<translit>uịt</translit>
+				<concepts>
+					<c>drake</c>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/鴨#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">𩿠</form>
+				<translit>uịt</translit>
+				<concepts>
+					<c>drake</c>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/𩿠#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">𪆧</form>
+				<translit>uịt</translit>
+				<concepts>
+					<c>drake</c>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/𪆧#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">vịt</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/vịt#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*vɔːk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/vɔːk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">woc</form>
+				<concepts>
+					<c>langur</c>
+				</concepts>
+				<url source="wiki">/wiki/woc#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">voọc</form>
+				<concepts>
+					<c>monkey</c>
+					<c>langur</c>
+				</concepts>
+				<url source="wiki">/wiki/voọc#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ɓǝlʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ɓǝlʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mấy</form>
+				<concepts>
+					<c>how much</c>
+					<c>how many</c>
+				</concepts>
+				<url source="wiki">/wiki/mấy#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mấy</form>
+				<concepts>
+					<c>some</c>
+				</concepts>
+				<url source="wiki">/wiki/mấy#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ɓɔːjʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ɓɔːjʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">bỏi</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/bỏi#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">muối</form>
+				<concepts>
+					<c>pickle</c>
+				</concepts>
+				<url source="wiki">/wiki/muối#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">muối</form>
+				<concepts>
+					<c>pickled</c>
+				</concepts>
+				<url source="wiki">/wiki/muối#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">muối</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/muối#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ɓɨǝp</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ɓɨǝp</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mướp</form>
+				<concepts>
+					<c>luffa</c>
+					<c>loofah</c>
+					<c>loofa</c>
+				</concepts>
+				<url source="wiki">/wiki/mướp#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ɗam</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ɗam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">đăm</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/đăm#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lăm</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/lăm#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">năm</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/năm#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ɟoːn</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ɟoːn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chồn</form>
+				<concepts>
+					<c>weasel</c>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/chồn#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ɟɔːʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ɟɔːʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chua</form>
+				<concepts>
+					<c>note</c>
+					<c>annotate</c>
+				</concepts>
+				<url source="wiki">/wiki/chua#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ʄuːŋʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ʄuːŋʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nhúng</form>
+				<concepts>
+					<c>immerse</c>
+					<c>dip</c>
+				</concepts>
+				<url source="wiki">/wiki/nhúng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ʔa-rɔː</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ʔa-rɔː</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">rò</form>
+				<concepts>
+					<c>leak</c>
+				</concepts>
+				<url source="wiki">/wiki/rò#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">rùa</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/rùa#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ʔeːk</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ʔeːk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">iếch</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/iếch#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ếch</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ếch#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ʔoːm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ʔoːm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ôm</form>
+				<concepts>
+					<c>ohm</c>
+				</concepts>
+				<url source="wiki">/wiki/ôm#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ʔəh</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ʔəh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ở</form>
+				<concepts>
+					<c>be</c>
+					<c>stay</c>
+					<c>remain</c>
+					<c>live</c>
+				</concepts>
+				<url source="wiki">/wiki/ở#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ở</form>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+				</concepts>
+				<url source="wiki">/wiki/ở#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ʔəːt</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ʔəːt</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ớt</form>
+				<concepts>
+					<c>tailed pepper</c>
+					<c>chili pepper</c>
+					<c>capsicum</c>
+					<c>cubeb</c>
+				</concepts>
+				<url source="wiki">/wiki/ớt#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Vietic</plang>
+			<pform>*ʔɛːŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Vietic/ʔɛːŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">anh</form>
+				<concepts>
+					<c>young man</c>
+					<c>Mr</c>
+					<c>he</c>
+					<c>you</c>
+					<c>me</c>
+					<c>him</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/anh#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,159 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Oto-Manguean</plang>
+			<pform>*(H)wi(h)(n)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Oto-Manguean/(H)wi(h)(n)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">hme</form>
+				<concepts>
+					<c>tortilla</c>
+				</concepts>
+				<url source="wiki">/wiki/hme#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Oto-Manguean</plang>
+			<pform>*(n)(h)kʷe(ʔ)(n)²</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Oto-Manguean/(n)(h)kʷe(ʔ)(n)²</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alcozauca Mixtec</lang>
+				<form script="LATIN">ki̱ví</form>
+				<concepts>
+					<c>name</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ki̱ví#Alcozauca_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>San Pedro Amuzgos Amuzgo</lang>
+				<form script="LATIN">xuee</form>
+				<concepts>
+					<c>bright</c>
+				</concepts>
+				<url source="wiki">/wiki/xuee#San_Pedro_Amuzgos_Amuzgo</url>
+			</reflex>
+			<reflex>
+				<lang>San Pedro Amuzgos Amuzgo</lang>
+				<form script="LATIN">xuee</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/xuee#San_Pedro_Amuzgos_Amuzgo</url>
+			</reflex>
+			<reflex>
+				<lang>Yosondúa Mixtec</lang>
+				<form script="LATIN">andɨvɨ</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/andɨvɨ#Yosondúa_Mixtec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Oto-Manguean</plang>
+			<pform>*(n)(ʔ)yan³</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Oto-Manguean/(n)(ʔ)yan³</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">kꞌeñä</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/kꞌeñä#Mezquital_Otomi</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">cuaña̱</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/cuaña̱#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Oto-Manguean</plang>
+			<pform>*ni(n)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Oto-Manguean/ni(n)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">rini</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/rini#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Teojomulco Chatino</lang>
+				<form script="LATIN">téñe</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/téñe#Teojomulco_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Oto-Manguean</plang>
+			<pform>*tin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Oto-Manguean/tin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">zidi</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/zidi#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">tejeꞌ</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/tejeꞌ#Tataltepec_Chatino</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">zedeꞌ</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/zedeꞌ#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

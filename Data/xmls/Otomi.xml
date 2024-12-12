@@ -1,0 +1,195 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*bøhɔi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/bøhɔi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">bo̱hai</form>
+				<concepts>
+					<c>silt</c>
+					<c>mud</c>
+				</concepts>
+				<url source="wiki">/wiki/bo̱hai#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*gošthi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/gošthi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">gosthi</form>
+				<concepts>
+					<c>harbor</c>
+					<c>door</c>
+					<c>port</c>
+					<c>opening</c>
+					<c>gate</c>
+					<c>hole</c>
+				</concepts>
+				<url source="wiki">/wiki/gosthi#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*mʉi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/mʉi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">mu̱i</form>
+				<concepts>
+					<c>heart</c>
+					<c>stomach</c>
+				</concepts>
+				<url source="wiki">/wiki/mu̱i#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*ne</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/ne</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">ne</form>
+				<concepts>
+					<c>mouth</c>
+					<c>edge</c>
+					<c>sting</c>
+					<c>snout</c>
+					<c>bite</c>
+				</concepts>
+				<url source="wiki">/wiki/ne#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*nąni</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/nąni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">näni</form>
+				<concepts>
+					<c>slaked lime</c>
+					<c>lime</c>
+				</concepts>
+				<url source="wiki">/wiki/näni#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*pahni</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/pahni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">pahni</form>
+				<concepts>
+					<c>shirt</c>
+				</concepts>
+				<url source="wiki">/wiki/pahni#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*tihi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/tihi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">tǐhi</form>
+				<concepts>
+					<c>run</c>
+				</concepts>
+				<url source="wiki">/wiki/tihi#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*šiphani</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/šiphani</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">xifri</form>
+				<concepts>
+					<c>skin</c>
+					<c>leather</c>
+				</concepts>
+				<url source="wiki">/wiki/xifri#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Otomi</plang>
+			<pform>*ʔmɛto</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Otomi/ʔmɛto</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">ꞌbe̱to</form>
+				<concepts>
+					<c>grandchild</c>
+				</concepts>
+				<url source="wiki">/wiki/ꞌbe̱to#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

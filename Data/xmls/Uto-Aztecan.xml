@@ -1,0 +1,1203 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*hu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/hu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Tepehuan</lang>
+				<form script="LATIN">úúyi</form>
+				<concepts>
+					<c>arrow</c>
+					<c>cartridge</c>
+					<c>dart</c>
+				</concepts>
+				<url source="wiki">/wiki/úúyi#Northern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Southeastern Tepehuan</lang>
+				<form script="LATIN">uꞌuu</form>
+				<concepts>
+					<c>arrow</c>
+				</concepts>
+				<url source="wiki">/wiki/uꞌuu#Southeastern_Tepehuan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*kaliR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/kaliR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Huasteca Nahuatl</lang>
+				<form script="LATIN">kali</form>
+				<concepts>
+					<c>house</c>
+					<c>building</c>
+				</concepts>
+				<url source="wiki">/wiki/kali#Central_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Central Nahuatl</lang>
+				<form script="LATIN">calli</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/calli#Central_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">calli</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/calli#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">cal</form>
+				<concepts>
+					<c>house</c>
+					<c>room</c>
+				</concepts>
+				<url source="wiki">/wiki/cal#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">hani·l</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/hani·l#Tübatulabal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*kapsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/kapsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Tarahumara</lang>
+				<form script="LATIN">kasí</form>
+				<concepts>
+					<c>thigh</c>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/kasí#Central_Tarahumara</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">icxitl</form>
+				<concepts>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/icxitl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">qàasi</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/qàasi#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Tepehuan</lang>
+				<form script="LATIN">káji</form>
+				<concepts>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/káji#Northern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">hapšil</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/hapšil#Tübatulabal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*katïC</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/katïC</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">cah</form>
+				<concepts>
+					<c>be</c>
+				</concepts>
+				<url source="wiki">/wiki/cah#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*ki</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/ki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">kish</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/kish#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Huichol</lang>
+				<form script="LATIN">quíi</form>
+				<concepts>
+					<c>house</c>
+					<c>roof</c>
+				</concepts>
+				<url source="wiki">/wiki/quíi#Huichol</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*kut</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/kut</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">koho</form>
+				<concepts>
+					<c>wood</c>
+					<c>stick</c>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/koho#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">cutta</form>
+				<concepts>
+					<c>wood</c>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/cutta#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">kut</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/kut#Tübatulabal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*makaC</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/makaC</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">maca</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/maca#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">macca</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/macca#Mayo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*mataR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/mataR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Tarahumara</lang>
+				<form script="LATIN">matá</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/matá#Central_Tarahumara</url>
+			</reflex>
+			<reflex>
+				<lang>Cupeño</lang>
+				<form script="LATIN">mala̱l</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/mala̱l#Cupeño</url>
+			</reflex>
+			<reflex>
+				<lang>Highland Puebla Nahuatl</lang>
+				<form script="LATIN">metat</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/metat#Highland_Puebla_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Morelos Nahuatl</lang>
+				<form script="LATIN">metlatl</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/metlatl#Morelos_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Southeastern Tepehuan</lang>
+				<form script="LATIN">mattur</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/mattur#Southeastern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">metate</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/metate#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">metlatl</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/metlatl#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">mana·l</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/mana·l#Tübatulabal</url>
+			</reflex>
+			<reflex>
+				<lang>Zacatlán-Ahuacatlán-Tepetzintla Nahuatl</lang>
+				<form script="LATIN">mitlatl</form>
+				<concepts>
+					<c>metate</c>
+				</concepts>
+				<url source="wiki">/wiki/mitlatl#Zacatlán-Ahuacatlán-Tepetzintla_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*mïca</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/mïca</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">menill</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/menill#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Comanche</lang>
+				<form script="LATIN">mʉa</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/mʉa#Comanche</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">metztli</form>
+				<concepts>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/metztli#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">muuyaw</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/muuyaw#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">meecha</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/meecha#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">mētzti</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/metzti#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">mietztli̱</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/mietztli̱#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">mɨ·yal</form>
+				<concepts>
+					<c>month</c>
+				</concepts>
+				<url source="wiki">/wiki/mɨ·yal#Tübatulabal</url>
+			</reflex>
+			<reflex>
+				<lang>Zacatlán-Ahuacatlán-Tepetzintla Nahuatl</lang>
+				<form script="LATIN">metztli</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/metztli#Zacatlán-Ahuacatlán-Tepetzintla_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*nanka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/nanka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">náqal</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/naqal#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">nacaztli</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/nacaztli#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">náccam</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/náccam#Mayo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*ona</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/ona</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">öönga</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/öönga#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Huichol</lang>
+				<form script="LATIN">ꞌúna</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/ꞌúna#Huichol</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">oona</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/oona#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Tepehuan</lang>
+				<form script="LATIN">ónai</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/ónai#Northern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Southeastern Tepehuan</lang>
+				<form script="LATIN">on</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/on#Southeastern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Yaqui</lang>
+				<form script="LATIN">oóna</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/oóna#Yaqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*pa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/pa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Comanche</lang>
+				<form script="LATIN">paa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/paa#Comanche</url>
+			</reflex>
+			<reflex>
+				<lang>Cora</lang>
+				<form script="LATIN">hah</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/hah#Cora</url>
+			</reflex>
+			<reflex>
+				<lang>Gabrielino-Fernandeño</lang>
+				<form script="LATIN">par</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/par#Gabrielino-Fernandeño</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">paahu</form>
+				<concepts>
+					<c>water</c>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/paahu#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Kawaiisu</lang>
+				<form script="LATIN">poˀo</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/poˀo#Kawaiisu</url>
+			</reflex>
+			<reflex>
+				<lang>Kitanemuk</lang>
+				<form script="LATIN">bate</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/bate#Kitanemuk</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Paiute</lang>
+				<form script="LATIN">paa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/paa#Northern_Paiute</url>
+			</reflex>
+			<reflex>
+				<lang>Panamint</lang>
+				<form script="LATIN">paa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/paa#Panamint</url>
+			</reflex>
+			<reflex>
+				<lang>Serrano</lang>
+				<form script="LATIN">bate</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/bate#Serrano</url>
+			</reflex>
+			<reflex>
+				<lang>Shoshone</lang>
+				<form script="LATIN">paa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/paa#Shoshone</url>
+			</reflex>
+			<reflex>
+				<lang>Ute</lang>
+				<form script="LATIN">paa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/paa#Ute</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*pahi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/pahi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">pah</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/pah#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">ēyi</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/eyi#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">yēy</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/yey#Pipil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*pakiC</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/pakiC</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Tarahumara</lang>
+				<form script="LATIN">bakí</form>
+				<concepts>
+					<c>enter</c>
+				</concepts>
+				<url source="wiki">/wiki/bakí#Central_Tarahumara</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*pipa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/pipa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">pivat</form>
+				<concepts>
+					<c>tobacco</c>
+					<c>smoking</c>
+				</concepts>
+				<url source="wiki">/wiki/pivat#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">iyetl</form>
+				<concepts>
+					<c>tobacco</c>
+				</concepts>
+				<url source="wiki">/wiki/iyetl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">piiva</form>
+				<concepts>
+					<c>tobacco</c>
+				</concepts>
+				<url source="wiki">/wiki/piiva#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Huichol</lang>
+				<form script="LATIN">yá</form>
+				<concepts>
+					<c>tobacco</c>
+				</concepts>
+				<url source="wiki">/wiki/yá#Huichol</url>
+			</reflex>
+			<reflex>
+				<lang>Yaqui</lang>
+				<form script="LATIN">biíba</form>
+				<concepts>
+					<c>cigar</c>
+					<c>cigarette</c>
+					<c>tobacco</c>
+				</concepts>
+				<url source="wiki">/wiki/biíba#Yaqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*punsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/punsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">puchill</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/puchill#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">īxtli</form>
+				<concepts>
+					<c>eye</c>
+					<c>face</c>
+					<c>surface</c>
+				</concepts>
+				<url source="wiki">/wiki/ixtli#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">poosi</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/poosi#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Tepehuan</lang>
+				<form script="LATIN">vúji</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/vúji#Northern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Southeastern Tepehuan</lang>
+				<form script="LATIN">bui</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/bui#Southeastern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">punz̨il</form>
+				<concepts>
+					<c>eye</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/punz̨il#Tübatulabal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*siku</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/siku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Tarahumara</lang>
+				<form script="LATIN">sukí</form>
+				<concepts>
+					<c>navel</c>
+				</concepts>
+				<url source="wiki">/wiki/sukí#Central_Tarahumara</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">xīctli</form>
+				<concepts>
+					<c>navel</c>
+					<c>umbilical cord</c>
+				</concepts>
+				<url source="wiki">/wiki/xictli#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">siicu</form>
+				<concepts>
+					<c>navel</c>
+					<c>belly button</c>
+				</concepts>
+				<url source="wiki">/wiki/siicu#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Southeastern Tepehuan</lang>
+				<form script="LATIN">jik</form>
+				<concepts>
+					<c>navel</c>
+				</concepts>
+				<url source="wiki">/wiki/jik#Southeastern_Tepehuan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*sïp</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/sïp</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">cetl</form>
+				<concepts>
+					<c>icicle</c>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/cetl#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*ta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/ta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">ilhuitl</form>
+				<concepts>
+					<c>fiesta</c>
+					<c>Day</c>
+					<c>feast day</c>
+				</concepts>
+				<url source="wiki">/wiki/ilhuitl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">taawa</form>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/taawa#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">taaꞌa</form>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/taaꞌa#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">ta·l</form>
+				<concepts>
+					<c>sun</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ta·l#Tübatulabal</url>
+			</reflex>
+			<reflex>
+				<lang>Yaqui</lang>
+				<form script="LATIN">taáʼa</form>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/taáʼa#Yaqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*tahi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/tahi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tletl</form>
+				<concepts>
+					<c>uropygial gland</c>
+					<c>fever</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/tletl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Cora</lang>
+				<form script="LATIN">taíj</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/taíj#Cora</url>
+			</reflex>
+			<reflex>
+				<lang>Huichol</lang>
+				<form script="LATIN">tái</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/tái#Huichol</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">tajji</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/tajji#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Yaqui</lang>
+				<form script="LATIN">taji</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/taji#Yaqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*taka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/taka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">taxliswet</form>
+				<concepts>
+					<c>person</c>
+					<c>human being</c>
+				</concepts>
+				<url source="wiki">/wiki/taxliswet#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tlācatl</form>
+				<concepts>
+					<c>person</c>
+					<c>human being</c>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/tlacatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">taaqa</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/taaqa#Hopi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*tap</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/tap</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">tahu</form>
+				<concepts>
+					<c>muscle</c>
+					<c>Navajo</c>
+					<c>tendon</c>
+				</concepts>
+				<url source="wiki">/wiki/tahu#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">tapt</form>
+				<concepts>
+					<c>sinew</c>
+				</concepts>
+				<url source="wiki">/wiki/tapt#Tübatulabal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*tïn</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/tïn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tetl</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/tetl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">tetl</form>
+				<concepts>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/tetl#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">tetta</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/tetta#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Yaqui</lang>
+				<form script="LATIN">téta</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/téta#Yaqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*tïni</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/tïni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Tarahumara</lang>
+				<form script="LATIN">riní</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/riní#Central_Tarahumara</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tēntli</form>
+				<concepts>
+					<c>lip</c>
+					<c>brim</c>
+					<c>word</c>
+					<c>edge</c>
+				</concepts>
+				<url source="wiki">/wiki/tentli#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Huichol</lang>
+				<form script="LATIN">téni</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/téni#Huichol</url>
+			</reflex>
+			<reflex>
+				<lang>Mayo</lang>
+				<form script="LATIN">teeni</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/teeni#Mayo</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Tepehuan</lang>
+				<form script="LATIN">tɨ́ñi</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/tɨ́ñi#Northern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Southeastern Tepehuan</lang>
+				<form script="LATIN">chiñ</form>
+				<concepts>
+					<c>snout</c>
+					<c>beak</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/chiñ#Southeastern_Tepehuan</url>
+			</reflex>
+			<reflex>
+				<lang>Yaqui</lang>
+				<form script="LATIN">teéni</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/teéni#Yaqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Uto-Aztecan</plang>
+			<pform>*wip</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Uto-Aztecan/wip</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cahuilla</lang>
+				<form script="LATIN">will</form>
+				<concepts>
+					<c>grease</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/will#Cahuilla</url>
+			</reflex>
+			<reflex>
+				<lang>Hopi</lang>
+				<form script="LATIN">wihu</form>
+				<concepts>
+					<c>grease</c>
+					<c>lard</c>
+					<c>oil</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/wihu#Hopi</url>
+			</reflex>
+			<reflex>
+				<lang>Tübatulabal</lang>
+				<form script="LATIN">wipt</form>
+				<concepts>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/wipt#Tübatulabal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

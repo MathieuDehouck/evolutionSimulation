@@ -1,0 +1,130 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Yoruba</plang>
+			<pform>*o-ɲĩ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruba/o-ɲĩ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">oyin</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/oyin#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruba</plang>
+			<pform>*ì-dérègbè</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruba/ì-dérègbè</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ìdérègbè</form>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ideregbe#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruba</plang>
+			<pform>*ɔ-bʊtʊ̃</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruba/ɔ-bʊtʊ̃</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ifè</lang>
+				<form script="LATIN">àbitɔ̃</form>
+				<concepts>
+					<c>maiden</c>
+					<c>bride</c>
+				</concepts>
+				<url source="wiki">/wiki/abitɔ̃#Ifè</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọbuntun</form>
+				<concepts>
+					<c>maiden</c>
+				</concepts>
+				<url source="wiki">/wiki/ọbuntun#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọbịtụn</form>
+				<concepts>
+					<c>wedding</c>
+					<c>virgin</c>
+					<c>marriage</c>
+				</concepts>
+				<url source="wiki">/wiki/ọbịtụn#Yoruba</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ọbụtụn</form>
+				<concepts>
+					<c>brain</c>
+				</concepts>
+				<url source="wiki">/wiki/ọbụtụn#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruba</plang>
+			<pform>*ɔ̀-wʊ́rɔ̀</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruba/ɔ̀-wʊ́rɔ̀</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Olukumi</lang>
+				<form script="LATIN">òwúọ̀</form>
+				<concepts>
+					<c>morning</c>
+				</concepts>
+				<url source="wiki">/wiki/owuọ#Olukumi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yoruba</plang>
+			<pform>*ɛ-dʊ̃</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yoruba/ɛ-dʊ̃</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">ẹdun</form>
+				<concepts>
+					<c>thunderbolt</c>
+					<c>thunderstone</c>
+				</concepts>
+				<url source="wiki">/wiki/ẹdun#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

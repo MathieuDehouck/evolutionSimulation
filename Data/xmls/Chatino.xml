@@ -1,0 +1,231 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kee</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kee</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teojomulco Chatino</lang>
+				<form script="LATIN">quiésil</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/quiésil#Teojomulco_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kesu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kesu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">quixu</form>
+				<concepts>
+					<c>net</c>
+				</concepts>
+				<url source="wiki">/wiki/quixu#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*ki·ʔyu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/ki·ʔyu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Teojomulco Chatino</lang>
+				<form script="LATIN">guiéy</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/guiéy#Teojomulco_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kwiyuʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kwiyuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">ngüiyuꞌ</form>
+				<concepts>
+					<c>spider</c>
+				</concepts>
+				<url source="wiki">/wiki/ngüiyuꞌ#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kwiʔyù</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kwiʔyù</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">cuiꞌyu</form>
+				<concepts>
+					<c>flea</c>
+				</concepts>
+				<url source="wiki">/wiki/cuiꞌyu#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kyaja</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kyaja</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">tyija</form>
+				<concepts>
+					<c>tortilla</c>
+				</concepts>
+				<url source="wiki">/wiki/tyija#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kyoòʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kyoòʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">tyooꞌ</form>
+				<concepts>
+					<c>agave</c>
+				</concepts>
+				<url source="wiki">/wiki/tyooꞌ#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kyòjò</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kyòjò</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">tyojo</form>
+				<concepts>
+					<c>squash</c>
+				</concepts>
+				<url source="wiki">/wiki/tyojo#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kʷaną</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kʷaną</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Zacatepec Chatino</lang>
+				<form script="LATIN">kwana</form>
+				<concepts>
+					<c>mirror</c>
+				</concepts>
+				<url source="wiki">/wiki/kwana#Zacatepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*kʷeʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/kʷeʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">cueeꞌ</form>
+				<concepts>
+					<c>crab</c>
+				</concepts>
+				<url source="wiki">/wiki/cueeꞌ#Tataltepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chatino</plang>
+			<pform>*ìtzáʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chatino/ìtzáʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tataltepec Chatino</lang>
+				<form script="LATIN">chaꞌ</form>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/chaꞌ#Tataltepec_Chatino</url>
+			</reflex>
+			<reflex>
+				<lang>Zacatepec Chatino</lang>
+				<form script="LATIN">chǎʔ</form>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/chǎʔ#Zacatepec_Chatino</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

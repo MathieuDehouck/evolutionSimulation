@@ -1,0 +1,206 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Central Chadic</plang>
+			<pform>*ɗɨjɨm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Central Chadic/ɗɨjɨm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Afade</lang>
+				<form script="LATIN">ame</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ame#Afade</url>
+			</reflex>
+			<reflex>
+				<lang>Buduma</lang>
+				<form script="LATIN">amaii</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/amaii#Buduma</url>
+			</reflex>
+			<reflex>
+				<lang>Buwal</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yam#Buwal</url>
+			</reflex>
+			<reflex>
+				<lang>Cuvok</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yam#Cuvok</url>
+			</reflex>
+			<reflex>
+				<lang>Daba</lang>
+				<form script="LATIN">yim</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yim#Daba</url>
+			</reflex>
+			<reflex>
+				<lang>Glavda</lang>
+				<form script="LATIN">iyuw</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/iyuw#Glavda</url>
+			</reflex>
+			<reflex>
+				<lang>Gvoko</lang>
+				<form script="LATIN">yiwo</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yiwo#Gvoko</url>
+			</reflex>
+			<reflex>
+				<lang>Hdi</lang>
+				<form script="LATIN">imi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/imi#Hdi</url>
+			</reflex>
+			<reflex>
+				<lang>Lagwan</lang>
+				<form script="LATIN">am</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/am#Lagwan</url>
+			</reflex>
+			<reflex>
+				<lang>Lamang</lang>
+				<form script="LATIN">imi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/imi#Lamang</url>
+			</reflex>
+			<reflex>
+				<lang>Matal</lang>
+				<form script="LATIN">yaw</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yaw#Matal</url>
+			</reflex>
+			<reflex>
+				<lang>Merey</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yam#Merey</url>
+			</reflex>
+			<reflex>
+				<lang>Mofu-Gudur</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yam#Mofu-Gudur</url>
+			</reflex>
+			<reflex>
+				<lang>Moloko</lang>
+				<form script="LATIN">yàm</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yàm#Moloko</url>
+			</reflex>
+			<reflex>
+				<lang>Mpade</lang>
+				<form script="LATIN">ame</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ame#Mpade</url>
+			</reflex>
+			<reflex>
+				<lang>Musgu</lang>
+				<form script="LATIN">yim</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yim#Musgu</url>
+			</reflex>
+			<reflex>
+				<lang>Muyang</lang>
+				<form script="LATIN">yɑm</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yɑm#Muyang</url>
+			</reflex>
+			<reflex>
+				<lang>North Giziga</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yam#North_Giziga</url>
+			</reflex>
+			<reflex>
+				<lang>Podoko</lang>
+				<form script="LATIN">yəwa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yəwa#Podoko</url>
+			</reflex>
+			<reflex>
+				<lang>South Giziga</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yam#South_Giziga</url>
+			</reflex>
+			<reflex>
+				<lang>Sukur</lang>
+				<form script="LATIN">yâm</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yâm#Sukur</url>
+			</reflex>
+			<reflex>
+				<lang>Uldeme</lang>
+				<form script="LATIN">yàm</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yàm#Uldeme</url>
+			</reflex>
+			<reflex>
+				<lang>Wandala</lang>
+				<form script="LATIN">yawe</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yawe#Wandala</url>
+			</reflex>
+			<reflex>
+				<lang>Zulgo-Gemzek</lang>
+				<form script="LATIN">yam</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/yam#Zulgo-Gemzek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

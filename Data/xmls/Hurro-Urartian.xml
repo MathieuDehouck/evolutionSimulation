@@ -1,0 +1,219 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Hurro-Urartian</plang>
+			<pform>*kinnar</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Hurro-Urartian/kinnar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Amharic</lang>
+				<form script="ETHIOPIC">ክራር</form>
+				<translit>krar</translit>
+				<concepts>
+					<c>krar</c>
+				</concepts>
+				<url source="wiki">/wiki/ክራር#Amharic</url>
+			</reflex>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">κινύρᾱ</form>
+				<translit>kinúrā</translit>
+				<concepts>
+					<c>kinnor</c>
+					<c>harp of David</c>
+				</concepts>
+				<url source="wiki">/wiki/κινύρα#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">صَنْج</form>
+				<translit>ṣanj</translit>
+				<concepts>
+					<c>cymbal</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/صنج#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">كِنَّارَة</form>
+				<translit>kinnāra</translit>
+				<concepts>
+					<c>lyre</c>
+				</concepts>
+				<url source="wiki">/wiki/كنارة#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">քնար</form>
+				<translit>kʿnar</translit>
+				<concepts>
+					<c>lyre</c>
+				</concepts>
+				<url source="wiki">/wiki/քնար#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">քնար</form>
+				<translit>kʿnar</translit>
+				<concepts>
+					<c>lyre</c>
+				</concepts>
+				<url source="wiki">/wiki/քնար#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Burmese</lang>
+				<form script="MYANMAR">စောင်း</form>
+				<translit>caung:</translit>
+				<concepts>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/စောင်း#Burmese</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">kinnor</form>
+				<concepts>
+					<c>kinnor</c>
+					<c>kinnor</c>
+				</concepts>
+				<url source="wiki">/wiki/kinnor#English</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქნარი</form>
+				<translit>knari</translit>
+				<concepts>
+					<c>lyre</c>
+				</concepts>
+				<url source="wiki">/wiki/ქნარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჩანგი</form>
+				<translit>čangi</translit>
+				<concepts>
+					<c>chang</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩანგი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">כִּנּוֹר</form>
+				<translit>kinór, kinnôr</translit>
+				<concepts>
+					<c>lyre</c>
+					<c>violin</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/כינור#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">cinira</form>
+				<concepts>
+					<c>kinnor</c>
+				</concepts>
+				<url source="wiki">/wiki/cinira#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Khalaj</lang>
+				<form script="LATIN">çəng</form>
+				<concepts>
+					<c>claw</c>
+				</concepts>
+				<url source="wiki">/wiki/çəng#Khalaj</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">cinyra</form>
+				<concepts>
+					<c>lyre</c>
+				</concepts>
+				<url source="wiki">/wiki/cinyra#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">ջնար</form>
+				<translit>ǰnar</translit>
+				<concepts>
+					<c>lyre</c>
+					<c>cithara</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/ջնար#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">چنك</form>
+				<translit>çenk</translit>
+				<concepts>
+					<c>curved</c>
+					<c>humped</c>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/چنك#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">چنك</form>
+				<translit>çenk</translit>
+				<concepts>
+					<c>lyre</c>
+					<c>claw</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/چنك#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">چنك</form>
+				<translit>çenk, çeng</translit>
+				<concepts>
+					<c>curved</c>
+					<c>humped</c>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/چنك#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">چنك</form>
+				<translit>çenk, çeng</translit>
+				<concepts>
+					<c>lyre</c>
+					<c>claw</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/چنك#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">கின்னரம்</form>
+				<translit>kiṉṉaram</translit>
+				<concepts>
+					<c>piano</c>
+					<c>lute</c>
+					<c>harmonium</c>
+					<c>owl</c>
+					<c>songbird</c>
+				</concepts>
+				<url source="wiki">/wiki/கின்னரம்#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎋𐎐𐎗</form>
+				<translit>knr</translit>
+				<concepts>
+					<c>lyre</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎋𐎐𐎗#Ugaritic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

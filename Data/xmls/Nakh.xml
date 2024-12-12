@@ -1,0 +1,5161 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*C.aašaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/C.aašaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">да̄ша</form>
+				<translit>daaša</translit>
+				<concepts>
+					<c>shave</c>
+				</concepts>
+				<url source="wiki">/wiki/даша#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*aale</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/aale</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ა̄ლე̆</form>
+				<translit>ālĕ</translit>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/ალე#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">э̄ла</form>
+				<translit>eela</translit>
+				<concepts>
+					<c>queen bee</c>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/эла#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*aalxazur</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/aalxazur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ალხაძურ</form>
+				<translit>alxaʒur</translit>
+				<concepts>
+					<c>bird</c>
+					<c>eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/ალხაძურ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">олхазар</form>
+				<translit>olxazar</translit>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/олхазар#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">оалхазар</form>
+				<translit>oalxazar</translit>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/оалхазар#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*barlˢ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/barlˢ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბარლʻ</form>
+				<translit>barlˢ</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ბარლʻ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">бархӏ</form>
+				<translit>barh</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/бархӏ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">бархӏ</form>
+				<translit>barh</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/бархӏ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*barʁul</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/barʁul</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">боргӏал</form>
+				<translit>borğal</translit>
+				<concepts>
+					<c>cock</c>
+					<c>rooster</c>
+				</concepts>
+				<url source="wiki">/wiki/боргӏал#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">боргӏал</form>
+				<translit>borğal</translit>
+				<concepts>
+					<c>cock</c>
+					<c>rooster</c>
+				</concepts>
+				<url source="wiki">/wiki/боргӏал#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*borc</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/borc</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბორც</form>
+				<translit>borc</translit>
+				<concepts>
+					<c>millet</c>
+				</concepts>
+				<url source="wiki">/wiki/ბორც#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">борц</form>
+				<translit>borc</translit>
+				<concepts>
+					<c>millet</c>
+				</concepts>
+				<url source="wiki">/wiki/борц#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">борц</form>
+				<translit>borc</translit>
+				<concepts>
+					<c>millet</c>
+				</concepts>
+				<url source="wiki">/wiki/борц#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*buhu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/buhu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბუჲჰ</form>
+				<translit>buyh</translit>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუჲჰ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">бухӏа</form>
+				<translit>buha</translit>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/бухӏа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">бов</form>
+				<translit>bow</translit>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/бов#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*bumbur</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/bumbur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">бумбари</form>
+				<translit>bumbari</translit>
+				<concepts>
+					<c>bumblebee</c>
+					<c>beetle</c>
+				</concepts>
+				<url source="wiki">/wiki/бумбари#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">бумбарг</form>
+				<translit>bumbarg</translit>
+				<concepts>
+					<c>bumblebee</c>
+					<c>beetle</c>
+				</concepts>
+				<url source="wiki">/wiki/бумбарг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*busja</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/busja</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბუჲსა</form>
+				<translit>buysa</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუჲსა#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">буьйса</form>
+				<translit>büjsa</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/буьйса#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">бийса</form>
+				<translit>biisa</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/бийса#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*buṭ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/buṭ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბუტ</form>
+				<translit>buṭ</translit>
+				<concepts>
+					<c>vulva</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუტ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">буд</form>
+				<translit>bud</translit>
+				<concepts>
+					<c>vulva</c>
+				</concepts>
+				<url source="wiki">/wiki/буд#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">буд</form>
+				<translit>bud</translit>
+				<concepts>
+					<c>vulva</c>
+				</concepts>
+				<url source="wiki">/wiki/буд#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*bʕoḳ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/bʕoḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბჵოკ</form>
+				<translit>b'oḳ</translit>
+				<concepts>
+					<c>billy goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ბჵოკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">бож</form>
+				<translit>bož</translit>
+				<concepts>
+					<c>he-goat</c>
+					<c>buck</c>
+				</concepts>
+				<url source="wiki">/wiki/бож#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">бож</form>
+				<translit>bož</translit>
+				<concepts>
+					<c>he-goat</c>
+					<c>billygoat</c>
+				</concepts>
+				<url source="wiki">/wiki/бож#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*cHa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/cHa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ცჰა</form>
+				<translit>cha</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ცჰა#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">цхьаъ</form>
+				<translit>cḥʳaʔ</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/цхьаъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">цаӏ</form>
+				<translit>cạ</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/цаӏ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*cariḳ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/cariḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ცარკ</form>
+				<translit>carḳ</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/ცარკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">церг</form>
+				<translit>cerg</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/церг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">царг</form>
+				<translit>carg</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/царг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ciciḳ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ciciḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">цициг</form>
+				<translit>cicig</translit>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/цициг#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*c̣anḳu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/c̣anḳu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">цӏонга</form>
+				<translit>cʼonga</translit>
+				<concepts>
+					<c>navel</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏонга#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">цӏонг</form>
+				<translit>cʼong</translit>
+				<concepts>
+					<c>navel</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏонг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*c̣asṭo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/c̣asṭo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">წასტ</form>
+				<translit>c̣asṭ</translit>
+				<concepts>
+					<c>copper</c>
+				</concepts>
+				<url source="wiki">/wiki/წასტ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">цӏаста</form>
+				<translit>cʼasta</translit>
+				<concepts>
+					<c>copper</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏаста#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">цӏаста</form>
+				<translit>cʼasta</translit>
+				<concepts>
+					<c>copper</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏаста#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*c̣e</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/c̣e</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">წე</form>
+				<translit>c̣e</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/წე#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">წე</form>
+				<translit>c̣e</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/წე#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">цӏи</form>
+				<translit>cʼi</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏи#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">цӏи</form>
+				<translit>cʼi</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏи#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*c̣egeᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/c̣egeᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">цӏе̄н</form>
+				<translit>cʼeen</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏен#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">цӏе</form>
+				<translit>cʼe</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏе#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*c̣egi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/c̣egi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">цӏий</form>
+				<translit>cʼii</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏий#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">цӏий</form>
+				<translit>cʼii</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏий#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dHiwʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dHiwʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დჵივჸ</form>
+				<translit>d'ivʾ</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/დჵივჸ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">диъ</form>
+				<translit>diʔ</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/диъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">диъ</form>
+				<translit>diʔ</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/диъ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*daCḳa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/daCḳa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დახკო̆</form>
+				<translit>daxḳŏ</translit>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/დახკო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дахка</form>
+				<translit>daxka</translit>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/дахка#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">дахка</form>
+				<translit>daxka</translit>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/дахка#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*daale</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/daale</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დალ</form>
+				<translit>dal</translit>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/დალ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დალე̆</form>
+				<translit>dalĕ</translit>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/დალე#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">да̄ьла</form>
+				<translit>dääla</translit>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/даьла#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*daatteᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/daatteᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დათთეჼ</form>
+				<translit>dattẽ</translit>
+				<concepts>
+					<c>butter</c>
+					<c>ghee</c>
+				</concepts>
+				<url source="wiki">/wiki/დათთეჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">даьтта</form>
+				<translit>dätta</translit>
+				<concepts>
+					<c>butter</c>
+					<c>ghee</c>
+				</concepts>
+				<url source="wiki">/wiki/даьтта#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">даьтта</form>
+				<translit>dätta</translit>
+				<concepts>
+					<c>butter</c>
+					<c>ghee</c>
+				</concepts>
+				<url source="wiki">/wiki/даьтта#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dac̣iᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dac̣iᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დაწიჼ</form>
+				<translit>dac̣ĩ</translit>
+				<concepts>
+					<c>heavy</c>
+				</concepts>
+				<url source="wiki">/wiki/დაწიჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">деза</form>
+				<translit>deza</translit>
+				<concepts>
+					<c>expensive</c>
+					<c>heavy</c>
+				</concepts>
+				<url source="wiki">/wiki/деза#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dada</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dada</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დად</form>
+				<translit>dad</translit>
+				<concepts>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/დად#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">да̄</form>
+				<translit>daa</translit>
+				<concepts>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/да#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dalaᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dalaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дала</form>
+				<translit>dala</translit>
+				<concepts>
+					<c>die</c>
+				</concepts>
+				<url source="wiki">/wiki/дала#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дала</form>
+				<translit>dala</translit>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/дала#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*darriḳ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/darriḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дерриг</form>
+				<translit>derrig</translit>
+				<concepts>
+					<c>all</c>
+					<c>whole</c>
+					<c>every</c>
+				</concepts>
+				<url source="wiki">/wiki/дерриг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">дерриг</form>
+				<translit>derrig</translit>
+				<concepts>
+					<c>all</c>
+					<c>whole</c>
+					<c>every</c>
+				</concepts>
+				<url source="wiki">/wiki/дерриг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dašaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dašaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">даша</form>
+				<translit>daša</translit>
+				<concepts>
+					<c>shave</c>
+				</concepts>
+				<url source="wiki">/wiki/даша#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dašeb</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dašeb</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">деши</form>
+				<translit>deši</translit>
+				<concepts>
+					<c>gold</c>
+				</concepts>
+				<url source="wiki">/wiki/деши#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">дошув</form>
+				<translit>došuw</translit>
+				<concepts>
+					<c>gold</c>
+				</concepts>
+				<url source="wiki">/wiki/дошув#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*daṭaᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/daṭaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дада</form>
+				<translit>dada</translit>
+				<concepts>
+					<c>run</c>
+					<c>flee</c>
+				</concepts>
+				<url source="wiki">/wiki/дада#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">вада</form>
+				<translit>vada</translit>
+				<concepts>
+					<c>run</c>
+					<c>flee</c>
+				</concepts>
+				<url source="wiki">/wiki/вада#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*de</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/de</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დე</form>
+				<translit>de</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/დე#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ди</form>
+				<translit>di</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ди#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*delaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/delaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">вела</form>
+				<translit>vela</translit>
+				<concepts>
+					<c>laugh</c>
+				</concepts>
+				<url source="wiki">/wiki/вела#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*desṭaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/desṭaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">деста</form>
+				<translit>desta</translit>
+				<concepts>
+					<c>swell</c>
+				</concepts>
+				<url source="wiki">/wiki/деста#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">деста</form>
+				<translit>desta</translit>
+				<concepts>
+					<c>swell</c>
+				</concepts>
+				<url source="wiki">/wiki/деста#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dettaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dettaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">де̄тта</form>
+				<translit>deetta</translit>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/детта#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dexaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dexaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">деха</form>
+				<translit>dexa</translit>
+				<concepts>
+					<c>ask</c>
+				</concepts>
+				<url source="wiki">/wiki/деха#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*diḳ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/diḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დიკ</form>
+				<translit>diḳ</translit>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/დიკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">диг</form>
+				<translit>dig</translit>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/диг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">диг</form>
+				<translit>dig</translit>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/диг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*dos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/dos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დოს</form>
+				<translit>dos</translit>
+				<concepts>
+					<c>wood</c>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/დოს#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">дос</form>
+				<translit>dos</translit>
+				<concepts>
+					<c>wood</c>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/дос#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*doš</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/doš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დოშ</form>
+				<translit>doš</translit>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/დოშ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дош</form>
+				<translit>doš</translit>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/дош#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">дош</form>
+				<translit>doš</translit>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/дош#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*duṭq̇iᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/duṭq̇iᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дуткъа</form>
+				<translit>dutqʼa</translit>
+				<concepts>
+					<c>thin</c>
+				</concepts>
+				<url source="wiki">/wiki/дуткъа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">диткъа</form>
+				<translit>ditqʼa</translit>
+				<concepts>
+					<c>thin</c>
+				</concepts>
+				<url source="wiki">/wiki/диткъа#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*eepu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/eepu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">о̄ьпа</form>
+				<translit>ööpa</translit>
+				<concepts>
+					<c>gopher</c>
+				</concepts>
+				<url source="wiki">/wiki/оьпа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">эп</form>
+				<translit>ep</translit>
+				<concepts>
+					<c>hamster</c>
+				</concepts>
+				<url source="wiki">/wiki/эп#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*foʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/foʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ოჸ</form>
+				<translit>oʾ</translit>
+				<concepts>
+					<c>grain</c>
+				</concepts>
+				<url source="wiki">/wiki/ოჸ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хӏоъ</form>
+				<translit>hoʔ</translit>
+				<concepts>
+					<c>fodder</c>
+				</concepts>
+				<url source="wiki">/wiki/хӏоъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">фуъ</form>
+				<translit>fuʔ</translit>
+				<concepts>
+					<c>fodder</c>
+				</concepts>
+				<url source="wiki">/wiki/фуъ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*gaazaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/gaazaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">გაზაჼ</form>
+				<translit>gazã</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/გაზაჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">га̄за</form>
+				<translit>gaaza</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/газа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">га̄за</form>
+				<translit>gaaza</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/газа#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*gub</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/gub</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">гӯ</form>
+				<translit>guu</translit>
+				<concepts>
+					<c>hill</c>
+				</concepts>
+				<url source="wiki">/wiki/гу#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">гув</form>
+				<translit>guw</translit>
+				<concepts>
+					<c>hill</c>
+				</concepts>
+				<url source="wiki">/wiki/гув#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*iss</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/iss</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ისს</form>
+				<translit>iss</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ისს#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">исс</form>
+				<translit>iss</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/исс#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ийс</form>
+				<translit>iis</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ийс#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*iṭṭ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/iṭṭ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">იტტ</form>
+				<translit>iṭṭ</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/იტტ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">итт</form>
+				<translit>itt</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/итт#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">итт</form>
+				<translit>itt</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/итт#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*jaaCx</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/jaaCx</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჲეთხ</form>
+				<translit>yetx</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ჲეთხ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">йа̄лх</form>
+				<translit>jaalx</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/йалх#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">я̄лх</form>
+				<translit>jaalx</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ялх#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*jašo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/jašo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჲაშო̆</form>
+				<translit>yašŏ</translit>
+				<concepts>
+					<c>sister</c>
+				</concepts>
+				<url source="wiki">/wiki/ჲაშო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">йиша</form>
+				<translit>jiša</translit>
+				<concepts>
+					<c>sister</c>
+				</concepts>
+				<url source="wiki">/wiki/йиша#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">йиша</form>
+				<translit>jiša</translit>
+				<concepts>
+					<c>sister</c>
+				</concepts>
+				<url source="wiki">/wiki/йиша#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*jeg</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/jeg</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჲეგ</form>
+				<translit>yeg</translit>
+				<concepts>
+					<c>ale</c>
+					<c>beer</c>
+				</concepts>
+				<url source="wiki">/wiki/ჲეგ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">йий</form>
+				<translit>jii</translit>
+				<concepts>
+					<c>ale</c>
+					<c>beer</c>
+				</concepts>
+				<url source="wiki">/wiki/йий#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*jett</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/jett</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">етт</form>
+				<translit>jett</translit>
+				<concepts>
+					<c>cow</c>
+				</concepts>
+				<url source="wiki">/wiki/етт#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*jiš</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/jiš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">იშ</form>
+				<translit>iš</translit>
+				<concepts>
+					<c>melody</c>
+					<c>sound</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/იშ#Bats</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*jol</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/jol</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჲოლ</form>
+				<translit>yol</translit>
+				<concepts>
+					<c>hay</c>
+				</concepts>
+				<url source="wiki">/wiki/ჲოლ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">йол</form>
+				<translit>jol</translit>
+				<concepts>
+					<c>hay</c>
+				</concepts>
+				<url source="wiki">/wiki/йол#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*joq̇</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/joq̇</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჲოპყ</form>
+				<translit>yoṗq̇</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/ჲოპყ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">йукъ</form>
+				<translit>juqʼ</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йукъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">йокъ</form>
+				<translit>joqʼ</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йокъ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*jub</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/jub</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჲუბ</form>
+				<translit>yub</translit>
+				<concepts>
+					<c>awl</c>
+				</concepts>
+				<url source="wiki">/wiki/ჲუბ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">йӯ</form>
+				<translit>juu</translit>
+				<concepts>
+					<c>awl</c>
+				</concepts>
+				<url source="wiki">/wiki/йу#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">юв</form>
+				<translit>juw</translit>
+				<concepts>
+					<c>awl</c>
+				</concepts>
+				<url source="wiki">/wiki/юв#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ko</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ка</form>
+				<translit>ka</translit>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ка#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">куьг</form>
+				<translit>küg</translit>
+				<concepts>
+					<c>arm</c>
+				</concepts>
+				<url source="wiki">/wiki/куьг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кулг</form>
+				<translit>kulg</translit>
+				<concepts>
+					<c>arm</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/кулг#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">къух</form>
+				<translit>k’ux</translit>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/къух#Ossetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*kor</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/kor</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ქორ</form>
+				<translit>kor</translit>
+				<concepts>
+					<c>loophole</c>
+					<c>window</c>
+				</concepts>
+				<url source="wiki">/wiki/ქორ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кор</form>
+				<translit>kor</translit>
+				<concepts>
+					<c>window</c>
+				</concepts>
+				<url source="wiki">/wiki/кор#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кор</form>
+				<translit>kor</translit>
+				<concepts>
+					<c>window</c>
+				</concepts>
+				<url source="wiki">/wiki/кор#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*korta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/korta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ქორთო̆</form>
+				<translit>kortŏ</translit>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/ქორთო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">корта</form>
+				<translit>korta</translit>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/корта#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">корта</form>
+				<translit>korta</translit>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/корта#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*kotam</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/kotam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ქოთამ</form>
+				<translit>kotam</translit>
+				<concepts>
+					<c>hen</c>
+				</concepts>
+				<url source="wiki">/wiki/ქოთამ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">котам</form>
+				<translit>kotam</translit>
+				<concepts>
+					<c>hen</c>
+				</concepts>
+				<url source="wiki">/wiki/котам#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">котам</form>
+				<translit>kotam</translit>
+				<concepts>
+					<c>hen</c>
+				</concepts>
+				<url source="wiki">/wiki/котам#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*koḳ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/koḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ქოკ</form>
+				<translit>koḳ</translit>
+				<concepts>
+					<c>leg</c>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/ქოკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ког</form>
+				<translit>kog</translit>
+				<concepts>
+					<c>leg</c>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/ког#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ког</form>
+				<translit>kog</translit>
+				<concepts>
+					<c>foot</c>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/ког#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*laam</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/laam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ლამ</form>
+				<translit>lam</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/ლამ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ла̄м</form>
+				<translit>laam</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/лам#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">лоам</form>
+				<translit>loam</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/лоам#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*laatta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/laatta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ლათთ</form>
+				<translit>latt</translit>
+				<concepts>
+					<c>litter</c>
+					<c>rotter</c>
+					<c>garbage</c>
+				</concepts>
+				<url source="wiki">/wiki/ლათთ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ლაჲთთნო</form>
+				<translit>layttno</translit>
+				<concepts>
+					<c>home</c>
+				</concepts>
+				<url source="wiki">/wiki/ლაჲთთნო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">лаьтта</form>
+				<translit>lätta</translit>
+				<concepts>
+					<c>ground</c>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/лаьтта#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*laači</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/laači</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ле̄ча</form>
+				<translit>leeča</translit>
+				<concepts>
+					<c>great spotted woodpecker</c>
+					<c>falcon</c>
+					<c>lesser spotted woodpecker</c>
+				</concepts>
+				<url source="wiki">/wiki/леча#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">лаьча</form>
+				<translit>läča</translit>
+				<concepts>
+					<c>falcon</c>
+				</concepts>
+				<url source="wiki">/wiki/лаьча#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*lamo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/lamo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">лама</form>
+				<translit>lama</translit>
+				<concepts>
+					<c>day after tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/лама#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ломма</form>
+				<translit>lomma</translit>
+				<concepts>
+					<c>day after tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/ломма#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*lariḳ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/lariḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ლარკ</form>
+				<translit>larḳ</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/ლარკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">лерг</form>
+				<translit>lerg</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/лерг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">лерг</form>
+				<translit>lerg</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/лерг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*lawa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/lawa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ლავ</form>
+				<translit>lav</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/ლავ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ло̄</form>
+				<translit>loo</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/ло#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">лоа</form>
+				<translit>loa</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/лоа#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*laxuᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/laxuᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ლახუჼ</form>
+				<translit>laxũ</translit>
+				<concepts>
+					<c>low</c>
+				</concepts>
+				<url source="wiki">/wiki/ლახუჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">лоха</form>
+				<translit>loxa</translit>
+				<concepts>
+					<c>low</c>
+				</concepts>
+				<url source="wiki">/wiki/лоха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">лоха</form>
+				<translit>loxa</translit>
+				<concepts>
+					<c>low</c>
+				</concepts>
+				<url source="wiki">/wiki/лоха#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*lexaᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/lexaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">леха</form>
+				<translit>lexa</translit>
+				<concepts>
+					<c>seek</c>
+					<c>look for</c>
+				</concepts>
+				<url source="wiki">/wiki/леха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">лаха</form>
+				<translit>laxa</translit>
+				<concepts>
+					<c>seek</c>
+				</concepts>
+				<url source="wiki">/wiki/лаха#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*maaCx</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/maaCx</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მათხ</form>
+				<translit>matx</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/მათხ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ма̄лх</form>
+				<translit>maalx</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/малх#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ма̄лх</form>
+				<translit>maalx</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/малх#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*maaqi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/maaqi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მაჲჴი̆</form>
+				<translit>mayqĭ</translit>
+				<concepts>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/მაჲჴი#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">маькх</form>
+				<translit>mäq</translit>
+				<concepts>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/маькх#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*maar</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/maar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მარ</form>
+				<translit>mar</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/მარ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ма̄р</form>
+				<translit>maar</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/мар#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სტუმარი</form>
+				<translit>sṭumari</translit>
+				<concepts>
+					<c>guest</c>
+				</concepts>
+				<url source="wiki">/wiki/სტუმარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ма̄р</form>
+				<translit>maar</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/мар#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">სუმარი</form>
+				<translit>sumari</translit>
+				<concepts>
+					<c>guest</c>
+				</concepts>
+				<url source="wiki">/wiki/სუმარი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">სტუმარი</form>
+				<translit>sṭumari</translit>
+				<concepts>
+					<c>guest</c>
+				</concepts>
+				<url source="wiki">/wiki/სტუმარი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">მა̄რე</form>
+				<translit>māre</translit>
+				<concepts>
+					<c>male</c>
+					<c>human</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/მა̄რე#Svan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*maars</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/maars</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ма̄рс</form>
+				<translit>maars</translit>
+				<concepts>
+					<c>sickle</c>
+				</concepts>
+				<url source="wiki">/wiki/марс#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ма̄рс</form>
+				<translit>maars</translit>
+				<concepts>
+					<c>sickle</c>
+				</concepts>
+				<url source="wiki">/wiki/марс#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*maašu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/maašu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">мо̄ша</form>
+				<translit>mooša</translit>
+				<concepts>
+					<c>partridge</c>
+				</concepts>
+				<url source="wiki">/wiki/моша#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">моаш</form>
+				<translit>moaš</translit>
+				<concepts>
+					<c>partridge</c>
+				</concepts>
+				<url source="wiki">/wiki/моаш#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*maciᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/maciᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მაციჼ</form>
+				<translit>macĩ</translit>
+				<concepts>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/მაციჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">меца</form>
+				<translit>meca</translit>
+				<concepts>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/меца#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">меца</form>
+				<translit>meca</translit>
+				<concepts>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/меца#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*mac̣e</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/mac̣e</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მაწ</form>
+				<translit>mac̣</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/მაწ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">меза</form>
+				<translit>meza</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/меза#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*mac̣riᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/mac̣riᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მაწრიჼ</form>
+				<translit>mac̣rĩ</translit>
+				<concepts>
+					<c>sweet</c>
+				</concepts>
+				<url source="wiki">/wiki/მაწრიჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">мерза</form>
+				<translit>merza</translit>
+				<concepts>
+					<c>sweet</c>
+				</concepts>
+				<url source="wiki">/wiki/мерза#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мерза</form>
+				<translit>merza</translit>
+				<concepts>
+					<c>sweet</c>
+				</concepts>
+				<url source="wiki">/wiki/мерза#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*mac̣ru</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/mac̣ru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მაწრო̆</form>
+				<translit>mac̣rŏ</translit>
+				<concepts>
+					<c>whey</c>
+				</concepts>
+				<url source="wiki">/wiki/მაწრო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">морза</form>
+				<translit>morza</translit>
+				<concepts>
+					<c>whey</c>
+				</concepts>
+				<url source="wiki">/wiki/морза#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мордз</form>
+				<translit>mordz</translit>
+				<concepts>
+					<c>whey</c>
+				</concepts>
+				<url source="wiki">/wiki/мордз#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*malˢaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/malˢaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">мала</form>
+				<translit>mala</translit>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/мала#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мала</form>
+				<translit>mala</translit>
+				<concepts>
+					<c>who</c>
+				</concepts>
+				<url source="wiki">/wiki/мала#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*marxo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/marxo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">марха</form>
+				<translit>marxa</translit>
+				<concepts>
+					<c>cloud</c>
+				</concepts>
+				<url source="wiki">/wiki/марха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">морх</form>
+				<translit>morx</translit>
+				<concepts>
+					<c>cloud</c>
+				</concepts>
+				<url source="wiki">/wiki/морх#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*marš</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/marš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мераж</form>
+				<translit>meraž</translit>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/мераж#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*maskul</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/maskul</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">москал</form>
+				<translit>moskal</translit>
+				<concepts>
+					<c>turkey</c>
+				</concepts>
+				<url source="wiki">/wiki/москал#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">москал</form>
+				<translit>moskal</translit>
+				<concepts>
+					<c>turkey</c>
+				</concepts>
+				<url source="wiki">/wiki/москал#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*mattiḳ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/mattiḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">меттиг</form>
+				<translit>mettig</translit>
+				<concepts>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/меттиг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">моттиг</form>
+				<translit>mottig</translit>
+				<concepts>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/моттиг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*mełaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/mełaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мела</form>
+				<translit>mela</translit>
+				<concepts>
+					<c>warm</c>
+				</concepts>
+				<url source="wiki">/wiki/мела#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*moc̣</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/moc̣</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მოწ</form>
+				<translit>moc̣</translit>
+				<concepts>
+					<c>honey</c>
+				</concepts>
+				<url source="wiki">/wiki/მოწ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">моз</form>
+				<translit>moz</translit>
+				<concepts>
+					<c>honey</c>
+				</concepts>
+				<url source="wiki">/wiki/моз#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">модз</form>
+				<translit>modz</translit>
+				<concepts>
+					<c>honey</c>
+				</concepts>
+				<url source="wiki">/wiki/модз#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*mox</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/mox</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მოხ</form>
+				<translit>mox</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/მოხ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">мох</form>
+				<translit>mox</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/мох#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мух</form>
+				<translit>mux</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/мух#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*muq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/muq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">мукх</form>
+				<translit>muq</translit>
+				<concepts>
+					<c>barley</c>
+				</concepts>
+				<url source="wiki">/wiki/мукх#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мукх</form>
+				<translit>muq</translit>
+				<concepts>
+					<c>barley</c>
+				</concepts>
+				<url source="wiki">/wiki/мукх#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*musṭiᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/musṭiᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მუსტიჼ</form>
+				<translit>musṭĩ</translit>
+				<concepts>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/მუსტიჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">муьста</form>
+				<translit>müsta</translit>
+				<concepts>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/муьста#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">миста</form>
+				<translit>mista</translit>
+				<concepts>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/миста#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*naCxa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/naCxa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">налха</form>
+				<translit>nalxa</translit>
+				<concepts>
+					<c>butter</c>
+				</concepts>
+				<url source="wiki">/wiki/налха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">налха</form>
+				<translit>nalxa</translit>
+				<concepts>
+					<c>butter</c>
+				</concepts>
+				<url source="wiki">/wiki/налха#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">нӕлхӕ</form>
+				<translit>nælxæ</translit>
+				<concepts>
+					<c>butter</c>
+				</concepts>
+				<url source="wiki">/wiki/нӕлхӕ#Ossetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*naana</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/naana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ნან</form>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/ნან#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">на̄на</form>
+				<translit>naana</translit>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/нана#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">на̄на</form>
+				<translit>naana</translit>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/нана#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*naars</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/naars</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">наьрс</form>
+				<translit>närs</translit>
+				<concepts>
+					<c>cucumber</c>
+				</concepts>
+				<url source="wiki">/wiki/наьрс#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">на̄рс</form>
+				<translit>naars</translit>
+				<concepts>
+					<c>cucumber</c>
+				</concepts>
+				<url source="wiki">/wiki/нарс#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*naax</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/naax</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ნახ</form>
+				<translit>nax</translit>
+				<concepts>
+					<c>people</c>
+				</concepts>
+				<url source="wiki">/wiki/ნახ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">на̄х</form>
+				<translit>naax</translit>
+				<concepts>
+					<c>people</c>
+				</concepts>
+				<url source="wiki">/wiki/нах#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">на̄х</form>
+				<translit>naax</translit>
+				<concepts>
+					<c>people</c>
+				</concepts>
+				<url source="wiki">/wiki/нах#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*nace</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/nace</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">неца</form>
+				<translit>neca</translit>
+				<concepts>
+					<c>moth</c>
+				</concepts>
+				<url source="wiki">/wiki/неца#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">наца</form>
+				<translit>naca</translit>
+				<concepts>
+					<c>moth</c>
+				</concepts>
+				<url source="wiki">/wiki/наца#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*načx</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/načx</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ნაჩხ</form>
+				<translit>načx</translit>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/ნაჩხ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">нехча</form>
+				<translit>nexča</translit>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/нехча#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">нахча</form>
+				<translit>naxča</translit>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/нахча#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*niq̇</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/niq̇</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ნიყ</form>
+				<translit>niq̇</translit>
+				<concepts>
+					<c>road</c>
+				</concepts>
+				<url source="wiki">/wiki/ნიყ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">некъ</form>
+				<translit>neqʼ</translit>
+				<concepts>
+					<c>road</c>
+					<c>way</c>
+				</concepts>
+				<url source="wiki">/wiki/некъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">никъ</form>
+				<translit>niqʼ</translit>
+				<concepts>
+					<c>road</c>
+				</concepts>
+				<url source="wiki">/wiki/никъ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*nixi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/nixi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ниха</form>
+				<translit>nixa</translit>
+				<concepts>
+					<c>kvass</c>
+					<c>homebrew</c>
+				</concepts>
+				<url source="wiki">/wiki/ниха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">них</form>
+				<translit>nix</translit>
+				<concepts>
+					<c>homebrew</c>
+					<c>beer belly</c>
+				</concepts>
+				<url source="wiki">/wiki/них#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*niṭṭ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/niṭṭ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ნიტტ</form>
+				<translit>niṭṭ</translit>
+				<concepts>
+					<c>nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/ნიტტ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">нитт</form>
+				<translit>nitt</translit>
+				<concepts>
+					<c>nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/нитт#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">нитт</form>
+				<translit>nitt</translit>
+				<concepts>
+					<c>nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/нитт#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*noc</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/noc</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">нуц</form>
+				<translit>nuc</translit>
+				<concepts>
+					<c>son-in-law</c>
+				</concepts>
+				<url source="wiki">/wiki/нуц#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">найц</form>
+				<translit>najc</translit>
+				<concepts>
+					<c>son-in-law</c>
+				</concepts>
+				<url source="wiki">/wiki/найц#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*nus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/nus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">нус</form>
+				<translit>nus</translit>
+				<concepts>
+					<c>daughter-in-law</c>
+				</concepts>
+				<url source="wiki">/wiki/нус#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">нус</form>
+				<translit>nus</translit>
+				<concepts>
+					<c>daughter-in-law</c>
+				</concepts>
+				<url source="wiki">/wiki/нус#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*nɦeʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/nɦeʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">неӏ</form>
+				<translit>nẹ</translit>
+				<concepts>
+					<c>door</c>
+				</concepts>
+				<url source="wiki">/wiki/неӏ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ниӏ</form>
+				<translit>nị</translit>
+				<concepts>
+					<c>door</c>
+				</concepts>
+				<url source="wiki">/wiki/ниӏ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*nʕaaṗ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/nʕaaṗ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ნჵაპ</form>
+				<translit>n'aṗ</translit>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/ნჵაპ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">на̄б</form>
+				<translit>naab</translit>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/наб#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">на̄б</form>
+				<translit>naab</translit>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/наб#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*psṭu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/psṭu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ფსტუ</form>
+				<translit>psṭu</translit>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ფსტუ#Bats:_bull</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">сту</form>
+				<translit>stu</translit>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/сту#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">уст</form>
+				<translit>ust</translit>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/уст#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*pxi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/pxi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ფხი</form>
+				<translit>pxi</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ფხი#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">пхиъ</form>
+				<translit>pxiʔ</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/пхиъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">пхиъ</form>
+				<translit>pxiʔ</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/пхиъ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*pħar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/pħar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">пхьар</form>
+				<translit>pḥʳar</translit>
+				<concepts>
+					<c>master</c>
+				</concepts>
+				<url source="wiki">/wiki/пхьар#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">пхьар</form>
+				<translit>pḥʳar</translit>
+				<concepts>
+					<c>master</c>
+				</concepts>
+				<url source="wiki">/wiki/пхьар#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*pħiṭ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/pħiṭ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ფჰ̡იტ</form>
+				<translit>ph̡iṭ</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ფჰ̡იტ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">пхьид</form>
+				<translit>pḥʳid</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/пхьид#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">пхьид</form>
+				<translit>pḥʳid</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/пхьид#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*pša</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/pša</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ფშა</form>
+				<translit>pša</translit>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/ფშა#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ფშელ</form>
+				<translit>pšel</translit>
+				<concepts>
+					<c>cold</c>
+				</concepts>
+				<url source="wiki">/wiki/ფშელ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ша</form>
+				<translit>ša</translit>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/ша#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ша</form>
+				<translit>ša</translit>
+				<concepts>
+					<c>oneself</c>
+					<c>self</c>
+				</concepts>
+				<url source="wiki">/wiki/ша#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">шийла</form>
+				<translit>šiila</translit>
+				<concepts>
+					<c>cold</c>
+				</concepts>
+				<url source="wiki">/wiki/шийла#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ша</form>
+				<translit>ša</translit>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/ша#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">шийла</form>
+				<translit>šiila</translit>
+				<concepts>
+					<c>cold</c>
+				</concepts>
+				<url source="wiki">/wiki/шийла#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*qadale</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/qadale</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჴადალ</form>
+				<translit>qadal</translit>
+				<concepts>
+					<c>mare</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴადალ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кхе̄ла</form>
+				<translit>qeela</translit>
+				<concepts>
+					<c>mare</c>
+				</concepts>
+				<url source="wiki">/wiki/кхела#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кха̄л</form>
+				<translit>qaal</translit>
+				<concepts>
+					<c>mare</c>
+				</concepts>
+				<url source="wiki">/wiki/кхал#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*qaqu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/qaqu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჴაუ̆ჴუ̆</form>
+				<translit>qaŭqŭ</translit>
+				<concepts>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴაუჴუ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кхокха</form>
+				<translit>qoqa</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/кхокха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кхокх</form>
+				<translit>qoq</translit>
+				<concepts>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/кхокх#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кхокха</form>
+				<translit>qoqa</translit>
+				<concepts>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/кхокха#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*qo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/qo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჴო</form>
+				<translit>qo</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кхоъ</form>
+				<translit>qoʔ</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/кхоъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кхоъ</form>
+				<translit>qoʔ</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/кхоъ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*qog</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/qog</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჴოგ</form>
+				<translit>qog</translit>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴოგ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кхо̄ь</form>
+				<translit>qöö</translit>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/кхоь#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кхе̄</form>
+				<translit>qee</translit>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/кхе#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*qеra</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/qеra</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჴერ</form>
+				<translit>qer</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴერ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кхе̄ра</form>
+				<translit>qeera</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/кхера#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*saase</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/saase</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">се̄са</form>
+				<translit>seesa</translit>
+				<concepts>
+					<c>tadpole</c>
+				</concepts>
+				<url source="wiki">/wiki/сеса#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">са̄ьса</form>
+				<translit>sääsa</translit>
+				<concepts>
+					<c>tadpole</c>
+				</concepts>
+				<url source="wiki">/wiki/саьса#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*sag</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/sag</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">საგ</form>
+				<translit>sag</translit>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/საგ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">сай</form>
+				<translit>saj</translit>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/сай#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">сай</form>
+				<translit>saj</translit>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/сай#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*seni⁽ᶰ⁾</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/seni⁽ᶰ⁾</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">сийна</form>
+				<translit>siina</translit>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/сийна#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">сийна</form>
+				<translit>siina</translit>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/сийна#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*serliᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/serliᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">сирла</form>
+				<translit>sirla</translit>
+				<concepts>
+					<c>bright</c>
+					<c>light</c>
+					<c>clear</c>
+				</concepts>
+				<url source="wiki">/wiki/сирла#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*so</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/so</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">სო</form>
+				<translit>so</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/სო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">со</form>
+				<translit>so</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/со#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">со</form>
+				<translit>so</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/со#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*tuxi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/tuxi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">თუჲხი̆</form>
+				<translit>tuyxĭ</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/თუჲხი#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">туьха</form>
+				<translit>tüxa</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/туьха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">тух</form>
+				<translit>tux</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/тух#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*wašo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/wašo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ვაშო̆</form>
+				<translit>vašŏ</translit>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/ვაშო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ваша</form>
+				<translit>vaša</translit>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/ваша#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">воша</form>
+				<translit>voša</translit>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/воша#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*wir</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/wir</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ვირ</form>
+				<translit>vir</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/ვირ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">вир</form>
+				<translit>vir</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/вир#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">вир</form>
+				<translit>vir</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/вир#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*worlˢ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/worlˢ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ვორლʻ</form>
+				<translit>vorlˢ</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ვორლʻ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ворхӏ</form>
+				<translit>vorh</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ворхӏ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ворхӏ</form>
+				<translit>vorh</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ворхӏ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*xaarcaᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/xaarcaᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">харца</form>
+				<translit>xarca</translit>
+				<concepts>
+					<c>change</c>
+				</concepts>
+				<url source="wiki">/wiki/харца#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*xac̣aᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/xac̣aᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">хаза</form>
+				<translit>xaza</translit>
+				<concepts>
+					<c>hear</c>
+				</concepts>
+				<url source="wiki">/wiki/хаза#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*xoola</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/xoola</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хо̄ла</form>
+				<translit>xoola</translit>
+				<concepts>
+					<c>haystack</c>
+				</concepts>
+				<url source="wiki">/wiki/хола#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">хол</form>
+				<translit>xol</translit>
+				<concepts>
+					<c>haystack</c>
+				</concepts>
+				<url source="wiki">/wiki/хол#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*xеᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/xеᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ხეჼ</form>
+				<translit>xẽ</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ხეჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хен</form>
+				<translit>xen</translit>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/хен#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხე</form>
+				<translit>xe</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ხე#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">хи</form>
+				<translit>xi</translit>
+				<concepts>
+					<c>trunk</c>
+				</concepts>
+				<url source="wiki">/wiki/хи#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ხე</form>
+				<translit>xe</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ხე#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ča</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ča</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჩა</form>
+				<translit>ča</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩა#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ча</form>
+				<translit>ča</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/ча#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*čo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/čo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჩო</form>
+				<translit>čo</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩო#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">чо</form>
+				<translit>čo</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/чо#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">чо</form>
+				<translit>čo</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/чо#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*č̣uḳ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/č̣uḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჭუკ</form>
+				<translit>č̣uḳ</translit>
+				<concepts>
+					<c>drinking horn</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭუკ#Bats</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ħaac̣u</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ħaac̣u</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჰ⁊აწუკ</form>
+				<translit>h⁊ac̣uḳ</translit>
+				<concepts>
+					<c>birdie</c>
+				</concepts>
+				<url source="wiki">/wiki/ჰ⁊აწუკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хьо̄за</form>
+				<translit>ḥʳooza</translit>
+				<concepts>
+					<c>sparrow</c>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/хьоза#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">хьа̄зилг</form>
+				<translit>ḥʳaazilg</translit>
+				<concepts>
+					<c>sparrow</c>
+				</concepts>
+				<url source="wiki">/wiki/хьазилг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ħacur</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ħacur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хьацар</form>
+				<translit>ḥʳacar</translit>
+				<concepts>
+					<c>sweat</c>
+				</concepts>
+				<url source="wiki">/wiki/хьацар#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ħaqa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ħaqa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჴა</form>
+				<translit>qa</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴა#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хьакха</form>
+				<translit>ḥʳaqa</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/хьакха#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">хьакха</form>
+				<translit>ḥʳaqa</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/хьакха#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ħuᶰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ħuᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჰ⁊უჼ</form>
+				<translit>h⁊ũ</translit>
+				<concepts>
+					<c>forest</c>
+				</concepts>
+				<url source="wiki">/wiki/ჰ⁊უჼ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хьун</form>
+				<translit>ḥʳun</translit>
+				<concepts>
+					<c>forest</c>
+				</concepts>
+				<url source="wiki">/wiki/хьун#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">хьу</form>
+				<translit>ḥʳu</translit>
+				<concepts>
+					<c>forest</c>
+				</concepts>
+				<url source="wiki">/wiki/хьу#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*šaršul</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/šaršul</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">шоршал</form>
+				<translit>šoršal</translit>
+				<concepts>
+					<c>blackbird</c>
+					<c>thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/шоршал#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">шоршал</form>
+				<translit>šoršal</translit>
+				<concepts>
+					<c>blackbird</c>
+					<c>thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/шоршал#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ši</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ši</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ში</form>
+				<translit>ši</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ში#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">шиъ</form>
+				<translit>šiʔ</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/шиъ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">шиъ</form>
+				<translit>šiʔ</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/шиъ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*šura</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/šura</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">შურ</form>
+				<translit>šur</translit>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/შურ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">шура</form>
+				<translit>šura</translit>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/шура#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">шура</form>
+				<translit>šura</translit>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/шура#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ɣa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ɣa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">гӏа</form>
+				<translit>ğa</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">гӏа</form>
+				<translit>ğa</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏа#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ɣāma</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ɣāma</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">гӏа̄ма</form>
+				<translit>ğaama</translit>
+				<concepts>
+					<c>heap</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏама#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ɦaahḳi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ɦaahḳi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჺაჲჰკი̆</form>
+				<translit>ʿayhḳĭ</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ჺაჲჰკი#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">э̄чиг</form>
+				<translit>eečig</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/эчиг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">аьшк</form>
+				<translit>äšk</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/аьшк#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ʁoodaʁa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ʁoodaʁa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">гӏогӏ</form>
+				<translit>ğoğ</translit>
+				<concepts>
+					<c>haunch</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏогӏ#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">гӏогӏ</form>
+				<translit>ğoğ</translit>
+				<concepts>
+					<c>haunch</c>
+				</concepts>
+				<url source="wiki">/wiki/гӏогӏ#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ʕaarč̣iᶰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ʕaarč̣iᶰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ӏаьржа</form>
+				<translit>ˀärža</translit>
+				<concepts>
+					<c>black</c>
+					<c>dark</c>
+				</concepts>
+				<url source="wiki">/wiki/ӏаьржа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ӏаьржа</form>
+				<translit>ˀärža</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/ӏаьржа#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ʕe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ʕe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ჺა</form>
+				<translit>ʿa</translit>
+				<concepts>
+					<c>steam</c>
+				</concepts>
+				<url source="wiki">/wiki/ჺა#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ӏа</form>
+				<translit>ˀa</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/ӏа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">ӏаь</form>
+				<translit>ˀä</translit>
+				<concepts>
+					<c>steam</c>
+				</concepts>
+				<url source="wiki">/wiki/ӏаь#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ӏи</form>
+				<translit>ˀi</translit>
+				<concepts>
+					<c>steam</c>
+				</concepts>
+				<url source="wiki">/wiki/ӏи#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ḳanat</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ḳanat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">კნათ</form>
+				<translit>ḳnat</translit>
+				<concepts>
+					<c>boy</c>
+					<c>son</c>
+				</concepts>
+				<url source="wiki">/wiki/კნათ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кӏант</form>
+				<translit>kʼant</translit>
+				<concepts>
+					<c>boy</c>
+					<c>young man</c>
+					<c>son</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏант#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кӏант</form>
+				<translit>kʼant</translit>
+				<concepts>
+					<c>young man</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏант#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ḳaw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ḳaw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">კავ</form>
+				<translit>ḳav</translit>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/კავ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кӏа</form>
+				<translit>kʼa</translit>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏа#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кӏа</form>
+				<translit>kʼa</translit>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏа#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ḳeč̣</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ḳeč̣</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">კეჭ</form>
+				<translit>ḳeč̣</translit>
+				<concepts>
+					<c>wool</c>
+				</concepts>
+				<url source="wiki">/wiki/კეჭ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кӏа̄жар</form>
+				<translit>kʼaažar</translit>
+				<concepts>
+					<c>plait</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏажар#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кӏеж</form>
+				<translit>kʼež</translit>
+				<concepts>
+					<c>plait</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏеж#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ḳomal</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ḳomal</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кӏо̄мал</form>
+				<translit>kʼoomal</translit>
+				<concepts>
+					<c>hemp</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏомал#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кӏо̄мал</form>
+				<translit>kʼoomal</translit>
+				<concepts>
+					<c>hemp</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏомал#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ḳur</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ḳur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">კურ</form>
+				<translit>ḳur</translit>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/კურ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кӏур</form>
+				<translit>kʼur</translit>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏур#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кӏур</form>
+				<translit>kʼur</translit>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏур#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ḳāmsur</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ḳāmsur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">кӏомсар</form>
+				<translit>kʼomsar</translit>
+				<concepts>
+					<c>canine tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏомсар#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">кӏомсар</form>
+				<translit>kʼomsar</translit>
+				<concepts>
+					<c>canine tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏомсар#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ṗʕenṭo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ṗʕenṭo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">пӏенда</form>
+				<translit>pʼenda</translit>
+				<concepts>
+					<c>rib</c>
+				</concepts>
+				<url source="wiki">/wiki/пӏенда#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">пӏенда</form>
+				<translit>pʼenda</translit>
+				<concepts>
+					<c>rib</c>
+				</concepts>
+				<url source="wiki">/wiki/пӏенда#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ṭaliḳ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ṭaliḳ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ტარკ</form>
+				<translit>ṭarḳ</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/ტარკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">пӏелг</form>
+				<translit>pʼelg</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/пӏелг#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">пӏелг</form>
+				<translit>pʼelg</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/пӏелг#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ṭateb</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ṭateb</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ტათებ</form>
+				<translit>ṭateb</translit>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/ტათებ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дети</form>
+				<translit>deti</translit>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/дети#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">дотув</form>
+				<translit>dotuw</translit>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/дотув#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nakh</plang>
+			<pform>*ṭom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nakh/ṭom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">тӏом</form>
+				<translit>tʼom</translit>
+				<concepts>
+					<c>battle</c>
+					<c>war</c>
+					<c>fight</c>
+					<c>violence</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏом#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">тӏом</form>
+				<translit>tʼom</translit>
+				<concepts>
+					<c>war</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏом#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

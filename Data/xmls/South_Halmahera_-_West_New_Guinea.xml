@@ -1,0 +1,48 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>South Halmahera - West New Guinea</plang>
+			<pform>*bisik₂</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/25532#s-1265</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">pis-pisi</form>
+				<concepts>
+					<c>illness</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-2f8312688b3965190ff005a65ca24323-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">pisi</form>
+				<concepts>
+					<c>sick</c>
+					<c>be sick</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-aef686d671ceb446a155b0082de1a7bb-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">pisi kaci</form>
+				<concepts>
+					<c>rheumatism</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-6a8bcf3d4192b3e9e0bf82141306837d-1</url>
+			</reflex>
+			<reflex>
+				<lang>Numfor</lang>
+				<form script="LATIN">bis</form>
+				<concepts>
+					<c>sick</c>
+					<c>illness</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/364-838cd6d9e61f7ea8d4a2c16d9e346357-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,2059 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*awinas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/awinas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">о́вен</form>
+				<translit>óven</translit>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/овен#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">ове́н</form>
+				<translit>ovén</translit>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/овен#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Estonian</lang>
+				<form script="LATIN">oinas</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/oinas#Estonian</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">oinas</form>
+				<concepts>
+					<c>wether</c>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/oinas#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">àuns</form>
+				<concepts>
+					<c>tup</c>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/auns#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">ãvinas</form>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/avinas#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">овен</form>
+				<translit>oven</translit>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/овен#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Polish</lang>
+				<form script="LATIN">owien</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/owien#Old_Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Prussian</lang>
+				<form script="LATIN">awins</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/awins#Old_Prussian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">ове́н</form>
+				<translit>ovén</translit>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/овен#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">óvan</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/ovan#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">о́ван</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/ован#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovene</lang>
+				<form script="LATIN">óvən</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/oven#Slovene</url>
+			</reflex>
+			<reflex>
+				<lang>Veps</lang>
+				<form script="LATIN">oinaz</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/oinaz#Veps</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*ba</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/ba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">бо</form>
+				<translit>bo</translit>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/бо#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">бо</form>
+				<translit>bo</translit>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/бо#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">bo</form>
+				<concepts>
+					<c>since</c>
+					<c>because</c>
+					<c>as</c>
+				</concepts>
+				<url source="wiki">/wiki/bo#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Kashubian</lang>
+				<form script="LATIN">bò</form>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/bò#Kashubian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">бо</form>
+				<translit>bo</translit>
+				<concepts>
+					<c>for</c>
+				</concepts>
+				<url source="wiki">/wiki/бо#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Czech</lang>
+				<form script="LATIN">bo</form>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/bo#Old_Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Old East Slavic</lang>
+				<form script="CYRILLIC">бо</form>
+				<translit>bo</translit>
+				<concepts>
+					<c>as</c>
+					<c>for</c>
+				</concepts>
+				<url source="wiki">/wiki/бо#Old_East_Slavic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Polish</lang>
+				<form script="LATIN">bo</form>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/bo#Old_Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">bo</form>
+				<concepts>
+					<c>but</c>
+					<c>even though</c>
+					<c>despite</c>
+				</concepts>
+				<url source="wiki">/wiki/bo#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">bo</form>
+				<concepts>
+					<c>or else</c>
+					<c>for</c>
+					<c>or</c>
+					<c>because</c>
+					<c>namely</c>
+					<c>otherwise</c>
+				</concepts>
+				<url source="wiki">/wiki/bo#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Silesian</lang>
+				<form script="LATIN">bo</form>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/bo#Silesian</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">бо</form>
+				<translit>bo</translit>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/бо#Ukrainian</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">бо</form>
+				<translit>bo</translit>
+				<concepts>
+					<c>because</c>
+				</concepts>
+				<url source="wiki">/wiki/бо#Ukrainian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*brā́ˀtiškas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/brā́ˀtiškas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">братски</form>
+				<translit>bratski</translit>
+				<concepts>
+					<c>brotherly</c>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/братски#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">bratrský</form>
+				<concepts>
+					<c>brotherly</c>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/bratrský#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">братски</form>
+				<translit>bratski</translit>
+				<concepts>
+					<c>brotherly</c>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/братски#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">братски</form>
+				<translit>bratski</translit>
+				<concepts>
+					<c>fraternally</c>
+				</concepts>
+				<url source="wiki">/wiki/братски#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old East Slavic</lang>
+				<form script="CYRILLIC">бра́тьскꙑи</form>
+				<translit>brátĭskyi</translit>
+				<concepts>
+					<c>brotherly</c>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/братьскꙑи#Old_East_Slavic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Polish</lang>
+				<form script="LATIN">bracski</form>
+				<concepts>
+					<c>brotherly</c>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/bracski#Old_Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">bracki</form>
+				<concepts>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/bracki#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">братский</form>
+				<translit>bratskij</translit>
+				<concepts>
+					<c>brotherly</c>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/братский#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">brȁtski</form>
+				<concepts>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/bratski#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">бра̏тски</form>
+				<concepts>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/братски#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovak</lang>
+				<form script="LATIN">bratský</form>
+				<concepts>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/bratský#Slovak</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">братський</form>
+				<translit>bratsʹkyj</translit>
+				<concepts>
+					<c>brotherly</c>
+					<c>fraternal</c>
+				</concepts>
+				<url source="wiki">/wiki/братський#Ukrainian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*bā́ˀbāˀ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/bā́ˀbāˀ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">ба́ба</form>
+				<translit>bába</translit>
+				<concepts>
+					<c>female</c>
+					<c>granny</c>
+					<c>broad</c>
+					<c>countrywoman</c>
+					<c>woman</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/баба#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">ба́ба</form>
+				<translit>bába</translit>
+				<concepts>
+					<c>witch</c>
+					<c>gran</c>
+					<c>mollycoddle</c>
+					<c>mother-in-law</c>
+					<c>midwife</c>
+					<c>molly</c>
+					<c>old maid</c>
+					<c>granny</c>
+					<c>monkey</c>
+					<c>weakling</c>
+					<c>sorceress</c>
+					<c>grandma</c>
+					<c>milksop</c>
+					<c>wise woman</c>
+					<c>goody</c>
+					<c>woman</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/баба#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">baba</form>
+				<concepts>
+					<c>coward</c>
+					<c>hag</c>
+					<c>chick</c>
+					<c>milksop</c>
+					<c>crone</c>
+					<c>girl</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">bába</form>
+				<concepts>
+					<c>crone</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/bába#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">bába</form>
+				<concepts>
+					<c>crone</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/bába#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Komi-Zyrian</lang>
+				<form script="CYRILLIC">баба</form>
+				<translit>baba</translit>
+				<concepts>
+					<c>wife</c>
+					<c>wifey</c>
+					<c>old woman</c>
+				</concepts>
+				<url source="wiki">/wiki/баба#Komi-Zyrian</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">bãba</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/bāba#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">bóba</form>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+					<c>old woman</c>
+				</concepts>
+				<url source="wiki">/wiki/boba#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Lower Sorbian</lang>
+				<form script="LATIN">baba</form>
+				<concepts>
+					<c>sponge cake</c>
+					<c>midwife</c>
+					<c>woman</c>
+					<c>old woman</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Lower_Sorbian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">баба</form>
+				<translit>baba</translit>
+				<concepts>
+					<c>wet nurse</c>
+					<c>midwife</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/баба#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Czech</lang>
+				<form script="LATIN">bába</form>
+				<concepts>
+					<c>midwife</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/bába#Old_Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Old East Slavic</lang>
+				<form script="CYRILLIC">ба́ба</form>
+				<translit>bába</translit>
+				<concepts>
+					<c>hex</c>
+					<c>midwife</c>
+					<c>fortune teller</c>
+				</concepts>
+				<url source="wiki">/wiki/баба#Old_East_Slavic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Polish</lang>
+				<form script="LATIN">baba</form>
+				<concepts>
+					<c>Pleiades</c>
+					<c>fortune teller</c>
+					<c>grandma</c>
+					<c>pear</c>
+					<c>midwife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Old_Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polabian</lang>
+				<form script="LATIN">babă</form>
+				<concepts>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/babă#Polabian</url>
+			</reflex>
+			<reflex>
+				<lang>Polabian</lang>
+				<form script="LATIN">bobo</form>
+				<concepts>
+					<c>midwife</c>
+					<c>old woman</c>
+				</concepts>
+				<url source="wiki">/wiki/bobo#Polabian</url>
+			</reflex>
+			<reflex>
+				<lang>Polabian</lang>
+				<form script="LATIN">bobă</form>
+				<concepts>
+					<c>midwife</c>
+				</concepts>
+				<url source="wiki">/wiki/bobă#Polabian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">baba</form>
+				<concepts>
+					<c>pansy</c>
+					<c>babka</c>
+					<c>girlfriend</c>
+					<c>big girl's blouse</c>
+					<c>wife</c>
+					<c>hag</c>
+					<c>crone</c>
+					<c>woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">bȁba</form>
+				<concepts>
+					<c>female</c>
+					<c>granny</c>
+					<c>hag</c>
+					<c>grandma</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">ба̏ба</form>
+				<concepts>
+					<c>female</c>
+					<c>granny</c>
+					<c>hag</c>
+					<c>grandma</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/баба#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovak</lang>
+				<form script="LATIN">baba</form>
+				<concepts>
+					<c>puppet</c>
+					<c>old woman</c>
+					<c>midwife</c>
+					<c>girl</c>
+					<c>doll</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Slovak</url>
+			</reflex>
+			<reflex>
+				<lang>Slovene</lang>
+				<form script="LATIN">bába</form>
+				<concepts>
+					<c>hag</c>
+					<c>old woman</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Slovene</url>
+			</reflex>
+			<reflex>
+				<lang>Slovincian</lang>
+				<form script="LATIN">bãbă</form>
+				<concepts>
+					<c>broad</c>
+					<c>woman</c>
+					<c>old woman</c>
+				</concepts>
+				<url source="wiki">/wiki/babă#Slovincian</url>
+			</reflex>
+			<reflex>
+				<lang>Upper Sorbian</lang>
+				<form script="LATIN">baba</form>
+				<concepts>
+					<c>dough</c>
+					<c>pastry</c>
+					<c>pelican</c>
+					<c>midwife</c>
+					<c>old woman</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/baba#Upper_Sorbian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*galsás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/galsás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">го́лас</form>
+				<translit>hólas</translit>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/голас#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">глас</form>
+				<translit>glas</translit>
+				<concepts>
+					<c>vote</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/глас#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">hlas</form>
+				<concepts>
+					<c>vote</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/hlas#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Kashubian</lang>
+				<form script="LATIN">głos</form>
+				<concepts>
+					<c>vote</c>
+					<c>voice</c>
+					<c>part</c>
+					<c>say</c>
+					<c>opinion</c>
+					<c>statement</c>
+				</concepts>
+				<url source="wiki">/wiki/głos#Kashubian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">gal̃sas</form>
+				<concepts>
+					<c>echo</c>
+					<c>sound</c>
+				</concepts>
+				<url source="wiki">/wiki/galsas#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Lower Sorbian</lang>
+				<form script="LATIN">głos</form>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/głos#Lower_Sorbian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">глас</form>
+				<translit>glas</translit>
+				<concepts>
+					<c>vote</c>
+					<c>sound</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/глас#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">гласъ</form>
+				<translit>glasŭ</translit>
+				<concepts>
+					<c>word</c>
+					<c>sound</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/гласъ#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Czech</lang>
+				<form script="LATIN">hlas</form>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/hlas#Old_Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Old East Slavic</lang>
+				<form script="CYRILLIC">гласъ</form>
+				<translit>glasŭ</translit>
+				<concepts>
+					<c>sound</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/гласъ#Old_East_Slavic</url>
+			</reflex>
+			<reflex>
+				<lang>Old East Slavic</lang>
+				<form script="CYRILLIC">голосъ</form>
+				<translit>golosŭ</translit>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/голосъ#Old_East_Slavic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Polish</lang>
+				<form script="LATIN">głos</form>
+				<concepts>
+					<c>request</c>
+					<c>bidding</c>
+					<c>speech</c>
+					<c>voice</c>
+					<c>order</c>
+					<c>mandate</c>
+					<c>prescription</c>
+					<c>instruction</c>
+				</concepts>
+				<url source="wiki">/wiki/głos#Old_Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">głos</form>
+				<concepts>
+					<c>vote</c>
+					<c>phone</c>
+					<c>speech</c>
+					<c>voice</c>
+					<c>tip</c>
+					<c>part</c>
+					<c>rumor</c>
+					<c>warning</c>
+					<c>say</c>
+					<c>exhortation</c>
+					<c>prompt</c>
+					<c>admonishment</c>
+					<c>floor</c>
+				</concepts>
+				<url source="wiki">/wiki/głos#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">głos</form>
+				<concepts>
+					<c>vote</c>
+					<c>phone</c>
+					<c>speech</c>
+					<c>voice</c>
+					<c>tip</c>
+					<c>part</c>
+					<c>rumor</c>
+					<c>warning</c>
+					<c>say</c>
+					<c>exhortation</c>
+					<c>prompt</c>
+					<c>admonishment</c>
+					<c>floor</c>
+				</concepts>
+				<url source="wiki">/wiki/głos#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">глас</form>
+				<translit>glas</translit>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/глас#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">го́лос</form>
+				<translit>gólos</translit>
+				<concepts>
+					<c>vote</c>
+					<c>word</c>
+					<c>voice</c>
+					<c>remark</c>
+					<c>opinion</c>
+				</concepts>
+				<url source="wiki">/wiki/голос#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Rusyn</lang>
+				<form script="CYRILLIC">голос</form>
+				<translit>holos</translit>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/голос#Carpathian_Rusyn</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">glȃs</form>
+				<concepts>
+					<c>vote</c>
+					<c>phone</c>
+					<c>news</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/glas#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">гла̑с</form>
+				<concepts>
+					<c>vote</c>
+					<c>phone</c>
+					<c>news</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/глас#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Silesian</lang>
+				<form script="LATIN">głos</form>
+				<concepts>
+					<c>vote</c>
+					<c>say</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/głos#Silesian</url>
+			</reflex>
+			<reflex>
+				<lang>Silesian</lang>
+				<form script="LATIN">głos</form>
+				<concepts>
+					<c>vote</c>
+					<c>say</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/głos#Silesian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovak</lang>
+				<form script="LATIN">hlas</form>
+				<concepts>
+					<c>vote</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/hlas#Slovak</url>
+			</reflex>
+			<reflex>
+				<lang>Slovene</lang>
+				<form script="LATIN">glȃs</form>
+				<concepts>
+					<c>vote</c>
+					<c>phone</c>
+					<c>sound</c>
+					<c>voice</c>
+					<c>rumour</c>
+					<c>repute</c>
+					<c>message</c>
+				</concepts>
+				<url source="wiki">/wiki/glas#Slovene</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">го́лос</form>
+				<translit>hólos</translit>
+				<concepts>
+					<c>vote</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/голос#Ukrainian</url>
+			</reflex>
+			<reflex>
+				<lang>Upper Sorbian</lang>
+				<form script="LATIN">hłós</form>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/hłós#Upper_Sorbian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*ketwirtas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/ketwirtas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">чацвёрты</form>
+				<translit>čacvjórty</translit>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/чацвёрты#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">четвъ́рти</form>
+				<translit>četvǎ́rti</translit>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/четвърти#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">čtvrtý</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/čtvrtý#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">čtvrtý</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/čtvrtý#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Kashubian</lang>
+				<form script="LATIN">czwiôrti</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/czwiôrti#Kashubian</url>
+			</reflex>
+			<reflex>
+				<lang>Latgalian</lang>
+				<form script="LATIN">catūrts</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/catūrts#Latgalian</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">cetur̂taĩs</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/ceturtais#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">ketvir̃tas</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/ketvirtas#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">четврт</form>
+				<translit>četvrt</translit>
+				<concepts>
+					<c>quarter</c>
+				</concepts>
+				<url source="wiki">/wiki/четврт#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">четврьтъ</form>
+				<translit>četvrĭtŭ</translit>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/четврьтъ#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Czech</lang>
+				<form script="LATIN">čtvrtý</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/čtvrtý#Old_Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Old East Slavic</lang>
+				<form script="CYRILLIC">четвьртъ</form>
+				<translit>četvĭrtŭ</translit>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/четвьртъ#Old_East_Slavic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Polish</lang>
+				<form script="LATIN">cztwarty</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/cztwarty#Old_Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Prussian</lang>
+				<form script="LATIN">kettwirts</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/kettwirts#Old_Prussian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">czwarty</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/czwarty#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">czwarty</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/czwarty#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">четвёртый</form>
+				<translit>četvjórtyj</translit>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/четвёртый#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">čètvȓtȋ</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/četvrti#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">чѐтвр̑ти̑</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/четврти#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Silesian</lang>
+				<form script="LATIN">sztwŏrty</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/sztwŏrty#Silesian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovak</lang>
+				<form script="LATIN">štvrtý</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/štvrtý#Slovak</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">четве́ртий</form>
+				<translit>četvértyj</translit>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/четвертий#Ukrainian</url>
+			</reflex>
+			<reflex>
+				<lang>Upper Sorbian</lang>
+				<form script="LATIN">štwórty</form>
+				<concepts>
+					<c>fourth</c>
+				</concepts>
+				<url source="wiki">/wiki/štwórty#Upper_Sorbian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*kréiwas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/kréiwas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">крывы́</form>
+				<translit>kryvý</translit>
+				<concepts>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/крывы#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">крив</form>
+				<translit>kriv</translit>
+				<concepts>
+					<c>bent</c>
+					<c>skew</c>
+					<c>false</c>
+					<c>crooked</c>
+					<c>twisted</c>
+					<c>curved</c>
+					<c>slanting</c>
+					<c>wrong</c>
+					<c>incorrect</c>
+				</concepts>
+				<url source="wiki">/wiki/крив#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">křivý</form>
+				<concepts>
+					<c>false</c>
+					<c>bent</c>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/křivý#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">krievs</form>
+				<concepts>
+					<c>Russian</c>
+				</concepts>
+				<url source="wiki">/wiki/krievs#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Lower Sorbian</lang>
+				<form script="LATIN">kśiwy</form>
+				<concepts>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/kśiwy#Lower_Sorbian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">крив</form>
+				<translit>kriv</translit>
+				<concepts>
+					<c>tilted</c>
+					<c>wry</c>
+					<c>guilty</c>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/крив#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">krzywy</form>
+				<concepts>
+					<c>wry</c>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/krzywy#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">krȋv</form>
+				<concepts>
+					<c>bent</c>
+					<c>false</c>
+					<c>skew</c>
+					<c>guilty</c>
+					<c>crooked</c>
+					<c>culpable</c>
+					<c>twisted</c>
+					<c>curved</c>
+					<c>wrong</c>
+					<c>slanting</c>
+					<c>incorrect</c>
+				</concepts>
+				<url source="wiki">/wiki/kriv#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">кри̑в</form>
+				<concepts>
+					<c>bent</c>
+					<c>false</c>
+					<c>skew</c>
+					<c>guilty</c>
+					<c>crooked</c>
+					<c>culpable</c>
+					<c>twisted</c>
+					<c>curved</c>
+					<c>wrong</c>
+					<c>slanting</c>
+					<c>incorrect</c>
+				</concepts>
+				<url source="wiki">/wiki/крив#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">криви́й</form>
+				<translit>kryvýj</translit>
+				<concepts>
+					<c>curved</c>
+					<c>crooked</c>
+				</concepts>
+				<url source="wiki">/wiki/кривий#Ukrainian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*kálˀtas</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/kálˀtas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">klát</form>
+				<concepts>
+					<c>stab</c>
+				</concepts>
+				<url source="wiki">/wiki/klát#Czech</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*lánkīˀtei</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/lánkīˀtei</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">лъ́ча</form>
+				<translit>lǎ́ča</translit>
+				<concepts>
+					<c>separate</c>
+					<c>exclude</c>
+				</concepts>
+				<url source="wiki">/wiki/лъча#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">loučit</form>
+				<concepts>
+					<c>say goodbye</c>
+				</concepts>
+				<url source="wiki">/wiki/loučit#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">лачи</form>
+				<translit>lači</translit>
+				<concepts>
+					<c>separate</c>
+					<c>secrete</c>
+				</concepts>
+				<url source="wiki">/wiki/лачи#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">лѫчити</form>
+				<translit>lǫčiti</translit>
+				<concepts>
+					<c>separate</c>
+					<c>divide</c>
+				</concepts>
+				<url source="wiki">/wiki/лѫчити#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">łączyć</form>
+				<concepts>
+					<c>merge</c>
+					<c>connected</c>
+					<c>join</c>
+					<c>linked</c>
+					<c>connect</c>
+					<c>link</c>
+				</concepts>
+				<url source="wiki">/wiki/łączyć#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">разлучи́ть</form>
+				<translit>razlučítʹ</translit>
+				<concepts>
+					<c>separate</c>
+					<c>sever</c>
+					<c>part</c>
+				</concepts>
+				<url source="wiki">/wiki/разлучить#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovene</lang>
+				<form script="LATIN">ločīti</form>
+				<concepts>
+					<c>separate</c>
+				</concepts>
+				<url source="wiki">/wiki/ločiti#Slovene</url>
+			</reflex>
+			<reflex>
+				<lang>Slovene</lang>
+				<form script="LATIN">lọ́čiti</form>
+				<concepts>
+					<c>separate</c>
+				</concepts>
+				<url source="wiki">/wiki/ločiti#Slovene</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*léiˀpāˀ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/léiˀpāˀ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Belarusian</lang>
+				<form script="CYRILLIC">лі́па</form>
+				<translit>lípa</translit>
+				<concepts>
+					<c>Tilia</c>
+				</concepts>
+				<url source="wiki">/wiki/ліпа#Belarusian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">lípa</form>
+				<concepts>
+					<c>basswood</c>
+					<c>linden</c>
+					<c>lime</c>
+				</concepts>
+				<url source="wiki">/wiki/lípa#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Estonian</lang>
+				<form script="LATIN">lepp</form>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/lepp#Estonian</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">leppä</form>
+				<concepts>
+					<c>alder</c>
+					<c>blood</c>
+					<c>Alnus incana</c>
+					<c>grey alder</c>
+				</concepts>
+				<url source="wiki">/wiki/leppä#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Ingrian</lang>
+				<form script="LATIN">leppä</form>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/leppä#Ingrian</url>
+			</reflex>
+			<reflex>
+				<lang>Kashubian</lang>
+				<form script="LATIN">lëpa</form>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/lëpa#Kashubian</url>
+			</reflex>
+			<reflex>
+				<lang>Latgalian</lang>
+				<form script="LATIN">līpa</form>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/līpa#Latgalian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">líepa</form>
+				<concepts>
+					<c>July</c>
+				</concepts>
+				<url source="wiki">/wiki/liepa#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Livvi</lang>
+				<form script="LATIN">leppy</form>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/leppy#Livvi</url>
+			</reflex>
+			<reflex>
+				<lang>Ludian</lang>
+				<form script="LATIN">lepp</form>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/lepp#Ludian</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Sami</lang>
+				<form script="LATIN">leaibi</form>
+				<concepts>
+					<c>grey alder</c>
+				</concepts>
+				<url source="wiki">/wiki/leaibi#Northern_Sami</url>
+			</reflex>
+			<reflex>
+				<lang>Polabian</lang>
+				<form script="LATIN">laipo</form>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/laipo#Polabian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">lipa</form>
+				<concepts>
+					<c>lie</c>
+					<c>lime-tree</c>
+					<c>linden</c>
+					<c>basswood</c>
+				</concepts>
+				<url source="wiki">/wiki/lipa#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">ли́па</form>
+				<translit>lípa</translit>
+				<concepts>
+					<c>forgery</c>
+					<c>fake</c>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/липа#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovak</lang>
+				<form script="LATIN">lipa</form>
+				<concepts>
+					<c>Tilia</c>
+				</concepts>
+				<url source="wiki">/wiki/lipa#Slovak</url>
+			</reflex>
+			<reflex>
+				<lang>Veps</lang>
+				<form script="LATIN">lep</form>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/lep#Veps</url>
+			</reflex>
+			<reflex>
+				<lang>Votic</lang>
+				<form script="LATIN">leppe</form>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/leppe#Votic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*lā́ˀtei</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/lā́ˀtei</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">ла́я</form>
+				<translit>lája</translit>
+				<concepts>
+					<c>bark</c>
+				</concepts>
+				<url source="wiki">/wiki/лая#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">lát</form>
+				<concepts>
+					<c>lambaste</c>
+					<c>bark</c>
+					<c>scold</c>
+				</concepts>
+				<url source="wiki">/wiki/lát#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">lóti</form>
+				<concepts>
+					<c>bark</c>
+				</concepts>
+				<url source="wiki">/wiki/loti#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">лае</form>
+				<translit>lae</translit>
+				<concepts>
+					<c>bark</c>
+				</concepts>
+				<url source="wiki">/wiki/лае#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">лаꙗти</form>
+				<translit>lajati</translit>
+				<concepts>
+					<c>bark</c>
+					<c>scold</c>
+				</concepts>
+				<url source="wiki">/wiki/лаꙗти#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">łajać</form>
+				<concepts>
+					<c>scold</c>
+					<c>chide</c>
+				</concepts>
+				<url source="wiki">/wiki/łajać#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">ла́ять</form>
+				<translit>lájatʹ</translit>
+				<concepts>
+					<c>rebuke</c>
+					<c>bark</c>
+					<c>scold</c>
+				</concepts>
+				<url source="wiki">/wiki/лаять#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">lȁjati</form>
+				<concepts>
+					<c>yap</c>
+					<c>bark</c>
+					<c>yelp</c>
+					<c>babble</c>
+				</concepts>
+				<url source="wiki">/wiki/lajati#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">ла̏јати</form>
+				<concepts>
+					<c>bark</c>
+					<c>yelp</c>
+				</concepts>
+				<url source="wiki">/wiki/лајати#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovene</lang>
+				<form script="LATIN">lȃjati</form>
+				<concepts>
+					<c>bark</c>
+				</concepts>
+				<url source="wiki">/wiki/lajati#Slovene</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">ла́яти</form>
+				<translit>lájaty</translit>
+				<concepts>
+					<c>dress down</c>
+					<c>upbraid</c>
+					<c>scold</c>
+					<c>rail</c>
+					<c>berate</c>
+					<c>rip into</c>
+					<c>chide</c>
+				</concepts>
+				<url source="wiki">/wiki/лаяти#Ukrainian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*mánˀkīˀtei</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/mánˀkīˀtei</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">мъ́ча</form>
+				<translit>mǎ́ča</translit>
+				<concepts>
+					<c>tyrannize</c>
+					<c>torment</c>
+					<c>torture</c>
+					<c>struggle</c>
+				</concepts>
+				<url source="wiki">/wiki/мъча#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">mučit</form>
+				<concepts>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/mučit#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">mocīt</form>
+				<concepts>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/mocīt#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">мачи</form>
+				<translit>mači</translit>
+				<concepts>
+					<c>distress</c>
+					<c>trouble</c>
+					<c>plague</c>
+					<c>torment</c>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/мачи#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">мѫчити</form>
+				<translit>mǫčiti</translit>
+				<concepts>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/мѫчити#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">męczyć</form>
+				<concepts>
+					<c>fatigue</c>
+					<c>tire</c>
+					<c>nag</c>
+					<c>wear out</c>
+					<c>niggle</c>
+					<c>torment</c>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/męczyć#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">му́чить</form>
+				<translit>múčitʹ</translit>
+				<concepts>
+					<c>wear out</c>
+					<c>bore</c>
+					<c>tire out</c>
+					<c>pester</c>
+					<c>torment</c>
+					<c>torture</c>
+					<c>anguish</c>
+				</concepts>
+				<url source="wiki">/wiki/мучить#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">mȕčiti</form>
+				<concepts>
+					<c>worry</c>
+					<c>bother</c>
+					<c>trouble</c>
+					<c>struggle</c>
+					<c>pester</c>
+					<c>torment</c>
+					<c>take pains</c>
+					<c>toil</c>
+					<c>vex</c>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/mučiti#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">му̏чити</form>
+				<concepts>
+					<c>worry</c>
+					<c>bother</c>
+					<c>trouble</c>
+					<c>struggle</c>
+					<c>pester</c>
+					<c>torment</c>
+					<c>take pains</c>
+					<c>vex</c>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/мучити#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovak</lang>
+				<form script="LATIN">mučiť</form>
+				<concepts>
+					<c>torture</c>
+				</concepts>
+				<url source="wiki">/wiki/mučiť#Slovak</url>
+			</reflex>
+			<reflex>
+				<lang>Ukrainian</lang>
+				<form script="CYRILLIC">му́чити</form>
+				<translit>múčyty</translit>
+				<concepts>
+					<c>distress</c>
+					<c>harrow</c>
+					<c>trouble</c>
+					<c>vex</c>
+					<c>excruciate</c>
+					<c>bedevil</c>
+					<c>torment</c>
+					<c>torture</c>
+					<c>rack</c>
+				</concepts>
+				<url source="wiki">/wiki/мучити#Ukrainian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*uź</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/uź</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">uz</form>
+				<concepts>
+					<c>onto</c>
+					<c>to</c>
+					<c>on</c>
+				</concepts>
+				<url source="wiki">/wiki/uz#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">už</form>
+				<concepts>
+					<c>behind</c>
+				</concepts>
+				<url source="wiki">/wiki/už#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">už</form>
+				<concepts>
+					<c>for</c>
+				</concepts>
+				<url source="wiki">/wiki/už#Lithuanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*álˀkinas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/álˀkinas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bulgarian</lang>
+				<form script="CYRILLIC">а́лчен</form>
+				<translit>álčen</translit>
+				<concepts>
+					<c>covetous</c>
+					<c>greedy</c>
+				</concepts>
+				<url source="wiki">/wiki/алчен#Bulgarian</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">алчен</form>
+				<translit>alčen</translit>
+				<concepts>
+					<c>avaricious</c>
+					<c>covetous</c>
+					<c>greedy</c>
+				</concepts>
+				<url source="wiki">/wiki/алчен#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Church Slavonic</lang>
+				<form script="CYRILLIC">алъчьнъ</form>
+				<translit>alŭčĭnŭ</translit>
+				<concepts>
+					<c>starving</c>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/алъчьнъ#Old_Church_Slavonic</url>
+			</reflex>
+			<reflex>
+				<lang>Old Polish</lang>
+				<form script="LATIN">łaczny</form>
+				<concepts>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/łaczny#Old_Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">а́лчный</form>
+				<translit>álčnyj</translit>
+				<concepts>
+					<c>greedy</c>
+				</concepts>
+				<url source="wiki">/wiki/алчный#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">lȁčan</form>
+				<concepts>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/lačan#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Slovene</lang>
+				<form script="LATIN">lačen</form>
+				<concepts>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/lačen#Slovene</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Balto-Slavic</plang>
+			<pform>*źirˀgás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Balto-Slavic/źirˀgás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Estonian</lang>
+				<form script="LATIN">härg</form>
+				<concepts>
+					<c>ox</c>
+				</concepts>
+				<url source="wiki">/wiki/härg#Estonian</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">härkä</form>
+				<concepts>
+					<c>stag</c>
+					<c>ox</c>
+					<c>steer</c>
+					<c>bull</c>
+					<c>Taurus</c>
+					<c>beef</c>
+				</concepts>
+				<url source="wiki">/wiki/härkä#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Ingrian</lang>
+				<form script="LATIN">härkä</form>
+				<concepts>
+					<c>ox</c>
+					<c>bull</c>
+					<c>steer</c>
+				</concepts>
+				<url source="wiki">/wiki/härkä#Ingrian</url>
+			</reflex>
+			<reflex>
+				<lang>Kildin Sami</lang>
+				<form script="CYRILLIC">е̄ррьк</form>
+				<translit>jierr’k</translit>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/е̄ррьк#Kildin_Sami</url>
+			</reflex>
+			<reflex>
+				<lang>Latgalian</lang>
+				<form script="LATIN">zyrgs</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/zyrgs#Latgalian</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">zîrgs</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/zirgs#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Lithuanian</lang>
+				<form script="LATIN">žìrgas</form>
+				<concepts>
+					<c>knight</c>
+					<c>steed</c>
+				</concepts>
+				<url source="wiki">/wiki/žirgas#Lithuanian</url>
+			</reflex>
+			<reflex>
+				<lang>Ludian</lang>
+				<form script="LATIN">härg</form>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/härg#Ludian</url>
+			</reflex>
+			<reflex>
+				<lang>Sudovian</lang>
+				<form script="LATIN">zirgo</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/zirgo#Sudovian</url>
+			</reflex>
+			<reflex>
+				<lang>Veps</lang>
+				<form script="LATIN">härg</form>
+				<concepts>
+					<c>ox</c>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/härg#Veps</url>
+			</reflex>
+			<reflex>
+				<lang>Votic</lang>
+				<form script="LATIN">ärtše</form>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/ärtše#Votic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,1051 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*-sene</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/-sene</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">matana</form>
+				<concepts>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/matana#Cheyenne</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*keʔ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/keʔ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">k'e-</form>
+				<concepts>
+					<c>you</c>
+					<c>your</c>
+				</concepts>
+				<url source="wiki">/wiki/k'e-#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*ki·la</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/ki·la</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">kia</form>
+				<concepts>
+					<c>you</c>
+					<c>thou</c>
+				</concepts>
+				<url source="wiki">/wiki/kia#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">kii</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/kii#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">giin</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/giin#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">kîya</form>
+				<concepts>
+					<c>you</c>
+					<c>thou</c>
+				</concepts>
+				<url source="wiki">/wiki/kîya#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">ki</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/ki#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kel'</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/kel'#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*ki·la·hka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/ki·la·hka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kelok</form>
+				<concepts>
+					<c>goose</c>
+				</concepts>
+				<url source="wiki">/wiki/kelok#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*ki·lew-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/ki·lew-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">kiilóowa</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/kiiloowa#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">giinawaa</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/giinawaa#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">kîyawâw</form>
+				<concepts>
+					<c>you</c>
+					<c>ye</c>
+				</concepts>
+				<url source="wiki">/wiki/kîyawâw#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kelew</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/kelew#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*le·kʔawe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/le·kʔawe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Fox</lang>
+				<form script="LATIN">nêkawi</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/nêkawi#Fox</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">nɛ·ka·w</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/nɛ·ka·w#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">neekawi</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/neekawi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">yák</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/yák#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐃᔭᑲᐤ</form>
+				<translit>iyakaw</translit>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᔭᑲᐤ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">yêkaw</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/yêkaw#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">lèkaw</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/lèkaw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*mehše</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/mehše</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">misan</form>
+				<concepts>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/misan#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mihsi</form>
+				<concepts>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/mihsi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Wiyot</lang>
+				<form script="LATIN">bás</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/bás#Wiyot</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">mech</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/mech#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*mene</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/mene</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">mene</form>
+				<concepts>
+					<c>berry</c>
+				</concepts>
+				<url source="wiki">/wiki/mene#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">mins</form>
+				<concepts>
+					<c>berry</c>
+				</concepts>
+				<url source="wiki">/wiki/mins#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">miin</form>
+				<concepts>
+					<c>blueberry</c>
+				</concepts>
+				<url source="wiki">/wiki/miin#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">mînis</form>
+				<concepts>
+					<c>berry</c>
+				</concepts>
+				<url source="wiki">/wiki/mînis#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">menomen</form>
+				<concepts>
+					<c>juneberry</c>
+				</concepts>
+				<url source="wiki">/wiki/menomen#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*meyʔeɬe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/meyʔeɬe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">me'yehl</form>
+				<concepts>
+					<c>stinging nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/me'yehl#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*na·pe·gʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/na·pe·gʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">nâpêw</form>
+				<concepts>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/nâpêw#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">pegeehl</form>
+				<concepts>
+					<c>male</c>
+				</concepts>
+				<url source="wiki">/wiki/pegeehl#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">pegerk</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/pegerk#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*nekwet-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/nekwet-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">neqt</form>
+				<concepts>
+					<c>once</c>
+				</concepts>
+				<url source="wiki">/wiki/neqt#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">nekot</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/nekot#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Powhatan</lang>
+				<form script="LATIN">nekut</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/nekut#Powhatan</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">kwëti</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/kwëti#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kohta'r</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/kohta'r#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kohtoh</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/kohtoh#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*nepiʔi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/nepiʔi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">pa'ah</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/pa'ah#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">pa'ah</form>
+				<concepts>
+					<c>wet</c>
+				</concepts>
+				<url source="wiki">/wiki/pa'ah#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*neʔ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/neʔ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">n-</form>
+				<concepts>
+					<c>my</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/n-#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">'ne-</form>
+				<concepts>
+					<c>our</c>
+					<c>my</c>
+					<c>we</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/'ne-#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*pele·gʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/pele·gʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">bine</form>
+				<concepts>
+					<c>partridge</c>
+				</concepts>
+				<url source="wiki">/wiki/bine#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">bine</form>
+				<concepts>
+					<c>partridge</c>
+					<c>ruffed grouse</c>
+					<c>spruce grouse</c>
+				</concepts>
+				<url source="wiki">/wiki/bine#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">pële</form>
+				<concepts>
+					<c>fowl</c>
+					<c>turkey</c>
+				</concepts>
+				<url source="wiki">/wiki/pële#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*penekwe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/penekwe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">pihko</form>
+				<concepts>
+					<c>dust</c>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/pihko#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Quiripi</lang>
+				<form script="LATIN">puckwe</form>
+				<concepts>
+					<c>dirt</c>
+					<c>clay</c>
+				</concepts>
+				<url source="wiki">/wiki/puckwe#Quiripi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">punkw</form>
+				<concepts>
+					<c>dust</c>
+					<c>powder</c>
+				</concepts>
+				<url source="wiki">/wiki/punkw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*pew-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/pew-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">pew</form>
+				<concepts>
+					<c>cook</c>
+				</concepts>
+				<url source="wiki">/wiki/pew#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*peɬeɬkewe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/peɬeɬkewe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">ponapsq</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/ponapsq#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">-aabikw-</form>
+				<concepts>
+					<c>metal</c>
+					<c>rock</c>
+					<c>mineral</c>
+				</concepts>
+				<url source="wiki">/wiki/-aabikw-#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">biiwaabik</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/biiwaabik#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Wiyot</lang>
+				<form script="LATIN">płátk</form>
+				<concepts>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/płátk#Wiyot</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">pehlkohl</form>
+				<concepts>
+					<c>gravel</c>
+				</concepts>
+				<url source="wiki">/wiki/pehlkohl#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*peʔmeye</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/peʔmeye</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">ame</form>
+				<concepts>
+					<c>pemmican</c>
+				</concepts>
+				<url source="wiki">/wiki/ame#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">pemmican</form>
+				<concepts>
+					<c>speech</c>
+					<c>pemmican</c>
+				</concepts>
+				<url source="wiki">/wiki/pemmican#English</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">pemēh</form>
+				<concepts>
+					<c>grease</c>
+					<c>oil</c>
+				</concepts>
+				<url source="wiki">/wiki/pemēh#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">pimi</form>
+				<concepts>
+					<c>grease</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/pimi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">bimide</form>
+				<concepts>
+					<c>butter</c>
+					<c>oil</c>
+					<c>lard</c>
+					<c>fat</c>
+					<c>grease</c>
+					<c>naphtha</c>
+				</concepts>
+				<url source="wiki">/wiki/bimide#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">pëmi</form>
+				<concepts>
+					<c>grease</c>
+					<c>lard</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/pëmi#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">pemey</form>
+				<concepts>
+					<c>grease</c>
+				</concepts>
+				<url source="wiki">/wiki/pemey#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*pipo·ne</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/pipo·ne</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">pebon</form>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/pebon#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">pipun</form>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/pipun#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">biboon</form>
+				<concepts>
+					<c>year</c>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/biboon#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kelomehl</form>
+				<concepts>
+					<c>fall</c>
+					<c>autumn</c>
+				</concepts>
+				<url source="wiki">/wiki/kelomehl#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kipun</form>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/kipun#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kipun</form>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/kipun#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kishen</form>
+				<concepts>
+					<c>summer</c>
+				</concepts>
+				<url source="wiki">/wiki/kishen#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kishen</form>
+				<concepts>
+					<c>summer</c>
+				</concepts>
+				<url source="wiki">/wiki/kishen#Yurok</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">kyah</form>
+				<concepts>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/kyah#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*t-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/t-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">'ook</form>
+				<concepts>
+					<c>be</c>
+					<c>exist</c>
+					<c>be born</c>
+				</concepts>
+				<url source="wiki">/wiki/'ook#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*wa·kele</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/wa·kele</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">wohkelo'</form>
+				<concepts>
+					<c>pepperwood</c>
+				</concepts>
+				<url source="wiki">/wiki/wohkelo'#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*wa·waʔlewe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/wa·waʔlewe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">wôwan</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/wôwan#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">wáhwal</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/wahwal#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">waawan</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/waawan#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">wâwi</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/wâwi#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">òòl</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/òòl#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Wiyot</lang>
+				<form script="LATIN">wóhl</form>
+				<concepts>
+					<c>roe</c>
+				</concepts>
+				<url source="wiki">/wiki/wóhl#Wiyot</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*waɬanye</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/waɬanye</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">werhlery</form>
+				<concepts>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/werhlery#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*weʔ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/weʔ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">'we-</form>
+				<concepts>
+					<c>its</c>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>they</c>
+					<c>it</c>
+					<c>his</c>
+				</concepts>
+				<url source="wiki">/wiki/'we-#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*wʔeɬkan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/wʔeɬkan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cree</lang>
+				<form script="LATIN">miskan</form>
+				<translit>miskan</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/miskan#Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Cree</lang>
+				<form script="CANADIAN">ᒥᐢᑲᐣ</form>
+				<translit>miskan</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒥᐢᑲᐣ#Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">xkàn</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/xkàn#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">'werhlkerr'</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/'werhlkerr'#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algic</plang>
+			<pform>*wʔeɬkwene</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algic/wʔeɬkwene</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">he'e</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/he'e#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Yurok</lang>
+				<form script="LATIN">'wrhlkun</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/'wrhlkun#Yurok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,22 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>South Cushitic</plang>
+			<pform>*daqway</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-South Cushitic/daqway</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Iraqw</lang>
+				<form script="LATIN">daqwaay</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/daqwaay#Iraqw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

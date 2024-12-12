@@ -1,0 +1,214 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tangut-Qiang</plang>
+			<pform>*C-bi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Daofu</lang>
+				<form script="LATIN">lbi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Ergong (Danba)</lang>
+				<form script="LATIN">lbi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Ergong (Danba)</lang>
+				<form script="LATIN">lbi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Ergong (Daofu)</lang>
+				<form script="LATIN">ɬbei</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Pumi (Qinghua)</lang>
+				<form script="LATIN">sbiɛ̃</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Longxi)</lang>
+				<form script="LATIN">bí</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">bɪ</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mianchi)</lang>
+				<form script="LATIN">biě</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Yadu)</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Tangut [Xixia]</lang>
+				<form script="LATIN">bǐei</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+			<reflex>
+				<lang>Tangut [Xixia]</lang>
+				<form script="LATIN">mbɪ̯ẹi¹</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1102</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangut-Qiang</plang>
+			<pform>*N-tsak</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5658</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">qhsu</form>
+				<concepts>
+					<c>jump</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5658</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mianchi)</lang>
+				<form script="LATIN">soú</form>
+				<concepts>
+					<c>jump</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5658</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tangut-Qiang</plang>
+			<pform>*s-pa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1295</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Daofu</lang>
+				<form script="LATIN">spə</form>
+				<concepts>
+					<c>pus</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1295</url>
+			</reflex>
+			<reflex>
+				<lang>Ergong (Danba)</lang>
+				<form script="LATIN">spɛ</form>
+				<concepts>
+					<c>pus</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1295</url>
+			</reflex>
+			<reflex>
+				<lang>Ergong (Danba)</lang>
+				<form script="LATIN">spɛ</form>
+				<concepts>
+					<c>pus</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1295</url>
+			</reflex>
+			<reflex>
+				<lang>Ergong (Daofu)</lang>
+				<form script="LATIN">spa</form>
+				<concepts>
+					<c>pus</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1295</url>
+			</reflex>
+			<reflex>
+				<lang>Tangut [Xixia]</lang>
+				<form script="LATIN">pə̣¹</form>
+				<concepts>
+					<c>pus</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1295</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

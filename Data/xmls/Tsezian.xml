@@ -1,0 +1,809 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*boqʰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/boqʰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">бохъ</form>
+				<translit>boqx</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/бохъ#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">бухъ</form>
+				<translit>buq</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/бухъ#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">бохъ</form>
+				<translit>boq</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/бохъ#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">бихъ</form>
+				<translit>biq</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/бихъ#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">бухъ</form>
+				<translit>buq</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/бухъ#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">быхъ</form>
+				<translit>bɨq</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/быхъ#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">бухъ</form>
+				<translit>buq</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/бухъ#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*cɔɲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/cɔɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">ца</form>
+				<translit>ca</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/ца#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">цаᵸ</form>
+				<translit>cã</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/цаᵸ#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">чийо</form>
+				<translit>čiyo</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/чийо#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">цаъᵸ</form>
+				<translit>cå̃</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/цаъᵸ#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">цийоᵸ</form>
+				<translit>ciyõ</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/цийоᵸ#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">циᵸйо</form>
+				<translit>cĩyo</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/циᵸйо#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">цийо</form>
+				<translit>ciyo</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/цийо#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*cʷʰǝ̃</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/cʷʰǝ̃</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">ца̄ᵸ</form>
+				<translit>cãã</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/цаᵸ#Bezhta</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*c’ʰǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/c’ʰǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">цӏо</form>
+				<translit>cʼo</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/цӏо#Bezhta</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*də</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/də</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">ди</form>
+				<translit>di</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ди#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*mɔq’ʰu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/mɔq’ʰu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">макъо</form>
+				<translit>maqxʼo</translit>
+				<concepts>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/макъо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">мокъу</form>
+				<translit>moq’u</translit>
+				<concepts>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/мокъу#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">маъкъу</form>
+				<translit>måq’u</translit>
+				<concepts>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/маъкъу#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">мокъу</form>
+				<translit>moq’u</translit>
+				<concepts>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/мокъу#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">мукъу</form>
+				<translit>muq’u</translit>
+				<concepts>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/мукъу#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">мо</form>
+				<translit>mo</translit>
+				<concepts>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/мо#Tsez</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">мов</form>
+				<translit>mov</translit>
+				<concepts>
+					<c>tear</c>
+				</concepts>
+				<url source="wiki">/wiki/мов#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*mɨcʰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/mɨcʰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">миц</form>
+				<translit>mic</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+					<c>speech</c>
+				</concepts>
+				<url source="wiki">/wiki/миц#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">мец</form>
+				<translit>mec</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+					<c>speech</c>
+				</concepts>
+				<url source="wiki">/wiki/мец#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">мыц</form>
+				<translit>mɨc</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+					<c>speech</c>
+				</concepts>
+				<url source="wiki">/wiki/мыц#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">мец</form>
+				<translit>mec</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+					<c>speech</c>
+				</concepts>
+				<url source="wiki">/wiki/мец#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">мыц</form>
+				<translit>mɨc</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+					<c>speech</c>
+				</concepts>
+				<url source="wiki">/wiki/мыц#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">мец</form>
+				<translit>mec</translit>
+				<concepts>
+					<c>language</c>
+					<c>speech</c>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/мец#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*nɔcʰǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/nɔcʰǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">нацо</form>
+				<translit>naco</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/нацо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">ноце</form>
+				<translit>noce</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ноце#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">наъцә</form>
+				<translit>nåcə</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/наъцә#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">ноцо</form>
+				<translit>noco</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ноцо#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">нуца</form>
+				<translit>nuca</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/нуца#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">ноца</form>
+				<translit>noca</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ноца#Tsez</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">ноци</form>
+				<translit>noci</translit>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ноци#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*t’ʰɨrǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/t’ʰɨrǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">тӏийо</form>
+				<translit>tʼijo</translit>
+				<concepts>
+					<c>bridge</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏийо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">тӏиро</form>
+				<translit>tʼiro</translit>
+				<concepts>
+					<c>bridge</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏиро#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">тӏырә</form>
+				<translit>t’ɨrə</translit>
+				<concepts>
+					<c>bridge</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏырә#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">тӏеро</form>
+				<translit>t’ero</translit>
+				<concepts>
+					<c>bridge</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏеро#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">тӏиро</form>
+				<translit>t’iro</translit>
+				<concepts>
+					<c>bridge</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏиро#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">тӏыро</form>
+				<translit>t’ɨro</translit>
+				<concepts>
+					<c>bridge</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏыро#Khvarshi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*yɔ̃cʰu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/yɔ̃cʰu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">йаьчоь</form>
+				<translit>jäčö</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/йаьчоь#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">йаьᵸчоь</form>
+				<translit>jä̃čö</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/йаьᵸчоь#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">наьчоь</form>
+				<translit>näčö</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/наьчоь#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">йоцу</form>
+				<translit>yocu</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/йоцу#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">йаъцу</form>
+				<translit>yåcu</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/йаъцу#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">йоᵸцу</form>
+				<translit>yõcu</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/йоᵸцу#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">йуцу</form>
+				<translit>yucu</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/йуцу#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">ноцу</form>
+				<translit>nocu</translit>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="wiki">/wiki/ноцу#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*yɔ̃ˤƛu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/yɔ̃ˤƛu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">йалӏо</form>
+				<translit>jaᵏllo</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йалӏо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">йаᵸлӏо</form>
+				<translit>jãᵏllo</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йаᵸлӏо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">йолӏу</form>
+				<translit>yoƛu</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йолӏу#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">йаълӏу</form>
+				<translit>yåƛu</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йаълӏу#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">йоᵸлӏу</form>
+				<translit>yõƛu</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йоᵸлӏу#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">йулӏу</form>
+				<translit>yuƛu</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/йулӏу#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">ноӏлӏу</form>
+				<translit>noʿƛu</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/ноӏлӏу#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*ʁːɔd</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/ʁːɔd</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">гьад</form>
+				<translit>had</translit>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/гьад#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">гъод</form>
+				<translit>ġod</translit>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/гъод#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">гьаъд</form>
+				<translit>håd</translit>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/гьаъд#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">гъода</form>
+				<translit>ġoda</translit>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/гъода#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">гъодо</form>
+				<translit>ġodo</translit>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/гъодо#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">гъод</form>
+				<translit>ġod</translit>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/гъод#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tsezian</plang>
+			<pform>*ʔẽsǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tsezian/ʔẽsǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">оз</form>
+				<translit>oz</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/оз#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">оᵸз</form>
+				<translit>õz</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/оᵸз#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">ише</form>
+				<translit>iše</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/ише#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">әᵸз</form>
+				<translit>ə̃z</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/әᵸз#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">иᵸса</form>
+				<translit>ĩsa</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/иᵸса#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">эᵸсо</form>
+				<translit>ẽso</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/эᵸсо#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">иси</form>
+				<translit>isi</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/иси#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

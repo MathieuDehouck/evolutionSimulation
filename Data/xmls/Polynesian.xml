@@ -1,0 +1,2413 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*alu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/alu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">aru</form>
+				<concepts>
+					<c>pursue</c>
+					<c>chase</c>
+					<c>follow</c>
+				</concepts>
+				<url source="wiki">/wiki/aru#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">aru</form>
+				<concepts>
+					<c>pursuit</c>
+					<c>chase</c>
+				</concepts>
+				<url source="wiki">/wiki/aru#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">alu</form>
+				<concepts>
+					<c>go</c>
+				</concepts>
+				<url source="wiki">/wiki/alu#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">alu</form>
+				<concepts>
+					<c>go</c>
+				</concepts>
+				<url source="wiki">/wiki/alu#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*faka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/faka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">whaka-</form>
+				<concepts>
+					<c>towards</c>
+				</concepts>
+				<url source="wiki">/wiki/whaka-#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">fa'a</form>
+				<concepts>
+					<c>in fashion</c>
+				</concepts>
+				<url source="wiki">/wiki/fa'a#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">faka</form>
+				<concepts>
+					<c>in fashion</c>
+				</concepts>
+				<url source="wiki">/wiki/faka#Tongan</url>
+			</reflex>
+			<reflex>
+				<lang>Wallisian</lang>
+				<form script="LATIN">faka</form>
+				<concepts>
+					<c>in fashion</c>
+				</concepts>
+				<url source="wiki">/wiki/faka#Wallisian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*feke</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/feke</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">heʻe</form>
+				<concepts>
+					<c>octopus</c>
+				</concepts>
+				<url source="wiki">/wiki/heʻe#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">wheke</form>
+				<concepts>
+					<c>octopus</c>
+					<c>squid</c>
+				</concepts>
+				<url source="wiki">/wiki/wheke#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">heke</form>
+				<concepts>
+					<c>octopus</c>
+				</concepts>
+				<url source="wiki">/wiki/heke#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">fe'e</form>
+				<concepts>
+					<c>octopus</c>
+				</concepts>
+				<url source="wiki">/wiki/fe'e#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">feke</form>
+				<concepts>
+					<c>octopus</c>
+				</concepts>
+				<url source="wiki">/wiki/feke#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*fesi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/fesi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">wehi</form>
+				<concepts>
+					<c>awful</c>
+					<c>terrific</c>
+				</concepts>
+				<url source="wiki">/wiki/wehi#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">wehi</form>
+				<concepts>
+					<c>fear</c>
+					<c>dread</c>
+				</concepts>
+				<url source="wiki">/wiki/wehi#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">wehi</form>
+				<concepts>
+					<c>terrible</c>
+					<c>fearful</c>
+					<c>afraid</c>
+				</concepts>
+				<url source="wiki">/wiki/wehi#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Pukapukan</lang>
+				<form script="LATIN">veia</form>
+				<concepts>
+					<c>hate</c>
+					<c>dislike</c>
+				</concepts>
+				<url source="wiki">/wiki/veia#Pukapukan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*fitu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/fitu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">fitu</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/fitu#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">fitu</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/fitu#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">fitu</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/fitu#Tuvaluan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*haŋafulu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/haŋafulu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">ngahuru</form>
+				<concepts>
+					<c>autumn</c>
+				</concepts>
+				<url source="wiki">/wiki/ngahuru#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">ngahuru</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/ngahuru#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">hogofulu</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/hogofulu#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">sefulu</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/sefulu#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>South Marquesan</lang>
+				<form script="LATIN">'onohu'u</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/'onohu'u#South_Marquesan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">hongofulu</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/hongofulu#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*i</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/i</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">i</form>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+					<c>to</c>
+				</concepts>
+				<url source="wiki">/wiki/i#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">i</form>
+				<concepts>
+					<c>from</c>
+				</concepts>
+				<url source="wiki">/wiki/i#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">i</form>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+				</concepts>
+				<url source="wiki">/wiki/i#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">i</form>
+				<concepts>
+					<c>to</c>
+				</concepts>
+				<url source="wiki">/wiki/i#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">i</form>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+				</concepts>
+				<url source="wiki">/wiki/i#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">i</form>
+				<concepts>
+					<c>at</c>
+					<c>in</c>
+					<c>during</c>
+					<c>on</c>
+					<c>by</c>
+					<c>using</c>
+					<c>because of</c>
+					<c>with</c>
+				</concepts>
+				<url source="wiki">/wiki/i#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">i</form>
+				<concepts>
+					<c>in</c>
+				</concepts>
+				<url source="wiki">/wiki/i#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*kawa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/kawa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻawa</form>
+				<concepts>
+					<c>sourness</c>
+					<c>kava</c>
+					<c>bitterness</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻawa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻawaʻawa</form>
+				<concepts>
+					<c>acidity</c>
+					<c>tragedy</c>
+					<c>sourness</c>
+					<c>bitterness</c>
+					<c>anguish</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻawaʻawa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">kava</form>
+				<concepts>
+					<c>kava</c>
+				</concepts>
+				<url source="wiki">/wiki/kava#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">kawa</form>
+				<concepts>
+					<c>marae</c>
+					<c>protocol</c>
+					<c>acid</c>
+					<c>bitterness</c>
+				</concepts>
+				<url source="wiki">/wiki/kawa#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">kawa</form>
+				<concepts>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/kawa#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">kavakava</form>
+				<concepts>
+					<c>emaciated</c>
+				</concepts>
+				<url source="wiki">/wiki/kavakava#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">kavakava</form>
+				<concepts>
+					<c>rib</c>
+				</concepts>
+				<url source="wiki">/wiki/kavakava#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">'ava</form>
+				<concepts>
+					<c>kava</c>
+				</concepts>
+				<url source="wiki">/wiki/'ava#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">kava</form>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/kava#Tongan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">kava</form>
+				<concepts>
+					<c>kava</c>
+				</concepts>
+				<url source="wiki">/wiki/kava#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*kula</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/kula</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻulaʻula</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻulaʻula#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">whero</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/whero#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">whero</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/whero#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">whero</form>
+				<concepts>
+					<c>redden</c>
+				</concepts>
+				<url source="wiki">/wiki/whero#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">kukula</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/kukula#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">kukula</form>
+				<concepts>
+					<c>redness</c>
+				</concepts>
+				<url source="wiki">/wiki/kukula#Tokelauan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*kuli</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/kuli</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aiwoo</lang>
+				<form script="LATIN">kuli</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kuli#Aiwoo</url>
+			</reflex>
+			<reflex>
+				<lang>Drehu</lang>
+				<form script="LATIN">kuli</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kuli#Drehu</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">lio</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/lio#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻīlio</form>
+				<concepts>
+					<c>quadruped</c>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻīlio#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">kurī</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kurī#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">ulī</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ulī#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">kulī</form>
+				<concepts>
+					<c>dog</c>
+					<c>savage</c>
+				</concepts>
+				<url source="wiki">/wiki/kulī#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">kulī</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kulī#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*lasi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/lasi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">rahi</form>
+				<concepts>
+					<c>plentiful</c>
+					<c>numerous</c>
+					<c>big</c>
+					<c>many</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/rahi#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">rahi</form>
+				<concepts>
+					<c>size</c>
+					<c>importance</c>
+					<c>greatness</c>
+				</concepts>
+				<url source="wiki">/wiki/rahi#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">rahi</form>
+				<concepts>
+					<c>big</c>
+					<c>many</c>
+				</concepts>
+				<url source="wiki">/wiki/rahi#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">lahi</form>
+				<concepts>
+					<c>loud</c>
+					<c>big</c>
+					<c>many</c>
+				</concepts>
+				<url source="wiki">/wiki/lahi#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">lahi</form>
+				<concepts>
+					<c>size</c>
+					<c>largeness</c>
+				</concepts>
+				<url source="wiki">/wiki/lahi#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">lahi</form>
+				<concepts>
+					<c>great</c>
+					<c>big</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/lahi#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*lele</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/lele</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">lele</form>
+				<concepts>
+					<c>leap</c>
+					<c>burst forth</c>
+					<c>attack</c>
+					<c>fly</c>
+					<c>jump</c>
+					<c>bounce</c>
+					<c>dismount</c>
+					<c>get off</c>
+					<c>hop</c>
+					<c>swing</c>
+					<c>move</c>
+					<c>disembark</c>
+					<c>skip</c>
+					<c>rush out</c>
+				</concepts>
+				<url source="wiki">/wiki/lele#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">lele</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/lele#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">rere</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/rere#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">lele</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/lele#Tokelauan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*loto</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/loto</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">loko</form>
+				<concepts>
+					<c>inland</c>
+					<c>interior</c>
+				</concepts>
+				<url source="wiki">/wiki/loko#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">roto</form>
+				<concepts>
+					<c>in</c>
+					<c>within</c>
+				</concepts>
+				<url source="wiki">/wiki/roto#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">roto</form>
+				<concepts>
+					<c>lake</c>
+					<c>interior</c>
+				</concepts>
+				<url source="wiki">/wiki/roto#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">loto</form>
+				<concepts>
+					<c>inside</c>
+					<c>interior</c>
+				</concepts>
+				<url source="wiki">/wiki/loto#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">loto</form>
+				<concepts>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/loto#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">loto</form>
+				<concepts>
+					<c>inland</c>
+					<c>lake</c>
+					<c>interior</c>
+				</concepts>
+				<url source="wiki">/wiki/loto#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*lupe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/lupe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">rupe</form>
+				<concepts>
+					<c>New Zealand pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/rupe#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">lupe</form>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/lupe#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">lupe</form>
+				<concepts>
+					<c>dove</c>
+				</concepts>
+				<url source="wiki">/wiki/lupe#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*ma(a)qoli</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/ma(a)qoli</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Maori</form>
+				<concepts>
+					<c>Maori</c>
+					<c>Maori</c>
+				</concepts>
+				<url source="wiki">/wiki/Maori#English</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">maoli</form>
+				<concepts>
+					<c>genuine</c>
+					<c>native</c>
+					<c>indigenous</c>
+					<c>real</c>
+				</concepts>
+				<url source="wiki">/wiki/maoli#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">māori</form>
+				<concepts>
+					<c>fresh</c>
+					<c>normal</c>
+					<c>indigenous</c>
+					<c>usual</c>
+					<c>common</c>
+					<c>intelligible</c>
+					<c>ordinary</c>
+					<c>freely</c>
+					<c>natural</c>
+					<c>native</c>
+					<c>clear</c>
+					<c>unannounced</c>
+				</concepts>
+				<url source="wiki">/wiki/māori#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">māori</form>
+				<concepts>
+					<c>native</c>
+					<c>indigenous</c>
+				</concepts>
+				<url source="wiki">/wiki/māori#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">mā‘ohi</form>
+				<concepts>
+					<c>indigenous</c>
+					<c>genuine</c>
+					<c>Polynesian</c>
+					<c>real</c>
+					<c>native</c>
+				</concepts>
+				<url source="wiki">/wiki/mā‘ohi#Tahitian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*mana</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/mana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">mana</form>
+				<concepts>
+					<c>mana</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/mana#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">mana</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/mana#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">mana</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/mana#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">mana</form>
+				<concepts>
+					<c>miracle</c>
+				</concepts>
+				<url source="wiki">/wiki/mana#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*mano</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/mano</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">mano</form>
+				<concepts>
+					<c>host</c>
+					<c>creed</c>
+				</concepts>
+				<url source="wiki">/wiki/mano#Maori</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*maqala</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/maqala</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">māla</form>
+				<concepts>
+					<c>plantation</c>
+					<c>garden</c>
+				</concepts>
+				<url source="wiki">/wiki/māla#Hawaiian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*masina</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/masina</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">mahina</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/mahina#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Kapingamarangi</lang>
+				<form script="LATIN">mahina</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/mahina#Kapingamarangi</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">mahina</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/mahina#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">mahina</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/mahina#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">masina</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/masina#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">māhina</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/māhina#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">mahina</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/mahina#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*mataŋi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/mataŋi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">makani</form>
+				<concepts>
+					<c>blow</c>
+					<c>windy</c>
+				</concepts>
+				<url source="wiki">/wiki/makani#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">makani</form>
+				<concepts>
+					<c>wind</c>
+					<c>ghost</c>
+				</concepts>
+				<url source="wiki">/wiki/makani#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">matangi</form>
+				<concepts>
+					<c>wind</c>
+					<c>breeze</c>
+				</concepts>
+				<url source="wiki">/wiki/matangi#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">matagi</form>
+				<concepts>
+					<c>fart</c>
+				</concepts>
+				<url source="wiki">/wiki/matagi#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">matagi</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/matagi#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Pukapukan</lang>
+				<form script="LATIN">matangi</form>
+				<concepts>
+					<c>wind</c>
+					<c>breeze</c>
+				</concepts>
+				<url source="wiki">/wiki/matangi#Pukapukan</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">matagi</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/matagi#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">matagi</form>
+				<concepts>
+					<c>windy</c>
+					<c>blow</c>
+				</concepts>
+				<url source="wiki">/wiki/matagi#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">mataʻi</form>
+				<concepts>
+					<c>wind</c>
+					<c>air</c>
+				</concepts>
+				<url source="wiki">/wiki/mataʻi#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">matangi</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/matangi#Tongan</url>
+			</reflex>
+			<reflex>
+				<lang>Tuamotuan</lang>
+				<form script="LATIN">matangi</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/matangi#Tuamotuan</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">matagi</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/matagi#Tuvaluan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*mate</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/mate</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">make</form>
+				<concepts>
+					<c>dead</c>
+					<c>die</c>
+					<c>faint</c>
+				</concepts>
+				<url source="wiki">/wiki/make#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">make</form>
+				<concepts>
+					<c>death</c>
+					<c>peril</c>
+				</concepts>
+				<url source="wiki">/wiki/make#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>desire</c>
+					<c>want</c>
+					<c>defect</c>
+					<c>sickness</c>
+					<c>misfortune</c>
+					<c>disease</c>
+					<c>illness</c>
+					<c>death</c>
+					<c>calamity</c>
+					<c>need</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>unwell</c>
+					<c>diseased</c>
+					<c>ill</c>
+					<c>beaten</c>
+					<c>dead</c>
+					<c>be sick</c>
+					<c>killed</c>
+					<c>deceased</c>
+					<c>sick</c>
+					<c>defeated</c>
+					<c>overcome</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>dead</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>die</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>dead</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>die</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>dead</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Tongan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">mate</form>
+				<concepts>
+					<c>dead</c>
+					<c>death</c>
+				</concepts>
+				<url source="wiki">/wiki/mate#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*moa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/moa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">moa</form>
+				<concepts>
+					<c>extinct</c>
+					<c>moa</c>
+				</concepts>
+				<url source="wiki">/wiki/moa#English</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">moa</form>
+				<concepts>
+					<c>fowl</c>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/moa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">moa</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/moa#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">moa</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/moa#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">moa</form>
+				<concepts>
+					<c>fowl</c>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/moa#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">moa</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/moa#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">moa</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/moa#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*moana</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/moana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">moana</form>
+				<concepts>
+					<c>sea</c>
+					<c>ocean</c>
+				</concepts>
+				<url source="wiki">/wiki/moana#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Kapingamarangi</lang>
+				<form script="LATIN">moana</form>
+				<concepts>
+					<c>sea</c>
+					<c>ocean</c>
+				</concepts>
+				<url source="wiki">/wiki/moana#Kapingamarangi</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">moana</form>
+				<concepts>
+					<c>sea</c>
+					<c>ocean</c>
+				</concepts>
+				<url source="wiki">/wiki/moana#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">moana</form>
+				<concepts>
+					<c>sea</c>
+					<c>ocean</c>
+				</concepts>
+				<url source="wiki">/wiki/moana#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">moana</form>
+				<concepts>
+					<c>ocean</c>
+					<c>open sea</c>
+				</concepts>
+				<url source="wiki">/wiki/moana#Tokelauan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*motu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/motu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">moku</form>
+				<concepts>
+					<c>section</c>
+					<c>island</c>
+					<c>forest</c>
+					<c>district</c>
+				</concepts>
+				<url source="wiki">/wiki/moku#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">motu</form>
+				<concepts>
+					<c>escape</c>
+					<c>separate</c>
+					<c>set free</c>
+					<c>cut off</c>
+					<c>cut</c>
+					<c>severed</c>
+					<c>sever</c>
+					<c>separated</c>
+				</concepts>
+				<url source="wiki">/wiki/motu#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">motu</form>
+				<concepts>
+					<c>island</c>
+					<c>wound</c>
+					<c>country</c>
+					<c>land</c>
+					<c>cut</c>
+					<c>nation</c>
+				</concepts>
+				<url source="wiki">/wiki/motu#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">motu</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/motu#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">motu</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/motu#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">motu</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/motu#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">motu</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/motu#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*peka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/peka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">peʻa</form>
+				<concepts>
+					<c>cross</c>
+					<c>menstruate</c>
+				</concepts>
+				<url source="wiki">/wiki/peʻa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">peʻa</form>
+				<concepts>
+					<c>starfish</c>
+					<c>bat</c>
+					<c>cross</c>
+				</concepts>
+				<url source="wiki">/wiki/peʻa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">peka</form>
+				<concepts>
+					<c>bat</c>
+				</concepts>
+				<url source="wiki">/wiki/peka#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">pe'a</form>
+				<concepts>
+					<c>bat</c>
+				</concepts>
+				<url source="wiki">/wiki/pe'a#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">peka</form>
+				<concepts>
+					<c>flying fox</c>
+				</concepts>
+				<url source="wiki">/wiki/peka#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*puaka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/puaka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">puaʻa</form>
+				<concepts>
+					<c>hog</c>
+					<c>pork</c>
+					<c>pig</c>
+					<c>swine</c>
+				</concepts>
+				<url source="wiki">/wiki/puaʻa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">poaka</form>
+				<concepts>
+					<c>pork</c>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/poaka#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">pua'a</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/pua'a#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">puaka</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/puaka#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">puā</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/puā#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">puaka</form>
+				<concepts>
+					<c>pork</c>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/puaka#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*pule</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/pule</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">pure</form>
+				<concepts>
+					<c>cowrie</c>
+				</concepts>
+				<url source="wiki">/wiki/pure#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">pule</form>
+				<concepts>
+					<c>cowrie</c>
+					<c>shell</c>
+				</concepts>
+				<url source="wiki">/wiki/pule#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">pule</form>
+				<concepts>
+					<c>authority</c>
+					<c>boss</c>
+					<c>leader</c>
+				</concepts>
+				<url source="wiki">/wiki/pule#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*qao</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/qao</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ao</form>
+				<concepts>
+					<c>world</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/ao#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">ao</form>
+				<concepts>
+					<c>world</c>
+				</concepts>
+				<url source="wiki">/wiki/ao#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">ao</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ao#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">ao</form>
+				<concepts>
+					<c>cloud</c>
+				</concepts>
+				<url source="wiki">/wiki/ao#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*qariki</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/qariki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">aliʻi</form>
+				<concepts>
+					<c>noble</c>
+				</concepts>
+				<url source="wiki">/wiki/aliʻi#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Mangarevan</lang>
+				<form script="LATIN">akariki</form>
+				<concepts>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/akariki#Mangarevan</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">ariki</form>
+				<concepts>
+					<c>leader</c>
+				</concepts>
+				<url source="wiki">/wiki/ariki#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">ꞌariki</form>
+				<concepts>
+					<c>king</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/ꞌariki#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">ali'i</form>
+				<concepts>
+					<c>noble</c>
+				</concepts>
+				<url source="wiki">/wiki/ali'i#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">ariʻi</form>
+				<concepts>
+					<c>noble</c>
+				</concepts>
+				<url source="wiki">/wiki/ariʻi#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">ʻeiki</form>
+				<concepts>
+					<c>noble</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻeiki#Tongan</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">aliki</form>
+				<concepts>
+					<c>noble</c>
+				</concepts>
+				<url source="wiki">/wiki/aliki#Tuvaluan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*qatua</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/qatua</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gilbertese</lang>
+				<form script="LATIN">atua</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/atua#Gilbertese</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">akua</form>
+				<concepts>
+					<c>image</c>
+					<c>idol</c>
+					<c>devil</c>
+					<c>god</c>
+					<c>ghost</c>
+					<c>spirit</c>
+				</concepts>
+				<url source="wiki">/wiki/akua#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">akua</form>
+				<concepts>
+					<c>supernatural</c>
+					<c>divine</c>
+				</concepts>
+				<url source="wiki">/wiki/akua#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">atua</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/atua#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">atua</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/atua#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">atua</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/atua#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">atua</form>
+				<concepts>
+					<c>deity</c>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/atua#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">atua</form>
+				<concepts>
+					<c>god</c>
+					<c>Lord</c>
+				</concepts>
+				<url source="wiki">/wiki/atua#Tuvaluan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*qone</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/qone</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>beach</c>
+					<c>earth</c>
+					<c>sand</c>
+					<c>soil</c>
+					<c>mud</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>sand</c>
+					<c>gunpowder</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">'one</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/'one#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Rarotongan</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Rarotongan</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>sand</c>
+					<c>dust</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tikopia</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Tikopia</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>gunpowder</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">ʻone</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻone#Tongan</url>
+			</reflex>
+			<reflex>
+				<lang>Tuamotuan</lang>
+				<form script="LATIN">one</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/one#Tuamotuan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*sau</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/sau</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">hau</form>
+				<concepts>
+					<c>famous</c>
+				</concepts>
+				<url source="wiki">/wiki/hau#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">hau</form>
+				<concepts>
+					<c>heard</c>
+					<c>exceed</c>
+				</concepts>
+				<url source="wiki">/wiki/hau#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">hau</form>
+				<concepts>
+					<c>wind</c>
+					<c>breeze</c>
+					<c>obtuse angle</c>
+					<c>excess</c>
+					<c>air</c>
+					<c>corner</c>
+					<c>breath</c>
+					<c>essence</c>
+				</concepts>
+				<url source="wiki">/wiki/hau#Maori</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*tapa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/tapa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">kapa</form>
+				<concepts>
+					<c>rim</c>
+					<c>tapa</c>
+					<c>edge</c>
+				</concepts>
+				<url source="wiki">/wiki/kapa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">tapa</form>
+				<concepts>
+					<c>rim</c>
+					<c>labia</c>
+					<c>edge</c>
+					<c>split</c>
+					<c>boundary</c>
+				</concepts>
+				<url source="wiki">/wiki/tapa#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Niuean</lang>
+				<form script="LATIN">hiapo</form>
+				<concepts>
+					<c>tapa</c>
+				</concepts>
+				<url source="wiki">/wiki/hiapo#Niuean</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">siapo</form>
+				<concepts>
+					<c>tapa</c>
+				</concepts>
+				<url source="wiki">/wiki/siapo#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">hiapo</form>
+				<concepts>
+					<c>Broussonetia papyrifera</c>
+					<c>paper mulberry</c>
+				</concepts>
+				<url source="wiki">/wiki/hiapo#Tongan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">tapa</form>
+				<concepts>
+					<c>border</c>
+					<c>tapa</c>
+					<c>edge</c>
+				</concepts>
+				<url source="wiki">/wiki/tapa#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*tapu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/tapu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">kapu</form>
+				<concepts>
+					<c>taboo</c>
+					<c>kapu</c>
+				</concepts>
+				<url source="wiki">/wiki/kapu#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">taboo</form>
+				<concepts>
+					<c>avoid</c>
+					<c>ban</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/taboo#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">taboo</form>
+				<concepts>
+					<c>inhibition</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/taboo#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">taboo</form>
+				<concepts>
+					<c>mention</c>
+					<c>approach</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/taboo#English</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">kapu</form>
+				<concepts>
+					<c>holy</c>
+					<c>prohibited</c>
+				</concepts>
+				<url source="wiki">/wiki/kapu#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>forbidden</c>
+					<c>sacred</c>
+					<c>restricted</c>
+					<c>holy</c>
+					<c>prohibited</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>restriction</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>sacred</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>oath</c>
+					<c>pledge</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>sacred</c>
+					<c>forbidden</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">tapu</form>
+				<concepts>
+					<c>forbidden</c>
+					<c>taboo</c>
+				</concepts>
+				<url source="wiki">/wiki/tapu#Tokelauan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*taqane</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/taqane</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">kāne</form>
+				<concepts>
+					<c>husband</c>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/kāne#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">tāne</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/tāne#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">tāne</form>
+				<concepts>
+					<c>male</c>
+				</concepts>
+				<url source="wiki">/wiki/tāne#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">tāne</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/tāne#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">tāne</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/tāne#Tahitian</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">tāne</form>
+				<concepts>
+					<c>husband</c>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/tāne#Tokelauan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*to</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/to</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">tō</form>
+				<concepts>
+					<c>shut</c>
+					<c>drag</c>
+					<c>open</c>
+				</concepts>
+				<url source="wiki">/wiki/tō#Maori</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*toki</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/toki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">toki</form>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/toki#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">toki</form>
+				<concepts>
+					<c>adze</c>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/toki#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">toki</form>
+				<concepts>
+					<c>adze</c>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/toki#Tongan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Polynesian</plang>
+			<pform>*waka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Polynesian/waka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">waʻa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/waʻa#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">waka</form>
+				<concepts>
+					<c>boat</c>
+					<c>vehicle</c>
+					<c>transport</c>
+					<c>canoe</c>
+					<c>conveyance</c>
+				</concepts>
+				<url source="wiki">/wiki/waka#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Rapa Nui</lang>
+				<form script="LATIN">vaka</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/vaka#Rapa_Nui</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">va'a</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/va'a#Samoan</url>
+			</reflex>
+			<reflex>
+				<lang>Tokelauan</lang>
+				<form script="LATIN">vaka</form>
+				<concepts>
+					<c>boat</c>
+					<c>canoe</c>
+					<c>ship</c>
+					<c>coffin</c>
+				</concepts>
+				<url source="wiki">/wiki/vaka#Tokelauan</url>
+			</reflex>
+			<reflex>
+				<lang>Wallisian</lang>
+				<form script="LATIN">vaka</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/vaka#Wallisian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,69 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Iroquoian</plang>
+			<pform>*aɹeɁ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Iroquoian/aɹeɁ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cherokee</lang>
+				<form script="CHEROKEE">ᎠᎴ</form>
+				<translit>ale</translit>
+				<concepts>
+					<c>almost</c>
+				</concepts>
+				<url source="wiki">/wiki/ᎠᎴ#Cherokee</url>
+			</reflex>
+			<reflex>
+				<lang>Cherokee</lang>
+				<form script="CHEROKEE">ᎠᎴ</form>
+				<translit>ale</translit>
+				<concepts>
+					<c>and</c>
+				</concepts>
+				<url source="wiki">/wiki/ᎠᎴ#Cherokee</url>
+			</reflex>
+			<reflex>
+				<lang>Mohawk</lang>
+				<form script="LATIN">á:re</form>
+				<concepts>
+					<c>again</c>
+				</concepts>
+				<url source="wiki">/wiki/á:re#Mohawk</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Iroquoian</plang>
+			<pform>*tsiːjẽh</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Iroquoian/tsiːjẽh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cherokee</lang>
+				<form script="CHEROKEE">ᏥᏯ</form>
+				<translit>tsiya</translit>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/ᏥᏯ#Cherokee</url>
+			</reflex>
+			<reflex>
+				<lang>Mohawk</lang>
+				<form script="LATIN">otsí:io</form>
+				<concepts>
+					<c>seal</c>
+				</concepts>
+				<url source="wiki">/wiki/otsí:io#Mohawk</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

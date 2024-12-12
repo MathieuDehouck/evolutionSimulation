@@ -1,0 +1,669 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*am-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/am-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chuvan</lang>
+				<form script="CYRILLIC">амунъ</form>
+				<translit>amun</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/амунъ#Chuvan</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">амун</form>
+				<translit>amun</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/амун#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*an-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/an-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">аруу</form>
+				<translit>aruu</translit>
+				<concepts>
+					<c>voice</c>
+					<c>language</c>
+					<c>speech</c>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/аруу#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">ажуу</form>
+				<translit>ažū</translit>
+				<concepts>
+					<c>word</c>
+					<c>language</c>
+					<c>speech</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/ажуу#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*aŋa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/aŋa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">аиггъ</form>
+				<translit>aigg</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/аиггъ#Omok</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">аҥа</form>
+				<translit>aŋa</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/аҥа#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*eče:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/eče:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">еземъ</form>
+				<translit>jezem</translit>
+				<concepts>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/еземъ#Omok</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">эчиэ</form>
+				<translit>ečie</translit>
+				<concepts>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/эчиэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*ilʼejə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/ilʼejə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">илийэ</form>
+				<translit>ilije</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/илийэ#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">ильэйэ</form>
+				<translit>ilʹeje</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/ильэйэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*ja-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/ja-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">йалуонь</form>
+				<translit>jaluoņ</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/йалуонь#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">яломъ</form>
+				<translit>jalom</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/яломъ#Omok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*jowlə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/jowlə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">талло</form>
+				<translit>tallo</translit>
+				<concepts>
+					<c>evening</c>
+				</concepts>
+				<url source="wiki">/wiki/талло#Omok</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">йоуло</form>
+				<translit>jowlo</translit>
+				<concepts>
+					<c>evening</c>
+				</concepts>
+				<url source="wiki">/wiki/йоуло#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*ki-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/ki-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chuvan</lang>
+				<form script="CYRILLIC">куенъ</form>
+				<translit>kujen</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/куенъ#Chuvan</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">кийуонь</form>
+				<translit>kijuoņ</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/кийуонь#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">ткитъ</form>
+				<translit>tkit</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ткитъ#Omok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*könčʼə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/könčʼə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">көдьэ</form>
+				<translit>köd̦e</translit>
+				<concepts>
+					<c>worm</c>
+					<c>bug</c>
+					<c>insect</c>
+					<c>ant</c>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/көдьэ#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">көдьэ</form>
+				<translit>kødʹe</translit>
+				<concepts>
+					<c>larva</c>
+				</concepts>
+				<url source="wiki">/wiki/көдьэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*lewe:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/lewe:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">лэбиэ</form>
+				<translit>lebie</translit>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/лэбиэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*lyŋkə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/lyŋkə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chuvan</lang>
+				<form script="CYRILLIC">луига</form>
+				<translit>luiga</translit>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/луига#Chuvan</url>
+			</reflex>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">ланго</form>
+				<translit>lango</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ланго#Omok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*miẟenčʼə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/miẟenčʼə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">муридьэ</form>
+				<translit>murid̦e</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/муридьэ#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">мидэдьэ</form>
+				<translit>midedʹe</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/мидэдьэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*pe:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/pe:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">пеа</form>
+				<translit>pea</translit>
+				<concepts>
+					<c>rock</c>
+					<c>cliff</c>
+				</concepts>
+				<url source="wiki">/wiki/пеа#Omok</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">пиэ</form>
+				<translit>pie</translit>
+				<concepts>
+					<c>hill</c>
+					<c>rock</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/пиэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*punče:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/punče:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">пуриэ</form>
+				<translit>purie</translit>
+				<concepts>
+					<c>berry</c>
+				</concepts>
+				<url source="wiki">/wiki/пуриэ#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">пинды</form>
+				<translit>pindy</translit>
+				<concepts>
+					<c>berry</c>
+				</concepts>
+				<url source="wiki">/wiki/пинды#Omok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*unemə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/unemə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">унэмэ</form>
+				<translit>uneme</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/унэмэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*wonor</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/wonor</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Yukaghir</lang>
+				<form script="CYRILLIC">ванар</form>
+				<translit>wanar</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+					<c>speech</c>
+					<c>gossip</c>
+				</concepts>
+				<url source="wiki">/wiki/ванар#Northern_Yukaghir</url>
+			</reflex>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">геинерръ</form>
+				<translit>geinerr</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/геинерръ#Omok</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">онор</form>
+				<translit>onor</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/онор#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*ö:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/ö:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">уө</form>
+				<translit>uø</translit>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/уө#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*čel-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/čel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">чиэч</form>
+				<translit>čieč</translit>
+				<concepts>
+					<c>cold</c>
+				</concepts>
+				<url source="wiki">/wiki/чиэч#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*čilkə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/čilkə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">чилгэ</form>
+				<translit>čilge</translit>
+				<concepts>
+					<c>bough</c>
+					<c>branch</c>
+				</concepts>
+				<url source="wiki">/wiki/чилгэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*čowinə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/čowinə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Omok</lang>
+				<form script="CYRILLIC">чевого</form>
+				<translit>čewogo</translit>
+				<concepts>
+					<c>arrow</c>
+				</concepts>
+				<url source="wiki">/wiki/чевого#Omok</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">чобинэ</form>
+				<translit>čobine</translit>
+				<concepts>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/чобинэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*ču:l</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/ču:l</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">чуул</form>
+				<translit>čūl</translit>
+				<concepts>
+					<c>meat</c>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/чуул#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*ńa:čə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/ńa:čə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">ньаачэ</form>
+				<translit>nʹāče</translit>
+				<concepts>
+					<c>cliff</c>
+					<c>spike</c>
+					<c>cape</c>
+					<c>face</c>
+				</concepts>
+				<url source="wiki">/wiki/ньаачэ#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yukaghir</plang>
+			<pform>*ńu:</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yukaghir/ńu:</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chuvan</lang>
+				<form script="CYRILLIC">ныва</form>
+				<translit>nywa</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/ныва#Chuvan</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Yukaghir</lang>
+				<form script="CYRILLIC">ньуу</form>
+				<translit>nʹū</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/ньуу#Southern_Yukaghir</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

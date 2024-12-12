@@ -1,0 +1,443 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*ailaq</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/ailaq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">aalaq</form>
+				<concepts>
+					<c>sweat</c>
+					<c>steam</c>
+					<c>damp</c>
+					<c>moisture</c>
+				</concepts>
+				<url source="wiki">/wiki/aalaq#Greenlandic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*anuʀǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/anuʀǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">anori</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/anori#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐊᓄᕆ</form>
+				<translit>anori</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᓄᕆ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">anuġi</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/anuġi#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*aqažɣiq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/aqažɣiq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">aqisseq</form>
+				<concepts>
+					<c>rock ptarmigan</c>
+					<c>ptarmigan</c>
+				</concepts>
+				<url source="wiki">/wiki/aqisseq#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">aqargiq</form>
+				<concepts>
+					<c>ptarmigan</c>
+				</concepts>
+				<url source="wiki">/wiki/aqargiq#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*atauciq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/atauciq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">ataaseq</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ataaseq#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">atausiq</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/atausiq#Inupiaq</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">atausriq</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/atausriq#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*ažɣaɣ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/ažɣaɣ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">assak</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/assak#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐊᒡᒐᒃ</form>
+				<translit>accak</translit>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᒡᒐᒃ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">argak</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/argak#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*aʀvǝq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/aʀvǝq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">arfeq</form>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/arfeq#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐊᕐᕕᒃ</form>
+				<translit>arfik</translit>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᕐᕕᒃ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">agviq</form>
+				<concepts>
+					<c>bowhead whale</c>
+				</concepts>
+				<url source="wiki">/wiki/agviq#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*icaʀuq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/icaʀuq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">isaroq</form>
+				<concepts>
+					<c>wing</c>
+				</concepts>
+				<url source="wiki">/wiki/isaroq#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐃᓴᕈᖅ</form>
+				<translit>isaroq</translit>
+				<concepts>
+					<c>wing</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᓴᕈᖅ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">israġuq</form>
+				<concepts>
+					<c>wing</c>
+				</concepts>
+				<url source="wiki">/wiki/israġuq#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*nukaq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/nukaq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">nukarleq</form>
+				<concepts>
+					<c>youngest</c>
+				</concepts>
+				<url source="wiki">/wiki/nukarleq#Greenlandic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*quyanaq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/quyanaq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">qujanaq</form>
+				<concepts>
+					<c>thank you</c>
+				</concepts>
+				<url source="wiki">/wiki/qujanaq#Greenlandic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*uqauciq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/uqauciq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐅᖃᐅᓯᖅ</form>
+				<translit>oqaosiq</translit>
+				<concepts>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐅᖃᐅᓯᖅ#Inuktitut</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*ǝqaluɣ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/ǝqaluɣ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">eqaluk</form>
+				<concepts>
+					<c>sea trout</c>
+					<c>Arctic char</c>
+				</concepts>
+				<url source="wiki">/wiki/eqaluk#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐃᖃᓗᒃ</form>
+				<translit>iqalok</translit>
+				<concepts>
+					<c>salmon</c>
+					<c>fish</c>
+					<c>trout</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᖃᓗᒃ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">qalukpik</form>
+				<concepts>
+					<c>trout</c>
+				</concepts>
+				<url source="wiki">/wiki/qalukpik#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*ǝžǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/ǝžǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐃᔨ</form>
+				<translit>iyi</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᔨ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">iri</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/iri#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*əməq</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/əməq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">imeq</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/imeq#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐃᒥᖅ</form>
+				<translit>imiq</translit>
+				<concepts>
+					<c>drinking water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᒥᖅ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">imiq</form>
+				<concepts>
+					<c>alcohol</c>
+					<c>drinking water</c>
+				</concepts>
+				<url source="wiki">/wiki/imiq#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Inuit</plang>
+			<pform>*ạp-unt</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Inuit/ạp-unt</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Greenlandic</lang>
+				<form script="LATIN">aput</form>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/aput#Greenlandic</url>
+			</reflex>
+			<reflex>
+				<lang>Inuktitut</lang>
+				<form script="CANADIAN">ᐊᐳᑦ</form>
+				<translit>apot</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᐳᑦ#Inuktitut</url>
+			</reflex>
+			<reflex>
+				<lang>Inupiaq</lang>
+				<form script="LATIN">apun</form>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/apun#Inupiaq</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

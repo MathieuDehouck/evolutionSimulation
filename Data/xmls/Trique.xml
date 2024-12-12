@@ -1,0 +1,42 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Trique</plang>
+			<pform>*kkɨh³</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Trique/kkɨh³</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Martín Itunyoso Triqui</lang>
+				<form script="LATIN">quij</form>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/quij#San_Martín_Itunyoso_Triqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Trique</plang>
+			<pform>*nnãh³²</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Trique/nnãh³²</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Martín Itunyoso Triqui</lang>
+				<form script="LATIN">nnaanj</form>
+				<concepts>
+					<c>cigarette</c>
+				</concepts>
+				<url source="wiki">/wiki/nnaanj#San_Martín_Itunyoso_Triqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

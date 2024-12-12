@@ -1,0 +1,649 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*aker</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/aker</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Galela</lang>
+				<form script="LATIN">ake</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ake#Galela</url>
+			</reflex>
+			<reflex>
+				<lang>Loloda</lang>
+				<form script="LATIN">akere</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/akere#Loloda</url>
+			</reflex>
+			<reflex>
+				<lang>Modole</lang>
+				<form script="LATIN">a'ele</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/a'ele#Modole</url>
+			</reflex>
+			<reflex>
+				<lang>Pagu</lang>
+				<form script="LATIN">akel</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/akel#Pagu</url>
+			</reflex>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">'akere</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/'akere#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">ake</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ake#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>Tidore</lang>
+				<form script="LATIN">ake</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ake#Tidore</url>
+			</reflex>
+			<reflex>
+				<lang>Tobelo</lang>
+				<form script="LATIN">akere</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/akere#Tobelo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*aun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/aun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sahu</lang>
+				<form script="LATIN">ngaunu</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ngaunu#Sahu</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">au</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/au#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>Tidore</lang>
+				<form script="LATIN">au</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/au#Tidore</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*boro</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/boro</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">boro</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/boro#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*gani</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/gani</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sahu</lang>
+				<form script="LATIN">gane</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/gane#Sahu</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">gani</form>
+				<concepts>
+					<c>head louse</c>
+				</concepts>
+				<url source="wiki">/wiki/gani#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*iŋir</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/iŋir</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sahu</lang>
+				<form script="LATIN">ngiḏi</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/ngiḏi#Sahu</url>
+			</reflex>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">'ingiri</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/'ingiri#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">ingi</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/ingi#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*kahi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/kahi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">ahi</form>
+				<concepts>
+					<c>skin</c>
+					<c>rind</c>
+					<c>cover</c>
+					<c>shell</c>
+				</concepts>
+				<url source="wiki">/wiki/ahi#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>West Makian</lang>
+				<form script="LATIN">fi</form>
+				<concepts>
+					<c>skin</c>
+					<c>bark</c>
+					<c>shell</c>
+				</concepts>
+				<url source="wiki">/wiki/fi#West_Makian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*kalubati</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/kalubati</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sahu</lang>
+				<form script="LATIN">kuluḇati</form>
+				<concepts>
+					<c>earthworm</c>
+					<c>worm</c>
+				</concepts>
+				<url source="wiki">/wiki/kuluḇati#Sahu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*kaso</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/kaso</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">kaso</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kaso#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">kaso</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kaso#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>West Makian</lang>
+				<form script="LATIN">aso</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/aso#West_Makian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*lako</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/lako</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sahu</lang>
+				<form script="LATIN">la'o</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/la'o#Sahu</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">lako</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/lako#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*nawok</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/nawok</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">naoko</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/naoko#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">nyao</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/nyao#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="ARABIC">ڽاو</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ڽاو#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>West Makian</lang>
+				<form script="LATIN">yao</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/yao#West_Makian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*peḋakat</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/peḋakat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">wekata</form>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/wekata#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">foheka</form>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/foheka#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*putu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/putu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">futu</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/futu#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*sopok</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/sopok</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">sowoko</form>
+				<concepts>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/sowoko#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">sofo</form>
+				<concepts>
+					<c>bear fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/sofo#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">sofo</form>
+				<concepts>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/sofo#Ternate</url>
+			</reflex>
+			<reflex>
+				<lang>West Makian</lang>
+				<form script="LATIN">sopo</form>
+				<concepts>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/sopo#West_Makian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*tagi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/tagi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">tagi</form>
+				<concepts>
+					<c>go</c>
+				</concepts>
+				<url source="wiki">/wiki/tagi#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">tagi</form>
+				<concepts>
+					<c>walk</c>
+					<c>go</c>
+				</concepts>
+				<url source="wiki">/wiki/tagi#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*temo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/temo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">temo</form>
+				<concepts>
+					<c>slander</c>
+					<c>scold</c>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/temo#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*topok</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/topok</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">topo</form>
+				<concepts>
+					<c>stab</c>
+					<c>pierce</c>
+				</concepts>
+				<url source="wiki">/wiki/topo#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*uhis</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/uhis</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">uisi</form>
+				<concepts>
+					<c>flow</c>
+				</concepts>
+				<url source="wiki">/wiki/uisi#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">uhi</form>
+				<concepts>
+					<c>flow</c>
+					<c>stream</c>
+				</concepts>
+				<url source="wiki">/wiki/uhi#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*uku</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/uku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sahu</lang>
+				<form script="LATIN">u'u</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/u'u#Sahu</url>
+			</reflex>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">'uku</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/'uku#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">uku</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/uku#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*uru</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/uru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">'uru</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/'uru#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">uru</form>
+				<concepts>
+					<c>beak</c>
+					<c>edge</c>
+				</concepts>
+				<url source="wiki">/wiki/uru#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>North Halmahera</plang>
+			<pform>*ŋunuŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Halmahera/ŋunuŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tabaru</lang>
+				<form script="LATIN">ngununu</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/ngununu#Tabaru</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">ngunu</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/ngunu#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

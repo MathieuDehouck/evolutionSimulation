@@ -1,0 +1,683 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*C-qːamǝ́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/C-qːamǝ́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">хъамы́</form>
+				<translit>qamə́</translit>
+				<concepts>
+					<c>fur coat</c>
+				</concepts>
+				<url source="wiki">/wiki/хъамы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ахамы́</form>
+				<translit>axamə́</translit>
+				<concepts>
+					<c>fur coat</c>
+				</concepts>
+				<url source="wiki">/wiki/ахамы#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*abˤaɡá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/abˤaɡá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">бага</form>
+				<translit>baga</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/бага#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́бга</form>
+				<translit>ábga</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/абга#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">баджэ</form>
+				<translit>badžɛ</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/баджэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">бэджэшъ</form>
+				<translit>bɛdžɛŝ</translit>
+				<concepts>
+					<c>jackal</c>
+				</concepts>
+				<url source="wiki">/wiki/бэджэшъ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">бажэ</form>
+				<translit>bažɛ</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/бажэ#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Ubykh</lang>
+				<form script="CYRILLIC">б'агьашә</form>
+				<translit>ḅagʲaŝʷ</translit>
+				<concepts>
+					<c>jackal</c>
+				</concepts>
+				<url source="wiki">/wiki/б'агьашә#Ubykh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*atʼǝmˤa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/atʼǝmˤa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">тама</form>
+				<translit>tama</translit>
+				<concepts>
+					<c>apricot</c>
+				</concepts>
+				<url source="wiki">/wiki/тама#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">атама</form>
+				<translit>atʼama</translit>
+				<concepts>
+					<c>peach</c>
+				</concepts>
+				<url source="wiki">/wiki/атама#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">ատամ</form>
+				<translit>atam</translit>
+				<concepts>
+					<c>prong</c>
+					<c>tooth</c>
+					<c>merlon</c>
+					<c>cog</c>
+				</concepts>
+				<url source="wiki">/wiki/ատամ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ატამი</form>
+				<translit>aṭami</translit>
+				<concepts>
+					<c>peach</c>
+					<c>peach tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ატამი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ანტამა</form>
+				<translit>anťama</translit>
+				<concepts>
+					<c>peach</c>
+					<c>peach tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ანტამა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ატამი</form>
+				<translit>aṭami</translit>
+				<concepts>
+					<c>peach</c>
+				</concepts>
+				<url source="wiki">/wiki/ატამი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Ubykh</lang>
+				<form script="CYRILLIC">тым'а</form>
+				<translit>tʼəṃa</translit>
+				<concepts>
+					<c>peach</c>
+				</concepts>
+				<url source="wiki">/wiki/тым'а#Ubykh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*c̱ʷə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/c̱ʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">чвы</form>
+				<translit>ćʷə</translit>
+				<concepts>
+					<c>ox</c>
+				</concepts>
+				<url source="wiki">/wiki/чвы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">ацә</form>
+				<translit>acʷ</translit>
+				<concepts>
+					<c>ox</c>
+				</concepts>
+				<url source="wiki">/wiki/ацә#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">вы</form>
+				<translit>və</translit>
+				<concepts>
+					<c>ox</c>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/вы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*məzá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/məzá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">мзы́</form>
+				<translit>mzə́</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/мзы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́мза</form>
+				<translit>ámza</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/амза#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">мазэ́</form>
+				<translit>mazɛ́</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/мазэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">ма́зэ</form>
+				<translit>mázɛ</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/мазэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*nǝš́ʷǝ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/nǝš́ʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">ны́шв</form>
+				<translit>nə́šʷ</translit>
+				<concepts>
+					<c>earth</c>
+					<c>clay</c>
+				</concepts>
+				<url source="wiki">/wiki/нышв#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">аны́шә</form>
+				<translit>anə́ŝʷ</translit>
+				<concepts>
+					<c>earth</c>
+					<c>clay</c>
+				</concepts>
+				<url source="wiki">/wiki/анышә#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*pǝ̃χʷǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/pǝ̃χʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пхъы</form>
+				<translit>pχə</translit>
+				<concepts>
+					<c>carrot</c>
+				</concepts>
+				<url source="wiki">/wiki/пхъы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">пхъы</form>
+				<translit>pχə</translit>
+				<concepts>
+					<c>carrot</c>
+				</concepts>
+				<url source="wiki">/wiki/пхъы#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Karachay-Balkar</lang>
+				<form script="CYRILLIC">быхы</form>
+				<translit>bıxı</translit>
+				<concepts>
+					<c>carrot</c>
+				</concepts>
+				<url source="wiki">/wiki/быхы#Karachay-Balkar</url>
+			</reflex>
+			<reflex>
+				<lang>Nogai</lang>
+				<form script="CYRILLIC">быхы</form>
+				<translit>bıxı</translit>
+				<concepts>
+					<c>carrot</c>
+				</concepts>
+				<url source="wiki">/wiki/быхы#Nogai</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">ӕпхӕ</form>
+				<translit>æpxæ</translit>
+				<concepts>
+					<c>carrot</c>
+				</concepts>
+				<url source="wiki">/wiki/ӕпхӕ#Ossetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*pǝχ́ʷA</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/pǝχ́ʷA</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">пхӏа</form>
+				<translit>pḥa</translit>
+				<concepts>
+					<c>daughter</c>
+				</concepts>
+				<url source="wiki">/wiki/пхӏа#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">аԥҳа</form>
+				<translit>apḥa</translit>
+				<concepts>
+					<c>daughter</c>
+				</concepts>
+				<url source="wiki">/wiki/аԥҳа#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пхъу</form>
+				<translit>pχʷu</translit>
+				<concepts>
+					<c>daughter</c>
+				</concepts>
+				<url source="wiki">/wiki/пхъу#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">пхъу</form>
+				<translit>pχʷu</translit>
+				<concepts>
+					<c>daughter</c>
+				</concepts>
+				<url source="wiki">/wiki/пхъу#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Ubykh</lang>
+				<form script="CYRILLIC">ԥхьа</form>
+				<translit>pxʲa</translit>
+				<concepts>
+					<c>daughter</c>
+				</concepts>
+				<url source="wiki">/wiki/ԥхьа#Ubykh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*pərə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/pərə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">пырра́</form>
+				<translit>pərrá</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/пырра#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́ԥырра</form>
+				<translit>ápərra</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/аԥырра#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*sa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/sa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">сара</form>
+				<translit>sara</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/сара#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">сара́</form>
+				<translit>sará</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/сара#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">уара</form>
+				<translit>wara</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/уара#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">уара́</form>
+				<translit>wará</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/уара#Abkhaz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*śʷasá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/śʷasá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пшъашъэ́</form>
+				<translit>pŝaŝɛ́</translit>
+				<concepts>
+					<c>young lady</c>
+					<c>girl</c>
+				</concepts>
+				<url source="wiki">/wiki/пшъашъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">пщащэ</form>
+				<translit>pśaśɛ</translit>
+				<concepts>
+					<c>girl</c>
+				</concepts>
+				<url source="wiki">/wiki/пщащэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*š́ʷǝʁǝrǝ́bǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/š́ʷǝʁǝrǝ́bǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">щхъыры́б</form>
+				<translit>śχərə́b</translit>
+				<concepts>
+					<c>gooseberry</c>
+				</concepts>
+				<url source="wiki">/wiki/щхъырыб#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">щхъыры́б</form>
+				<translit>śχərə́b</translit>
+				<concepts>
+					<c>gooseberry</c>
+				</concepts>
+				<url source="wiki">/wiki/щхъырыб#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*ǵʷǝ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/ǵʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">гвы́</form>
+				<translit>gʷə́</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/гвы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">агәы́</form>
+				<translit>agʷə́</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/агәы#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">гу</form>
+				<translit>gʷu</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/гу#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">гу</form>
+				<translit>gʷu</translit>
+				<concepts>
+					<c>cart</c>
+					<c>vehicle</c>
+					<c>carriage</c>
+				</concepts>
+				<url source="wiki">/wiki/гу#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Ubykh</lang>
+				<form script="CYRILLIC">гьы</form>
+				<translit>gʲə</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/гьы#Ubykh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northwest Caucasian</plang>
+			<pform>*ṗǝ̃ćá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northwest Caucasian/ṗǝ̃ćá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abaza</lang>
+				<form script="CYRILLIC">мцы́</form>
+				<translit>mcə́</translit>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/мцы#Abaza</url>
+			</reflex>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а́мц</form>
+				<translit>ámc</translit>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/амц#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">псӏы</form>
+				<translit>psʼə</translit>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/псӏы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пцӏы</form>
+				<translit>pcʼə</translit>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/пцӏы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">пцӏы</form>
+				<translit>pcʼə</translit>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/пцӏы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

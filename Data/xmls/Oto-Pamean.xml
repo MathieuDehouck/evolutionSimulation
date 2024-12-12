@@ -1,0 +1,51 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Oto-Pamean</plang>
+			<pform>*nʔio</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Oto-Pamean/nʔio</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Mazahua</lang>
+				<form script="LATIN">mindyo</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/mindyo#Central_Mazahua</url>
+			</reflex>
+			<reflex>
+				<lang>Mezquital Otomi</lang>
+				<form script="LATIN">miñꞌyo</form>
+				<concepts>
+					<c>coyote</c>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/miñꞌyo#Mezquital_Otomi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Oto-Pamean</plang>
+			<pform>*tʔo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Oto-Pamean/tʔo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Mazahua</lang>
+				<form script="LATIN">tꞌóꞌo</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/tꞌóꞌo#Central_Mazahua</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

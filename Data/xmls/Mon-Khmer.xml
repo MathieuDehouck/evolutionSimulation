@@ -1,0 +1,3979 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*()ɟut</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/()ɟut</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ជូត</form>
+				<translit>cuut</translit>
+				<concepts>
+					<c>rat</c>
+				</concepts>
+				<url source="wiki">/wiki/ជូត#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*()ʔus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/()ʔus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Eastern Bru</lang>
+				<form script="LATIN">ũih</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ũih#Eastern_Bru</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">óih</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/óih#Eastern_Katu</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អុស</form>
+				<translit>ʼoh</translit>
+				<concepts>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/អុស#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">cúi</form>
+				<concepts>
+					<c>firewood</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/cúi#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">củi</form>
+				<concepts>
+					<c>firewood</c>
+				</concepts>
+				<url source="wiki">/wiki/củi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*(b)saɲʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/(b)saɲʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ម្សាញ់</form>
+				<translit>msañ</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ម្សាញ់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">cuxéinh</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/cuxéinh#Pacoh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*(ʔ)boʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/(ʔ)boʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Brunei Malay</lang>
+				<form script="LATIN">babu</form>
+				<concepts>
+					<c>aunt</c>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/babu#Brunei_Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">babu</form>
+				<concepts>
+					<c>housemaid</c>
+				</concepts>
+				<url source="wiki">/wiki/babu#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦧꦧꦸ</form>
+				<translit>babu</translit>
+				<concepts>
+					<c>mother</c>
+					<c>assistant</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦧꦧꦸ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Jehai</lang>
+				<form script="LATIN">baboʔ</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/baboʔ#Jehai</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">𡞕</form>
+				<translit>ꞗợ</translit>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/𡞕#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ၝောံ</form>
+				<translit>bɜ̀ˀ</translit>
+				<concepts>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/ၝောံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ၝောံ</form>
+				<translit>bɜ̀ˀ</translit>
+				<concepts>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/ၝောံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">babu</form>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/babu#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">vợ</form>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/vợ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*bluuʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/bluuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ភ្លៅ</form>
+				<translit>phlɨw</translit>
+				<concepts>
+					<c>axis</c>
+					<c>thigh</c>
+					<c>axle</c>
+					<c>shaft</c>
+				</concepts>
+				<url source="wiki">/wiki/ភ្លៅ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">lu</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/lu#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Temiar</lang>
+				<form script="LATIN">belook</form>
+				<concepts>
+					<c>thigh</c>
+				</concepts>
+				<url source="wiki">/wiki/belook#Temiar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*bn₂uum</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/bn₂uum</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ភ្នំ</form>
+				<translit>phnum</translit>
+				<concepts>
+					<c>hill</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/ភ្នំ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*briiʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/briiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="CJK">𡗶</form>
+				<translit>blời</translit>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/𡗶#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ဗြဲ</form>
+				<translit>pròa</translit>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/ဗြဲ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlời</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/tlời#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trời</form>
+				<concepts>
+					<c>weather</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/trời#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trời</form>
+				<concepts>
+					<c>wild</c>
+				</concepts>
+				<url source="wiki">/wiki/trời#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*bəɓeʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/bəɓeʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chong</lang>
+				<form script="THAI">แพ่ะ</form>
+				<translit>pɛ̤ʔ</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/แพ่ะ#Chong</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ពពែ</form>
+				<translit>pɔpɛɛ</translit>
+				<concepts>
+					<c>sty</c>
+				</concepts>
+				<url source="wiki">/wiki/ពពែ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ဗၜေံ</form>
+				<translit>həbeˀ</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ဗၜေံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Nyah Kur</lang>
+				<form script="THAI">แพะ</form>
+				<translit>phaeʼ</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/แพะ#Nyah_Kur</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*caʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/caʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">cha</form>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/cha#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">chaaq</form>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/chaaq#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ciinʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ciinʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ឆ្អិន</form>
+				<translit>chʼən</translit>
+				<concepts>
+					<c>mature</c>
+					<c>pure</c>
+					<c>cooked</c>
+					<c>experienced</c>
+					<c>bright</c>
+				</concepts>
+				<url source="wiki">/wiki/ឆ្អិន#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">chèèt</form>
+				<concepts>
+					<c>cook</c>
+					<c>cooked</c>
+				</concepts>
+				<url source="wiki">/wiki/chèèt#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">chèèt</form>
+				<concepts>
+					<c>ripe</c>
+				</concepts>
+				<url source="wiki">/wiki/chèèt#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ciiʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ciiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ចៃ</form>
+				<translit>cay</translit>
+				<concepts>
+					<c>heart</c>
+					<c>sense</c>
+				</concepts>
+				<url source="wiki">/wiki/ចៃ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">chèèq</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/chèèq#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chí</form>
+				<concepts>
+					<c>extremely</c>
+					<c>most</c>
+				</concepts>
+				<url source="wiki">/wiki/chí#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chấy</form>
+				<concepts>
+					<c>head louse</c>
+				</concepts>
+				<url source="wiki">/wiki/chấy#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*cim</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/cim</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">sim</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/sim#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ဂစေံ</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ဂစေံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">chim</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/chim#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">achéiq</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/achéiq#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">chèèp</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/chèèp#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chim</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/chim#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*cuuʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/cuuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Brunei Malay</lang>
+				<form script="LATIN">cucu</form>
+				<concepts>
+					<c>grandchild</c>
+				</concepts>
+				<url source="wiki">/wiki/cucu#Brunei_Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">cucu</form>
+				<concepts>
+					<c>grandchild</c>
+				</concepts>
+				<url source="wiki">/wiki/cucu#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ចៅ</form>
+				<translit>caw</translit>
+				<concepts>
+					<c>boss</c>
+					<c>head</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/ចៅ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">cucu</form>
+				<concepts>
+					<c>grandchild</c>
+				</concepts>
+				<url source="wiki">/wiki/cucu#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">cháu</form>
+				<concepts>
+					<c>niece</c>
+					<c>grandchild</c>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/cháu#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">cháu</form>
+				<concepts>
+					<c>niece</c>
+					<c>he</c>
+					<c>you</c>
+					<c>she</c>
+					<c>her</c>
+					<c>me</c>
+					<c>him</c>
+					<c>grandchild</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/cháu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*cɔʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/cɔʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Eastern Bru</lang>
+				<form script="LATIN">acho</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/acho#Eastern_Bru</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">a’choo</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/a’choo#Eastern_Katu</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">chỏ</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/chỏ#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">acho</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/acho#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">chooq</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/chooq#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chó</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/chó#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*cʔaaŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/cʔaaŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ឆ្អឹង</form>
+				<translit>chʼəng</translit>
+				<concepts>
+					<c>bone</c>
+					<c>framework</c>
+					<c>skeleton</c>
+				</concepts>
+				<url source="wiki">/wiki/ឆ្អឹង#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">xiêng</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/xiêng#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">nghang</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/nghang#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">je'aak</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/je'aak#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">xương</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/xương#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*da(ʔ)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/da(ʔ)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ទា</form>
+				<translit>tiə</translit>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/ទា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">ata</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/ata#Pacoh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*d₁kan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/d₁kan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">dkhan</form>
+				<concepts>
+					<c>hill rat</c>
+					<c>mole</c>
+				</concepts>
+				<url source="wiki">/wiki/dkhan#Khasi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*d₁puulh</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/d₁puulh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ထပှ်</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ထပှ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">páy</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/páy#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">tupoul</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/tupoul#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bảy</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/bảy#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*d₂luuŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/d₂luuŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦗꦺꦴꦁ</form>
+				<translit>jong</translit>
+				<concepts>
+					<c>cover</c>
+					<c>umbrella</c>
+					<c>ship</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦗꦺꦴꦁ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ဂၠုၚ်</form>
+				<translit>klɜ̀ŋ</translit>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/ဂၠုၚ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">joṅ</form>
+				<concepts>
+					<c>umbrella</c>
+					<c>ship</c>
+				</concepts>
+				<url source="wiki">/wiki/joṅ#Old_Javanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*gmaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/gmaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">mưa</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/mưa#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mưa</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/mưa#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mưa</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/mưa#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*gəp</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/gəp</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">gơ̆p</form>
+				<concepts>
+					<c>people</c>
+				</concepts>
+				<url source="wiki">/wiki/gơ̆p#Bahnar</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">គប់</form>
+				<translit>kup</translit>
+				<concepts>
+					<c>associate</c>
+					<c>befriend</c>
+				</concepts>
+				<url source="wiki">/wiki/គប់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">gòp</form>
+				<concepts>
+					<c>Malay</c>
+				</concepts>
+				<url source="wiki">/wiki/Gòp#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gặp</form>
+				<concepts>
+					<c>see</c>
+					<c>meet</c>
+				</concepts>
+				<url source="wiki">/wiki/gặp#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*hər</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/hər</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ហើរ</form>
+				<translit>haə</translit>
+				<concepts>
+					<c>hot</c>
+					<c>spicy</c>
+				</concepts>
+				<url source="wiki">/wiki/ហើរ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*jaam</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/jaam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">យំ</form>
+				<translit>yum</translit>
+				<concepts>
+					<c>cry</c>
+					<c>chirp</c>
+					<c>shed tears</c>
+					<c>weep</c>
+					<c>sing</c>
+				</concepts>
+				<url source="wiki">/wiki/យំ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">jaap</form>
+				<concepts>
+					<c>cry</c>
+					<c>weep</c>
+				</concepts>
+				<url source="wiki">/wiki/jaap#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*jaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/jaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">dã</form>
+				<concepts>
+					<c>stepmother</c>
+					<c>paternal grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/dã#Muong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kam</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">កាំ</form>
+				<translit>kam</translit>
+				<concepts>
+					<c>rung</c>
+					<c>step</c>
+					<c>stroke</c>
+					<c>line</c>
+					<c>streak</c>
+					<c>beam</c>
+					<c>rope</c>
+					<c>shelf</c>
+					<c>radius</c>
+					<c>arrow</c>
+					<c>ray</c>
+					<c>flash</c>
+				</concepts>
+				<url source="wiki">/wiki/កាំ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">ka</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ka#Bahnar</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Lawa</lang>
+				<form script="THAI">กะ</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/กะ#Eastern_Lawa</url>
+			</reflex>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">dohkha</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/dohkha#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Mang</lang>
+				<form script="LATIN">ʔaː¹</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔaː¹#Mang</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">က</form>
+				<translit>kaˀ</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/က#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">cả</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/cả#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">kaaq</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/kaaq#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Thavung</lang>
+				<form script="THAI">ก้า</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ก้า#Thavung</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">cá</form>
+				<concepts>
+					<c>bet</c>
+				</concepts>
+				<url source="wiki">/wiki/cá#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Western Lawa</lang>
+				<form script="THAI">กะ</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/กะ#Western_Lawa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kc(ə)t</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kc(ə)t</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chết</form>
+				<concepts>
+					<c>am</c>
+					<c>shoot</c>
+					<c>crap</c>
+				</concepts>
+				<url source="wiki">/wiki/chết#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chết</form>
+				<concepts>
+					<c>break</c>
+					<c>die</c>
+					<c>perish</c>
+					<c>decease</c>
+				</concepts>
+				<url source="wiki">/wiki/chết#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chết</form>
+				<concepts>
+					<c>extremely</c>
+					<c>awfully</c>
+					<c>terribly</c>
+				</concepts>
+				<url source="wiki">/wiki/chết#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">chết</form>
+				<concepts>
+					<c>ruined</c>
+					<c>unoccupied</c>
+					<c>free</c>
+					<c>dead</c>
+					<c>idle</c>
+					<c>deceased</c>
+					<c>broken</c>
+				</concepts>
+				<url source="wiki">/wiki/chết#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kciʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kciʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">kơsĕ</form>
+				<concepts>
+					<c>green</c>
+					<c>young</c>
+					<c>unripe</c>
+				</concepts>
+				<url source="wiki">/wiki/kơsĕ#Bahnar</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">kecik</form>
+				<concepts>
+					<c>little</c>
+					<c>small</c>
+					<c>young</c>
+				</concepts>
+				<url source="wiki">/wiki/kecik#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្ចី</form>
+				<translit>khcəy</translit>
+				<concepts>
+					<c>borrow</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្ចី#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្ចី</form>
+				<translit>khcəy</translit>
+				<concepts>
+					<c>green</c>
+					<c>fresh</c>
+					<c>raw</c>
+					<c>unripe</c>
+					<c>young</c>
+					<c>light</c>
+					<c>inexperienced</c>
+					<c>naive</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្ចី#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*khəjʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/khəjʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">khei</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/khei#Bahnar</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Bru</lang>
+				<form script="LATIN">casâi</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/casâi#Eastern_Bru</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">c’xêê</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/c’xêê#Eastern_Katu</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខែ</form>
+				<translit>khae</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/ខែ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">kixay</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/kixay#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">gechèèq</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/gechèèq#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*klaʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/klaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">於菟</form>
+				<translit>wū tú</translit>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/於菟#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខាល</form>
+				<translit>khaal</translit>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/ខាល#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្លា</form>
+				<translit>klaa</translit>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្លា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ကၠ</form>
+				<translit>klaˀ</translit>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/ကၠ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">khảl</form>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/khảl#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pela</lang>
+				<form script="LATIN">la³¹</form>
+				<concepts>
+					<c>leopard</c>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/la³¹#Pela</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขาล</form>
+				<translit>khan</translit>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/ขาล#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">khái</form>
+				<concepts>
+					<c>tiger</c>
+				</concepts>
+				<url source="wiki">/wiki/khái#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kluuŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kluuŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ក្នុង</form>
+				<translit>knong</translit>
+				<concepts>
+					<c>in</c>
+					<c>inside</c>
+					<c>during</c>
+					<c>into</c>
+				</concepts>
+				<url source="wiki">/wiki/ក្នុង#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ក្នុង</form>
+				<translit>knong</translit>
+				<concepts>
+					<c>room</c>
+				</concepts>
+				<url source="wiki">/wiki/ក្នុង#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kləɲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kləɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្លាញ់</form>
+				<translit>khlañ</translit>
+				<concepts>
+					<c>grease</c>
+					<c>lard</c>
+					<c>oil</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្លាញ់#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kmuuc</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kmuuc</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្មោច</form>
+				<translit>khmaoc</translit>
+				<concepts>
+					<c>corpse</c>
+					<c>deceased</c>
+					<c>late</c>
+					<c>ghost</c>
+					<c>spirit</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្មោច#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្មោច</form>
+				<translit>khmaoc</translit>
+				<concepts>
+					<c>useless</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្មោច#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">ki'mòòc</form>
+				<concepts>
+					<c>ghost</c>
+				</concepts>
+				<url source="wiki">/wiki/ki'mòòc#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kmuuʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kmuuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្មៅ</form>
+				<translit>khmaw</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្មៅ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kn₁(i)ʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kn₁(i)ʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">keniiq</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/keniiq#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kpaas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kpaas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អំបោះ</form>
+				<translit>ʼɑmbɑh</translit>
+				<concepts>
+					<c>yarn</c>
+					<c>thread</c>
+				</concepts>
+				<url source="wiki">/wiki/អំបោះ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ksac</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ksac</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខ្សាច់</form>
+				<translit>khsac</translit>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/ខ្សាច់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">caích</form>
+				<concepts>
+					<c>sand</c>
+				</concepts>
+				<url source="wiki">/wiki/caích#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">cách</form>
+				<concepts>
+					<c>harvest</c>
+					<c>cut</c>
+				</concepts>
+				<url source="wiki">/wiki/cách#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">cát</form>
+				<concepts>
+					<c>sand</c>
+					<c>grain</c>
+				</concepts>
+				<url source="wiki">/wiki/cát#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ktuuʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ktuuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ក្ដៅ</form>
+				<translit>kdaw</translit>
+				<concepts>
+					<c>fiery</c>
+					<c>warm</c>
+					<c>hot</c>
+					<c>burning</c>
+				</concepts>
+				<url source="wiki">/wiki/ក្ដៅ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ក្ដៅ</form>
+				<translit>kdaw</translit>
+				<concepts>
+					<c>heat</c>
+					<c>warmth</c>
+					<c>anger</c>
+				</concepts>
+				<url source="wiki">/wiki/ក្ដៅ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kt₂uur</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kt₂uur</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">shkor</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/shkor#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">က္တောဝ်</form>
+				<translit>kəto</translit>
+				<concepts>
+					<c>gill</c>
+					<c>handle</c>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/က္တောဝ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">cutour</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/cutour#Pacoh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kuun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kuun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">囝</form>
+				<translit>jiǎn</translit>
+				<concepts>
+					<c>son</c>
+					<c>child</c>
+					<c>baby</c>
+					<c>infant</c>
+				</concepts>
+				<url source="wiki">/wiki/囝#Chinese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*kɔʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/kɔʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ក</form>
+				<translit>kɑɑ</translit>
+				<concepts>
+					<c>neck</c>
+					<c>collar</c>
+				</concepts>
+				<url source="wiki">/wiki/ក#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*lik</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/lik</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬘᬾᬮᬾᬂ</form>
+				<translit>céléng</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬘᬾᬮᬾᬂ#Balinese</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">celeng</form>
+				<concepts>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/celeng#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦕꦺꦭꦺꦁ</form>
+				<translit>cèlèng</translit>
+				<concepts>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦕꦺꦭꦺꦁ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ကၠိက်</form>
+				<translit>kloik</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ကၠိက်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">celeṅ</form>
+				<concepts>
+					<c>pig</c>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/celeṅ#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">alic</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/alic#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">leeq</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/leeq#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*luuŋ(h)</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/luuŋ(h)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">លុង</form>
+				<translit>lung</translit>
+				<concepts>
+					<c>excavate</c>
+					<c>drill</c>
+					<c>hollow out</c>
+				</concepts>
+				<url source="wiki">/wiki/លុង#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អន្លង់</form>
+				<translit>ʼɑnlŭəng</translit>
+				<concepts>
+					<c>duration</c>
+					<c>despair</c>
+					<c>misery</c>
+					<c>pool</c>
+					<c>abyss</c>
+					<c>pit</c>
+					<c>ditch</c>
+					<c>period</c>
+					<c>foxhole</c>
+					<c>hole</c>
+					<c>gulf</c>
+				</concepts>
+				<url source="wiki">/wiki/អន្លង់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lủng</form>
+				<concepts>
+					<c>perforated</c>
+				</concepts>
+				<url source="wiki">/wiki/lủng#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">thung lũng</form>
+				<concepts>
+					<c>valley</c>
+				</concepts>
+				<url source="wiki">/wiki/thung_lũng#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*lwaaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/lwaaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ល្វា</form>
+				<translit>lviə</translit>
+				<concepts>
+					<c>fig</c>
+				</concepts>
+				<url source="wiki">/wiki/ល្វា#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*lŋaam</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/lŋaam</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">ngngam</form>
+				<concepts>
+					<c>sweet</c>
+				</concepts>
+				<url source="wiki">/wiki/ngngam#Pacoh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*mat</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/mat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">khmat</form>
+				<concepts>
+					<c>subject</c>
+					<c>face</c>
+					<c>every</c>
+					<c>appearance</c>
+					<c>topic</c>
+					<c>eye</c>
+					<c>thread</c>
+				</concepts>
+				<url source="wiki">/wiki/khmat#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">មាត់</form>
+				<translit>mŏət</translit>
+				<concepts>
+					<c>bank</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/មាត់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">mát</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/mát#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">mat</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/mat#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ml(əw)</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ml(əw)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">bơlŏu</form>
+				<concepts>
+					<c>betel</c>
+				</concepts>
+				<url source="wiki">/wiki/bơlŏu#Bahnar</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ម្លូ</form>
+				<translit>mluu</translit>
+				<concepts>
+					<c>betel</c>
+				</concepts>
+				<url source="wiki">/wiki/ម្លូ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ဇဗၠူ</form>
+				<translit>həpluˀ</translit>
+				<concepts>
+					<c>betel</c>
+				</concepts>
+				<url source="wiki">/wiki/ဇဗၠူ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlù</form>
+				<concepts>
+					<c>betel</c>
+				</concepts>
+				<url source="wiki">/wiki/tlù#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trầu</form>
+				<concepts>
+					<c>betel</c>
+				</concepts>
+				<url source="wiki">/wiki/trầu#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trầu</form>
+				<concepts>
+					<c>paan</c>
+				</concepts>
+				<url source="wiki">/wiki/trầu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*mraik</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/mraik</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Acehnese</lang>
+				<form script="LATIN">meurak</form>
+				<concepts>
+					<c>peacock</c>
+				</concepts>
+				<url source="wiki">/wiki/meurak#Acehnese</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">merak</form>
+				<concepts>
+					<c>peafowl</c>
+					<c>the</c>
+				</concepts>
+				<url source="wiki">/wiki/merak#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">မြာ်</form>
+				<translit>pəràik</translit>
+				<concepts>
+					<c>peafowl</c>
+					<c>peacock</c>
+				</concepts>
+				<url source="wiki">/wiki/မြာ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">mrak</form>
+				<concepts>
+					<c>peacock</c>
+				</concepts>
+				<url source="wiki">/wiki/mrak#Old_Javanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*muh</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/muh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ច្រមុះ</form>
+				<translit>crɑmoh</translit>
+				<concepts>
+					<c>nose</c>
+					<c>snout</c>
+					<c>beak</c>
+				</concepts>
+				<url source="wiki">/wiki/ច្រមុះ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">မိုဟ်</form>
+				<translit>mùh</translit>
+				<concepts>
+					<c>point</c>
+					<c>fringe</c>
+					<c>edge</c>
+				</concepts>
+				<url source="wiki">/wiki/မိုဟ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">móuh</form>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/móuh#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mũi</form>
+				<concepts>
+					<c>cape</c>
+				</concepts>
+				<url source="wiki">/wiki/mũi#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mũi</form>
+				<concepts>
+					<c>nose</c>
+					<c>bow</c>
+					<c>prow</c>
+				</concepts>
+				<url source="wiki">/wiki/mũi#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mũi</form>
+				<concepts>
+					<c>shot</c>
+				</concepts>
+				<url source="wiki">/wiki/mũi#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">mũi</form>
+				<concepts>
+					<c>tip</c>
+				</concepts>
+				<url source="wiki">/wiki/mũi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*mut</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/mut</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">muuc</form>
+				<concepts>
+					<c>enter</c>
+				</concepts>
+				<url source="wiki">/wiki/muuc#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*muuj</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/muuj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">wei</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/wei#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">မွဲ</form>
+				<concepts>
+					<c>neg</c>
+				</concepts>
+				<url source="wiki">/wiki/မွဲ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">môch</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/môch#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">moui</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/moui#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Pnar</lang>
+				<form script="LATIN">wi</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/wi#Pnar</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">một</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/một#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">một</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/một#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">một</form>
+				<concepts>
+					<c>only</c>
+					<c>sole</c>
+					<c>single</c>
+					<c>for one</c>
+				</concepts>
+				<url source="wiki">/wiki/một#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*nt₁aak</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/nt₁aak</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Car Nicobarese</lang>
+				<form script="LATIN">litāk</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/litāk#Car_Nicobarese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អណ្ដាត</form>
+				<translit>ʼɑndaat</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>reed</c>
+				</concepts>
+				<url source="wiki">/wiki/អណ្ដាត#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">lentaak</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/lentaak#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*par</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/par</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ပဝ်</form>
+				<translit>paw</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/ပဝ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ပဝ်</form>
+				<translit>pɔ</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/ပဝ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">păl</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/păl#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">pár</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/pár#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bay</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/bay#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*pləjʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/pləjʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ផ្លែ</form>
+				<translit>phlae</translit>
+				<concepts>
+					<c>bear fruit</c>
+					<c>insult</c>
+				</concepts>
+				<url source="wiki">/wiki/ផ្លែ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ផ្លែ</form>
+				<translit>phlae</translit>
+				<concepts>
+					<c>wart</c>
+					<c>blister</c>
+					<c>result</c>
+					<c>fruit</c>
+					<c>boil</c>
+					<c>outcome</c>
+					<c>blade</c>
+				</concepts>
+				<url source="wiki">/wiki/ផ្លែ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Vietnamese</lang>
+				<form script="LATIN">blái</form>
+				<concepts>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/blái#Middle_Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlải</form>
+				<concepts>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/tlải#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">culay</form>
+				<concepts>
+					<c>fruit</c>
+				</concepts>
+				<url source="wiki">/wiki/culay#Pacoh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*prɔɔk</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/prɔɔk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">កំប្រុក</form>
+				<translit>kɑmprok</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/កំប្រុក#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Nyah Kur</lang>
+				<form script="THAI">โปรก</form>
+				<translit>prook</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/โปรก#Nyah_Kur</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">perook</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/perook#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*pt₁is</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/pt₁is</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ផ្សិត</form>
+				<translit>phsət</translit>
+				<concepts>
+					<c>mushroom</c>
+					<c>mold</c>
+				</concepts>
+				<url source="wiki">/wiki/ផ្សិត#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">betees</form>
+				<concepts>
+					<c>mushroom</c>
+				</concepts>
+				<url source="wiki">/wiki/betees#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*punʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/punʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">បួន</form>
+				<translit>buən</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/បួន#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">pổn</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/pổn#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">poan</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/poan#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">bốn</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/bốn#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*pʔus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/pʔus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ổi</form>
+				<concepts>
+					<c>guava</c>
+				</concepts>
+				<url source="wiki">/wiki/ổi#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*rac</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/rac</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">rèc</form>
+				<concepts>
+					<c>sparrow</c>
+				</concepts>
+				<url source="wiki">/wiki/rèc#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ruj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ruj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">រុយ</form>
+				<translit>ruy</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/រុយ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">rooy</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/rooy#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ruŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ruŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Acehnese</lang>
+				<form script="LATIN">kruëng</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/kruëng#Acehnese</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Cham</lang>
+				<form script="LATIN">krăwng</form>
+				<translit>/krɔŋ/</translit>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/krăwng#Eastern_Cham</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">k'ruung</form>
+				<concepts>
+					<c>river</c>
+					<c>stream</c>
+				</concepts>
+				<url source="wiki">/wiki/k'ruung#Eastern_Katu</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦭꦺꦴꦃ</form>
+				<translit>loh</translit>
+				<concepts>
+					<c>productive</c>
+					<c>fertile</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦭꦺꦴꦃ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦭꦺꦴꦃ</form>
+				<translit>loh</translit>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦭꦺꦴꦃ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">lwah</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/lwah#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">cruông</form>
+				<translit>/kruəŋ/</translit>
+				<concepts>
+					<c>area</c>
+					<c>country</c>
+				</concepts>
+				<url source="wiki">/wiki/cruông#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Tavoyan</lang>
+				<form script="MYANMAR">ခ္လောင်း</form>
+				<concepts>
+					<c>brook</c>
+					<c>creek</c>
+					<c>stream</c>
+				</concepts>
+				<url source="wiki">/wiki/ခ္လောင်း#Tavoyan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">คลอง</form>
+				<translit>klɔɔng</translit>
+				<concepts>
+					<c>path</c>
+					<c>route</c>
+					<c>way</c>
+					<c>passage</c>
+					<c>watercourse</c>
+				</concepts>
+				<url source="wiki">/wiki/คลอง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tibetan</lang>
+				<form script="TIBETAN">ཀླུང་མ</form>
+				<translit>klung ma</translit>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/ཀླུང་མ#Tibetan</url>
+			</reflex>
+			<reflex>
+				<lang>Tibetan</lang>
+				<form script="TIBETAN">ལུང་པ</form>
+				<translit>lung pa</translit>
+				<concepts>
+					<c>valley</c>
+					<c>country</c>
+					<c>nationality</c>
+					<c>district</c>
+				</concepts>
+				<url source="wiki">/wiki/ལུང་པ#Tibetan</url>
+			</reflex>
+			<reflex>
+				<lang>Tibetan</lang>
+				<form script="TIBETAN">ལྗོངས</form>
+				<translit>ljongs</translit>
+				<concepts>
+					<c>province</c>
+					<c>country</c>
+					<c>region</c>
+					<c>principal</c>
+					<c>district</c>
+				</concepts>
+				<url source="wiki">/wiki/ལྗོངས#Tibetan</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">sông</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/sông#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*sac</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/sac</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">សាច់</form>
+				<translit>sac</translit>
+				<concepts>
+					<c>muscle</c>
+					<c>essence</c>
+					<c>meat</c>
+					<c>pulp</c>
+					<c>texture</c>
+					<c>constituent</c>
+					<c>flesh</c>
+					<c>substance</c>
+				</concepts>
+				<url source="wiki">/wiki/សាច់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">xéich</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/xéich#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">séc</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/séc#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*slaʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/slaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">sla</form>
+				<concepts>
+					<c>leaf</c>
+					<c>page</c>
+				</concepts>
+				<url source="wiki">/wiki/sla#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ស្លា</form>
+				<translit>slaa</translit>
+				<concepts>
+					<c>areca palm</c>
+					<c>betel palm</c>
+				</concepts>
+				<url source="wiki">/wiki/ស្លា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ស្លឹក</form>
+				<translit>slək</translit>
+				<concepts>
+					<c>sheet</c>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/ស្លឹក#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">သၠ</form>
+				<translit>hlaʔ</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/သၠ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">lả</form>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/lả#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">selaaq</form>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/selaaq#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Thavung</lang>
+				<form script="THAI">ซะล้า</form>
+				<translit>slaː³</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/ซะล้า#Thavung</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lá</form>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="wiki">/wiki/lá#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">lá</form>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/lá#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*smaaɲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/smaaɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">သၟာန်</form>
+				<translit>hman</translit>
+				<concepts>
+					<c>question</c>
+				</concepts>
+				<url source="wiki">/wiki/သၟာန်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">semaañ</form>
+				<concepts>
+					<c>ask</c>
+				</concepts>
+				<url source="wiki">/wiki/semaañ#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*smʔaɲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/smʔaɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">x'mănh</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/x'mănh#Eastern_Katu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*snaʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/snaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">弩</form>
+				<translit>nǔ</translit>
+				<concepts>
+					<c>crossbow</c>
+				</concepts>
+				<url source="wiki">/wiki/弩#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ស្នា</form>
+				<translit>snaa</translit>
+				<concepts>
+					<c>success</c>
+					<c>work</c>
+					<c>toil</c>
+					<c>production</c>
+					<c>craft</c>
+					<c>masterpiece</c>
+					<c>attainment</c>
+					<c>skill</c>
+					<c>labor</c>
+					<c>achievement</c>
+					<c>handiwork</c>
+					<c>composition</c>
+				</concepts>
+				<url source="wiki">/wiki/ស្នា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">nả</form>
+				<concepts>
+					<c>he</c>
+					<c>him</c>
+					<c>she</c>
+					<c>her</c>
+				</concepts>
+				<url source="wiki">/wiki/nả#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Thavung</lang>
+				<form script="THAI">ซะน่า</form>
+				<concepts>
+					<c>crossbow</c>
+				</concepts>
+				<url source="wiki">/wiki/ซะน่า#Thavung</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ná</form>
+				<concepts>
+					<c>slingshot</c>
+				</concepts>
+				<url source="wiki">/wiki/ná#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*suk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/suk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">shñiuh</form>
+				<concepts>
+					<c>fur</c>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/shñiuh#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">សក់</form>
+				<translit>sɑk</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/សក់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">thắc</form>
+				<concepts>
+					<c>headhair</c>
+				</concepts>
+				<url source="wiki">/wiki/thắc#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">sòòk</form>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/sòòk#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">tóc</form>
+				<concepts>
+					<c>headhair</c>
+				</concepts>
+				<url source="wiki">/wiki/tóc#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*tkat</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/tkat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">dekat</form>
+				<concepts>
+					<c>catch cold</c>
+				</concepts>
+				<url source="wiki">/wiki/dekat#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">dekat</form>
+				<concepts>
+					<c>feverish</c>
+				</concepts>
+				<url source="wiki">/wiki/dekat#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*tɟooʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/tɟooʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">tajoq</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/tajoq#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*t₁aaɲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/t₁aaɲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ត្បាញ</form>
+				<translit>tbaañ</translit>
+				<concepts>
+					<c>weave</c>
+				</concepts>
+				<url source="wiki">/wiki/ត្បាញ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">đan</form>
+				<concepts>
+					<c>plait</c>
+					<c>weave</c>
+				</concepts>
+				<url source="wiki">/wiki/đan#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*t₁lan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/t₁lan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">t'lăn</form>
+				<concepts>
+					<c>python</c>
+				</concepts>
+				<url source="wiki">/wiki/t'lăn#Eastern_Katu</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ថ្លាន់</form>
+				<translit>thlan</translit>
+				<concepts>
+					<c>python</c>
+				</concepts>
+				<url source="wiki">/wiki/ថ្លាន់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">tlăn</form>
+				<concepts>
+					<c>python</c>
+					<c>boa</c>
+				</concepts>
+				<url source="wiki">/wiki/tlăn#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">trăn</form>
+				<concepts>
+					<c>python</c>
+					<c>boa</c>
+					<c>anaconda</c>
+				</concepts>
+				<url source="wiki">/wiki/trăn#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*t₁ləm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/t₁ləm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">plôm</form>
+				<concepts>
+					<c>land-leech</c>
+				</concepts>
+				<url source="wiki">/wiki/plôm#Pacoh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*t₁ləəm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/t₁ləəm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ថ្លើម</form>
+				<translit>thlaəm</translit>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/ថ្លើម#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">lòm</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/lòm#Muong</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*t₂mɔʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/t₂mɔʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ថ្ម</form>
+				<translit>thmɑɑ</translit>
+				<concepts>
+					<c>stone</c>
+					<c>concrete</c>
+					<c>rock</c>
+					<c>battery</c>
+				</concepts>
+				<url source="wiki">/wiki/ថ្ម#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">တၟံ</form>
+				<translit>mɔˀ</translit>
+				<concepts>
+					<c>all</c>
+					<c>every</c>
+				</concepts>
+				<url source="wiki">/wiki/တၟံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">တၟံ</form>
+				<translit>mɔˀ</translit>
+				<concepts>
+					<c>every</c>
+				</concepts>
+				<url source="wiki">/wiki/တၟံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">တၟံ</form>
+				<translit>mɔˀ</translit>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/တၟံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">တၟံ</form>
+				<translit>mɔˀ</translit>
+				<concepts>
+					<c>totality</c>
+				</concepts>
+				<url source="wiki">/wiki/တၟံ#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Shwe Palaung</lang>
+				<form script="MYANMAR">မို</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/မို#Shwe_Palaung</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*t₂ŋiiʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/t₂ŋiiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">t'ngay</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/t'ngay#Eastern_Katu</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦠꦔꦶ</form>
+				<translit>tangi</translit>
+				<concepts>
+					<c>rise</c>
+					<c>get up</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦠꦔꦶ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ថ្ងៃ</form>
+				<translit>thngay</translit>
+				<concepts>
+					<c>sun</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ថ្ងៃ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">ngày</form>
+				<concepts>
+					<c>date</c>
+					<c>day</c>
+					<c>daytime</c>
+				</concepts>
+				<url source="wiki">/wiki/ngày#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">ngày</form>
+				<concepts>
+					<c>date</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ngày#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɓiəc</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɓiəc</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">bèèt</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/bèèt#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɓul</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɓul</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ពុល</form>
+				<translit>pul</translit>
+				<concepts>
+					<c>poison</c>
+				</concepts>
+				<url source="wiki">/wiki/ពុល#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ពុល</form>
+				<translit>pul</translit>
+				<concepts>
+					<c>toxic</c>
+					<c>poisonous</c>
+					<c>poisoned</c>
+					<c>intoxicated</c>
+					<c>sick</c>
+					<c>polluted</c>
+					<c>contaminated</c>
+				</concepts>
+				<url source="wiki">/wiki/ពុល#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">beel</form>
+				<concepts>
+					<c>drunk</c>
+				</concepts>
+				<url source="wiki">/wiki/beel#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">beel</form>
+				<concepts>
+					<c>drunk</c>
+					<c>intoxicated</c>
+				</concepts>
+				<url source="wiki">/wiki/beel#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɓəs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɓəs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ពស់</form>
+				<translit>pŭəh</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ពស់#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɗaak</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɗaak</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bahnar</lang>
+				<form script="LATIN">đak</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/đak#Bahnar</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Bru</lang>
+				<form script="LATIN">dỡq</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/dỡq#Eastern_Bru</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Katu</lang>
+				<form script="LATIN">đác</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/đác#Eastern_Katu</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Mnong</lang>
+				<form script="LATIN">dak</form>
+				<concepts>
+					<c>water</c>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/dak#Eastern_Mnong</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ទឹក</form>
+				<translit>tɨk</translit>
+				<concepts>
+					<c>temperament</c>
+					<c>round</c>
+					<c>silver</c>
+					<c>juice</c>
+					<c>water</c>
+					<c>jewels</c>
+					<c>liquid</c>
+					<c>suit</c>
+				</concepts>
+				<url source="wiki">/wiki/ទឹក#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ဍာ်</form>
+				<translit>daik</translit>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/ဍာ်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Muong</lang>
+				<form script="LATIN">đác</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/đác#Muong</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">daq</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/daq#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semelai</lang>
+				<form script="LATIN">dak</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/dak#Semelai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nước</form>
+				<concepts>
+					<c>move</c>
+					<c>step</c>
+				</concepts>
+				<url source="wiki">/wiki/nước#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɗak</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɗak</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ទាក់</form>
+				<translit>tĕək</translit>
+				<concepts>
+					<c>persuade</c>
+					<c>court</c>
+					<c>entrap</c>
+					<c>confuse</c>
+					<c>attract</c>
+					<c>entice</c>
+					<c>snare</c>
+					<c>tempt</c>
+					<c>trap</c>
+					<c>capture</c>
+					<c>catch</c>
+					<c>entangle</c>
+					<c>seduce</c>
+					<c>convince</c>
+				</concepts>
+				<url source="wiki">/wiki/ទាក់#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">dak</form>
+				<concepts>
+					<c>trap</c>
+				</concepts>
+				<url source="wiki">/wiki/dak#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɗum</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɗum</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ទុំ</form>
+				<translit>tum</translit>
+				<concepts>
+					<c>mature</c>
+					<c>ripen</c>
+				</concepts>
+				<url source="wiki">/wiki/ទុំ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ទុំ</form>
+				<translit>tum</translit>
+				<concepts>
+					<c>ripe</c>
+				</concepts>
+				<url source="wiki">/wiki/ទុំ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ទុំ</form>
+				<translit>tum</translit>
+				<concepts>
+					<c>tum</c>
+				</concepts>
+				<url source="wiki">/wiki/ទុំ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɗuuk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɗuuk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">舟</form>
+				<translit>zhōu</translit>
+				<concepts>
+					<c>boat</c>
+					<c>ride</c>
+					<c>sail</c>
+				</concepts>
+				<url source="wiki">/wiki/舟#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ទូក</form>
+				<translit>tuuk</translit>
+				<concepts>
+					<c>boat</c>
+					<c>sampan</c>
+					<c>canoe</c>
+					<c>rook</c>
+				</concepts>
+				<url source="wiki">/wiki/ទូក#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɟkaw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɟkaw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gấu</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/gấu#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">gấu</form>
+				<concepts>
+					<c>date</c>
+				</concepts>
+				<url source="wiki">/wiki/gấu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɟlaʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɟlaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">បន្លា</form>
+				<translit>bɑnlaa</translit>
+				<concepts>
+					<c>thorn</c>
+					<c>spine</c>
+					<c>barb</c>
+				</concepts>
+				<url source="wiki">/wiki/បន្លា#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɟriiʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɟriiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ជ្រៃ</form>
+				<translit>crɨy</translit>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="wiki">/wiki/ជ្រៃ#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɟruuʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɟruuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬚᭂᬭᭀ</form>
+				<translit>jero</translit>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬚᭂᬭᭀ#Balinese</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦗꦼꦫꦺꦴ</form>
+				<translit>jero</translit>
+				<concepts>
+					<c>inside</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦗꦼꦫꦺꦴ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ជ្រៅ</form>
+				<translit>crɨw</translit>
+				<concepts>
+					<c>profound</c>
+					<c>deep</c>
+				</concepts>
+				<url source="wiki">/wiki/ជ្រៅ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">jro</form>
+				<concepts>
+					<c>inside</c>
+					<c>depth</c>
+					<c>interior</c>
+				</concepts>
+				<url source="wiki">/wiki/jro#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Pacoh</lang>
+				<form script="LATIN">tru</form>
+				<concepts>
+					<c>deep</c>
+				</concepts>
+				<url source="wiki">/wiki/tru#Pacoh</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">jereeq</form>
+				<concepts>
+					<c>deep</c>
+				</concepts>
+				<url source="wiki">/wiki/jereeq#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɟruŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɟruŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ជ្រុង</form>
+				<translit>crung</translit>
+				<concepts>
+					<c>corner</c>
+					<c>angle</c>
+				</concepts>
+				<url source="wiki">/wiki/ជ្រុង#Khmer</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ɲuuʔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ɲuuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">nyòq</form>
+				<concepts>
+					<c>suck</c>
+				</concepts>
+				<url source="wiki">/wiki/nyòq#Semai</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">nhậu</form>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/nhậu#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ʔ(o)m</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ʔ(o)m</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khasi</lang>
+				<form script="LATIN">um</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/um#Khasi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmu</lang>
+				<form script="LAO">ອົມ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ອົມ#Khmu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ʔaaŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ʔaaŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">aang</form>
+				<concepts>
+					<c>agape</c>
+				</concepts>
+				<url source="wiki">/wiki/aang#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ʔic</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ʔic</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អាចម៍</form>
+				<translit>ʼac</translit>
+				<concepts>
+					<c>excrement</c>
+					<c>dung</c>
+					<c>dirt</c>
+					<c>filth</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/អាចម៍#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">အိက်</form>
+				<concepts>
+					<c>feces</c>
+					<c>waste product</c>
+					<c>excretion</c>
+				</concepts>
+				<url source="wiki">/wiki/အိက်#Mon</url>
+			</reflex>
+			<reflex>
+				<lang>Semai</lang>
+				<form script="LATIN">èc</form>
+				<concepts>
+					<c>belly</c>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>stomach</c>
+				</concepts>
+				<url source="wiki">/wiki/èc#Semai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ʔseh</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ʔseh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">សេះ</form>
+				<translit>seh</translit>
+				<concepts>
+					<c>horse</c>
+					<c>knight</c>
+				</concepts>
+				<url source="wiki">/wiki/សេះ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Mon</lang>
+				<form script="MYANMAR">ချေံ</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ချေံ#Mon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Mon-Khmer</plang>
+			<pform>*ʔuək</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Mon-Khmer/ʔuək</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">óc</form>
+				<concepts>
+					<c>brain</c>
+					<c>sense</c>
+					<c>brains</c>
+				</concepts>
+				<url source="wiki">/wiki/óc#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,1876 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*-bilí</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/-bilí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">-bilí</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/bili#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">-bînî́</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/bînî#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">-bilí</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/bili#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">-biní</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/bini#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">-bilí</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/bili#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*-bomvú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/-bomvú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">-bomvú</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/bomvu#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">-bovú</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/bovu#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">-bomvú</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/bomvu#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">-bomvú</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/bomvu#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*-bonga</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/-bonga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">-boga</form>
+				<concepts>
+					<c>praise</c>
+					<c>thank</c>
+				</concepts>
+				<url source="wiki">/wiki/boga#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">-bonga</form>
+				<concepts>
+					<c>praise</c>
+					<c>thank</c>
+				</concepts>
+				<url source="wiki">/wiki/bonga#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">-bonga</form>
+				<concepts>
+					<c>praise</c>
+					<c>thank</c>
+				</concepts>
+				<url source="wiki">/wiki/bonga#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">-bonga</form>
+				<concepts>
+					<c>recognise</c>
+					<c>praise</c>
+					<c>laud</c>
+					<c>thank</c>
+				</concepts>
+				<url source="wiki">/wiki/bonga#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*kwá-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/kwá-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">kwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/kwa-#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">kwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/kwa-#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">kwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/kwa-#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">kwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/kwa-#Zulu</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">kwa-</form>
+				<concepts>
+					<c>of</c>
+					<c>to</c>
+					<c>at</c>
+				</concepts>
+				<url source="wiki">/wiki/kwa-#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*loná</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/loná</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">loná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/lona#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">loná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/lona#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">loná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/lona#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">loná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/lona#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*lwá-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/lwá-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">lwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/lwa-#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">lwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/lwa-#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">lwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/lwa-#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">lwa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/lwa-#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*lá-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/lá-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">la-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/la-#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">la-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/la-#Xhosa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*miná</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/miná</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">miná</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/mina#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">miné</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/mine#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">miné</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/mine#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">mná</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/mna#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">miná</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/mina#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*mú-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/mú-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">m-</form>
+				<concepts>
+					<c>him</c>
+					<c>her</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/m-#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">mu-</form>
+				<concepts>
+					<c>him</c>
+					<c>her</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/mu-#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">m-</form>
+				<concepts>
+					<c>him</c>
+					<c>her</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/m-#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">mu-</form>
+				<concepts>
+					<c>him</c>
+					<c>her</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/mu-#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">m-</form>
+				<concepts>
+					<c>him</c>
+					<c>her</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/m-#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">mu-</form>
+				<concepts>
+					<c>him</c>
+					<c>her</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/mu-#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ngi-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ngi-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">ngi-</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ngi-#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">gi-</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/gi-#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">ngi-</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ngi-#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ndi-</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ndi-#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ngi-</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ngi-#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ni-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ni-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">li-</form>
+				<concepts>
+					<c>you</c>
+					<c>you all</c>
+				</concepts>
+				<url source="wiki">/wiki/li-#Northern_Ndebele</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*niná</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/niná</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">liné</form>
+				<concepts>
+					<c>you</c>
+					<c>you all</c>
+				</concepts>
+				<url source="wiki">/wiki/line#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">niné</form>
+				<concepts>
+					<c>you</c>
+					<c>you all</c>
+				</concepts>
+				<url source="wiki">/wiki/nine#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">niná</form>
+				<concepts>
+					<c>you</c>
+					<c>you all</c>
+				</concepts>
+				<url source="wiki">/wiki/nina#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">niná</form>
+				<concepts>
+					<c>you</c>
+					<c>you all</c>
+				</concepts>
+				<url source="wiki">/wiki/nina#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*soná</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/soná</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">soná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/sona#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">soná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/sona#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">soná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/sona#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">soná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/sona#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*sá-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/sá-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">sa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/sa-#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">sa-</form>
+				<concepts>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/sa-#Swazi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*wená</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/wená</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">wená</form>
+				<concepts>
+					<c>you</c>
+					<c>thou</c>
+					<c>thee</c>
+				</concepts>
+				<url source="wiki">/wiki/wena#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">wená</form>
+				<concepts>
+					<c>you</c>
+					<c>thou</c>
+					<c>thee</c>
+				</concepts>
+				<url source="wiki">/wiki/wena#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">wená</form>
+				<concepts>
+					<c>you</c>
+					<c>thou</c>
+					<c>thee</c>
+				</concepts>
+				<url source="wiki">/wiki/wena#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">wená</form>
+				<concepts>
+					<c>you</c>
+					<c>thou</c>
+					<c>thee</c>
+				</concepts>
+				<url source="wiki">/wiki/wena#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">wená</form>
+				<concepts>
+					<c>you</c>
+					<c>thou</c>
+					<c>thee</c>
+				</concepts>
+				<url source="wiki">/wiki/wena#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*woná</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/woná</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Zulu</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">woná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/wona#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*wá-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/wá-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">wa-</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/wa-#Phuthi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*yená</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/yená</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">yená</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yena#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">yená</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yena#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">yená</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yena#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">yená</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yena#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*yoná</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/yoná</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>her</c>
+					<c>it</c>
+					<c>him</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Zulu</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">yoná</form>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/yona#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*íligámá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/íligámá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">ligama</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/ligama#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">igama</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/igama#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">igama</form>
+				<concepts>
+					<c>name</c>
+					<c>word</c>
+				</concepts>
+				<url source="wiki">/wiki/igama#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ílishúmí</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ílishúmí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">lishume</form>
+				<concepts>
+					<c>ten</c>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/lishume#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">lishumi</form>
+				<concepts>
+					<c>ten</c>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/lishumi#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ishumi</form>
+				<concepts>
+					<c>ten</c>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/ishumi#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ishumi</form>
+				<concepts>
+					<c>ten</c>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/ishumi#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ílíbomvú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ílíbomvú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">libovu</form>
+				<concepts>
+					<c>red ochre</c>
+				</concepts>
+				<url source="wiki">/wiki/libovu#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">libovu</form>
+				<concepts>
+					<c>red ochre</c>
+				</concepts>
+				<url source="wiki">/wiki/libovu#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ibomvu</form>
+				<concepts>
+					<c>red ochre</c>
+				</concepts>
+				<url source="wiki">/wiki/ibomvu#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ibomvu</form>
+				<concepts>
+					<c>red ochre</c>
+				</concepts>
+				<url source="wiki">/wiki/ibomvu#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ímbóngolo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ímbóngolo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">ímbóngolo</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/imbongolo#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">imbongolo</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/imbongolo#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">imbóngolo</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/imbongolo#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ímvú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ímvú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">ívú</form>
+				<concepts>
+					<c>sheep</c>
+				</concepts>
+				<url source="wiki">/wiki/ivu#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">îmvú</form>
+				<concepts>
+					<c>sheep</c>
+				</concepts>
+				<url source="wiki">/wiki/imvu#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ímvú</form>
+				<concepts>
+					<c>sheep</c>
+				</concepts>
+				<url source="wiki">/wiki/imvu#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">îmvú</form>
+				<concepts>
+					<c>sheep</c>
+				</concepts>
+				<url source="wiki">/wiki/imvu#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*índlu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/índlu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">indlu</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/indlu#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">ídlu</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/idlu#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">índlu</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/indlu#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">índlu</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/indlu#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">índlu</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/indlu#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*índuku</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/índuku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">índvuku</form>
+				<concepts>
+					<c>staff</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/indvuku#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">índuku</form>
+				<concepts>
+					<c>staff</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/induku#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">índuku</form>
+				<concepts>
+					<c>staff</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/induku#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ínjá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ínjá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">íjhá</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ijha#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">înjá</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/inja#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ínjá</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/inja#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">înjá</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/inja#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ínyangá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ínyangá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lala (South Africa)</lang>
+				<form script="LATIN">nyanga</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/nyanga#Lala_(South_Africa)</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Ndebele</lang>
+				<form script="LATIN">inyanga</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/inyanga#Northern_Ndebele</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ínyangá</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/inyanga#Xhosa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ínyóká</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ínyóká</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">ínyóká</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/inyoka#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">ínyôka</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/inyoka#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ínyôka</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/inyoka#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ínyôka</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/inyoka#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*ísibáyá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/ísibáyá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">síbâya</form>
+				<concepts>
+					<c>kraal</c>
+					<c>fold</c>
+				</concepts>
+				<url source="wiki">/wiki/sibaya#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ísibâya</form>
+				<concepts>
+					<c>kraal</c>
+					<c>fold</c>
+				</concepts>
+				<url source="wiki">/wiki/isibaya#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ísibâya</form>
+				<concepts>
+					<c>kraal</c>
+					<c>fold</c>
+				</concepts>
+				<url source="wiki">/wiki/isibaya#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úbubí</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úbubí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">bubi</form>
+				<concepts>
+					<c>badness</c>
+					<c>ugliness</c>
+					<c>evil</c>
+				</concepts>
+				<url source="wiki">/wiki/bubi#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ububi</form>
+				<concepts>
+					<c>badness</c>
+					<c>ugliness</c>
+					<c>evil</c>
+				</concepts>
+				<url source="wiki">/wiki/ububi#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ububi</form>
+				<concepts>
+					<c>badness</c>
+					<c>ugliness</c>
+					<c>evil</c>
+				</concepts>
+				<url source="wiki">/wiki/ububi#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úbusó</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úbusó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">buso</form>
+				<concepts>
+					<c>face</c>
+				</concepts>
+				<url source="wiki">/wiki/buso#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ubuso</form>
+				<concepts>
+					<c>face</c>
+				</concepts>
+				<url source="wiki">/wiki/ubuso#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ubuso</form>
+				<concepts>
+					<c>face</c>
+					<c>front</c>
+				</concepts>
+				<url source="wiki">/wiki/ubuso#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úbusúkú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úbusúkú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">busuku</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/busuku#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">busuku</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/busuku#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ubusuku</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/ubusuku#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ubusuku</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/ubusuku#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úbúbomvú</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úbúbomvú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">bubovu</form>
+				<concepts>
+					<c>redness</c>
+				</concepts>
+				<url source="wiki">/wiki/bubovu#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ububomvu</form>
+				<concepts>
+					<c>redness</c>
+				</concepts>
+				<url source="wiki">/wiki/ububomvu#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ububomvu</form>
+				<concepts>
+					<c>red</c>
+					<c>redness</c>
+				</concepts>
+				<url source="wiki">/wiki/ububomvu#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úlubísí</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úlubísí</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">libisi</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/libisi#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">lubisi</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/lubisi#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">ubisi</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/ubisi#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ubisi</form>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/ubisi#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úlusíbá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úlusíbá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">lisîba</form>
+				<concepts>
+					<c>plume</c>
+				</concepts>
+				<url source="wiki">/wiki/lisîba#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">lusiba</form>
+				<concepts>
+					<c>pen</c>
+					<c>plume</c>
+				</concepts>
+				<url source="wiki">/wiki/lusiba#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">usiba</form>
+				<concepts>
+					<c>plume</c>
+				</concepts>
+				<url source="wiki">/wiki/usiba#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">usiba</form>
+				<concepts>
+					<c>quill pen</c>
+					<c>plume</c>
+				</concepts>
+				<url source="wiki">/wiki/usiba#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úlusúkú</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úlusúkú</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">lusuku</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/lusuku#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">usuku</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/usuku#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">usuku</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/usuku#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úlúbonda</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úlúbonda</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">libudza</form>
+				<concepts>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/libudza#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">lubondza</form>
+				<concepts>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/lubondza#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">ubonda</form>
+				<concepts>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/ubonda#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úmusá</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úmusá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phuthi</lang>
+				<form script="LATIN">musa</form>
+				<concepts>
+					<c>kindness</c>
+				</concepts>
+				<url source="wiki">/wiki/musa#Phuthi</url>
+			</reflex>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">umusa</form>
+				<concepts>
+					<c>kindness</c>
+				</concepts>
+				<url source="wiki">/wiki/umusa#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">umsa</form>
+				<concepts>
+					<c>kindness</c>
+				</concepts>
+				<url source="wiki">/wiki/umsa#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">umusa</form>
+				<concepts>
+					<c>mercy</c>
+					<c>tenderness</c>
+					<c>kindness</c>
+				</concepts>
+				<url source="wiki">/wiki/umusa#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nguni</plang>
+			<pform>*úmusó</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nguni/úmusó</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Swazi</lang>
+				<form script="LATIN">umuso</form>
+				<concepts>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/umuso#Swazi</url>
+			</reflex>
+			<reflex>
+				<lang>Xhosa</lang>
+				<form script="LATIN">umso</form>
+				<concepts>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/umso#Xhosa</url>
+			</reflex>
+			<reflex>
+				<lang>Zulu</lang>
+				<form script="LATIN">umuso</form>
+				<concepts>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/umuso#Zulu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

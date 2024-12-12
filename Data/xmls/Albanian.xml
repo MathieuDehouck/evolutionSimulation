@@ -1,0 +1,324 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*Tūrsanā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/Tūrsanā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">Tiranë</form>
+				<concepts>
+					<c>Tirana</c>
+				</concepts>
+				<url source="wiki">/wiki/Tiranë#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">Tirane</form>
+				<concepts>
+					<c>Tirana</c>
+				</concepts>
+				<url source="wiki">/wiki/Tirane#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">Tiranã</form>
+				<concepts>
+					<c>Tirana</c>
+				</concepts>
+				<url source="wiki">/wiki/Tiranã#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Norwegian Bokmål</lang>
+				<form script="LATIN">Tiranë</form>
+				<concepts>
+					<c>Tirana</c>
+				</concepts>
+				<url source="wiki">/wiki/Tiranë#Norwegian_Bokmål</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*baba</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/baba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">babë</form>
+				<concepts>
+					<c>father</c>
+					<c>daddy</c>
+					<c>grandpa</c>
+					<c>dad</c>
+				</concepts>
+				<url source="wiki">/wiki/babë#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*batsā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/batsā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">bathë</form>
+				<concepts>
+					<c>bean</c>
+					<c>broad bean</c>
+					<c>fava bean</c>
+				</concepts>
+				<url source="wiki">/wiki/bathë#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*labeita</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/labeita</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">lëbozë</form>
+				<concepts>
+					<c>horizon</c>
+				</concepts>
+				<url source="wiki">/wiki/lëbozë#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*lenta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/lenta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">lend</form>
+				<concepts>
+					<c>acorn</c>
+				</concepts>
+				<url source="wiki">/wiki/lend#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*lulā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/lulā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">lule</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/lule#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">λουλούδι</form>
+				<translit>louloúdi</translit>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/λουλούδι#Greek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*mala</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/mala</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">malësi</form>
+				<concepts>
+					<c>highland</c>
+				</concepts>
+				<url source="wiki">/wiki/malësi#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">malësor</form>
+				<concepts>
+					<c>highlander</c>
+					<c>mountaineer</c>
+				</concepts>
+				<url source="wiki">/wiki/malësor#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">tërmal</form>
+				<concepts>
+					<c>upwards</c>
+				</concepts>
+				<url source="wiki">/wiki/tërmal#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*manta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/manta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">man</form>
+				<concepts>
+					<c>mulberry</c>
+				</concepts>
+				<url source="wiki">/wiki/man#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*mālā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/mālā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">mollë</form>
+				<concepts>
+					<c>apple</c>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/mollë#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*rapa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/rapa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">rrap</form>
+				<concepts>
+					<c>plane tree</c>
+				</concepts>
+				<url source="wiki">/wiki/rrap#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*talā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/talā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">tallë</form>
+				<concepts>
+					<c>cornstalk</c>
+					<c>cornhusk</c>
+					<c>johnsongrass</c>
+				</concepts>
+				<url source="wiki">/wiki/tallë#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*wāribā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/wāribā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">vorbë</form>
+				<concepts>
+					<c>pipkin</c>
+				</concepts>
+				<url source="wiki">/wiki/vorbë#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Albanian</plang>
+			<pform>*štšertja</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Albanian/štšertja</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">çars</form>
+				<concepts>
+					<c>spoil</c>
+					<c>destroy</c>
+					<c>break</c>
+					<c>ruin</c>
+					<c>alienate</c>
+				</concepts>
+				<url source="wiki">/wiki/çars#Albanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

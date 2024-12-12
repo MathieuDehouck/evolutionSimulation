@@ -1,0 +1,58 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Southern Plains Chin</plang>
+			<pform>*khlaaŋ ⪤ khlooŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5296</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Daai</lang>
+				<form script="LATIN">ʔkɣʰaːŋ</form>
+				<concepts>
+					<c>person</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5296</url>
+			</reflex>
+			<reflex>
+				<lang>Khumi</lang>
+				<form script="LATIN">léewng</form>
+				<concepts>
+					<c>person</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5296</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Southern Plains Chin</plang>
+			<pform>*wum</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5151</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asho</lang>
+				<form script="LATIN">wiˊˊ</form>
+				<concepts>
+					<c>hide</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5151</url>
+			</reflex>
+			<reflex>
+				<lang>Cho (Mindat)</lang>
+				<form script="LATIN">vum</form>
+				<concepts>
+					<c>hide</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5151</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

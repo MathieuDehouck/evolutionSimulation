@@ -1,0 +1,122 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Chamic</plang>
+			<pform>*phaːt</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chamic/phaːt</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Rade</lang>
+				<form script="LATIN">phat</form>
+				<concepts>
+					<c>chisel</c>
+				</concepts>
+				<url source="wiki">/wiki/phat#Rade</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chamic</plang>
+			<pform>*tasiʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chamic/tasiʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jarai</lang>
+				<form script="LATIN">rơsĭ</form>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/rơsĭ#Jarai</url>
+			</reflex>
+			<reflex>
+				<lang>Rade</lang>
+				<form script="LATIN">ksĭ</form>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/ksĭ#Rade</url>
+			</reflex>
+			<reflex>
+				<lang>Tsat</lang>
+				<form script="LATIN">siaʔ⁴³</form>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/siaʔ⁴³#Tsat</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chamic</plang>
+			<pform>*ʔaŋin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chamic/ʔaŋin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Acehnese</lang>
+				<form script="LATIN">angèn</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/angèn#Acehnese</url>
+			</reflex>
+			<reflex>
+				<lang>Jarai</lang>
+				<form script="LATIN">angĭn</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/angĭn#Jarai</url>
+			</reflex>
+			<reflex>
+				<lang>Rade</lang>
+				<form script="LATIN">angin</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/angin#Rade</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chamic</plang>
+			<pform>*ʔiar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chamic/ʔiar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jarai</lang>
+				<form script="LATIN">ia</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ia#Jarai</url>
+			</reflex>
+			<reflex>
+				<lang>Tsat</lang>
+				<form script="LATIN">ʔia³³</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ʔia³³#Tsat</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

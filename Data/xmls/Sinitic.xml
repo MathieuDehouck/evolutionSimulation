@@ -1,0 +1,30 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Sinitic</plang>
+			<pform>*yāzi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5718</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">jats</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5718</url>
+			</reflex>
+			<reflex>
+				<lang>Qiang (Mawo)</lang>
+				<form script="LATIN">jɑs</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5718</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

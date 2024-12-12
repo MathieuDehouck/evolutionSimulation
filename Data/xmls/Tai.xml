@@ -1,0 +1,7916 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̥.damᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̥.damᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ດຳ</form>
+				<translit>dam</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/ດຳ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦡᧄ</form>
+				<translit>ḋam</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦡᧄ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">လမ်</form>
+				<translit>lǎm</translit>
+				<concepts>
+					<c>dive</c>
+				</concepts>
+				<url source="wiki">/wiki/လမ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ดำ</form>
+				<translit>dam</translit>
+				<concepts>
+					<c>plant</c>
+					<c>transplant</c>
+				</concepts>
+				<url source="wiki">/wiki/ดำ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">đăm</form>
+				<concepts>
+					<c>black</c>
+					<c>dark</c>
+				</concepts>
+				<url source="wiki">/wiki/đăm#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">ndaem</form>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/ndaem#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.kumᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.kumᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขุม</form>
+				<translit>kǔm</translit>
+				<concepts>
+					<c>skin</c>
+					<c>repository</c>
+					<c>pore</c>
+					<c>storehouse</c>
+					<c>trove</c>
+					<c>source</c>
+					<c>pit</c>
+					<c>extent</c>
+					<c>degree</c>
+					<c>leaf</c>
+					<c>hole</c>
+				</concepts>
+				<url source="wiki">/wiki/ขุม#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gumz</form>
+				<concepts>
+					<c>low-lying</c>
+					<c>concave</c>
+				</concepts>
+				<url source="wiki">/wiki/gumz#Zhuang</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gumz</form>
+				<concepts>
+					<c>pit</c>
+					<c>hole</c>
+					<c>grave</c>
+				</concepts>
+				<url source="wiki">/wiki/gumz#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.lɯmᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.lɯmᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜎𑜪𑜤</form>
+				<translit>laṃu</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜎𑜪𑜤#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">ndumx</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/ndumx#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">rumx</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/rumx#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ລົມ</form>
+				<translit>lom</translit>
+				<concepts>
+					<c>chat up</c>
+					<c>talk</c>
+					<c>say</c>
+					<c>flirt</c>
+					<c>speak</c>
+					<c>converse</c>
+				</concepts>
+				<url source="wiki">/wiki/ລົມ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦟᦳᧄ</form>
+				<translit>lum</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦟᦳᧄ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᩃᩫ᩠ᨾ</form>
+				<translit>lom</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/ᩃᩫ᩠ᨾ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">လူမ်း</form>
+				<translit>lúum</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/လူမ်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥘᥨᥛᥰ</form>
+				<translit>löm</translit>
+				<concepts>
+					<c>milk</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥘᥨᥛᥰ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ลม</form>
+				<translit>lom</translit>
+				<concepts>
+					<c>wind</c>
+					<c>air</c>
+					<c>breeze</c>
+				</concepts>
+				<url source="wiki">/wiki/ลม#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">rumz</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/rumz#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.namꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.namꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜃𑜪</form>
+				<translit>naṃ</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜃𑜪#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">ꩫံ</form>
+				<translit>naṃ</translit>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩫံ#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">ramx</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ramx#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Khamti</lang>
+				<form script="MYANMAR">ꩫမ်ႇ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩫမ်ႇ#Khamti</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ນ້ຳ</form>
+				<translit>nam</translit>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+					<c>sauce</c>
+				</concepts>
+				<url source="wiki">/wiki/ນ້ຳ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦓᧄᧉ</form>
+				<translit>nam²</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦓᧄᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨶ᩶ᩣᩴ</form>
+				<translit>nam</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨶ᩶ᩣᩴ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">nãhm</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nãhm#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Phake</lang>
+				<form script="MYANMAR">ꩫံ</form>
+				<translit>naṃ</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩫံ#Phake</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">นัม</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/นัม#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၼမ်ႉ</form>
+				<translit>nâ̰m</translit>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/ၼမ်ႉ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪙꪾ꫁</form>
+				<translit>nam6</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪙꪾ꫁#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dón</lang>
+				<form script="TAI VIET">ꪙꪾ꫁</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪙꪾ꫁#Tai_Dón</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Hongjin</lang>
+				<form script="LATIN">nam⁴</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nam⁴#Tai_Hongjin</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥘᥛᥳ</form>
+				<translit>lȧm</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥘᥛᥳ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">น้ำ</form>
+				<translit>náam</translit>
+				<concepts>
+					<c>liquid</c>
+					<c>fluid</c>
+					<c>times</c>
+				</concepts>
+				<url source="wiki">/wiki/น้ำ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">น้ำ</form>
+				<translit>náam</translit>
+				<concepts>
+					<c>sparkle</c>
+					<c>ocean</c>
+					<c>verbose</c>
+					<c>etc</c>
+					<c>sea</c>
+					<c>luster</c>
+					<c>period of time</c>
+					<c>liquid</c>
+					<c>essence</c>
+					<c>nonessential</c>
+					<c>sheen</c>
+					<c>immaterial</c>
+					<c>water</c>
+					<c>river</c>
+					<c>round</c>
+					<c>body of water</c>
+					<c>content</c>
+					<c>glitter</c>
+					<c>occasion</c>
+					<c>semen</c>
+					<c>time</c>
+					<c>orgasm</c>
+					<c>fluid</c>
+				</concepts>
+				<url source="wiki">/wiki/น้ำ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">nặm</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nặm#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Yong</lang>
+				<form script="TAI THAM">ᨶ᩶ᩣᩴ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨶ᩶ᩣᩴ#Yong</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">raemx</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/raemx#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.nokᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.nokᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜃𑜤𑜀𑜫</form>
+				<translit>nuk</translit>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜃𑜤𑜀𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ນົກ</form>
+				<translit>nok</translit>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ນົກ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦷᦓᧅ</form>
+				<translit>nok</translit>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦷᦓᧅ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨶᩫ᩠ᨠ</form>
+				<translit>nok</translit>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨶᩫ᩠ᨠ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">น็อก</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/น็อก#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၼူၵ်ႉ</form>
+				<translit>nṵ̂uk</translit>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ၼူၵ်ႉ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪶꪙꪀ</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪶꪙꪀ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">นก</form>
+				<translit>nók</translit>
+				<concepts>
+					<c>lock</c>
+				</concepts>
+				<url source="wiki">/wiki/นก#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">roeg</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/roeg#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.qawꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.qawꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜧</form>
+				<translit>khaw</translit>
+				<concepts>
+					<c>well-dressed</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜧#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເຂົ້າ</form>
+				<translit>khao</translit>
+				<concepts>
+					<c>enter</c>
+				</concepts>
+				<url source="wiki">/wiki/ເຂົ້າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦃᧁᧉ</form>
+				<translit>ẋaw²</translit>
+				<concepts>
+					<c>enter</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦃᧁᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨡᩮᩢ᩶ᩣ</form>
+				<concepts>
+					<c>enter</c>
+					<c>move in</c>
+					<c>go in</c>
+					<c>insert</c>
+					<c>mix</c>
+					<c>mingle</c>
+					<c>start</c>
+					<c>match</c>
+					<c>come in</c>
+					<c>fit together</c>
+					<c>inwards</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨡᩮᩢ᩶ᩣ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">khàu</form>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/khàu#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">เกฺา</form>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/เกฺา#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶဝ်ႈ</form>
+				<translit>khāo</translit>
+				<concepts>
+					<c>enter</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶဝ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪹꪄ꫁ꪱ</form>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪹꪄ꫁ꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥝᥲ</form>
+				<translit>xàw</translit>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥝᥲ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข้าว</form>
+				<translit>kâao</translit>
+				<concepts>
+					<c>object</c>
+					<c>year</c>
+					<c>thing</c>
+					<c>food</c>
+					<c>belonging</c>
+					<c>possession</c>
+					<c>rice</c>
+					<c>article</c>
+					<c>meal</c>
+				</concepts>
+				<url source="wiki">/wiki/ข้าว#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">khẩu</form>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/khẩu#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">haeux</form>
+				<concepts>
+					<c>rice</c>
+					<c>grain</c>
+				</concepts>
+				<url source="wiki">/wiki/haeux#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.qɤmᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.qɤmᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜪𑜤</form>
+				<translit>khaṃu</translit>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜪𑜤#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂົມ</form>
+				<translit>khom</translit>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂົມ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขม</form>
+				<translit>kǒm</translit>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/ขม#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">haemz</form>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/haemz#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.qɤpᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.qɤpᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขบ</form>
+				<translit>kòp</translit>
+				<concepts>
+					<c>crunch</c>
+					<c>crack</c>
+					<c>crush</c>
+				</concepts>
+				<url source="wiki">/wiki/ขบ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.qɯjꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.qɯjꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜣</form>
+				<translit>khī</translit>
+				<concepts>
+					<c>hardship</c>
+					<c>suffering</c>
+					<c>distress</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜣#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶီႈ</form>
+				<translit>khīi</translit>
+				<concepts>
+					<c>excrement</c>
+					<c>nose</c>
+					<c>feces</c>
+					<c>refuse</c>
+					<c>ordure</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶီႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶီႈ</form>
+				<translit>khīi</translit>
+				<concepts>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶီႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขี้</form>
+				<translit>kîi</translit>
+				<concepts>
+					<c>defecate</c>
+				</concepts>
+				<url source="wiki">/wiki/ขี้#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขี้</form>
+				<translit>kîi</translit>
+				<concepts>
+					<c>snot</c>
+					<c>faeces</c>
+					<c>earwax</c>
+				</concepts>
+				<url source="wiki">/wiki/ขี้#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">haex</form>
+				<concepts>
+					<c>stool</c>
+					<c>dung</c>
+					<c>faeces</c>
+				</concepts>
+				<url source="wiki">/wiki/haex#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*C̬.rwɯəᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/C̬.rwɯəᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isan</lang>
+				<form script="THAI">เฮือ</form>
+				<concepts>
+					<c>boat</c>
+					<c>ship</c>
+				</concepts>
+				<url source="wiki">/wiki/เฮือ#Isan</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເຮືອ</form>
+				<translit>hư̄a</translit>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/ເຮືອ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦵᦣᦲ</form>
+				<translit>hoe</translit>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦵᦣᦲ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᩁᩮᩬᩥᩋ</form>
+				<concepts>
+					<c>boat</c>
+					<c>ship</c>
+				</concepts>
+				<url source="wiki">/wiki/ᩁᩮᩬᩥᩋ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">รั๋ว</form>
+				<concepts>
+					<c>boat</c>
+					<c>ship</c>
+				</concepts>
+				<url source="wiki">/wiki/รั๋ว#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">หรัว</form>
+				<concepts>
+					<c>boat</c>
+					<c>ship</c>
+				</concepts>
+				<url source="wiki">/wiki/หรัว#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ႁိူဝ်း</form>
+				<translit>hóe</translit>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/ႁိူဝ်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪹꪭ</form>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪹꪭ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เรือ</form>
+				<translit>rʉʉa</translit>
+				<concepts>
+					<c>boat</c>
+					<c>rook</c>
+					<c>ship</c>
+					<c>watercraft</c>
+				</concepts>
+				<url source="wiki">/wiki/เรือ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">ruz</form>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/ruz#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*beːᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/beːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ແພ</form>
+				<translit>phǣ</translit>
+				<concepts>
+					<c>raft</c>
+				</concepts>
+				<url source="wiki">/wiki/ແພ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ပႄး</form>
+				<translit>páae</translit>
+				<concepts>
+					<c>raft</c>
+				</concepts>
+				<url source="wiki">/wiki/ပႄး#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥙᥥᥰ</form>
+				<translit>pë</translit>
+				<concepts>
+					<c>raft</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥙᥥᥰ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">แพ</form>
+				<translit>pɛɛ</translit>
+				<concepts>
+					<c>raft</c>
+				</concepts>
+				<url source="wiki">/wiki/แพ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*cetᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/cetᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜋𑜢𑜄𑜫</form>
+				<translit>chit</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜋𑜢𑜄𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເຈັດ</form>
+				<translit>chet</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ເຈັດ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦵᦈᧆ</form>
+				<translit>ṫsed</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦵᦈᧆ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၸဵတ်း</form>
+				<translit>tsáet</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ၸဵတ်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪹꪊꪸꪒ</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪹꪊꪸꪒ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥓᥥᥖᥱ</form>
+				<translit>tsět</translit>
+				<concepts>
+					<c>scale</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥓᥥᥖᥱ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">chêt</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/chêt#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">caet</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/caet#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*dawᴮ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/dawᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເທົ່າ</form>
+				<translit>thao</translit>
+				<concepts>
+					<c>equal</c>
+				</concepts>
+				<url source="wiki">/wiki/ເທົ່າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦑᧁᧈ</form>
+				<translit>taw¹</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦑᧁᧈ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">တဝ်ႈ</form>
+				<translit>tāo</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/တဝ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥖᥝ</form>
+				<translit>taw</translit>
+				<concepts>
+					<c>lye</c>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥖᥝ#Tai_Nüa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*diːᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/diːᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜄𑜣</form>
+				<translit>tī</translit>
+				<concepts>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜄𑜣#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ທີ່</form>
+				<translit>thī</translit>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+					<c>on</c>
+				</concepts>
+				<url source="wiki">/wiki/ທີ່#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ທີ່</form>
+				<translit>thī</translit>
+				<concepts>
+					<c>site</c>
+					<c>area</c>
+					<c>place</c>
+					<c>region</c>
+				</concepts>
+				<url source="wiki">/wiki/ທີ່#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">တီႈ</form>
+				<translit>tīi</translit>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+					<c>on</c>
+					<c>to</c>
+				</concepts>
+				<url source="wiki">/wiki/တီႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">တီႈ</form>
+				<translit>tīi</translit>
+				<concepts>
+					<c>region</c>
+					<c>area</c>
+					<c>place</c>
+					<c>situation</c>
+				</concepts>
+				<url source="wiki">/wiki/တီႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">တီႈ</form>
+				<translit>tīi</translit>
+				<concepts>
+					<c>where</c>
+				</concepts>
+				<url source="wiki">/wiki/တီႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥖᥤ</form>
+				<translit>ti</translit>
+				<concepts>
+					<c>site</c>
+					<c>location</c>
+					<c>ground</c>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥖᥤ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ที่</form>
+				<translit>tîi</translit>
+				<concepts>
+					<c>at</c>
+					<c>to</c>
+					<c>for</c>
+					<c>during</c>
+					<c>at the time</c>
+					<c>amidst</c>
+					<c>within</c>
+				</concepts>
+				<url source="wiki">/wiki/ที่#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ที่</form>
+				<translit>tîi</translit>
+				<concepts>
+					<c>seat</c>
+					<c>site</c>
+					<c>land</c>
+					<c>office</c>
+					<c>location</c>
+					<c>position</c>
+					<c>area</c>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/ที่#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ที่</form>
+				<translit>tîi</translit>
+				<concepts>
+					<c>whom</c>
+					<c>where</c>
+					<c>which</c>
+					<c>who</c>
+					<c>when</c>
+					<c>that</c>
+				</concepts>
+				<url source="wiki">/wiki/ที่#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*haːꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/haːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜑𑜡</form>
+				<translit>hā</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜑𑜡#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">hac</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/hac#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຫ້າ</form>
+				<translit>hā</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ຫ້າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦠᦱᧉ</form>
+				<translit>ḣaa²</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦠᦱᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">hà</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/hà#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">ฮ̂า</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ฮ̂า#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪬ꫁ꪱ</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪬ꫁ꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥞᥣᥲ</form>
+				<translit>hàa</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥞᥣᥲ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ห้า</form>
+				<translit>hâa</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ห้า#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">hả</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/hả#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">haj</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/haj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.lajᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.lajᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜩</form>
+				<translit>kay</translit>
+				<concepts>
+					<c>wipe</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜩#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">jael</form>
+				<concepts>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/jael#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໄກ</form>
+				<translit>kai</translit>
+				<concepts>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/ໄກ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႆ</form>
+				<translit>kǎi</translit>
+				<concepts>
+					<c>distant</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႆ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ไกล</form>
+				<translit>glai</translit>
+				<concepts>
+					<c>distant</c>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/ไกล#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gyae</form>
+				<concepts>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/gyae#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.rapᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.rapᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂັບ</form>
+				<translit>khap</translit>
+				<concepts>
+					<c>drive away</c>
+					<c>drive</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂັບ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦃᧇ</form>
+				<translit>ẋab</translit>
+				<concepts>
+					<c>drive away</c>
+					<c>drive</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦃᧇ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขับ</form>
+				<translit>kàp</translit>
+				<concepts>
+					<c>recite</c>
+					<c>sing</c>
+				</concepts>
+				<url source="wiki">/wiki/ขับ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.raŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.raŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜂𑜫</form>
+				<translit>khaṅ</translit>
+				<concepts>
+					<c>side</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶင်</form>
+				<translit>khǎng</translit>
+				<concepts>
+					<c>pen</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขัง</form>
+				<translit>kǎng</translit>
+				<concepts>
+					<c>shut</c>
+					<c>confine</c>
+					<c>keep</c>
+					<c>hold</c>
+				</concepts>
+				<url source="wiki">/wiki/ขัง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.raɰꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.raɰꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">jaec</form>
+				<concepts>
+					<c>near</c>
+					<c>close to</c>
+				</concepts>
+				<url source="wiki">/wiki/jaec#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໃກ້</form>
+				<translit>kai</translit>
+				<concepts>
+					<c>near</c>
+					<c>close</c>
+				</concepts>
+				<url source="wiki">/wiki/ໃກ້#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ใกล้</form>
+				<translit>glâi</translit>
+				<concepts>
+					<c>near</c>
+					<c>close</c>
+				</concepts>
+				<url source="wiki">/wiki/ใกล้#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ใกล้</form>
+				<translit>glâi</translit>
+				<concepts>
+					<c>near</c>
+					<c>close</c>
+				</concepts>
+				<url source="wiki">/wiki/ใกล้#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ใกล้</form>
+				<translit>glâi</translit>
+				<concepts>
+					<c>nearly</c>
+					<c>almost</c>
+					<c>closely</c>
+				</concepts>
+				<url source="wiki">/wiki/ใกล้#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gyawj</form>
+				<concepts>
+					<c>near</c>
+				</concepts>
+				<url source="wiki">/wiki/gyawj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.raːŋᴮ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.raːŋᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข่าง</form>
+				<translit>kàang</translit>
+				<concepts>
+					<c>spinning top</c>
+				</concepts>
+				<url source="wiki">/wiki/ข่าง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.raːŋꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.raːŋꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶၢင်း</form>
+				<translit>kháang</translit>
+				<concepts>
+					<c>growl</c>
+					<c>grumble</c>
+					<c>groan</c>
+					<c>complain</c>
+					<c>sigh</c>
+					<c>moan</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶၢင်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶၢင်ႈ</form>
+				<translit>khāang</translit>
+				<concepts>
+					<c>animate</c>
+					<c>side</c>
+					<c>inanimate</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶၢင်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข้าง</form>
+				<translit>kâang</translit>
+				<concepts>
+					<c>nearby</c>
+				</concepts>
+				<url source="wiki">/wiki/ข้าง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข้าง</form>
+				<translit>kâang</translit>
+				<concepts>
+					<c>shoe</c>
+					<c>side</c>
+				</concepts>
+				<url source="wiki">/wiki/ข้าง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข้าง</form>
+				<translit>kâang</translit>
+				<concepts>
+					<c>side</c>
+					<c>flank</c>
+				</concepts>
+				<url source="wiki">/wiki/ข้าง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข้าง</form>
+				<translit>kâang</translit>
+				<concepts>
+					<c>towards</c>
+					<c>on the side</c>
+					<c>beside</c>
+					<c>by</c>
+				</concepts>
+				<url source="wiki">/wiki/ข้าง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.roːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.roːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂໍ</form>
+				<translit>khǭ</translit>
+				<concepts>
+					<c>request</c>
+					<c>ask for</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂໍ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขอ</form>
+				<translit>kɔ̌ɔ</translit>
+				<concepts>
+					<c>hook</c>
+				</concepts>
+				<url source="wiki">/wiki/ขอ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*k.tɤtᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/k.tɤtᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Phake</lang>
+				<form script="MYANMAR">တုတ်</form>
+				<translit>tut</translit>
+				<concepts>
+					<c>fart</c>
+				</concepts>
+				<url source="wiki">/wiki/တုတ်#Phake</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪶꪔꪒ</form>
+				<concepts>
+					<c>fart</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪶꪔꪒ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ตด</form>
+				<translit>dtòt</translit>
+				<concepts>
+					<c>fart</c>
+				</concepts>
+				<url source="wiki">/wiki/ตด#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ตด</form>
+				<translit>dtòt</translit>
+				<concepts>
+					<c>fart</c>
+				</concepts>
+				<url source="wiki">/wiki/ตด#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">roet</form>
+				<concepts>
+					<c>fart</c>
+					<c>flatus</c>
+				</concepts>
+				<url source="wiki">/wiki/roet#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kajᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kajᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">gais</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/gais#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໄກ່</form>
+				<translit>kai</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ໄກ່#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦺᦂᧈ</form>
+				<translit>k̇ay¹</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦺᦂᧈ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨠᩱ᩵</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨠᩱ᩵#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႆႇ</form>
+				<translit>kài</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႆႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪼꪀ꪿</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪼꪀ꪿#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ไก่</form>
+				<translit>gài</translit>
+				<concepts>
+					<c>fowl</c>
+					<c>turkey</c>
+				</concepts>
+				<url source="wiki">/wiki/ไก่#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ไก่</form>
+				<translit>gài</translit>
+				<concepts>
+					<c>sock</c>
+					<c>sock puppet</c>
+				</concepts>
+				<url source="wiki">/wiki/ไก่#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gaeq</form>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/gaeq#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kamᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kamᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜪</form>
+				<translit>kaṃ</translit>
+				<concepts>
+					<c>fist</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜪#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກຳ</form>
+				<translit>kam</translit>
+				<concepts>
+					<c>fist</c>
+				</concepts>
+				<url source="wiki">/wiki/ກຳ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กำ</form>
+				<translit>gam</translit>
+				<concepts>
+					<c>karma</c>
+				</concepts>
+				<url source="wiki">/wiki/กำ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kanᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kanᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜃𑜫</form>
+				<translit>kan</translit>
+				<concepts>
+					<c>jointly</c>
+					<c>altogether</c>
+					<c>together</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜃𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜃𑜫</form>
+				<translit>kan</translit>
+				<concepts>
+					<c>united</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜃𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵၼ်</form>
+				<translit>kǎn</translit>
+				<concepts>
+					<c>part</c>
+					<c>chapter</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵၼ်#Shan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kapᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kapᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᧇ</form>
+				<translit>k̇ab</translit>
+				<concepts>
+					<c>and</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᧇ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᧇ</form>
+				<translit>k̇ab</translit>
+				<concepts>
+					<c>with</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᧇ#Lü</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*katᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/katᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵတ်း</form>
+				<translit>kát</translit>
+				<concepts>
+					<c>cool</c>
+					<c>cold</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵတ်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กัด</form>
+				<translit>gàt</translit>
+				<concepts>
+					<c>fighting fish</c>
+					<c>betta</c>
+				</concepts>
+				<url source="wiki">/wiki/กัด#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กัด</form>
+				<translit>gàt</translit>
+				<concepts>
+					<c>grip</c>
+					<c>fight</c>
+					<c>wound</c>
+					<c>gnash</c>
+					<c>deal with</c>
+					<c>follow</c>
+					<c>cut</c>
+					<c>corrode</c>
+					<c>grind</c>
+					<c>quarrel</c>
+					<c>erode</c>
+					<c>sting</c>
+					<c>burn</c>
+					<c>etc</c>
+					<c>bite</c>
+				</concepts>
+				<url source="wiki">/wiki/กัด#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kawᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kawᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เกา</form>
+				<translit>gao</translit>
+				<concepts>
+					<c>Korean</c>
+					<c>Korea</c>
+				</concepts>
+				<url source="wiki">/wiki/เกา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gaeu</form>
+				<concepts>
+					<c>horn</c>
+				</concepts>
+				<url source="wiki">/wiki/gaeu#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kawᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kawᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເກົ່າ</form>
+				<translit>kao</translit>
+				<concepts>
+					<c>previous</c>
+					<c>former</c>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/ເກົ່າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵဝ်ႇ</form>
+				<translit>kào</translit>
+				<concepts>
+					<c>used</c>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵဝ်ႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เก่า</form>
+				<translit>gào</translit>
+				<concepts>
+					<c>previous</c>
+					<c>former</c>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/เก่า#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kaːnꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kaːnꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥣᥢᥲ</form>
+				<translit>kàan</translit>
+				<concepts>
+					<c>stem</c>
+					<c>stalk</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥣᥢᥲ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก้าน</form>
+				<translit>gâan</translit>
+				<concepts>
+					<c>stem</c>
+					<c>stalk</c>
+					<c>petiole</c>
+				</concepts>
+				<url source="wiki">/wiki/ก้าน#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kaːŋꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kaːŋꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก้าง</form>
+				<translit>gâang</translit>
+				<concepts>
+					<c>fishbone</c>
+				</concepts>
+				<url source="wiki">/wiki/ก้าง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kaːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kaːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜠</form>
+				<translit>ka</translit>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜠#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜠</form>
+				<translit>ka</translit>
+				<concepts>
+					<c>dance</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜠#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກາ</form>
+				<translit>kā</translit>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/ກາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᦱ</form>
+				<translit>k̇aa</translit>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᦱ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨠᩣ</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨠᩣ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႃ</form>
+				<translit>kǎa</translit>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႃ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪀꪱ</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪀꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥣ</form>
+				<translit>kaa</translit>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥣ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กา</form>
+				<translit>gaa</translit>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/กา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">roegga</form>
+				<concepts>
+					<c>raven</c>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/roegga#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kepᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kepᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜢𑜆𑜫</form>
+				<translit>kip</translit>
+				<concepts>
+					<c>chaff</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜢𑜆𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜢𑜆𑜫</form>
+				<translit>kip</translit>
+				<concepts>
+					<c>pick</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜢𑜆𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵဵပ်း</form>
+				<translit>káep</translit>
+				<concepts>
+					<c>choose</c>
+					<c>adopt</c>
+					<c>gather</c>
+					<c>collect</c>
+					<c>pick up</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵဵပ်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เก็บ</form>
+				<translit>gèp</translit>
+				<concepts>
+					<c>compel</c>
+					<c>spare</c>
+					<c>assassinate</c>
+					<c>demand</c>
+					<c>pick</c>
+					<c>keep</c>
+					<c>heap up</c>
+					<c>put in</c>
+					<c>collect</c>
+					<c>accumulate</c>
+					<c>store</c>
+				</concepts>
+				<url source="wiki">/wiki/เก็บ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*keːlᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/keːlᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႅၼ်</form>
+				<translit>kěn</translit>
+				<concepts>
+					<c>jinx</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႅၼ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႅၼ်</form>
+				<translit>kěn</translit>
+				<concepts>
+					<c>suspend</c>
+					<c>hang</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႅၼ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">แก่น</form>
+				<translit>gɛ̀n</translit>
+				<concepts>
+					<c>kernel</c>
+					<c>core</c>
+				</concepts>
+				<url source="wiki">/wiki/แก่น#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*keːmꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/keːmꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">jeemc</form>
+				<concepts>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/jeemc#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ແກ້ມ</form>
+				<translit>kǣm</translit>
+				<concepts>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/ແກ້ມ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦶᦂᧄᧉ</form>
+				<translit>k̇aem²</translit>
+				<concepts>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦶᦂᧄᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႅမ်ႈ</form>
+				<translit>kēm</translit>
+				<concepts>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႅမ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥦᥛᥲ</form>
+				<translit>kàem</translit>
+				<concepts>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥦᥛᥲ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">แก้ม</form>
+				<translit>gɛ̂ɛm</translit>
+				<concepts>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/แก้ม#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gemj</form>
+				<concepts>
+					<c>cheek</c>
+				</concepts>
+				<url source="wiki">/wiki/gemj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*keːᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/keːᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">แก่</form>
+				<translit>gɛ̀ɛ</translit>
+				<concepts>
+					<c>belonging</c>
+					<c>of</c>
+					<c>from</c>
+				</concepts>
+				<url source="wiki">/wiki/แก่#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*keːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/keːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜦𑜧</form>
+				<translit>kē</translit>
+				<concepts>
+					<c>ripe</c>
+					<c>mature</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜦𑜧#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ແກ້</form>
+				<translit>kǣ</translit>
+				<concepts>
+					<c>resolve</c>
+					<c>untie</c>
+					<c>cure</c>
+				</concepts>
+				<url source="wiki">/wiki/ແກ້#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦶᦂᧉ</form>
+				<translit>k̇ae²</translit>
+				<concepts>
+					<c>undo</c>
+					<c>solve</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦶᦂᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႄႈ</form>
+				<translit>kāae</translit>
+				<concepts>
+					<c>crack</c>
+					<c>space</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႄႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႄႈ</form>
+				<translit>kāae</translit>
+				<concepts>
+					<c>in the middle of</c>
+					<c>between</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႄႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႄႈ</form>
+				<translit>kāae</translit>
+				<concepts>
+					<c>undo</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႄႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">แก้</form>
+				<translit>gɛ̂ɛ</translit>
+				<concepts>
+					<c>let loose</c>
+					<c>correct</c>
+					<c>decipher</c>
+					<c>untie</c>
+					<c>amend</c>
+					<c>cure</c>
+					<c>interpret</c>
+					<c>clear up</c>
+					<c>alter</c>
+					<c>modify</c>
+					<c>edit</c>
+					<c>repair</c>
+					<c>solve</c>
+					<c>fix</c>
+					<c>adjust</c>
+					<c>undo</c>
+					<c>remove</c>
+					<c>explain</c>
+					<c>resolve</c>
+					<c>mend</c>
+					<c>remedy</c>
+					<c>adapt</c>
+				</concepts>
+				<url source="wiki">/wiki/แก้#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kiːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kiːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜣</form>
+				<translit>kī</translit>
+				<concepts>
+					<c>how much</c>
+					<c>how many</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜣#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥤᥱ</form>
+				<translit>kǐ</translit>
+				<concepts>
+					<c>how many</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥤᥱ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กี่</form>
+				<translit>gìi</translit>
+				<concepts>
+					<c>how much</c>
+					<c>how many</c>
+					<c>several</c>
+				</concepts>
+				<url source="wiki">/wiki/กี่#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klanꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klanꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กลั้น</form>
+				<translit>glân</translit>
+				<concepts>
+					<c>suppress</c>
+					<c>hold back</c>
+					<c>restrain</c>
+					<c>inhibit</c>
+				</concepts>
+				<url source="wiki">/wiki/กลั้น#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klawꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klawꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເກົ້າ</form>
+				<translit>kao</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ເກົ້າ#Lao</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klaːjᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klaːjᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กลาย</form>
+				<translit>glaai</translit>
+				<concepts>
+					<c>transform</c>
+					<c>become</c>
+					<c>change</c>
+					<c>turn</c>
+					<c>turn out</c>
+					<c>grow</c>
+				</concepts>
+				<url source="wiki">/wiki/กลาย#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klaːŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klaːŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜂𑜫</form>
+				<translit>kaṅ</translit>
+				<concepts>
+					<c>basket</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜂𑜫</form>
+				<translit>kaṅ</translit>
+				<concepts>
+					<c>centre</c>
+					<c>middle</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜂𑜫</form>
+				<translit>kaṅ</translit>
+				<concepts>
+					<c>corner of the mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜂𑜫</form>
+				<translit>kaṅ</translit>
+				<concepts>
+					<c>crossbow</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກາງ</form>
+				<translit>kāng</translit>
+				<concepts>
+					<c>central</c>
+				</concepts>
+				<url source="wiki">/wiki/ກາງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥣᥒ</form>
+				<translit>kaang</translit>
+				<concepts>
+					<c>center</c>
+					<c>middle</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥣᥒ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กลาง</form>
+				<translit>glaang</translit>
+				<concepts>
+					<c>center</c>
+					<c>middle</c>
+				</concepts>
+				<url source="wiki">/wiki/กลาง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กลาง</form>
+				<translit>glaang</translit>
+				<concepts>
+					<c>in the middle of</c>
+					<c>during</c>
+					<c>amidst</c>
+					<c>amongst</c>
+				</concepts>
+				<url source="wiki">/wiki/กลาง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กลาง</form>
+				<translit>glaang</translit>
+				<concepts>
+					<c>middle</c>
+					<c>mid</c>
+					<c>central</c>
+					<c>common</c>
+					<c>mean</c>
+					<c>public</c>
+					<c>general</c>
+				</concepts>
+				<url source="wiki">/wiki/กลาง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klaːꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klaːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กลาก</form>
+				<translit>glàak</translit>
+				<concepts>
+					<c>dermatophytosis</c>
+					<c>ringworm</c>
+				</concepts>
+				<url source="wiki">/wiki/กลาก#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klecꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klecꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥥᥖᥱ</form>
+				<translit>kět</translit>
+				<concepts>
+					<c>scale</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥥᥖᥱ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เกล็ด</form>
+				<translit>glèt</translit>
+				<concepts>
+					<c>scale</c>
+				</concepts>
+				<url source="wiki">/wiki/เกล็ด#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kliəwᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kliəwᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵိဝ်</form>
+				<translit>kǐo</translit>
+				<concepts>
+					<c>strand</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵိဝ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เกลียว</form>
+				<translit>gliao</translit>
+				<concepts>
+					<c>ply</c>
+					<c>strand</c>
+					<c>spiral</c>
+					<c>coil</c>
+				</concepts>
+				<url source="wiki">/wiki/เกลียว#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kloːŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kloːŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜨𑜂𑜫</form>
+				<translit>koṅ</translit>
+				<concepts>
+					<c>drum</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜨𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກອງ</form>
+				<translit>kǭng</translit>
+				<concepts>
+					<c>heap</c>
+					<c>mound</c>
+					<c>pile</c>
+					<c>stack</c>
+				</concepts>
+				<url source="wiki">/wiki/ກອງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᦸᧂ</form>
+				<translit>k̇oang</translit>
+				<concepts>
+					<c>heap</c>
+					<c>pile</c>
+					<c>stack</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᦸᧂ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กลอง</form>
+				<translit>glɔɔng</translit>
+				<concepts>
+					<c>drum</c>
+				</concepts>
+				<url source="wiki">/wiki/กลอง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gyong</form>
+				<concepts>
+					<c>drum</c>
+				</concepts>
+				<url source="wiki">/wiki/gyong#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kluəjꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kluəjꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກ້ວຍ</form>
+				<translit>kuāi</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ກ້ວຍ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᦽᧉ</form>
+				<translit>k̇oy²</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᦽᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵူၺ်ႈ</form>
+				<translit>kōi</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵူၺ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กล้วย</form>
+				<translit>glûai</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/กล้วย#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gyoij</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/gyoij#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klwɯəᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klwɯəᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເກືອ</form>
+				<translit>kư̄a</translit>
+				<concepts>
+					<c>feed</c>
+				</concepts>
+				<url source="wiki">/wiki/ເກືອ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵိူဝ်</form>
+				<translit>kǒe</translit>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵိူဝ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เกลือ</form>
+				<translit>glʉʉa</translit>
+				<concepts>
+					<c>table salt</c>
+				</concepts>
+				<url source="wiki">/wiki/เกลือ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">cưa</form>
+				<concepts>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/cưa#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gyu</form>
+				<concepts>
+					<c>pigweed</c>
+				</concepts>
+				<url source="wiki">/wiki/gyu#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*klɤlᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/klɤlᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜤𑜃𑜫</form>
+				<translit>khun</translit>
+				<concepts>
+					<c>snore</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜤𑜃𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂົນ</form>
+				<translit>khon</translit>
+				<concepts>
+					<c>feather</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂົນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶူၼ်</form>
+				<translit>khǔun</translit>
+				<concepts>
+					<c>snore</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶူၼ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กรน</form>
+				<translit>gron</translit>
+				<concepts>
+					<c>snore</c>
+				</concepts>
+				<url source="wiki">/wiki/กรน#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*konꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/konꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກົ້ນ</form>
+				<translit>kon</translit>
+				<concepts>
+					<c>bottom</c>
+				</concepts>
+				<url source="wiki">/wiki/ກົ້ນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵူၼ်ႈ</form>
+				<translit>kūun</translit>
+				<concepts>
+					<c>buttock</c>
+					<c>anus</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵူၼ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก้น</form>
+				<translit>gôn</translit>
+				<concepts>
+					<c>bottom</c>
+				</concepts>
+				<url source="wiki">/wiki/ก้น#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*koːnᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/koːnᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກ່ອນ</form>
+				<translit>kǭn</translit>
+				<concepts>
+					<c>before</c>
+				</concepts>
+				<url source="wiki">/wiki/ກ່ອນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກ່ອນ</form>
+				<translit>kǭn</translit>
+				<concepts>
+					<c>before</c>
+				</concepts>
+				<url source="wiki">/wiki/ກ່ອນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກ່ອນ</form>
+				<translit>kǭn</translit>
+				<concepts>
+					<c>first</c>
+					<c>previously</c>
+					<c>formerly</c>
+				</concepts>
+				<url source="wiki">/wiki/ກ່ອນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກ່ອນ</form>
+				<translit>kǭn</translit>
+				<concepts>
+					<c>former</c>
+					<c>previous</c>
+				</concepts>
+				<url source="wiki">/wiki/ກ່ອນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵွၼ်ႇ</form>
+				<translit>kàun</translit>
+				<concepts>
+					<c>before</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵွၼ်ႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵွၼ်ႇ</form>
+				<translit>kàun</translit>
+				<concepts>
+					<c>stork</c>
+					<c>crane</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵွၼ်ႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก่อน</form>
+				<translit>gɔ̀ɔn</translit>
+				<concepts>
+					<c>before</c>
+				</concepts>
+				<url source="wiki">/wiki/ก่อน#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก่อน</form>
+				<translit>gɔ̀ɔn</translit>
+				<concepts>
+					<c>before</c>
+				</concepts>
+				<url source="wiki">/wiki/ก่อน#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก่อน</form>
+				<translit>gɔ̀ɔn</translit>
+				<concepts>
+					<c>before</c>
+					<c>first</c>
+					<c>early</c>
+				</concepts>
+				<url source="wiki">/wiki/ก่อน#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก่อน</form>
+				<translit>gɔ̀ɔn</translit>
+				<concepts>
+					<c>prior</c>
+					<c>previous</c>
+					<c>old</c>
+					<c>last</c>
+				</concepts>
+				<url source="wiki">/wiki/ก่อน#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*koːtᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/koːtᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກອດ</form>
+				<translit>kǭt</translit>
+				<concepts>
+					<c>hug</c>
+					<c>embrace</c>
+				</concepts>
+				<url source="wiki">/wiki/ກອດ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵွတ်ႇ</form>
+				<translit>kàut</translit>
+				<concepts>
+					<c>hug</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵွတ်ႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กอด</form>
+				<translit>gɔ̀ɔt</translit>
+				<concepts>
+					<c>hug</c>
+					<c>caress</c>
+					<c>embrace</c>
+				</concepts>
+				<url source="wiki">/wiki/กอด#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">got</form>
+				<concepts>
+					<c>hug</c>
+					<c>embrace</c>
+				</concepts>
+				<url source="wiki">/wiki/got#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*koːŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/koːŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กอง</form>
+				<translit>gɔɔng</translit>
+				<concepts>
+					<c>force</c>
+					<c>brigade</c>
+					<c>company</c>
+					<c>band</c>
+				</concepts>
+				<url source="wiki">/wiki/กอง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*koːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/koːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜦𑜡</form>
+				<translit>kō</translit>
+				<concepts>
+					<c>establish</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜦𑜡#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜦𑜡</form>
+				<translit>kō</translit>
+				<concepts>
+					<c>expert</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜦𑜡#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜦𑜡</form>
+				<translit>kō</translit>
+				<concepts>
+					<c>prune</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜦𑜡#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜦𑜡</form>
+				<translit>kō</translit>
+				<concepts>
+					<c>to plan</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜦𑜡#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃ</form>
+				<translit>kǎu</translit>
+				<concepts>
+					<c>cluster</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃ</form>
+				<translit>kǎu</translit>
+				<concepts>
+					<c>committee</c>
+					<c>association</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃ</form>
+				<translit>kǎu</translit>
+				<concepts>
+					<c>meet</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃ#Shan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*koːᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/koːᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກໍ່</form>
+				<translit>kǭ</translit>
+				<concepts>
+					<c>set</c>
+					<c>organize</c>
+					<c>build</c>
+					<c>create</c>
+					<c>cause</c>
+				</concepts>
+				<url source="wiki">/wiki/ກໍ່#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃႇ</form>
+				<translit>kàu</translit>
+				<concepts>
+					<c>begin</c>
+					<c>first</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃႇ</form>
+				<translit>kàu</translit>
+				<concepts>
+					<c>beginning</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃႇ</form>
+				<translit>kàu</translit>
+				<concepts>
+					<c>glue</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃႇ</form>
+				<translit>kàu</translit>
+				<concepts>
+					<c>pile</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก่อ</form>
+				<translit>gɔ̀ɔ</translit>
+				<concepts>
+					<c>shrunk</c>
+					<c>coiled</c>
+				</concepts>
+				<url source="wiki">/wiki/ก่อ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*koːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/koːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵေႃႈ</form>
+				<translit>kāu</translit>
+				<concepts>
+					<c>then</c>
+					<c>as well as</c>
+					<c>although</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵေႃႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก็</form>
+				<translit>gɔ̂</translit>
+				<concepts>
+					<c>as well</c>
+					<c>thus</c>
+					<c>then</c>
+					<c>next</c>
+					<c>also</c>
+					<c>so</c>
+					<c>accordingly</c>
+				</concepts>
+				<url source="wiki">/wiki/ก็#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kraːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kraːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜠</form>
+				<translit>kha</translit>
+				<concepts>
+					<c>servant</c>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜠#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂ້າ</form>
+				<translit>khā</translit>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂ້າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥣᥲ</form>
+				<translit>xàa</translit>
+				<concepts>
+					<c>servant</c>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥣᥲ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข้า</form>
+				<translit>kâa</translit>
+				<concepts>
+					<c>retainer</c>
+					<c>attendant</c>
+					<c>citizen</c>
+					<c>slave</c>
+					<c>servant</c>
+				</concepts>
+				<url source="wiki">/wiki/ข้า#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kraᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kraᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜡</form>
+				<translit>khā</translit>
+				<concepts>
+					<c>cut</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜡#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">ral</form>
+				<concepts>
+					<c>find</c>
+					<c>look for</c>
+				</concepts>
+				<url source="wiki">/wiki/ral#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຫາ</form>
+				<translit>hā</translit>
+				<concepts>
+					<c>look for</c>
+				</concepts>
+				<url source="wiki">/wiki/ຫາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຫາ</form>
+				<translit>hā</translit>
+				<concepts>
+					<c>toward</c>
+					<c>of</c>
+					<c>to</c>
+				</concepts>
+				<url source="wiki">/wiki/ຫາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦠᦱ</form>
+				<translit>ḣaa</translit>
+				<concepts>
+					<c>find</c>
+					<c>visit</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦠᦱ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ႁႃ</form>
+				<translit>hǎa</translit>
+				<concepts>
+					<c>seek</c>
+					<c>search</c>
+				</concepts>
+				<url source="wiki">/wiki/ႁႃ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥣᥴ</form>
+				<translit>xáa</translit>
+				<concepts>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥣᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">ra</form>
+				<concepts>
+					<c>earn</c>
+					<c>make</c>
+				</concepts>
+				<url source="wiki">/wiki/ra#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*krokᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/krokᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜍𑜤𑜀𑜫</form>
+				<translit>ruk</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜍𑜤𑜀𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">ꩭုက်</form>
+				<translit>huk</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩭုက်#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">rogt</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/rogt#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຫົກ</form>
+				<translit>hok</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ຫົກ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦷᦠᧅ</form>
+				<translit>ḣok</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦷᦠᧅ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Phake</lang>
+				<form script="MYANMAR">ꩭုက်</form>
+				<translit>huk</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩭုက်#Phake</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ႁူၵ်း</form>
+				<translit>húuk</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ႁူၵ်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪶꪬꪀ</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪶꪬꪀ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥞᥨᥐᥱ</form>
+				<translit>hǒk</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥞᥨᥐᥱ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">hốc</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/hốc#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">loeg</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/loeg#Zhuang</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">roek</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/roek#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kuŋᴮ∕ꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kuŋᴮ/ꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜤𑜂𑜫</form>
+				<translit>kuṅ</translit>
+				<concepts>
+					<c>shrimp</c>
+					<c>prawn</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜤𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກຸ້ງ</form>
+				<translit>kung</translit>
+				<concepts>
+					<c>shrimp</c>
+				</concepts>
+				<url source="wiki">/wiki/ກຸ້ງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᦳᧂᧉ</form>
+				<translit>k̇ung²</translit>
+				<concepts>
+					<c>shrimp</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᦳᧂᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵုင်ႈ</form>
+				<translit>kūng</translit>
+				<concepts>
+					<c>shrimp</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵုင်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กุ้ง</form>
+				<translit>gûng</translit>
+				<concepts>
+					<c>shrimp</c>
+					<c>prawn</c>
+				</concepts>
+				<url source="wiki">/wiki/กุ้ง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kuːtᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kuːtᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵုတ်ႇ</form>
+				<translit>kùt</translit>
+				<concepts>
+					<c>fern</c>
+					<c>moss</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵုတ်ႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥧᥖᥴ</form>
+				<translit>kút</translit>
+				<concepts>
+					<c>fern</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥧᥖᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กูด</form>
+				<translit>gùut</translit>
+				<concepts>
+					<c>fern</c>
+					<c>moss</c>
+					<c>bracken</c>
+				</concepts>
+				<url source="wiki">/wiki/กูด#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kuːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kuːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກູ</form>
+				<translit>kū</translit>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ກູ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กู</form>
+				<translit>guu</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/กู#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gou</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/gou#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kwaːtᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kwaːtᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກວາດ</form>
+				<translit>kuāt</translit>
+				<concepts>
+					<c>sweep</c>
+				</concepts>
+				<url source="wiki">/wiki/ກວາດ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦦᦱᧆ</form>
+				<translit>k̇waad</translit>
+				<concepts>
+					<c>sweep</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦦᦱᧆ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กวาด</form>
+				<translit>gwàat</translit>
+				<concepts>
+					<c>sweep</c>
+				</concepts>
+				<url source="wiki">/wiki/กวาด#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kwɯəŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kwɯəŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກວາງ</form>
+				<translit>kuāng</translit>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/ກວາງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႂၢင်</form>
+				<translit>kwǎang</translit>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႂၢင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪀꪫꪱꪉ</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪀꪫꪱꪉ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กวาง</form>
+				<translit>gwaang</translit>
+				<concepts>
+					<c>deer</c>
+					<c>venison</c>
+				</concepts>
+				<url source="wiki">/wiki/กวาง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kɤmꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kɤmꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກົ້ມ</form>
+				<translit>kom</translit>
+				<concepts>
+					<c>bow</c>
+					<c>stoop</c>
+					<c>bend over</c>
+				</concepts>
+				<url source="wiki">/wiki/ກົ້ມ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵူမ်ႈ</form>
+				<translit>kūum</translit>
+				<concepts>
+					<c>bow</c>
+					<c>stoop</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵူမ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ก้ม</form>
+				<translit>gôm</translit>
+				<concepts>
+					<c>stoop</c>
+					<c>bend over</c>
+				</concepts>
+				<url source="wiki">/wiki/ก้ม#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kɤpᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kɤpᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜤𑜆𑜫</form>
+				<translit>kup</translit>
+				<concepts>
+					<c>tailless</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜤𑜆𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Khün</lang>
+				<form script="TAI THAM">ᨠᩫ᩠ᨷ</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨠᩫ᩠ᨷ#Khün</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກົບ</form>
+				<translit>kop</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ກົບ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦷᦂᧇ</form>
+				<translit>k̇ob</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦷᦂᧇ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨠᩫ᩠ᨷ</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨠᩫ᩠ᨷ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">กั๊บ</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/กั๊บ#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵူပ်း</form>
+				<translit>kúup</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵူပ်း#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪶꪀꪚ</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪶꪀꪚ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กบ</form>
+				<translit>gòp</translit>
+				<concepts>
+					<c>or</c>
+				</concepts>
+				<url source="wiki">/wiki/กบ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">côp</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/côp#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Yong</lang>
+				<form script="TAI THAM">ᨠᩫ᩠ᨷ</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨠᩫ᩠ᨷ#Yong</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">goep</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/goep#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kɤwꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kɤwꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᧁᧉ</form>
+				<translit>k̇aw²</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᧁᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">กู̂</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/กู̂#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵဝ်ႈ</form>
+				<translit>kāo</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵဝ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪹꪀ꫁ꪱ</form>
+				<translit>cảu</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪹꪀ꫁ꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">cẩu</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/cẩu#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gouj</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/gouj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*kɯɲᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/kɯɲᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜀𑜢𑜃𑜫</form>
+				<translit>kin</translit>
+				<concepts>
+					<c>eat</c>
+					<c>drink</c>
+					<c>taste</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜀𑜢𑜃𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">genl</form>
+				<concepts>
+					<c>drink</c>
+					<c>gain</c>
+					<c>corrupt</c>
+					<c>smoke</c>
+					<c>acquire</c>
+					<c>eat</c>
+					<c>celebrate</c>
+					<c>embezzle</c>
+				</concepts>
+				<url source="wiki">/wiki/genl#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ກິນ</form>
+				<translit>kin</translit>
+				<concepts>
+					<c>eat</c>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/ກິນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦂᦲᧃ</form>
+				<translit>k̇iin</translit>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦂᦲᧃ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵိၼ်</form>
+				<translit>kǐn</translit>
+				<concepts>
+					<c>eat</c>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵိၼ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥐᥤᥢ</form>
+				<translit>kin</translit>
+				<concepts>
+					<c>eat</c>
+					<c>drink</c>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥐᥤᥢ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กิน</form>
+				<translit>gin</translit>
+				<concepts>
+					<c>occupy</c>
+					<c>possess</c>
+					<c>receive</c>
+					<c>hold</c>
+					<c>consume</c>
+					<c>capture</c>
+					<c>win</c>
+					<c>seek</c>
+					<c>forced labour</c>
+					<c>take</c>
+				</concepts>
+				<url source="wiki">/wiki/กิน#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gwn</form>
+				<concepts>
+					<c>eat</c>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/gwn#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*lɤmꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/lɤmꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ล้ม</form>
+				<translit>lóm</translit>
+				<concepts>
+					<c>fall</c>
+					<c>collude</c>
+					<c>give up</c>
+					<c>cancel</c>
+					<c>kill</c>
+					<c>die</c>
+				</concepts>
+				<url source="wiki">/wiki/ล้ม#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*lɯətᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/lɯətᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜎𑜢𑜤𑜄𑜫</form>
+				<translit>lüt</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜎𑜢𑜤𑜄𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">လိုတ်</form>
+				<translit>lüt</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/လိုတ်#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">liad</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/liad#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເລືອດ</form>
+				<translit>lư̄at</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ເລືອດ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦵᦟᦲᧆ</form>
+				<translit>loed</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦵᦟᦲᧆ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">လိူတ်ႈ</form>
+				<translit>lōet</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/လိူတ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥘᥫᥖ</form>
+				<translit>loet</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥘᥫᥖ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥘᥫᥖ</form>
+				<translit>loet</translit>
+				<concepts>
+					<c>nervous</c>
+					<c>neurotic</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥘᥫᥖ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เลือด</form>
+				<translit>lʉ̂ʉat</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/เลือด#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">lượt</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/lượt#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">lwed</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/lwed#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*maːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/maːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜉𑜡</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜉𑜡#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">max</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/max#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ມ້າ</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ມ້າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦙᦱᧉ</form>
+				<translit>maa²</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦙᦱᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨾ᩶ᩣ</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨾ᩶ᩣ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪣ꫁ꪱ</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪣ꫁ꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥛᥣᥳ</form>
+				<translit>mȧa</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥛᥣᥳ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">max</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/max#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*naːjᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/naːjᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၼၢႆး</form>
+				<translit>náai</translit>
+				<concepts>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/ၼၢႆး#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ยาย</form>
+				<translit>yaai</translit>
+				<concepts>
+					<c>maternal grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/ยาย#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">daiq</form>
+				<concepts>
+					<c>along with</c>
+				</concepts>
+				<url source="wiki">/wiki/daiq#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*nɯːŋᴮ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/nɯːŋᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜎𑜢𑜤𑜂𑜫</form>
+				<translit>lüṅ</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜎𑜢𑜤𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">လိုင်</form>
+				<translit>lüṅ</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/လိုင်#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໜຶ່ງ</form>
+				<translit>nưng</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ໜຶ່ງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦓᦹᧂᧈ</form>
+				<translit>nueng¹</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦓᦹᧂᧈ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၼိုင်ႈ</form>
+				<translit>nūeng</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ၼိုင်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪙꪳ꪿ꪉ</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪙꪳ꪿ꪉ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dón</lang>
+				<form script="TAI VIET">ꪙꪳ꪿ꪉ</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪙꪳ꪿ꪉ#Tai_Dón</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Laing</lang>
+				<form script="MYANMAR">လိူင်</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/လိူင်#Tai_Laing</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥘᥫᥒ</form>
+				<translit>loeng</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥘᥫᥒ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หนึ่ง</form>
+				<translit>nʉ̀ng</translit>
+				<concepts>
+					<c>a bit</c>
+					<c>first</c>
+					<c>firstly</c>
+					<c>mite</c>
+					<c>a trifle</c>
+				</concepts>
+				<url source="wiki">/wiki/หนึ่ง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หนึ่ง</form>
+				<translit>nʉ̀ng</translit>
+				<concepts>
+					<c>as if</c>
+					<c>as</c>
+					<c>like</c>
+				</concepts>
+				<url source="wiki">/wiki/หนึ่ง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หนึ่ง</form>
+				<translit>nʉ̀ng</translit>
+				<concepts>
+					<c>as</c>
+					<c>resembling</c>
+					<c>like</c>
+				</concepts>
+				<url source="wiki">/wiki/หนึ่ง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หนึ่ง</form>
+				<translit>nʉ̀ng</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/หนึ่ง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หนึ่ง</form>
+				<translit>nʉ̀ng</translit>
+				<concepts>
+					<c>only</c>
+					<c>single</c>
+					<c>top</c>
+					<c>certain</c>
+					<c>whole</c>
+					<c>some</c>
+					<c>sole</c>
+					<c>excellent</c>
+					<c>best</c>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/หนึ่ง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*p.qaːjᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/p.qaːjᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜩</form>
+				<translit>khay</translit>
+				<concepts>
+					<c>write</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜩#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">gaail</form>
+				<concepts>
+					<c>street</c>
+				</concepts>
+				<url source="wiki">/wiki/gaail#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂາຍ</form>
+				<translit>khāi</translit>
+				<concepts>
+					<c>sell</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂາຍ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">khải</form>
+				<concepts>
+					<c>sell</c>
+				</concepts>
+				<url source="wiki">/wiki/khải#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪄꪱꪥ</form>
+				<concepts>
+					<c>sell</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪄꪱꪥ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขาย</form>
+				<translit>kǎai</translit>
+				<concepts>
+					<c>sell</c>
+				</concepts>
+				<url source="wiki">/wiki/ขาย#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gai</form>
+				<concepts>
+					<c>sell</c>
+				</concepts>
+				<url source="wiki">/wiki/gai#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*p.qaːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/p.qaːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">gal</form>
+				<concepts>
+					<c>foot</c>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/gal#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂາ</form>
+				<translit>khā</translit>
+				<concepts>
+					<c>participant</c>
+					<c>tributary</c>
+					<c>leg</c>
+					<c>partner</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦃᦱ</form>
+				<translit>ẋaa</translit>
+				<concepts>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦃᦱ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">ga</form>
+				<concepts>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/ga#Zhuang</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">ga</form>
+				<concepts>
+					<c>quarter of</c>
+				</concepts>
+				<url source="wiki">/wiki/ga#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*p.taːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/p.taːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">dal</form>
+				<concepts>
+					<c>maternal grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/dal#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຕາ</form>
+				<translit>tā</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/ຕາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦎᦱ</form>
+				<translit>ṫaa</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦎᦱ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">တႃ</form>
+				<translit>tǎa</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/တႃ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ตา</form>
+				<translit>dtaa</translit>
+				<concepts>
+					<c>old man</c>
+					<c>maternal grandfather</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/ตา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">tha</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/tha#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">da</form>
+				<concepts>
+					<c>knot</c>
+					<c>judgment</c>
+					<c>node</c>
+					<c>joint</c>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/da#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*peːtᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/peːtᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜆𑜢𑜄𑜫</form>
+				<translit>pit</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜆𑜢𑜄𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">beedt</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/beedt#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ແປດ</form>
+				<translit>pǣt</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ແປດ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦶᦔᧆᧈ</form>
+				<translit>ṗaed¹</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦶᦔᧆᧈ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">pẻt</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/pẻt#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Phake</lang>
+				<form script="MYANMAR">ပိတ်</form>
+				<translit>pit</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ပိတ်#Phake</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ပႅတ်ႇ</form>
+				<translit>pèt</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ပႅတ်ႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪵꪜꪒ</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪵꪜꪒ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Laing</lang>
+				<form script="MYANMAR">ပျꧥတ်</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ပျꧥတ်#Tai_Laing</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥙᥦᥖᥱ</form>
+				<translit>pǎet</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥙᥦᥖᥱ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">แปด</form>
+				<translit>bpɛ̀ɛt</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/แปด#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">bet</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/bet#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*plaːᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/plaːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">byal</form>
+				<concepts>
+					<c>cloth</c>
+				</concepts>
+				<url source="wiki">/wiki/byal#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Isan</lang>
+				<form script="THAI">ปา</form>
+				<concepts>
+					<c>throw</c>
+				</concepts>
+				<url source="wiki">/wiki/ปา#Isan</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ປາ</form>
+				<translit>pā</translit>
+				<concepts>
+					<c>throw</c>
+				</concepts>
+				<url source="wiki">/wiki/ປາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦔᦱ</form>
+				<translit>ṗaa</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦔᦱ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨸᩖᩣ</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨸᩖᩣ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">pá</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/pá#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">ปร๋า</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ปร๋า#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ပႃ</form>
+				<translit>pǎa</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ပႃ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪜꪱ</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪜꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ปลา</form>
+				<translit>bplaa</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ปลา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">pja</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/pja#Tày</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*q.pɯlᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/q.pɯlᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦃᦳᧃ</form>
+				<translit>ẋun</translit>
+				<concepts>
+					<c>lord</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦃᦳᧃ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">ปุ๋น</form>
+				<concepts>
+					<c>feather</c>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/ปุ๋น#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪶꪄꪙ</form>
+				<concepts>
+					<c>feather</c>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪶꪄꪙ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥨᥢᥴ</form>
+				<translit>xón</translit>
+				<concepts>
+					<c>fur</c>
+					<c>feather</c>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥨᥢᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขน</form>
+				<translit>kǒn</translit>
+				<concepts>
+					<c>wool</c>
+					<c>fur</c>
+					<c>feather</c>
+					<c>body hair</c>
+				</concepts>
+				<url source="wiki">/wiki/ขน#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">bwn</form>
+				<concepts>
+					<c>arrow</c>
+				</concepts>
+				<url source="wiki">/wiki/bwn#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*qawᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/qawᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເຂົາ</form>
+				<translit>khao</translit>
+				<concepts>
+					<c>antler</c>
+					<c>horn</c>
+				</concepts>
+				<url source="wiki">/wiki/ເຂົາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥝᥴ</form>
+				<translit>xáw</translit>
+				<concepts>
+					<c>they</c>
+					<c>them</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥝᥴ#Tai_Nüa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*qaːtᴰ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/qaːtᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขาด</form>
+				<translit>kàat</translit>
+				<concepts>
+					<c>imperfectly</c>
+					<c>defectively</c>
+					<c>incompletely</c>
+					<c>apart</c>
+					<c>unfully</c>
+					<c>absolutely</c>
+					<c>completely</c>
+					<c>unmatched</c>
+					<c>entirely</c>
+					<c>separately</c>
+					<c>off</c>
+				</concepts>
+				<url source="wiki">/wiki/ขาด#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขาด</form>
+				<translit>kàat</translit>
+				<concepts>
+					<c>removed</c>
+					<c>strip</c>
+					<c>absent</c>
+					<c>lack</c>
+					<c>barred</c>
+					<c>deficient</c>
+					<c>pause</c>
+					<c>stop</c>
+					<c>cease</c>
+					<c>lose</c>
+					<c>deprived</c>
+					<c>set apart</c>
+					<c>need</c>
+					<c>parted</c>
+					<c>require</c>
+					<c>without</c>
+					<c>miss</c>
+					<c>separated</c>
+				</concepts>
+				<url source="wiki">/wiki/ขาด#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*qaːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/qaːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">gac</form>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/gac#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨡ᩶ᩣ</form>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨡ᩶ᩣ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪄ꫁ꪱ</form>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪄ꫁ꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ฆ่า</form>
+				<translit>kâa</translit>
+				<concepts>
+					<c>put an end to</c>
+					<c>destroy</c>
+					<c>strike out</c>
+					<c>remove</c>
+					<c>get rid of</c>
+					<c>kill</c>
+					<c>cross out</c>
+				</concepts>
+				<url source="wiki">/wiki/ฆ่า#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">gaj</form>
+				<concepts>
+					<c>delete</c>
+					<c>strike out</c>
+					<c>kill</c>
+					<c>slaughter</c>
+				</concepts>
+				<url source="wiki">/wiki/gaj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*qemᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/qemᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜢𑜉𑜫</form>
+				<translit>khim</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜢𑜉𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເຂັມ</form>
+				<translit>khem</translit>
+				<concepts>
+					<c>needle</c>
+					<c>pin</c>
+				</concepts>
+				<url source="wiki">/wiki/ເຂັມ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦃᦲᧄ</form>
+				<translit>ẋiim</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦃᦲᧄ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶဵမ်</form>
+				<translit>khǎem</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶဵမ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪹꪄꪸꪣ</form>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪹꪄꪸꪣ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥥᥛᥴ</form>
+				<translit>xém</translit>
+				<concepts>
+					<c>disaster</c>
+					<c>enemy</c>
+					<c>calamity</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥥᥛᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เข็ม</form>
+				<translit>kěm</translit>
+				<concepts>
+					<c>brooch</c>
+					<c>needle</c>
+					<c>ixora</c>
+					<c>stitch</c>
+				</concepts>
+				<url source="wiki">/wiki/เข็ม#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*roːkᴰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/roːkᴰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜍𑜨𑜀𑜫</form>
+				<translit>rok</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜍𑜨𑜀𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦀᦲᦰᦣᦸᧅ</form>
+				<translit>˙ʼihoak</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦀᦲᦰᦣᦸᧅ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กระรอก</form>
+				<translit>grà-rɔ̂ɔk</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/กระรอก#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*rwɤːjᶜ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/rwɤːjᶜ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ร้าย</form>
+				<translit>ráai</translit>
+				<concepts>
+					<c>evil</c>
+					<c>bad</c>
+				</concepts>
+				<url source="wiki">/wiki/ร้าย#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*saːm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/saːm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">ꩬံ</form>
+				<translit>saṃ</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬံ#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">saaml</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/saaml#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ສາມ</form>
+				<translit>sām</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ສາມ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᩈᩣ᩠ᨾ</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ᩈᩣ᩠ᨾ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">slám</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/slám#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">သၢမ်</form>
+				<translit>sǎam</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/သၢမ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪎꪱꪣ</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪎꪱꪣ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Laing</lang>
+				<form script="MYANMAR">ꩬꩼၢမ်</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬꩼၢမ်#Tai_Laing</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥔᥣᥛᥴ</form>
+				<translit>sáam</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥔᥣᥛᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">สาม</form>
+				<translit>sǎam</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/สาม#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">slam</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/slam#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">sam</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/sam#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*siːᴮ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/siːᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜏𑜣</form>
+				<translit>sī</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜏𑜣#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">ꩬီ</form>
+				<translit>sī</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬီ#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">sis</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/sis#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Khamti</lang>
+				<form script="MYANMAR">ꩬီ</form>
+				<concepts>
+					<c>but</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬီ#Khamti</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ສີ່</form>
+				<translit>sī</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ສີ່#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦉᦲᧈ</form>
+				<translit>ṡii¹</translit>
+				<concepts>
+					<c>show</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦉᦲᧈ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᩈᩦ᩵</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ᩈᩦ᩵#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">slỉ</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/slỉ#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">သီႇ</form>
+				<translit>sìi</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/သီႇ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪎꪲ꪿</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪎꪲ꪿#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Laing</lang>
+				<form script="MYANMAR">ꩬီ</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬီ#Tai_Laing</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥔᥤᥱ</form>
+				<translit>sǐ</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥔᥤᥱ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">สี่</form>
+				<translit>sìi</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/สี่#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">slí</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/slí#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">seiq</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/seiq#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*soːŋᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/soːŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜏𑜨𑜂𑜫</form>
+				<translit>soṅ</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜏𑜨𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">ꩬွင်</form>
+				<translit>soṅ</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬွင်#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">soongl</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/soongl#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Khamti</lang>
+				<form script="MYANMAR">ꩬွင်</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬွင်#Khamti</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ສອງ</form>
+				<translit>sǭng</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ສອງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦉᦸᧂ</form>
+				<translit>ṡoang</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦉᦸᧂ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Phake</lang>
+				<form script="MYANMAR">ꩬွင်</form>
+				<translit>soṅ</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬွင်#Phake</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">သွင်</form>
+				<translit>sǎung</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/သွင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪎꪮꪉ</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪎꪮꪉ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dón</lang>
+				<form script="TAI VIET">ꪎꪮꪉ</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪎꪮꪉ#Tai_Dón</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Laing</lang>
+				<form script="MYANMAR">ꩬွꩼင်</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ꩬွꩼင်#Tai_Laing</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥔᥩᥒᥴ</form>
+				<translit>sóang</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥔᥩᥒᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">sloong</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/sloong#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">song</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/song#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*swɯːnᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/swɯːnᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ສວນ</form>
+				<translit>sūan</translit>
+				<concepts>
+					<c>garden</c>
+					<c>park</c>
+				</concepts>
+				<url source="wiki">/wiki/ສວນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦷᦉᧃ</form>
+				<translit>ṡon</translit>
+				<concepts>
+					<c>garden</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦷᦉᧃ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">သူၼ်</form>
+				<translit>sǔun</translit>
+				<concepts>
+					<c>garden</c>
+				</concepts>
+				<url source="wiki">/wiki/သူၼ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">สวน</form>
+				<translit>sǔuan</translit>
+				<concepts>
+					<c>inquire</c>
+					<c>ask</c>
+					<c>question</c>
+					<c>interrogate</c>
+				</concepts>
+				<url source="wiki">/wiki/สวน#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">suen</form>
+				<concepts>
+					<c>garden</c>
+					<c>orchard</c>
+				</concepts>
+				<url source="wiki">/wiki/suen#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*sɤmᶜ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/sɤmᶜ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ສົ້ມ</form>
+				<translit>som</translit>
+				<concepts>
+					<c>orange</c>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/ສົ້ມ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦉᦳᧄᧉ</form>
+				<translit>ṡum²</translit>
+				<concepts>
+					<c>acidic</c>
+					<c>pickled</c>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦉᦳᧄᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">သူမ်ႈ</form>
+				<translit>sūum</translit>
+				<concepts>
+					<c>acid</c>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/သူမ်ႈ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ส้ม</form>
+				<translit>sôm</translit>
+				<concepts>
+					<c>orange</c>
+				</concepts>
+				<url source="wiki">/wiki/ส้ม#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ส้ม</form>
+				<translit>sôm</translit>
+				<concepts>
+					<c>orange</c>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/ส้ม#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">soemj</form>
+				<concepts>
+					<c>acid</c>
+				</concepts>
+				<url source="wiki">/wiki/soemj#Zhuang</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">soemj</form>
+				<concepts>
+					<c>acidic</c>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/soemj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*vaːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/vaːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜇𑜠</form>
+				<translit>pha</translit>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜇𑜠#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຟ້າ</form>
+				<translit>fā</translit>
+				<concepts>
+					<c>heaven</c>
+					<c>sky</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/ຟ້າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦝᦱᧉ</form>
+				<translit>faa²</translit>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦝᦱᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨼ᩶ᩣ</form>
+				<concepts>
+					<c>lime</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨼ᩶ᩣ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪡ꫁ꪱ</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪡ꫁ꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ฟ้า</form>
+				<translit>fáa</translit>
+				<concepts>
+					<c>heaven</c>
+					<c>royal</c>
+					<c>air</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ฟ้า#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ฟ้า</form>
+				<translit>fáa</translit>
+				<concepts>
+					<c>light blue</c>
+					<c>sky blue</c>
+				</concepts>
+				<url source="wiki">/wiki/ฟ้า#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">fạ</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/fạ#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">fax</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/fax#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*wɤjᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/wɤjᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜇𑜩</form>
+				<translit>phay</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜇𑜩#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">fix</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/fix#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Isan</lang>
+				<form script="THAI">ไฟ</form>
+				<concepts>
+					<c>light</c>
+					<c>electricity</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ไฟ#Isan</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໄຟ</form>
+				<translit>fai</translit>
+				<concepts>
+					<c>light</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ໄຟ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦺᦝ</form>
+				<translit>fay</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦺᦝ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨼᩱ</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨼᩱ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Nung</lang>
+				<form script="LATIN">fay</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/fay#Nung</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">วี๊</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/วี๊#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၾႆး</form>
+				<translit>fái</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ၾႆး#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪼꪡ</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪼꪡ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥜᥭᥰ</form>
+				<translit>fäy</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥜᥭᥰ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ไฟ</form>
+				<translit>fai</translit>
+				<concepts>
+					<c>fire</c>
+					<c>electricity</c>
+					<c>vitality</c>
+					<c>light</c>
+					<c>light source</c>
+					<c>spirit</c>
+					<c>energy</c>
+					<c>flame</c>
+				</concepts>
+				<url source="wiki">/wiki/ไฟ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">fầy</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/fầy#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">feiz</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/feiz#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*xaːwᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/xaːwᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">haaul</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/haaul#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂາວ</form>
+				<translit>khāo</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂາວ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦃᦱᧁ</form>
+				<translit>ẋaaw</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦃᦱᧁ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶၢဝ်</form>
+				<translit>khǎao</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶၢဝ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥣᥝᥴ</form>
+				<translit>xáaw</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥣᥝᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขาว</form>
+				<translit>kǎao</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/ขาว#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">hau</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/hau#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*xaːᴮ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/xaːᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂ່າ</form>
+				<translit>khā</translit>
+				<concepts>
+					<c>galangal</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂ່າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข่า</form>
+				<translit>kàa</translit>
+				<concepts>
+					<c>galangal</c>
+				</concepts>
+				<url source="wiki">/wiki/ข่า#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*xiəwᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/xiəwᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ខៀវ</form>
+				<translit>khiəw</translit>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/ខៀវ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂຽວ</form>
+				<translit>khiāu</translit>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂຽວ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦵᦃᧁ</form>
+				<translit>ẋew</translit>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦵᦃᧁ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶဵဝ်</form>
+				<translit>khǎeo</translit>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶဵဝ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪵꪄꪫ</form>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪵꪄꪫ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เขียว</form>
+				<translit>kǐao</translit>
+				<concepts>
+					<c>hurriedly</c>
+				</concepts>
+				<url source="wiki">/wiki/เขียว#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">heu</form>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="wiki">/wiki/heu#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*xwaːnᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/xwaːnᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜃𑜫</form>
+				<translit>khan</translit>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜃𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂວານ</form>
+				<translit>khuān</translit>
+				<concepts>
+					<c>ax</c>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂວານ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪄꪫꪱꪙ</form>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪄꪫꪱꪙ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขวาน</form>
+				<translit>kwǎan</translit>
+				<concepts>
+					<c>axe</c>
+				</concepts>
+				<url source="wiki">/wiki/ขวาน#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*xɔːᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/xɔːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜦𑜡</form>
+				<translit>khō</translit>
+				<concepts>
+					<c>knot</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜦𑜡#Ahom</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ŋwɯːᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ŋwɯːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜂𑜥</form>
+				<translit>ṅū</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜂𑜥#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">ngeaz</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ngeaz#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ງູ</form>
+				<translit>ngū</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ງູ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦇᦴ</form>
+				<translit>nguu</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦇᦴ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨦᩪ</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨦᩪ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">งั๊ว</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/งั๊ว#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ငူး</form>
+				<translit>ngúu</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ငူး#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪉꪴ</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪉꪴ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥒᥧᥰ</form>
+				<translit>ngü</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥒᥧᥰ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">งู</form>
+				<translit>nguu</translit>
+				<concepts>
+					<c>snake</c>
+					<c>penis</c>
+				</concepts>
+				<url source="wiki">/wiki/งู#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">ngù</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ngù#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">ngwz</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ngwz#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ɓlɯənᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ɓlɯənᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜓𑜢𑜤𑜃𑜫</form>
+				<translit>dün</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜓𑜢𑜤𑜃𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">ndianl</form>
+				<concepts>
+					<c>month</c>
+				</concepts>
+				<url source="wiki">/wiki/ndianl#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">ndianl</form>
+				<concepts>
+					<c>month</c>
+				</concepts>
+				<url source="wiki">/wiki/ndianl#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເດືອນ</form>
+				<translit>dư̄an</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/ເດືອນ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦵᦡᦲᧃ</form>
+				<translit>ḋoen</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦵᦡᦲᧃ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨯᩮᩬᩥᩁ</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨯᩮᩬᩥᩁ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">เบรี๋ยน</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/เบรี๋ยน#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">လိူၼ်</form>
+				<translit>lǒen</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/လိူၼ်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เดือน</form>
+				<translit>dʉʉan</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/เดือน#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Tày</lang>
+				<form script="LATIN">bươn</form>
+				<concepts>
+					<c>month</c>
+				</concepts>
+				<url source="wiki">/wiki/bươn#Tày</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">ndwen</form>
+				<concepts>
+					<c>earthworm</c>
+				</concepts>
+				<url source="wiki">/wiki/ndwen#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ɗrwajᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ɗrwajᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂັ້ນໄດ</form>
+				<translit>khan dai</translit>
+				<concepts>
+					<c>staircase</c>
+					<c>stairs</c>
+					<c>ladder</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂັ້ນໄດ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶူဝ်လႆ</form>
+				<translit>khǒ lǎi</translit>
+				<concepts>
+					<c>stairs</c>
+					<c>ladder</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶူဝ်လႆ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กระได</form>
+				<translit>grà-dai</translit>
+				<concepts>
+					<c>stairs</c>
+					<c>ladder</c>
+				</concepts>
+				<url source="wiki">/wiki/กระได#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">บันได</form>
+				<translit>ban-dai</translit>
+				<concepts>
+					<c>stairs</c>
+					<c>ladder</c>
+				</concepts>
+				<url source="wiki">/wiki/บันได#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ɟaːŋꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ɟaːŋꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜋𑜂𑜫</form>
+				<translit>chaṅ</translit>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜋𑜂𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຊ້າງ</form>
+				<translit>sāng</translit>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/ຊ້າງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦋᦱᧂᧉ</form>
+				<translit>tsaang²</translit>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦋᦱᧂᧉ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨩ᩶ᩣ᩠ᨦ</form>
+				<translit>cang</translit>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨩ᩶ᩣ᩠ᨦ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">ซาง</form>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/ซาง#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၸၢင်ႉ</form>
+				<translit>tsâ̰ang</translit>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/ၸၢင်ႉ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪋ꫁ꪱꪉ</form>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪋ꫁ꪱꪉ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥓᥣᥒᥳ</form>
+				<translit>tsȧang</translit>
+				<concepts>
+					<c>elephant</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥓᥣᥒᥳ#Tai_Nüa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ɡm̩.raːꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ɡm̩.raːꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">កំព្រា</form>
+				<translit>kɑmpriə</translit>
+				<concepts>
+					<c>orphaned</c>
+					<c>lonesome</c>
+					<c>desolate</c>
+				</concepts>
+				<url source="wiki">/wiki/កំព្រា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กำพร้า</form>
+				<translit>gam-práa</translit>
+				<concepts>
+					<c>orphan</c>
+				</concepts>
+				<url source="wiki">/wiki/กำพร้า#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ɣwaːjᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ɣwaːjᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຄວາຍ</form>
+				<translit>khuāi</translit>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ຄວາຍ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦩᦻ</form>
+				<translit>xwaay</translit>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦩᦻ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨤ᩠ᩅᩣ᩠ᨿ</form>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨤ᩠ᩅᩣ᩠ᨿ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">ว๊าย</form>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ว๊าย#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၵႂၢႆး</form>
+				<translit>kwáai</translit>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ၵႂၢႆး#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪁꪫꪱꪥ</form>
+				<translit>kwaay4</translit>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪁꪫꪱꪥ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥣᥭᥰ</form>
+				<translit>xäay</translit>
+				<concepts>
+					<c>spit out</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥣᥭᥰ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ควาย</form>
+				<translit>kwaai</translit>
+				<concepts>
+					<c>stupid</c>
+					<c>idiot</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/ควาย#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ควาย</form>
+				<translit>kwaai</translit>
+				<concepts>
+					<c>stupid</c>
+					<c>idiot</c>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ควาย#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">vaiz</form>
+				<concepts>
+					<c>water buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/vaiz#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ɣɯjᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ɣɯjᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขุย</form>
+				<translit>kǔi</translit>
+				<concepts>
+					<c>fuzz</c>
+				</concepts>
+				<url source="wiki">/wiki/ขุย#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ʰlɯəŋᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ʰlɯəŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">លឿង</form>
+				<translit>lɨəng</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/លឿង#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເຫຼືອງ</form>
+				<translit>lư̄ang</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/ເຫຼືອງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦵᦜᦲᧂ</form>
+				<translit>l̇oeng</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦵᦜᦲᧂ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">လိူင်</form>
+				<translit>lǒeng</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/လိူင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เหลือง</form>
+				<translit>lʉ̌ʉang</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/เหลือง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">lieng</form>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/lieng#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ʰmaːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ʰmaːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aiton</lang>
+				<form script="MYANMAR">မႃ</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/မႃ#Aiton</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໝາ</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ໝາ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦖᦱ</form>
+				<translit>ṁaa</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦖᦱ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᩉ᩠ᨾᩣ</form>
+				<translit>maa</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᩉ᩠ᨾᩣ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">หม่า</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/หม่า#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">မႃ</form>
+				<translit>mǎa</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/မႃ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪢꪱ</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪢꪱ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥛᥣᥴ</form>
+				<translit>máa</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥛᥣᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หมา</form>
+				<translit>mǎa</translit>
+				<concepts>
+					<c>fox</c>
+					<c>wolf</c>
+					<c>jackal</c>
+					<c>dogmeat</c>
+					<c>deserted</c>
+					<c>canine</c>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/หมา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หมา</form>
+				<translit>mǎa</translit>
+				<concepts>
+					<c>low</c>
+					<c>bad</c>
+				</concepts>
+				<url source="wiki">/wiki/หมา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หมา</form>
+				<translit>mǎa</translit>
+				<concepts>
+					<c>lowly</c>
+					<c>badly</c>
+				</concepts>
+				<url source="wiki">/wiki/หมา#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ʰmuːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ʰmuːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">mul</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/mul#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໝູ</form>
+				<translit>mū</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ໝູ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lü</lang>
+				<form script="NEW TAI LUE">ᦖᦴ</form>
+				<translit>ṁuu</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ᦖᦴ#Lü</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">หมู่</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/หมู่#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">မူ</form>
+				<translit>mǔu</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/မူ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪢꪴ</form>
+				<concepts>
+					<c>hog</c>
+					<c>pig</c>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪢꪴ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥛᥧᥴ</form>
+				<translit>mú</translit>
+				<concepts>
+					<c>pig</c>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥛᥧᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หมู</form>
+				<translit>mǔu</translit>
+				<concepts>
+					<c>pork</c>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/หมู#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หมู</form>
+				<translit>mǔu</translit>
+				<concepts>
+					<c>simple</c>
+					<c>easy</c>
+				</concepts>
+				<url source="wiki">/wiki/หมู#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">mou</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/mou#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ʰmwɯjᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ʰmwɯjᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">moil</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/moil#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໝີ</form>
+				<translit>mī</translit>
+				<concepts>
+					<c>bear</c>
+					<c>sun bear</c>
+				</concepts>
+				<url source="wiki">/wiki/ໝີ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">မီ</form>
+				<translit>mǐi</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/မီ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">mui</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/mui#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ʰnuːᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ʰnuːᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ໜູ</form>
+				<translit>nū</translit>
+				<concepts>
+					<c>rat</c>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/ໜູ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Saek</lang>
+				<form script="THAI">หนู่</form>
+				<concepts>
+					<c>rat</c>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/หนู่#Saek</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၼူ</form>
+				<translit>nǔu</translit>
+				<concepts>
+					<c>murid</c>
+					<c>rat</c>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/ၼူ#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">หนู</form>
+				<translit>nǔu</translit>
+				<concepts>
+					<c>comfort girl</c>
+					<c>murid</c>
+					<c>mouse</c>
+					<c>rat</c>
+					<c>kept woman</c>
+					<c>child</c>
+					<c>young</c>
+					<c>prostitute</c>
+					<c>concubine</c>
+				</concepts>
+				<url source="wiki">/wiki/หนู#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">nou</form>
+				<concepts>
+					<c>rat</c>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/nou#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*ˀjɯ:mᴬ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/ˀjɯ:mᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ยืม</form>
+				<translit>yʉʉm</translit>
+				<concepts>
+					<c>borrow</c>
+				</concepts>
+				<url source="wiki">/wiki/ยืม#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χalᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χalᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขัน</form>
+				<translit>kǎn</translit>
+				<concepts>
+					<c>bowl</c>
+					<c>vessel</c>
+				</concepts>
+				<url source="wiki">/wiki/ขัน#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χawꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χawꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">hauc</form>
+				<concepts>
+					<c>go in</c>
+					<c>enter</c>
+				</concepts>
+				<url source="wiki">/wiki/hauc#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เข้า</form>
+				<translit>kâo</translit>
+				<concepts>
+					<c>together</c>
+					<c>altogether</c>
+				</concepts>
+				<url source="wiki">/wiki/เข้า#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">haeuj</form>
+				<concepts>
+					<c>enter</c>
+				</concepts>
+				<url source="wiki">/wiki/haeuj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χaːmꟲ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χaːmꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜪</form>
+				<translit>khaṃ</translit>
+				<concepts>
+					<c>gold</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜪#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ข้าม</form>
+				<translit>kâam</translit>
+				<concepts>
+					<c>skip</c>
+					<c>cross</c>
+				</concepts>
+				<url source="wiki">/wiki/ข้าม#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χaːnᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χaːnᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขาน</form>
+				<translit>kǎan</translit>
+				<concepts>
+					<c>call out</c>
+					<c>call</c>
+				</concepts>
+				<url source="wiki">/wiki/ขาน#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χiəŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χiəŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶဵင်</form>
+				<translit>khǎeng</translit>
+				<concepts>
+					<c>chopping board</c>
+					<c>chopping block</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶဵင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เขียง</form>
+				<translit>kǐiang</translit>
+				<concepts>
+					<c>chopping board</c>
+					<c>butcher</c>
+					<c>chopping block</c>
+				</concepts>
+				<url source="wiki">/wiki/เขียง#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χiːŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χiːŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bouyei</lang>
+				<form script="LATIN">hingl</form>
+				<concepts>
+					<c>ginger</c>
+				</concepts>
+				<url source="wiki">/wiki/hingl#Bouyei</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂີງ</form>
+				<translit>khīng</translit>
+				<concepts>
+					<c>ginger</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂີງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶိင်</form>
+				<translit>khǐng</translit>
+				<concepts>
+					<c>ginger</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶိင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥤᥒᥴ</form>
+				<translit>xíng</translit>
+				<concepts>
+					<c>ginger</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥤᥒᥴ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขิง</form>
+				<translit>kǐng</translit>
+				<concepts>
+					<c>show off</c>
+					<c>flaunt</c>
+					<c>flex</c>
+				</concepts>
+				<url source="wiki">/wiki/ขิง#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">hing</form>
+				<concepts>
+					<c>ginger</c>
+				</concepts>
+				<url source="wiki">/wiki/hing#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χowᴮ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χowᴮ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ເຂົ່າ</form>
+				<translit>khao</translit>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/ເຂົ່າ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Nüa</lang>
+				<form script="TAI LE">ᥑᥝᥱ</form>
+				<translit>xǎw</translit>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/ᥑᥝᥱ#Tai_Nüa</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เข่า</form>
+				<translit>kào</translit>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/เข่า#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χɔːŋᴬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χɔːŋᴬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂອງ</form>
+				<translit>khǭng</translit>
+				<concepts>
+					<c>belonging</c>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂອງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Lao</lang>
+				<form script="LAO">ຂອງ</form>
+				<translit>khǭng</translit>
+				<concepts>
+					<c>object</c>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/ຂອງ#Lao</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨡᩬᨦ</form>
+				<concepts>
+					<c>belonging</c>
+					<c>of</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨡᩬᨦ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Thai</lang>
+				<form script="TAI THAM">ᨡᩬᨦ</form>
+				<concepts>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/ᨡᩬᨦ#Northern_Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶွင်</form>
+				<translit>khǎung</translit>
+				<concepts>
+					<c>because of</c>
+					<c>on account of</c>
+					<c>since</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶွင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶွင်</form>
+				<translit>khǎung</translit>
+				<concepts>
+					<c>both</c>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶွင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Shan</lang>
+				<form script="MYANMAR">ၶွင်</form>
+				<translit>khǎung</translit>
+				<concepts>
+					<c>things</c>
+					<c>goods</c>
+					<c>property</c>
+					<c>private parts</c>
+				</concepts>
+				<url source="wiki">/wiki/ၶွင်#Shan</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ของ</form>
+				<translit>kɔ̌ɔng</translit>
+				<concepts>
+					<c>belonging</c>
+					<c>of</c>
+					<c>pertaining</c>
+				</concepts>
+				<url source="wiki">/wiki/ของ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ของ</form>
+				<translit>kɔ̌ɔng</translit>
+				<concepts>
+					<c>thing</c>
+					<c>magic</c>
+					<c>matter</c>
+					<c>belonging</c>
+					<c>item</c>
+					<c>possession</c>
+					<c>article</c>
+					<c>ability</c>
+					<c>property</c>
+					<c>talent</c>
+					<c>stuff</c>
+				</concepts>
+				<url source="wiki">/wiki/ของ#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">hong</form>
+				<concepts>
+					<c>work</c>
+					<c>labor</c>
+				</concepts>
+				<url source="wiki">/wiki/hong#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tai</plang>
+			<pform>*χɯnꟲ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tai/χɯnꟲ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahom</lang>
+				<form script="AHOM">𑜁𑜢𑜤𑜃𑜫</form>
+				<translit>khün</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/𑜁𑜢𑜤𑜃𑜫#Ahom</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪄꪳ꫁ꪙ</form>
+				<concepts>
+					<c>go up</c>
+					<c>rise</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪄꪳ꫁ꪙ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Tai Dam</lang>
+				<form script="TAI VIET">ꪄꪳ꫁ꪙ</form>
+				<concepts>
+					<c>up</c>
+					<c>upwards</c>
+				</concepts>
+				<url source="wiki">/wiki/ꪄꪳ꫁ꪙ#Tai_Dam</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขึ้น</form>
+				<translit>kʉ̂n</translit>
+				<concepts>
+					<c>day</c>
+					<c>as opposed to</c>
+				</concepts>
+				<url source="wiki">/wiki/ขึ้น#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขึ้น</form>
+				<translit>kʉ̂n</translit>
+				<concepts>
+					<c>upwards</c>
+					<c>eastwards</c>
+					<c>number</c>
+					<c>depository</c>
+					<c>assume</c>
+					<c>move</c>
+					<c>etc</c>
+					<c>crossbow</c>
+					<c>strength</c>
+					<c>start</c>
+					<c>entity</c>
+					<c>go up</c>
+					<c>northwards</c>
+					<c>lottery</c>
+					<c>quantity</c>
+					<c>volume</c>
+					<c>under</c>
+					<c>commence</c>
+					<c>level</c>
+					<c>warehouse</c>
+					<c>supervision</c>
+					<c>vehement</c>
+					<c>direction</c>
+					<c>register</c>
+					<c>strong</c>
+					<c>rank</c>
+					<c>degree</c>
+					<c>record</c>
+					<c>place</c>
+					<c>money order</c>
+					<c>order</c>
+					<c>wax</c>
+					<c>size</c>
+					<c>make</c>
+					<c>quality</c>
+					<c>frontwards</c>
+					<c>shot</c>
+				</concepts>
+				<url source="wiki">/wiki/ขึ้น#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขึ้น</form>
+				<translit>kʉ̂n</translit>
+				<concepts>
+					<c>upwards</c>
+					<c>in</c>
+					<c>frontally</c>
+					<c>easterly</c>
+					<c>up</c>
+					<c>eastwards</c>
+					<c>northerly</c>
+					<c>northwards</c>
+					<c>frontwards</c>
+				</concepts>
+				<url source="wiki">/wiki/ขึ้น#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ขึ้น</form>
+				<translit>kʉ̂n</translit>
+				<concepts>
+					<c>waxing</c>
+				</concepts>
+				<url source="wiki">/wiki/ขึ้น#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Zhuang</lang>
+				<form script="LATIN">hwnj</form>
+				<concepts>
+					<c>apply</c>
+					<c>construct</c>
+					<c>appear</c>
+					<c>set out</c>
+					<c>enter</c>
+					<c>rise</c>
+					<c>go up</c>
+					<c>go to</c>
+					<c>attend</c>
+					<c>affix</c>
+					<c>increase</c>
+					<c>develop</c>
+					<c>ascend</c>
+					<c>get on</c>
+					<c>record</c>
+					<c>grow</c>
+					<c>build</c>
+					<c>take off</c>
+					<c>write down</c>
+				</concepts>
+				<url source="wiki">/wiki/hwnj#Zhuang</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

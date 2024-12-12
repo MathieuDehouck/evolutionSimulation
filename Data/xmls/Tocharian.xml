@@ -1,0 +1,501 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*al-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/al-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">āl-</form>
+				<concepts>
+					<c>hold back</c>
+					<c>restrain</c>
+				</concepts>
+				<url source="wiki">/wiki/āl-#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">āl-</form>
+				<concepts>
+					<c>hold back</c>
+					<c>restrain</c>
+				</concepts>
+				<url source="wiki">/wiki/āl-#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*ecye</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/ecye</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">aci</form>
+				<concepts>
+					<c>starting</c>
+					<c>here</c>
+					<c>hither</c>
+				</concepts>
+				<url source="wiki">/wiki/aci#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">ecce</form>
+				<concepts>
+					<c>here</c>
+					<c>hither</c>
+				</concepts>
+				<url source="wiki">/wiki/ecce#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*empälkātte</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/empälkātte</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">apälkāt</form>
+				<concepts>
+					<c>unheeding</c>
+					<c>carefree</c>
+					<c>unworried</c>
+					<c>unconcerned</c>
+				</concepts>
+				<url source="wiki">/wiki/apälkāt#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">empalkaitte</form>
+				<concepts>
+					<c>unheeding</c>
+					<c>carefree</c>
+					<c>unworried</c>
+					<c>unconcerned</c>
+				</concepts>
+				<url source="wiki">/wiki/empalkaitte#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*emälye-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/emälye-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">omäl</form>
+				<concepts>
+					<c>heat</c>
+				</concepts>
+				<url source="wiki">/wiki/omäl#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">omäl</form>
+				<concepts>
+					<c>hot</c>
+				</concepts>
+				<url source="wiki">/wiki/omäl#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">emalle</form>
+				<concepts>
+					<c>heat</c>
+				</concepts>
+				<url source="wiki">/wiki/emalle#Tocharian_B</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">emalle</form>
+				<concepts>
+					<c>warm</c>
+					<c>hot</c>
+				</concepts>
+				<url source="wiki">/wiki/emalle#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*enepre</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/enepre</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">anapär</form>
+				<concepts>
+					<c>before</c>
+					<c>in front of</c>
+				</concepts>
+				<url source="wiki">/wiki/anapär#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">enepre</form>
+				<concepts>
+					<c>before</c>
+					<c>in front of</c>
+				</concepts>
+				<url source="wiki">/wiki/enepre#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*epiyāc</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/epiyāc</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">opyāc</form>
+				<concepts>
+					<c>memory</c>
+				</concepts>
+				<url source="wiki">/wiki/opyāc#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">epiyac</form>
+				<concepts>
+					<c>memory</c>
+				</concepts>
+				<url source="wiki">/wiki/epiyac#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*esäle</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/esäle</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">asäl</form>
+				<concepts>
+					<c>post</c>
+				</concepts>
+				<url source="wiki">/wiki/asäl#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">esale</form>
+				<concepts>
+					<c>stake</c>
+					<c>post</c>
+				</concepts>
+				<url source="wiki">/wiki/esale#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*etre</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/etre</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">atär</form>
+				<concepts>
+					<c>hero</c>
+				</concepts>
+				<url source="wiki">/wiki/atär#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">etre</form>
+				<concepts>
+					<c>hero</c>
+				</concepts>
+				<url source="wiki">/wiki/etre#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*kercäpā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/kercäpā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">kercapo</form>
+				<concepts>
+					<c>donkey</c>
+					<c>ass</c>
+				</concepts>
+				<url source="wiki">/wiki/kercapo#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*krāke</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/krāke</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">krāke</form>
+				<concepts>
+					<c>dirt</c>
+					<c>filth</c>
+				</concepts>
+				<url source="wiki">/wiki/krāke#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">krāke</form>
+				<concepts>
+					<c>dirt</c>
+					<c>filth</c>
+				</concepts>
+				<url source="wiki">/wiki/krāke#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*kälp-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/kälp-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">kälp-</form>
+				<concepts>
+					<c>achieve</c>
+					<c>find</c>
+					<c>obtain</c>
+					<c>locate</c>
+					<c>manage</c>
+				</concepts>
+				<url source="wiki">/wiki/kälp-#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">kälp-</form>
+				<concepts>
+					<c>find</c>
+					<c>manage</c>
+					<c>obtain</c>
+					<c>achieve</c>
+				</concepts>
+				<url source="wiki">/wiki/kälp-#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*oṅkrotte</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/oṅkrotte</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">onkrac</form>
+				<concepts>
+					<c>lit</c>
+					<c>unaging</c>
+					<c>immortal</c>
+				</concepts>
+				<url source="wiki">/wiki/onkrac#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">oṅkrotte</form>
+				<concepts>
+					<c>lit</c>
+					<c>unaging</c>
+					<c>immortal</c>
+				</concepts>
+				<url source="wiki">/wiki/oṅkrotte#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*ānāiwātstse</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/ānāiwātstse</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">ānewāts</form>
+				<concepts>
+					<c>unpleasant</c>
+					<c>disagreeable</c>
+				</concepts>
+				<url source="wiki">/wiki/ānewāts#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">anaiwatstse</form>
+				<concepts>
+					<c>irksome</c>
+					<c>unpleasant</c>
+					<c>unwanted</c>
+				</concepts>
+				<url source="wiki">/wiki/anaiwatstse#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*āskwāce</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/āskwāce</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">āskāc</form>
+				<concepts>
+					<c>Desmostachya bipinnata</c>
+					<c>halfa grass</c>
+				</concepts>
+				<url source="wiki">/wiki/āskāc#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">askace</form>
+				<concepts>
+					<c>Desmostachya bipinnata</c>
+					<c>halfa grass</c>
+				</concepts>
+				<url source="wiki">/wiki/askace#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*ātstse</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/ātstse</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">ātsäts</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/ātsäts#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">ātstse</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/ātstse#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tocharian</plang>
+			<pform>*ātts-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tocharian/ātts-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tocharian A</lang>
+				<form script="LATIN">āttsek</form>
+				<concepts>
+					<c>only</c>
+					<c>for sure</c>
+					<c>indeed</c>
+					<c>even</c>
+					<c>completely</c>
+				</concepts>
+				<url source="wiki">/wiki/āttsek#Tocharian_A</url>
+			</reflex>
+			<reflex>
+				<lang>Tocharian B</lang>
+				<form script="LATIN">attsaik</form>
+				<concepts>
+					<c>only</c>
+					<c>for sure</c>
+					<c>indeed</c>
+					<c>even</c>
+					<c>totally</c>
+					<c>completely</c>
+				</concepts>
+				<url source="wiki">/wiki/attsaik#Tocharian_B</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

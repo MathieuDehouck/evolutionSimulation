@@ -1,0 +1,255 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Malayo-Chamic</plang>
+			<pform>*air bah</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayo-Chamic/air bah</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">air bah</form>
+				<concepts>
+					<c>floodwater</c>
+					<c>flood</c>
+				</concepts>
+				<url source="wiki">/wiki/air_bah#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">air bah</form>
+				<concepts>
+					<c>floodwater</c>
+				</concepts>
+				<url source="wiki">/wiki/air_bah#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayo-Chamic</plang>
+			<pform>*bəsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayo-Chamic/bəsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Acehnese</lang>
+				<form script="LATIN">beusoë</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/beusoë#Acehnese</url>
+			</reflex>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬩᭂᬲᬶ</form>
+				<translit>besi</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬩᭂᬲᬶ#Balinese</url>
+			</reflex>
+			<reflex>
+				<lang>Bau Bidayuh</lang>
+				<form script="LATIN">bosi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/bosi#Bau_Bidayuh</url>
+			</reflex>
+			<reflex>
+				<lang>Bilba</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Bilba</url>
+			</reflex>
+			<reflex>
+				<lang>Bima</lang>
+				<form script="GREEK">βesi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/βesi#Bima</url>
+			</reflex>
+			<reflex>
+				<lang>Brunei Malay</lang>
+				<form script="LATIN">basi</form>
+				<concepts>
+					<c>iron</c>
+					<c>metal</c>
+				</concepts>
+				<url source="wiki">/wiki/basi#Brunei_Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Buginese</lang>
+				<form script="LATIN">bessi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/bessi#Buginese</url>
+			</reflex>
+			<reflex>
+				<lang>Dairi Batak</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Dairi_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Cham</lang>
+				<form script="LATIN">bisei</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/bisei#Eastern_Cham</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦮꦼꦱꦶ</form>
+				<translit>wesi</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦮꦼꦱꦶ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Kambera</lang>
+				<form script="LATIN">báhi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/báhi#Kambera</url>
+			</reflex>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Komodo</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Komodo</url>
+			</reflex>
+			<reflex>
+				<lang>Makasar</lang>
+				<form script="LATIN">bassi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/bassi#Makasar</url>
+			</reflex>
+			<reflex>
+				<lang>Malagasy</lang>
+				<form script="LATIN">vy</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/vy#Malagasy</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Mandar</lang>
+				<form script="LATIN">bassi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/bassi#Mandar</url>
+			</reflex>
+			<reflex>
+				<lang>Minangkabau</lang>
+				<form script="LATIN">basi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/basi#Minangkabau</url>
+			</reflex>
+			<reflex>
+				<lang>Ngaju</lang>
+				<form script="LATIN">wasi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/wasi#Ngaju</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">wesi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/wesi#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Rembong</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Rembong</url>
+			</reflex>
+			<reflex>
+				<lang>Sundanese</lang>
+				<form script="SUNDANESE">ᮘᮩᮞᮤ</form>
+				<translit>beusi</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ᮘᮩᮞᮤ#Sundanese</url>
+			</reflex>
+			<reflex>
+				<lang>Tetum</lang>
+				<form script="LATIN">besi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/besi#Tetum</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">bosi</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/bosi#Toba_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="BATAK">ᯅᯬᯘᯪ</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ᯅᯬᯘᯪ#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,306 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*bətəh</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/bətəh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">botoh</form>
+				<concepts>
+					<c>know</c>
+				</concepts>
+				<url source="wiki">/wiki/botoh#Simalungun_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">boto</form>
+				<concepts>
+					<c>know</c>
+				</concepts>
+				<url source="wiki">/wiki/boto#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*dələg</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/dələg</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">dələŋ</form>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/deleng#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">dolog</form>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/dolog#Simalungun_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">dolok</form>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/dolok#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*idah</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/idah</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">idah</form>
+				<concepts>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/idah#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">idah</form>
+				<concepts>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/idah#Simalungun_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">ida</form>
+				<concepts>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/ida#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*kalak</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/kalak</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">kalak</form>
+				<concepts>
+					<c>people</c>
+					<c>person</c>
+				</concepts>
+				<url source="wiki">/wiki/kalak#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">halak</form>
+				<concepts>
+					<c>people</c>
+					<c>person</c>
+				</concepts>
+				<url source="wiki">/wiki/halak#Simalungun_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">halak</form>
+				<concepts>
+					<c>people</c>
+					<c>person</c>
+				</concepts>
+				<url source="wiki">/wiki/halak#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*kundul</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/kundul</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">kundul</form>
+				<concepts>
+					<c>sit</c>
+				</concepts>
+				<url source="wiki">/wiki/kundul#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">hundul</form>
+				<concepts>
+					<c>sit</c>
+				</concepts>
+				<url source="wiki">/wiki/hundul#Simalungun_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">hundul</form>
+				<concepts>
+					<c>sit</c>
+				</concepts>
+				<url source="wiki">/wiki/hundul#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*kələŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/kələŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">keleng</form>
+				<concepts>
+					<c>love</c>
+				</concepts>
+				<url source="wiki">/wiki/keleng#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">holong</form>
+				<concepts>
+					<c>love</c>
+				</concepts>
+				<url source="wiki">/wiki/holong#Simalungun_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">holong</form>
+				<concepts>
+					<c>love</c>
+				</concepts>
+				<url source="wiki">/wiki/holong#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*mədəm</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/mədəm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">mədəm</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/medem#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">modom</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/modom#Simalungun_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Toba Batak</lang>
+				<form script="LATIN">modom</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/modom#Toba_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*rəh</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/rəh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">reh</form>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/reh#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">roh</form>
+				<concepts>
+					<c>attend</c>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/roh#Simalungun_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Batak</plang>
+			<pform>*sərəd</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Batak/sərəd</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Karo Batak</lang>
+				<form script="LATIN">sərən</form>
+				<concepts>
+					<c>sting</c>
+				</concepts>
+				<url source="wiki">/wiki/seren#Karo_Batak</url>
+			</reflex>
+			<reflex>
+				<lang>Simalungun Batak</lang>
+				<form script="LATIN">sorod</form>
+				<concepts>
+					<c>sting</c>
+				</concepts>
+				<url source="wiki">/wiki/sorod#Simalungun_Batak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

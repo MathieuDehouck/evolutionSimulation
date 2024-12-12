@@ -1,0 +1,668 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*-waˑʼɢ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/-waˑʼɢ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">baaʼ</form>
+				<concepts>
+					<c>war</c>
+					<c>raid</c>
+					<c>heroine</c>
+				</concepts>
+				<url source="wiki">/wiki/baaʼ#Navajo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*-weˑdžʷ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/-weˑdžʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">-BÉÉZH</form>
+				<concepts>
+					<c>boil</c>
+				</concepts>
+				<url source="wiki">/wiki/-BÉÉZH#Navajo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*džeˑx</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/džeˑx</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">dzéh</form>
+				<concepts>
+					<c>resin</c>
+					<c>gum</c>
+				</concepts>
+				<url source="wiki">/wiki/dzéh#South_Slavey</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*džʷeˑn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/džʷeˑn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">jį́</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/jį́#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">dzene</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/dzene#South_Slavey</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*giʼgə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/giʼgə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">didzé</form>
+				<concepts>
+					<c>berry</c>
+				</concepts>
+				<url source="wiki">/wiki/didzé#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">jíye</form>
+				<concepts>
+					<c>fruit</c>
+					<c>berry</c>
+				</concepts>
+				<url source="wiki">/wiki/jíye#South_Slavey</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*huˑs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/huˑs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">-DZĮ́Į́Z</form>
+				<concepts>
+					<c>drag</c>
+					<c>tow</c>
+					<c>pull</c>
+				</concepts>
+				<url source="wiki">/wiki/-DZĮ́Į́Z#Navajo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*nuˑ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/nuˑ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">ndu</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/ndu#South_Slavey</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*qʼutšʼ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/qʼutšʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">-KʼǪSH</form>
+				<concepts>
+					<c>rancid</c>
+					<c>salty</c>
+					<c>bitter</c>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/-KʼǪSH#Navajo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*tseˑ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/tseˑ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dogrib</lang>
+				<form script="LATIN">kwe</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/kwe#Dogrib</url>
+			</reflex>
+			<reflex>
+				<lang>Jicarilla</lang>
+				<form script="LATIN">tsé</form>
+				<concepts>
+					<c>stone</c>
+					<c>boulder</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/tsé#Jicarilla</url>
+			</reflex>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">tsé</form>
+				<concepts>
+					<c>stone</c>
+					<c>boulder</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/tsé#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">tthe</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/tthe#South_Slavey</url>
+			</reflex>
+			<reflex>
+				<lang>Western Apache</lang>
+				<form script="LATIN">tséé</form>
+				<concepts>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/tséé#Western_Apache</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*tsənʸ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/tsənʸ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">atsįʼ</form>
+				<concepts>
+					<c>meat</c>
+					<c>flesh</c>
+				</concepts>
+				<url source="wiki">/wiki/atsįʼ#Navajo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*tuˑ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/tuˑ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ahtna</lang>
+				<form script="LATIN">tuu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuu#Ahtna</url>
+			</reflex>
+			<reflex>
+				<lang>Beaver</lang>
+				<form script="LATIN">chuu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/chuu#Beaver</url>
+			</reflex>
+			<reflex>
+				<lang>Chilcotin</lang>
+				<form script="LATIN">tu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tu#Chilcotin</url>
+			</reflex>
+			<reflex>
+				<lang>Chipewyan</lang>
+				<form script="LATIN">tu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tu#Chipewyan</url>
+			</reflex>
+			<reflex>
+				<lang>Chiricahua</lang>
+				<form script="LATIN">tó</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tó#Chiricahua</url>
+			</reflex>
+			<reflex>
+				<lang>Chiricahua</lang>
+				<form script="LATIN">tú</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tú#Chiricahua</url>
+			</reflex>
+			<reflex>
+				<lang>Deg Xinag</lang>
+				<form script="LATIN">te</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/te#Deg_Xinag</url>
+			</reflex>
+			<reflex>
+				<lang>Dogrib</lang>
+				<form script="LATIN">ti</form>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/ti#Dogrib</url>
+			</reflex>
+			<reflex>
+				<lang>Galice</lang>
+				<form script="LATIN">too</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/too#Galice</url>
+			</reflex>
+			<reflex>
+				<lang>Hupa</lang>
+				<form script="LATIN">to</form>
+				<concepts>
+					<c>body of water</c>
+					<c>ocean</c>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/to#Hupa</url>
+			</reflex>
+			<reflex>
+				<lang>Hän</lang>
+				<form script="LATIN">chuu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/chuu#Hän</url>
+			</reflex>
+			<reflex>
+				<lang>Jicarilla</lang>
+				<form script="LATIN">kó</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/kó#Jicarilla</url>
+			</reflex>
+			<reflex>
+				<lang>Kaska</lang>
+				<form script="LATIN">tū</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tū#Kaska</url>
+			</reflex>
+			<reflex>
+				<lang>Kato</lang>
+				<form script="LATIN">tō</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tō#Kato</url>
+			</reflex>
+			<reflex>
+				<lang>Koyukon</lang>
+				<form script="LATIN">too</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/too#Koyukon</url>
+			</reflex>
+			<reflex>
+				<lang>Kwalhioqua-Tlatskanai</lang>
+				<form script="LATIN">to</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/to#Kwalhioqua-Tlatskanai</url>
+			</reflex>
+			<reflex>
+				<lang>Lipan</lang>
+				<form script="LATIN">kó</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/kó#Lipan</url>
+			</reflex>
+			<reflex>
+				<lang>Lower Tanana</lang>
+				<form script="LATIN">tu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tu#Lower_Tanana</url>
+			</reflex>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">tó</form>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+					<c>fluid</c>
+				</concepts>
+				<url source="wiki">/wiki/tó#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Apache</lang>
+				<form script="LATIN">kóó</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/kóó#Plains_Apache</url>
+			</reflex>
+			<reflex>
+				<lang>Sekani</lang>
+				<form script="LATIN">too</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/too#Sekani</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">tu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tu#South_Slavey</url>
+			</reflex>
+			<reflex>
+				<lang>Tagish</lang>
+				<form script="LATIN">tū</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tū#Tagish</url>
+			</reflex>
+			<reflex>
+				<lang>Tahltan</lang>
+				<form script="LATIN">tū</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tū#Tahltan</url>
+			</reflex>
+			<reflex>
+				<lang>Tanacross</lang>
+				<form script="LATIN">tu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tu#Tanacross</url>
+			</reflex>
+			<reflex>
+				<lang>Tututni</lang>
+				<form script="LATIN">to</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/to#Tututni</url>
+			</reflex>
+			<reflex>
+				<lang>Upper Kuskokwim</lang>
+				<form script="LATIN">tu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tu#Upper_Kuskokwim</url>
+			</reflex>
+			<reflex>
+				<lang>Upper Tanana</lang>
+				<form script="LATIN">tuu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tuu#Upper_Tanana</url>
+			</reflex>
+			<reflex>
+				<lang>Western Apache</lang>
+				<form script="LATIN">tú</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/tú#Western_Apache</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*tšʼəx̣d</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/tšʼəx̣d</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">chʼah</form>
+				<concepts>
+					<c>head covering</c>
+					<c>hat</c>
+					<c>cap</c>
+					<c>scarf</c>
+					<c>headwear</c>
+				</concepts>
+				<url source="wiki">/wiki/chʼah#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">tsʼah</form>
+				<concepts>
+					<c>hat</c>
+				</concepts>
+				<url source="wiki">/wiki/tsʼah#South_Slavey</url>
+			</reflex>
+			<reflex>
+				<lang>Western Apache</lang>
+				<form script="LATIN">chʼah</form>
+				<concepts>
+					<c>hat</c>
+				</concepts>
+				<url source="wiki">/wiki/chʼah#Western_Apache</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*tšʼəx̣tɬʼ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/tšʼəx̣tɬʼ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">chʼał</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/chʼał#Navajo</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*x̣αy</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/x̣αy</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">hai</form>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/hai#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">xay</form>
+				<concepts>
+					<c>year</c>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/xay#South_Slavey</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*yaˑ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/yaˑ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">yá</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/yá#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">ya</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ya#South_Slavey</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Athabaskan</plang>
+			<pform>*łəd</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Athabaskan/łəd</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dogrib</lang>
+				<form script="LATIN">ło</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/ło#Dogrib</url>
+			</reflex>
+			<reflex>
+				<lang>Navajo</lang>
+				<form script="LATIN">łid</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/łid#Navajo</url>
+			</reflex>
+			<reflex>
+				<lang>South Slavey</lang>
+				<form script="LATIN">łeh</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/łeh#South_Slavey</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

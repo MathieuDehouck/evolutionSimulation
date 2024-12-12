@@ -1,0 +1,2337 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*bzə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/bzə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">бзы</form>
+				<translit>bzə</translit>
+				<concepts>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/бзы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">бзы</form>
+				<translit>bzə</translit>
+				<concepts>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/бзы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*bzəxʷə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/bzəxʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">бзыфы</form>
+				<translit>bzəfə</translit>
+				<concepts>
+					<c>linden</c>
+				</concepts>
+				<url source="wiki">/wiki/бзыфы#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*dǝ́śa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/dǝ́śa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">дышъэ</form>
+				<translit>dəŝɛ</translit>
+				<concepts>
+					<c>gold</c>
+				</concepts>
+				<url source="wiki">/wiki/дышъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">дыщэ</form>
+				<translit>dəśɛ</translit>
+				<concepts>
+					<c>gold</c>
+				</concepts>
+				<url source="wiki">/wiki/дыщэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*dəgʲə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/dəgʲə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">дыджы</form>
+				<translit>dədžə</translit>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/дыджы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">дыдж</form>
+				<translit>dədž</translit>
+				<concepts>
+					<c>bitter</c>
+				</concepts>
+				<url source="wiki">/wiki/дыдж#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*gʲana</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/gʲana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">джанэ</form>
+				<translit>džanɛ</translit>
+				<concepts>
+					<c>shirt</c>
+					<c>chemise</c>
+					<c>dress</c>
+					<c>robe</c>
+				</concepts>
+				<url source="wiki">/wiki/джанэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">джанэ</form>
+				<translit>džanɛ</translit>
+				<concepts>
+					<c>shirt</c>
+					<c>chemise</c>
+					<c>dress</c>
+					<c>robe</c>
+				</concepts>
+				<url source="wiki">/wiki/джанэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*jāʑa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/jāʑa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">яжьэ</form>
+				<translit>jaźɛ</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/яжьэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">яжьэ</form>
+				<translit>jaźɛ</translit>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/яжьэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*kʲatə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/kʲatə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чэты</form>
+				<translit>čɛtə</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/чэты#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">джэд</form>
+				<translit>džɛd</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/джэд#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*kʲaxʷə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/kʲaxʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чэфы</form>
+				<translit>čɛfə</translit>
+				<concepts>
+					<c>cheerful</c>
+					<c>joyful</c>
+					<c>pleased</c>
+				</concepts>
+				<url source="wiki">/wiki/чэфы#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*kʲʼa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/kʲʼa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">кӏьэ</form>
+				<translit>kʲʼɛ</translit>
+				<concepts>
+					<c>dick</c>
+					<c>tail</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏьэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">кӏэ</form>
+				<translit>kʼɛ</translit>
+				<concepts>
+					<c>new</c>
+					<c>modern</c>
+					<c>fresh</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">кӏэ</form>
+				<translit>kʼɛ</translit>
+				<concepts>
+					<c>dick</c>
+					<c>tail</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*kʲʼākʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/kʲʼākʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">кӏако</form>
+				<translit>kʼakʷo</translit>
+				<concepts>
+					<c>jacket</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏако#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">кӏьако</form>
+				<translit>kʲʼakʷo</translit>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏьако#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">кӏагуэ</form>
+				<translit>kʼagʷɛ</translit>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏагуэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*kʷat͡sə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/kʷat͡sə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">коцы</form>
+				<translit>kʷocə</translit>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/коцы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">гуэдз</form>
+				<translit>gʷɛdz</translit>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/гуэдз#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*kːʷárta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/kːʷárta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">корт</form>
+				<translit>kʷort</translit>
+				<concepts>
+					<c>sentence</c>
+					<c>group</c>
+					<c>party</c>
+					<c>troop</c>
+				</concepts>
+				<url source="wiki">/wiki/корт#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">гуартэ</form>
+				<translit>gʷartɛ</translit>
+				<concepts>
+					<c>group</c>
+					<c>party</c>
+					<c>troop</c>
+				</concepts>
+				<url source="wiki">/wiki/гуартэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*mazə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/mazə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">мэзы</form>
+				<translit>mɛzə</translit>
+				<concepts>
+					<c>forest</c>
+				</concepts>
+				<url source="wiki">/wiki/мэзы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">мэз</form>
+				<translit>mɛz</translit>
+				<concepts>
+					<c>forest</c>
+				</concepts>
+				<url source="wiki">/wiki/мэз#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*māxʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/māxʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">мафэ</form>
+				<translit>mafɛ</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/мафэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">махуэ</form>
+				<translit>maxʷɛ</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/махуэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*māɕʷʼa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/māɕʷʼa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">машӏо</form>
+				<translit>mašʷʼo</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/машӏо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">мафӏэ</form>
+				<translit>mafʼɛ</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/мафӏэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*məgʲər</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/məgʲər</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">мыджыр</form>
+				<translit>mədžər</translit>
+				<concepts>
+					<c>secluded</c>
+					<c>unripe</c>
+					<c>introvert</c>
+				</concepts>
+				<url source="wiki">/wiki/мыджыр#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*məʂa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/məʂa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">мышъэ</form>
+				<translit>məŝɛ</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/мышъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">мыщэ</form>
+				<translit>məśɛ</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/мыщэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*məʑʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/məʑʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">мыжъо</form>
+				<translit>məžʷo</translit>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/мыжъо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">мывэ</form>
+				<translit>məvɛ</translit>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/мывэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*naxʷə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/naxʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">нэфы</form>
+				<translit>nɛfə</translit>
+				<concepts>
+					<c>light</c>
+				</concepts>
+				<url source="wiki">/wiki/нэфы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">нэху</form>
+				<translit>nɛxʷu</translit>
+				<concepts>
+					<c>light</c>
+				</concepts>
+				<url source="wiki">/wiki/нэху#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*nāxʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/nāxʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">нафэ</form>
+				<translit>nafɛ</translit>
+				<concepts>
+					<c>clarity</c>
+				</concepts>
+				<url source="wiki">/wiki/нафэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">нафэ</form>
+				<translit>nafɛ</translit>
+				<concepts>
+					<c>clear</c>
+				</concepts>
+				<url source="wiki">/wiki/нафэ#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*psə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/psə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">псы</form>
+				<translit>psə</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/псы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">псы</form>
+				<translit>psə</translit>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/псы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*pt͡saʐəja</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/pt͡saʐəja</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пцэжъые</form>
+				<translit>pcɛẑəje</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/пцэжъые#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">бдзэжьей</form>
+				<translit>bdzɛźej</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/бдзэжьей#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*pt͡ʃʼəħ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/pt͡ʃʼəħ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пкӏыхь</form>
+				<translit>pkʼəḥ</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/пкӏыхь#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">пщӏыхь</form>
+				<translit>pśʼəḥ</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/пщӏыхь#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*pāχa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/pāχa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пахъэ</form>
+				<translit>paχɛ</translit>
+				<concepts>
+					<c>steam</c>
+				</concepts>
+				<url source="wiki">/wiki/пахъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">бахъэ</form>
+				<translit>baχɛ</translit>
+				<concepts>
+					<c>steam</c>
+				</concepts>
+				<url source="wiki">/wiki/бахъэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*pʰa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/pʰa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пэ</form>
+				<translit>pɛ</translit>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/пэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">пэ</form>
+				<translit>pɛ</translit>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/пэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*pʰāɣa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/pʰāɣa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">пагэ</form>
+				<translit>paɣɛ</translit>
+				<concepts>
+					<c>haughty</c>
+					<c>arrogant</c>
+					<c>proud</c>
+				</concepts>
+				<url source="wiki">/wiki/пагэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">пагэ</form>
+				<translit>paɣɛ</translit>
+				<concepts>
+					<c>haughty</c>
+					<c>arrogant</c>
+					<c>proud</c>
+				</concepts>
+				<url source="wiki">/wiki/пагэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*pʰɬəʑə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/pʰɬəʑə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">плъыжьы</form>
+				<translit>plˢəźə</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/плъыжьы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">плъыжьы</form>
+				<translit>plˢəźə</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/плъыжьы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*qʷānt͡ʂʼa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/qʷānt͡ʂʼa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">къуанчӏэ</form>
+				<translit>qʷanĉʼɛ</translit>
+				<concepts>
+					<c>jackdaw</c>
+				</concepts>
+				<url source="wiki">/wiki/къуанчӏэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">къуанщӏэ</form>
+				<translit>qʷanśʼɛ</translit>
+				<concepts>
+					<c>jackdaw</c>
+				</concepts>
+				<url source="wiki">/wiki/къуанщӏэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*qʷʰa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/qʷʰa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">къо</form>
+				<translit>qʷo</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/къо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">къо</form>
+				<translit>qʷo</translit>
+				<concepts>
+					<c>son</c>
+				</concepts>
+				<url source="wiki">/wiki/къо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">хъо</form>
+				<translit>χʷo</translit>
+				<concepts>
+					<c>herd</c>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/хъо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">кхъуэ</form>
+				<translit>qχʷɛ</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/кхъуэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*qʷʰəʐə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/qʷʰəʐə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">къужъы</form>
+				<translit>qʷuẑə</translit>
+				<concepts>
+					<c>pear</c>
+				</concepts>
+				<url source="wiki">/wiki/къужъы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">кхъужьы</form>
+				<translit>qχʷuźə</translit>
+				<concepts>
+					<c>pear</c>
+				</concepts>
+				<url source="wiki">/wiki/кхъужьы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*sʷǝ́zǝ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/sʷǝ́zǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъуз</form>
+				<translit>šʷuz</translit>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/шъуз#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">фыз</form>
+				<translit>fəz</translit>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/фыз#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*txʷajə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/txʷajə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">тфэи</form>
+				<translit>tfɛji</translit>
+				<concepts>
+					<c>beech</c>
+				</concepts>
+				<url source="wiki">/wiki/тфэи#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">тхуей</form>
+				<translit>txʷujej</translit>
+				<concepts>
+					<c>beech</c>
+				</concepts>
+				<url source="wiki">/wiki/тхуей#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*təʁa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/təʁa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">тыгъэ</form>
+				<translit>təğɛ</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/тыгъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">дыгъэ</form>
+				<translit>dəğɛ</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/дыгъэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*təʁʷəʐ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/təʁʷəʐ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">тыгъужъ</form>
+				<translit>təğʷuẑ</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/тыгъужъ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">дыгъужь</form>
+				<translit>dəğʷuź</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/дыгъужь#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*tʰχʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/tʰχʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">тхъо</form>
+				<translit>tχʷo</translit>
+				<concepts>
+					<c>dun</c>
+				</concepts>
+				<url source="wiki">/wiki/тхъо#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡saxʷ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡saxʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">цэф</form>
+				<translit>cɛf</translit>
+				<concepts>
+					<c>tin</c>
+				</concepts>
+				<url source="wiki">/wiki/цэф#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">дзэху</form>
+				<translit>dzɛxʷu</translit>
+				<concepts>
+					<c>tin</c>
+				</concepts>
+				<url source="wiki">/wiki/дзэху#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡səʁʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡səʁʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">цыгъо</form>
+				<translit>cəğʷo</translit>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/цыгъо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">дзыгъуэ</form>
+				<translit>dzəğʷɛ</translit>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/дзыгъуэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡sʰə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡sʰə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">цы</form>
+				<translit>cə</translit>
+				<concepts>
+					<c>hair</c>
+					<c>wool</c>
+				</concepts>
+				<url source="wiki">/wiki/цы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">цы</form>
+				<translit>cə</translit>
+				<concepts>
+					<c>yarn</c>
+				</concepts>
+				<url source="wiki">/wiki/цы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ɕʷəndə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ɕʷəndə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">цунды</form>
+				<translit>cʷundə</translit>
+				<concepts>
+					<c>raven</c>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/цунды#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">вынд</form>
+				<translit>vənd</translit>
+				<concepts>
+					<c>raven</c>
+				</concepts>
+				<url source="wiki">/wiki/вынд#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʂan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʂan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чъэн</form>
+				<translit>ĉɛn</translit>
+				<concepts>
+					<c>run</c>
+				</concepts>
+				<url source="wiki">/wiki/чъэн#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъэн</form>
+				<translit>ŝɛn</translit>
+				<concepts>
+					<c>weave</c>
+				</concepts>
+				<url source="wiki">/wiki/шъэн#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жэн</form>
+				<translit>žɛn</translit>
+				<concepts>
+					<c>run</c>
+				</concepts>
+				<url source="wiki">/wiki/жэн#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʂəjan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʂəjan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чъыен</form>
+				<translit>ĉəjen</translit>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/чъыен#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жыен</form>
+				<translit>žəjen</translit>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/жыен#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʂəɣə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʂəɣə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чъыгы</form>
+				<translit>ĉəɣə</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/чъыгы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жыг</form>
+				<translit>žəɣ</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/жыг#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʂʼə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʂʼə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чӏы</form>
+				<translit>ĉʼə</translit>
+				<concepts>
+					<c>ground</c>
+				</concepts>
+				<url source="wiki">/wiki/чӏы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">щӏы</form>
+				<translit>śʼə</translit>
+				<concepts>
+					<c>ground</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/щӏы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʂʼəgʷə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʂʼəgʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чӏыгу</form>
+				<translit>ĉʼəgʷu</translit>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/чӏыгу#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">щӏыгу</form>
+				<translit>śʼəgʷu</translit>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/щӏыгу#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʂʼəɬa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʂʼəɬa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чӏылъэ</form>
+				<translit>ĉʼəlˢɛ</translit>
+				<concepts>
+					<c>land</c>
+				</concepts>
+				<url source="wiki">/wiki/чӏылъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">щӏылъэ</form>
+				<translit>śʼəlˢɛ</translit>
+				<concepts>
+					<c>land</c>
+				</concepts>
+				<url source="wiki">/wiki/щӏылъэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʃamə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʃamə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чэмы</form>
+				<translit>čɛmə</translit>
+				<concepts>
+					<c>cow</c>
+				</concepts>
+				<url source="wiki">/wiki/чэмы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жэм</form>
+				<translit>žɛm</translit>
+				<concepts>
+					<c>cow</c>
+				</concepts>
+				<url source="wiki">/wiki/жэм#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʃaɕə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʃaɕə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чэщы</form>
+				<translit>čɛśə</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/чэщы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жэщ</form>
+				<translit>žɛś</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/жэщ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʃəɮa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʃəɮa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чылэ</form>
+				<translit>čəlɛ</translit>
+				<concepts>
+					<c>village</c>
+					<c>settlement</c>
+				</concepts>
+				<url source="wiki">/wiki/чылэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жылэ</form>
+				<translit>žəlɛ</translit>
+				<concepts>
+					<c>village</c>
+					<c>settlement</c>
+				</concepts>
+				<url source="wiki">/wiki/жылэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʃəʑa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʃəʑa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">чыжьэ</form>
+				<translit>čəźɛ</translit>
+				<concepts>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/чыжьэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жыжьэ</form>
+				<translit>žəźɛ</translit>
+				<concepts>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/жыжьэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*t͡ʃʼa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/t͡ʃʼa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">щӏэ</form>
+				<translit>śʼɛ</translit>
+				<concepts>
+					<c>new</c>
+					<c>modern</c>
+					<c>fresh</c>
+					<c>young</c>
+				</concepts>
+				<url source="wiki">/wiki/щӏэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*wət͡sə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/wət͡sə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">уцы</form>
+				<translit>wucə</translit>
+				<concepts>
+					<c>grass</c>
+					<c>medicine</c>
+				</concepts>
+				<url source="wiki">/wiki/уцы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">удз</form>
+				<translit>wudz</translit>
+				<concepts>
+					<c>grass</c>
+				</concepts>
+				<url source="wiki">/wiki/удз#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*xāxʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/xāxʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">хафэ</form>
+				<translit>xafɛ</translit>
+				<concepts>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/хафэ#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*xʷaʔāz</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/xʷaʔāz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">фэӏаз</form>
+				<translit>fɛʼaz</translit>
+				<concepts>
+					<c>skillful</c>
+				</concepts>
+				<url source="wiki">/wiki/фэӏаз#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">хуэӏаз</form>
+				<translit>xʷɛʼaz</translit>
+				<concepts>
+					<c>skillful</c>
+				</concepts>
+				<url source="wiki">/wiki/хуэӏаз#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*xʷəʑə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/xʷəʑə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">фыжьы</form>
+				<translit>fəźə</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/фыжьы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">хужьы</form>
+				<translit>xʷuźə</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/хужьы#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">хужьы</form>
+				<translit>xʷuźə</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/хужьы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*zāxʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/zāxʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">зафэ</form>
+				<translit>zafɛ</translit>
+				<concepts>
+					<c>just</c>
+					<c>straight</c>
+				</concepts>
+				<url source="wiki">/wiki/зафэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">захуэ</form>
+				<translit>zaxʷɛ</translit>
+				<concepts>
+					<c>just</c>
+					<c>straight</c>
+				</concepts>
+				<url source="wiki">/wiki/захуэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*āt͡ʂa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/āt͡ʂa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">ачъэ</form>
+				<translit>aĉɛ</translit>
+				<concepts>
+					<c>billy goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ачъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">ажэ</form>
+				<translit>ažɛ</translit>
+				<concepts>
+					<c>goat</c>
+				</concepts>
+				<url source="wiki">/wiki/ажэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*č́ʷǝ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/č́ʷǝ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шы</form>
+				<translit>šə</translit>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/шы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шы</form>
+				<translit>šə</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/шы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">шы</form>
+				<translit>šə</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/шы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ɕədə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ɕədə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">щыды</form>
+				<translit>śədə</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/щыды#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">шыд</form>
+				<translit>šəd</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/шыд#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ɕʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ɕʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъо</form>
+				<translit>šʷo</translit>
+				<concepts>
+					<c>skin</c>
+					<c>color</c>
+				</concepts>
+				<url source="wiki">/wiki/шъо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъо</form>
+				<translit>šʷo</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/шъо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">фэ</form>
+				<translit>fɛ</translit>
+				<concepts>
+					<c>skin</c>
+					<c>color</c>
+				</concepts>
+				<url source="wiki">/wiki/фэ#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">фэ</form>
+				<translit>fɛ</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/фэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ɕʷawə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ɕʷawə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъоу</form>
+				<translit>šʷowu</translit>
+				<concepts>
+					<c>honey</c>
+				</concepts>
+				<url source="wiki">/wiki/шъоу#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">фо</form>
+				<translit>fo</translit>
+				<concepts>
+					<c>honey</c>
+				</concepts>
+				<url source="wiki">/wiki/фо#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ɕʷʼajə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ɕʷʼajə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шӏои</form>
+				<translit>šʷʼoji</translit>
+				<concepts>
+					<c>unclean</c>
+					<c>obscene</c>
+					<c>covered</c>
+					<c>crud</c>
+					<c>dirty</c>
+					<c>indecent</c>
+					<c>sexually</c>
+				</concepts>
+				<url source="wiki">/wiki/шӏои#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">фӏей</form>
+				<translit>fʼej</translit>
+				<concepts>
+					<c>crud</c>
+					<c>dirty</c>
+				</concepts>
+				<url source="wiki">/wiki/фӏей#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ɕʷʼət͡sʼa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ɕʷʼət͡sʼa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шӏуцӏэ</form>
+				<translit>šʷʼucʼɛ</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/шӏуцӏэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шӏуцӏэ</form>
+				<translit>šʷʼucʼɛ</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/шӏуцӏэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">фӏыцӏэ</form>
+				<translit>fʼəcʼɛ</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/фӏыцӏэ#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">фӏыцӏэ</form>
+				<translit>fʼəcʼɛ</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/фӏыцӏэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ɬəntxʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ɬəntxʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">лъынтфэ</form>
+				<translit>lˢəntfɛ</translit>
+				<concepts>
+					<c>sinew</c>
+					<c>artery</c>
+					<c>vein</c>
+					<c>blood vessel</c>
+				</concepts>
+				<url source="wiki">/wiki/лъынтфэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">лъынтхуэ</form>
+				<translit>lˢəntxʷɛ</translit>
+				<concepts>
+					<c>artery</c>
+					<c>vein</c>
+					<c>blood vessel</c>
+				</concepts>
+				<url source="wiki">/wiki/лъынтхуэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ɮānt͡ʂa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ɮānt͡ʂa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">ланчъэ</form>
+				<translit>lanĉɛ</translit>
+				<concepts>
+					<c>maple</c>
+				</concepts>
+				<url source="wiki">/wiki/ланчъэ#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʁa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʁa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">гъэ</form>
+				<translit>ğɛ</translit>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/гъэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">гъэ</form>
+				<translit>ğɛ</translit>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/гъэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʁʷaxʷə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʁʷaxʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">гъофы</form>
+				<translit>ğʷofə</translit>
+				<concepts>
+					<c>brass</c>
+				</concepts>
+				<url source="wiki">/wiki/гъофы#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʁʷaʑə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʁʷaʑə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">гъожьы</form>
+				<translit>ğʷoźə</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/гъожьы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">гъуэжьы</form>
+				<translit>ğʷɛźə</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/гъуэжьы#Kabardian</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">гъуэжьы</form>
+				<translit>ğʷɛźə</translit>
+				<concepts>
+					<c>yellow</c>
+				</concepts>
+				<url source="wiki">/wiki/гъуэжьы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʁʷət͡ʂʼə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʁʷət͡ʂʼə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">гъучӏы</form>
+				<translit>ğʷuĉʼə</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/гъучӏы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">гъущӏ</form>
+				<translit>ğʷuśʼ</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/гъущӏ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʂaxʷə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʂaxʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъэфы</form>
+				<translit>ŝɛfə</translit>
+				<concepts>
+					<c>silence</c>
+					<c>quiet</c>
+				</concepts>
+				<url source="wiki">/wiki/шъэфы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">щэху</form>
+				<translit>śɛxʷu</translit>
+				<concepts>
+					<c>silence</c>
+					<c>quiet</c>
+				</concepts>
+				<url source="wiki">/wiki/щэху#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʂħāntʰa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʂħāntʰa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъхьантэ</form>
+				<translit>ŝḥantɛ</translit>
+				<concepts>
+					<c>pillow</c>
+				</concepts>
+				<url source="wiki">/wiki/шъхьантэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">щхьантэ</form>
+				<translit>śḥantɛ</translit>
+				<concepts>
+					<c>pillow</c>
+				</concepts>
+				<url source="wiki">/wiki/щхьантэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʂħāxʷə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʂħāxʷə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">шъхьафы</form>
+				<translit>ŝḥafə</translit>
+				<concepts>
+					<c>different</c>
+					<c>separated</c>
+				</concepts>
+				<url source="wiki">/wiki/шъхьафы#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʐə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʐə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">жъы</form>
+				<translit>ẑə</translit>
+				<concepts>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/жъы#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">жьы</form>
+				<translit>źə</translit>
+				<concepts>
+					<c>wind</c>
+					<c>air</c>
+				</concepts>
+				<url source="wiki">/wiki/жьы#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʑə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʑə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">жьы</form>
+				<translit>źə</translit>
+				<concepts>
+					<c>air</c>
+					<c>puke</c>
+					<c>vomit</c>
+					<c>breath</c>
+					<c>atmosphere</c>
+				</concepts>
+				<url source="wiki">/wiki/жьы#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʑʷāʁʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʑʷāʁʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">жъуагъо</form>
+				<translit>žʷağʷo</translit>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/жъуагъо#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Kabardian</lang>
+				<form script="CYRILLIC">вагъуэ</form>
+				<translit>vağʷɛ</translit>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/вагъуэ#Kabardian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Circassian</plang>
+			<pform>*ʔāza</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Circassian/ʔāza</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">ӏазэ</form>
+				<translit>ʼazɛ</translit>
+				<concepts>
+					<c>doctor</c>
+				</concepts>
+				<url source="wiki">/wiki/ӏазэ#Adyghe</url>
+			</reflex>
+			<reflex>
+				<lang>Adyghe</lang>
+				<form script="CYRILLIC">ӏазэ</form>
+				<translit>ʼazɛ</translit>
+				<concepts>
+					<c>expert</c>
+					<c>skilled</c>
+				</concepts>
+				<url source="wiki">/wiki/ӏазэ#Adyghe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

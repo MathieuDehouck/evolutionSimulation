@@ -1,0 +1,42 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Numic</plang>
+			<pform>*nɨmɨ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Numic/nɨmɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Comanche</lang>
+				<form script="LATIN">nʉmʉ</form>
+				<concepts>
+					<c>Comanche</c>
+					<c>people</c>
+					<c>person</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/nʉmʉ#Comanche</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Numic</form>
+				<concepts>
+					<c>river basin</c>
+					<c>Numic</c>
+				</concepts>
+				<url source="wiki">/wiki/Numic#English</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Paiute</lang>
+				<form script="LATIN">nana</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/nana#Northern_Paiute</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

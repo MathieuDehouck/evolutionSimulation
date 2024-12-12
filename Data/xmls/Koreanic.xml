@@ -1,0 +1,356 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*Pwutukye</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/Pwutukye</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᡠᠴᡳᡥᡳ</form>
+				<translit>fucihi</translit>
+				<concepts>
+					<c>Buddha</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᡠᠴᡳᡥᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Korean</lang>
+				<form script="HANGUL">부텨</form>
+				<translit>Pwùthyè</translit>
+				<concepts>
+					<c>Buddha</c>
+				</concepts>
+				<url source="wiki">/wiki/부텨#Middle_Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Old Japanese</lang>
+				<form script="CJK">佛</form>
+				<translit>poto2ke2</translit>
+				<concepts>
+					<c>statue</c>
+					<c>image</c>
+					<c>carving</c>
+				</concepts>
+				<url source="wiki">/wiki/佛#Old_Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Korean</lang>
+				<form script="CJK">佛體</form>
+				<translit>*PWUthye?</translit>
+				<concepts>
+					<c>Buddha</c>
+				</concepts>
+				<url source="wiki">/wiki/佛體#Old_Korean</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*cenki</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/cenki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Korean</lang>
+				<form script="HANGUL">적</form>
+				<translit>cek</translit>
+				<concepts>
+					<c>occurrence</c>
+					<c>time</c>
+				</concepts>
+				<url source="wiki">/wiki/적#Middle_Korean</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*hol</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/hol</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jeju</lang>
+				<form script="HANGUL">ᄋᆢᆺ쉐</form>
+				<translit>yawtswe</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ᄋᆢᆺ쉐#Jeju</url>
+			</reflex>
+			<reflex>
+				<lang>Jeju</lang>
+				<form script="HANGUL">ᄒᆞ를</form>
+				<translit>hawreul</translit>
+				<concepts>
+					<c>day</c>
+					<c>daytime</c>
+				</concepts>
+				<url source="wiki">/wiki/ᄒᆞ를#Jeju</url>
+			</reflex>
+			<reflex>
+				<lang>Jeju</lang>
+				<form script="HANGUL">오널</form>
+				<translit>oneol</translit>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/오널#Jeju</url>
+			</reflex>
+			<reflex>
+				<lang>Jeju</lang>
+				<form script="HANGUL">오널</form>
+				<translit>oneol</translit>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/오널#Jeju</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">오늘</form>
+				<translit>oneul</translit>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/오늘#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">오늘</form>
+				<translit>oneul</translit>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/오늘#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">하루</form>
+				<translit>haru</translit>
+				<concepts>
+					<c>day</c>
+					<c>daytime</c>
+				</concepts>
+				<url source="wiki">/wiki/하루#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Korean</lang>
+				<form script="HANGUL">ᄒᆞᄅᆞ/ᄒᆞᆯㄹ</form>
+				<translit>holo (isolated) / holl- (connective)</translit>
+				<concepts>
+					<c>one day</c>
+				</concepts>
+				<url source="wiki">/wiki/ᄒᆞᄅᆞ#Middle_Korean</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*hyeng</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/hyeng</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">hyung</form>
+				<concepts>
+					<c>hyung</c>
+					<c>hyung</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/hyeng</url>
+			</reflex>
+			<reflex>
+				<lang>Jeju</lang>
+				<form script="HANGUL">성</form>
+				<translit>seong</translit>
+				<concepts>
+					<c>older sister</c>
+					<c>older brother</c>
+				</concepts>
+				<url source="wiki">/wiki/성#Jeju</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*i-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/i-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳ</form>
+				<translit>i</translit>
+				<concepts>
+					<c>he</c>
+					<c>she</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*kopoLi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/kopoLi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">郡</form>
+				<concepts>
+					<c>county</c>
+					<c>district</c>
+				</concepts>
+				<url source="wiki">/wiki/郡#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">고을</form>
+				<translit>go'eul</translit>
+				<concepts>
+					<c>town</c>
+					<c>district</c>
+				</concepts>
+				<url source="wiki">/wiki/고을#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Korean</lang>
+				<form script="HANGUL">ᄀᆞ옳</form>
+				<translit>kowolh</translit>
+				<concepts>
+					<c>district</c>
+				</concepts>
+				<url source="wiki">/wiki/ᄀᆞ옳#Middle_Korean</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*kwòmá</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/kwòmá</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Baekje</lang>
+				<form script="CJK">金馬</form>
+				<translit>*kəma, *kuma, *komu, *kumu</translit>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/金馬#Baekje</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*mati</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/mati</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Jeju</lang>
+				<form script="HANGUL">마당</form>
+				<translit>madang</translit>
+				<concepts>
+					<c>yard</c>
+				</concepts>
+				<url source="wiki">/wiki/마당#Jeju</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">마당</form>
+				<translit>madang</translit>
+				<concepts>
+					<c>condition</c>
+					<c>state of affairs</c>
+				</concepts>
+				<url source="wiki">/wiki/마당#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">마당</form>
+				<translit>madang</translit>
+				<concepts>
+					<c>courtyard</c>
+					<c>plaza</c>
+					<c>yard</c>
+				</concepts>
+				<url source="wiki">/wiki/마당#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Korean</lang>
+				<form script="HANGUL">맡</form>
+				<translit>math</translit>
+				<concepts>
+					<c>field</c>
+				</concepts>
+				<url source="wiki">/wiki/맡#Middle_Korean</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Koreanic</plang>
+			<pform>*seki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Koreanic/seki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">셋</form>
+				<translit>set</translit>
+				<concepts>
+					<c>Seth</c>
+				</concepts>
+				<url source="wiki">/wiki/셋#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Korean</lang>
+				<form script="HANGUL">셓〯</form>
+				<translit>sěyh</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/셓#Middle_Korean</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

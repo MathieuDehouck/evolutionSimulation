@@ -1,0 +1,1899 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ahiCa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ahiCa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">ahiꞌ</form>
+				<concepts>
+					<c>potato</c>
+				</concepts>
+				<url source="wiki">/wiki/ahiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Mobilian</lang>
+				<form script="LATIN">ahi</form>
+				<concepts>
+					<c>sweet potato</c>
+					<c>potato</c>
+				</concepts>
+				<url source="wiki">/wiki/ahi#Mobilian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*axinlisi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/axinlisi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">aissi</form>
+				<concepts>
+					<c>medicine</c>
+				</concepts>
+				<url source="wiki">/wiki/aissi#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">ahissi</form>
+				<concepts>
+					<c>medicine</c>
+				</concepts>
+				<url source="wiki">/wiki/ahissi#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*axokʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/axokʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">holba</form>
+				<concepts>
+					<c>art</c>
+					<c>image</c>
+				</concepts>
+				<url source="wiki">/wiki/holba#Alabama</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*axʷakšopi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/axʷakšopi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">hakshop</form>
+				<concepts>
+					<c>skin</c>
+					<c>rind</c>
+					<c>bark</c>
+					<c>shell</c>
+				</concepts>
+				<url source="wiki">/wiki/hakshop#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hakshop</form>
+				<concepts>
+					<c>skin</c>
+				</concepts>
+				<url source="wiki">/wiki/hakshop#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*aya</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/aya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">aya</form>
+				<concepts>
+					<c>go</c>
+					<c>defecate</c>
+					<c>go to the bathroom</c>
+					<c>walk</c>
+					<c>get</c>
+				</concepts>
+				<url source="wiki">/wiki/aya#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*iktiCo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/iktiCo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">itto</form>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/itto#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">ittiꞌ</form>
+				<concepts>
+					<c>wood</c>
+					<c>stick</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ittiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">itti'</form>
+				<concepts>
+					<c>timber</c>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/itti'#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ilapi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ilapi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">lapish</form>
+				<concepts>
+					<c>trumpet</c>
+					<c>horn</c>
+				</concepts>
+				<url source="wiki">/wiki/lapish#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ilmkʷi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ilmkʷi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">ilbi</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ilbi#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">ilbak</form>
+				<concepts>
+					<c>arm</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ilbak#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">ibbak</form>
+				<concepts>
+					<c>paw</c>
+					<c>forearm</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ibbak#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">ilbi</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ilbi#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*imałaxka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/imałaxka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">imalhkaniya</form>
+				<concepts>
+					<c>forget</c>
+				</concepts>
+				<url source="wiki">/wiki/imalhkaniya#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*impa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/impa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">ipa</form>
+				<concepts>
+					<c>eat</c>
+				</concepts>
+				<url source="wiki">/wiki/ipa#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">impa</form>
+				<concepts>
+					<c>eat</c>
+					<c>dine</c>
+				</concepts>
+				<url source="wiki">/wiki/impa#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*isko</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/isko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">ishko</form>
+				<concepts>
+					<c>drink</c>
+					<c>take</c>
+				</concepts>
+				<url source="wiki">/wiki/ishko#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ixakanika</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ixakanika</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">yaakniꞌ</form>
+				<concepts>
+					<c>ground</c>
+					<c>earth</c>
+					<c>property</c>
+					<c>country</c>
+				</concepts>
+				<url source="wiki">/wiki/yaakniꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">yakni</form>
+				<concepts>
+					<c>world</c>
+					<c>country</c>
+					<c>earth</c>
+					<c>soil</c>
+					<c>ground</c>
+				</concepts>
+				<url source="wiki">/wiki/yakni#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ixistoko</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ixistoko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">hottok</form>
+				<concepts>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/hottok#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*i¢katini</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/i¢katini</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">iskannoꞌsi</form>
+				<concepts>
+					<c>little</c>
+					<c>petite</c>
+					<c>small</c>
+					<c>tiny</c>
+				</concepts>
+				<url source="wiki">/wiki/iskannoꞌsi#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*i¢sonksiCo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/i¢sonksiCo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">isso̱sh</form>
+				<concepts>
+					<c>bug</c>
+					<c>insect</c>
+					<c>parasite</c>
+					<c>worm</c>
+				</concepts>
+				<url source="wiki">/wiki/isso̱sh#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">sho̱shi</form>
+				<concepts>
+					<c>worm</c>
+					<c>bug</c>
+					<c>fly</c>
+					<c>insect</c>
+					<c>moth</c>
+				</concepts>
+				<url source="wiki">/wiki/shoshi#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*i¢xo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/i¢xo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">isso</form>
+				<concepts>
+					<c>hit</c>
+				</concepts>
+				<url source="wiki">/wiki/isso#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ičkiCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ičkiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">ishkiꞌ</form>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/ishkiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">ishki</form>
+				<concepts>
+					<c>maternal aunt</c>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/ishki#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ičkoCkʷiko</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ičkoCkʷiko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">ishkish</form>
+				<concepts>
+					<c>anus</c>
+				</concepts>
+				<url source="wiki">/wiki/ishkish#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*iθkiCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/iθkiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">inkiꞌ</form>
+				<concepts>
+					<c>father</c>
+					<c>dad</c>
+				</concepts>
+				<url source="wiki">/wiki/inkiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">i̱ki</form>
+				<concepts>
+					<c>paternal uncle</c>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/i̱ki#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*koniCo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/koniCo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">koni</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/koni#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">koni</form>
+				<concepts>
+					<c>polecat</c>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/koni#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">kono</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/kono#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*kʷakčoko</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/kʷakčoko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">bakcho</form>
+				<concepts>
+					<c>blackberry</c>
+				</concepts>
+				<url source="wiki">/wiki/bakcho#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*lakna</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/lakna</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">laana</form>
+				<concepts>
+					<c>brown</c>
+					<c>pink</c>
+					<c>yellow</c>
+					<c>beige</c>
+					<c>gold</c>
+				</concepts>
+				<url source="wiki">/wiki/laana#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">lakna</form>
+				<concepts>
+					<c>yellow</c>
+					<c>gold</c>
+					<c>brown</c>
+				</concepts>
+				<url source="wiki">/wiki/lakna#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">lakna</form>
+				<concepts>
+					<c>yellow</c>
+					<c>gold</c>
+					<c>brown</c>
+				</concepts>
+				<url source="wiki">/wiki/lakna#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*lapi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/lapi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">lapish</form>
+				<concepts>
+					<c>antenna</c>
+					<c>horn</c>
+				</concepts>
+				<url source="wiki">/wiki/lapish#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*lok¢iCa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/lok¢iCa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">loksiꞌ</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>padlock</c>
+					<c>combination lock</c>
+					<c>turtle</c>
+					<c>ladybug</c>
+				</concepts>
+				<url source="wiki">/wiki/loksiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">luksi</form>
+				<concepts>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/luksi#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">luksi</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>padlock</c>
+					<c>terrapin</c>
+					<c>lock</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/luksi#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*minkkoCo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/minkkoCo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">minkoꞌ</form>
+				<concepts>
+					<c>king</c>
+					<c>leader</c>
+					<c>chief</c>
+					<c>governor</c>
+				</concepts>
+				<url source="wiki">/wiki/minkoꞌ#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*nak¢iCi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/nak¢iCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">naksiꞌ</form>
+				<concepts>
+					<c>rib</c>
+				</concepts>
+				<url source="wiki">/wiki/naksiꞌ#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*nixiłiCi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/nixiłiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">nihiꞌ</form>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/nihiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">nihi</form>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/nihi#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*nixtaka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/nixtaka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">nittak</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/nittak#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*notakxʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/notakxʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">notakfa</form>
+				<concepts>
+					<c>jaw</c>
+					<c>chin</c>
+				</concepts>
+				<url source="wiki">/wiki/notakfa#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*notiCi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/notiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">noti</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/noti#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*no¢i</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/no¢i</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">nosi</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/nosi#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*olakkʷi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/olakkʷi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">cholok</form>
+				<concepts>
+					<c>hole</c>
+				</concepts>
+				<url source="wiki">/wiki/cholok#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ominti</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ominti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">minti</form>
+				<concepts>
+					<c>come</c>
+				</concepts>
+				<url source="wiki">/wiki/minti#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*ošiCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/ošiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">oshiꞌ</form>
+				<concepts>
+					<c>son</c>
+				</concepts>
+				<url source="wiki">/wiki/oshiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">oshi</form>
+				<concepts>
+					<c>son</c>
+				</concepts>
+				<url source="wiki">/wiki/oshi#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">ushi</form>
+				<concepts>
+					<c>son</c>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/ushi#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*pakanli</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/pakanli</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">pakanli</form>
+				<concepts>
+					<c>blossom</c>
+					<c>bloom</c>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/pakanli#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">pakanli</form>
+				<concepts>
+					<c>blossom</c>
+					<c>bloom</c>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/pakanli#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*patakxa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/patakxa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">patha</form>
+				<concepts>
+					<c>wide</c>
+				</concepts>
+				<url source="wiki">/wiki/patha#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*sakačiCo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/sakačiCo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">sakcho</form>
+				<concepts>
+					<c>crawfish</c>
+				</concepts>
+				<url source="wiki">/wiki/sakcho#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*sakkʷaCa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/sakkʷaCa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">shakba</form>
+				<concepts>
+					<c>arm</c>
+					<c>sleeve</c>
+				</concepts>
+				<url source="wiki">/wiki/shakba#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*silopi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/silopi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">sholop</form>
+				<concepts>
+					<c>ghost</c>
+				</concepts>
+				<url source="wiki">/wiki/sholop#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*sokaktiCi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/sokaktiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">kotti</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/kotti#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*sokxaCa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/sokxaCa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">shokhaꞌ</form>
+				<concepts>
+					<c>hog</c>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/shokhaꞌ#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*taliCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/taliCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">tali'</form>
+				<concepts>
+					<c>wire</c>
+					<c>pipe</c>
+					<c>metal</c>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/tali'#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">tali</form>
+				<concepts>
+					<c>metal</c>
+					<c>iron</c>
+					<c>stone</c>
+					<c>rock</c>
+					<c>mineral</c>
+				</concepts>
+				<url source="wiki">/wiki/tali#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*tapakonla</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/tapakonla</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">takkola</form>
+				<concepts>
+					<c>peach</c>
+				</concepts>
+				<url source="wiki">/wiki/takkola#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">takkon</form>
+				<concepts>
+					<c>peach</c>
+				</concepts>
+				<url source="wiki">/wiki/takkon#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*toklo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/toklo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">toklo</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/toklo#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">toklo</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/toklo#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xaklo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xaklo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">haalo</form>
+				<concepts>
+					<c>listen</c>
+					<c>hear</c>
+					<c>obey</c>
+				</concepts>
+				<url source="wiki">/wiki/haalo#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">haklo</form>
+				<concepts>
+					<c>listen</c>
+					<c>hear</c>
+				</concepts>
+				<url source="wiki">/wiki/haklo#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">haklo</form>
+				<concepts>
+					<c>hear</c>
+				</concepts>
+				<url source="wiki">/wiki/haklo#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xasiCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xasiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">hasi</form>
+				<concepts>
+					<c>daylight</c>
+					<c>sun</c>
+					<c>month</c>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/hasi#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">hashiꞌ</form>
+				<concepts>
+					<c>sun</c>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/hashiꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hashi</form>
+				<concepts>
+					<c>sunflower</c>
+					<c>moon</c>
+					<c>luminary</c>
+					<c>month</c>
+					<c>light</c>
+					<c>lunar month</c>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/hashi#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hʋshi</form>
+				<concepts>
+					<c>sunflower</c>
+					<c>moon</c>
+					<c>luminary</c>
+					<c>month</c>
+					<c>light</c>
+					<c>lunar month</c>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/hvshi#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hạshi</form>
+				<concepts>
+					<c>sunflower</c>
+					<c>moon</c>
+					<c>luminary</c>
+					<c>month</c>
+					<c>light</c>
+					<c>lunar month</c>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/hashi#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xassoki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xassoki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hashshok</form>
+				<concepts>
+					<c>grass</c>
+				</concepts>
+				<url source="wiki">/wiki/hashshok#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xasxʷikšisi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xasxʷikšisi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hakshish</form>
+				<concepts>
+					<c>tendon</c>
+					<c>vein</c>
+					<c>artery</c>
+				</concepts>
+				<url source="wiki">/wiki/hakshish#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">assikchi</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="wiki">/wiki/assikchi#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xaxčaCi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xaxčaCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Creek</lang>
+				<form script="LATIN">hvcce</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/hvcce#Creek</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">hahchi</form>
+				<concepts>
+					<c>river</c>
+					<c>bayou</c>
+				</concepts>
+				<url source="wiki">/wiki/hahchi#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xaxʷonlo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xaxʷonlo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">ofolo</form>
+				<concepts>
+					<c>screech owl</c>
+				</concepts>
+				<url source="wiki">/wiki/ofolo#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">afolo</form>
+				<concepts>
+					<c>owl</c>
+					<c>screech owl</c>
+				</concepts>
+				<url source="wiki">/wiki/afolo#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xok¢o</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xok¢o</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">honkso</form>
+				<concepts>
+					<c>fart</c>
+				</concepts>
+				<url source="wiki">/wiki/honkso#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xolakwaCa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xolakwaCa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">holaawa</form>
+				<concepts>
+					<c>softshell turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/holaawa#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xox(ʷ)čaxʷa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xox(ʷ)čaxʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hohchafo</form>
+				<concepts>
+					<c>hungry</c>
+				</concepts>
+				<url source="wiki">/wiki/hohchafo#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xočixʷa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xočixʷa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">hochifo</form>
+				<concepts>
+					<c>name</c>
+					<c>say</c>
+					<c>call</c>
+				</concepts>
+				<url source="wiki">/wiki/hochifo#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">holhchifo</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/holhchifo#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">holhchifo</form>
+				<concepts>
+					<c>named</c>
+				</concepts>
+				<url source="wiki">/wiki/holhchifo#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">hohchifo</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/hohchifo#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xoθkopa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xoθkopa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">ho̱kopa</form>
+				<concepts>
+					<c>steal</c>
+				</concepts>
+				<url source="wiki">/wiki/ho̱kopa#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xʷitokxaki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xʷitokxaki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">fitohko</form>
+				<concepts>
+					<c>yellow-shafted flicker</c>
+					<c>woodpecker</c>
+				</concepts>
+				<url source="wiki">/wiki/fitohko#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xʷoniCi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xʷoniCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">foniꞌ</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/foniꞌ#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">foni</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/foni#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*xʷočo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/xʷočo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">chooskani</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/chooskani#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">fochosh</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/fochosh#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">choskani</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/choskani#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*¢akliCo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/¢akliCo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">sakli</form>
+				<concepts>
+					<c>trout</c>
+				</concepts>
+				<url source="wiki">/wiki/sakli#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">sac-à-lait</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/sac-à-lait#French</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*¢itko</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/¢itko</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">sokko</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/sokko#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*čawli</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/čawli</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">inchoꞌli</form>
+				<concepts>
+					<c>mark</c>
+					<c>vandalise</c>
+					<c>tattoo</c>
+					<c>brand</c>
+				</concepts>
+				<url source="wiki">/wiki/inchoꞌli#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*čaxaxʷi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/čaxaxʷi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">chaafi</form>
+				<concepts>
+					<c>ax</c>
+				</concepts>
+				<url source="wiki">/wiki/chaafi#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*čokxʷiCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/čokxʷiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">chokfi</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/chokfi#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">chokfi</form>
+				<concepts>
+					<c>hare</c>
+					<c>sheep</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/chokfi#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">chokfi</form>
+				<concepts>
+					<c>sheep</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/chokfi#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">chukfi</form>
+				<concepts>
+					<c>sheep</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/chukfi#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">chokfi</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/chokfi#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*čolaCa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/čolaCa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">chola</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/chola#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">chola</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/chola#Chickasaw</url>
+			</reflex>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">chola</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/chola#Choctaw</url>
+			</reflex>
+			<reflex>
+				<lang>Creek</lang>
+				<form script="LATIN">culv</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/culv#Creek</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">chola</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/chola#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*šalontakiCa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/šalontakiCa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">cholotka</form>
+				<concepts>
+					<c>cricket</c>
+				</concepts>
+				<url source="wiki">/wiki/cholotka#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*šoksiCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/šoksiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">choksi</form>
+				<concepts>
+					<c>pumpkin</c>
+				</concepts>
+				<url source="wiki">/wiki/choksi#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Koasati</lang>
+				<form script="LATIN">choksi</form>
+				<concepts>
+					<c>squash</c>
+					<c>pumpkin</c>
+				</concepts>
+				<url source="wiki">/wiki/choksi#Koasati</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*θakiCi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/θakiCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alabama</lang>
+				<form script="LATIN">ɬaki</form>
+				<concepts>
+					<c>ammunition</c>
+					<c>lead</c>
+				</concepts>
+				<url source="wiki">/wiki/ɬaki#Alabama</url>
+			</reflex>
+			<reflex>
+				<lang>Chickasaw</lang>
+				<form script="LATIN">nakiꞌ</form>
+				<concepts>
+					<c>arrow</c>
+					<c>bullet</c>
+					<c>arrowhead</c>
+				</concepts>
+				<url source="wiki">/wiki/nakiꞌ#Chickasaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Muskogean</plang>
+			<pform>*θaθiCo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Muskogean/θaθiCo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Choctaw</lang>
+				<form script="LATIN">nani</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/nani#Choctaw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

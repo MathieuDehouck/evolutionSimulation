@@ -1,0 +1,6969 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*-tūts</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/-tūts</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">-tu</form>
+				<concepts>
+					<c>-ity</c>
+					<c>-ness</c>
+				</concepts>
+				<url source="wiki">/wiki/-tu#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">-did</form>
+				<concepts>
+					<c>-ness</c>
+					<c>-ment</c>
+				</concepts>
+				<url source="wiki">/wiki/-did#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">-tid</form>
+				<concepts>
+					<c>-ness</c>
+					<c>-ment</c>
+				</concepts>
+				<url source="wiki">/wiki/-tid#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*Awiganyos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/Awiganyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Owen</form>
+				<concepts>
+					<c>place name</c>
+					<c>Owen</c>
+				</concepts>
+				<url source="wiki">/wiki/Owen#English</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*Korobilyos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/Korobilyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">Carvilius</form>
+				<concepts>
+					<c>gens</c>
+				</concepts>
+				<url source="wiki">/wiki/Carvilius#Latin</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*Maglokunos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/Maglokunos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Maglocune</form>
+				<concepts>
+					<c>Maglocune</c>
+					<c>Maglocune</c>
+				</concepts>
+				<url source="wiki">/wiki/Maglocune#English</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*Sabrinā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/Sabrinā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">Sabhrainn</form>
+				<concepts>
+					<c>Severn</c>
+				</concepts>
+				<url source="wiki">/wiki/Sabhrainn#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old English</lang>
+				<form script="LATIN">Sæfern</form>
+				<concepts>
+					<c>Severn</c>
+				</concepts>
+				<url source="wiki">/wiki/Sæfern#Old_English</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">Hafren</form>
+				<concepts>
+					<c>Severn</c>
+				</concepts>
+				<url source="wiki">/wiki/Hafren#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*Uɸortigernos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/Uɸortigernos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Vortigern</form>
+				<concepts>
+					<c>Vortigern</c>
+					<c>Vortigern</c>
+				</concepts>
+				<url source="wiki">/wiki/Vortigern#English</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*abalnā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/abalnā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">avalen</form>
+				<concepts>
+					<c>apple tree</c>
+				</concepts>
+				<url source="wiki">/wiki/avalen#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Avalon</form>
+				<concepts>
+					<c>island</c>
+					<c>Avalon</c>
+				</concepts>
+				<url source="wiki">/wiki/Avalon#English</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">abhaill</form>
+				<concepts>
+					<c>apple tree</c>
+				</concepts>
+				<url source="wiki">/wiki/abhaill#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">aball</form>
+				<concepts>
+					<c>apple tree</c>
+				</concepts>
+				<url source="wiki">/wiki/aball#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">afallen</form>
+				<concepts>
+					<c>apple tree</c>
+				</concepts>
+				<url source="wiki">/wiki/afallen#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*adberos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/adberos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">aber</form>
+				<concepts>
+					<c>ria</c>
+					<c>estuary</c>
+				</concepts>
+				<url source="wiki">/wiki/aber#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">aber</form>
+				<concepts>
+					<c>ria</c>
+				</concepts>
+				<url source="wiki">/wiki/aber#French</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">abar</form>
+				<concepts>
+					<c>morass</c>
+				</concepts>
+				<url source="wiki">/wiki/abar#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Pictish</lang>
+				<form script="OGHAM">*ᚐᚁᚓᚏ</form>
+				<concepts>
+					<c>confluence</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Pictish/ᚐᚁᚓᚏ</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">aber</form>
+				<concepts>
+					<c>confluence</c>
+					<c>estuary</c>
+				</concepts>
+				<url source="wiki">/wiki/aber#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*akkiyā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/akkiyā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">aice</form>
+				<concepts>
+					<c>hole</c>
+					<c>habitat</c>
+					<c>proximity</c>
+					<c>nearness</c>
+				</concepts>
+				<url source="wiki">/wiki/aice#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">aicce</form>
+				<concepts>
+					<c>fosterage</c>
+					<c>proximity</c>
+					<c>nearness</c>
+				</concepts>
+				<url source="wiki">/wiki/aicce#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*altēn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/altēn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">alsen</form>
+				<concepts>
+					<c>razor</c>
+				</concepts>
+				<url source="wiki">/wiki/alsen#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ellyn</form>
+				<concepts>
+					<c>razor</c>
+				</concepts>
+				<url source="wiki">/wiki/ellyn#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*amarom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/amarom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">amhrán</form>
+				<concepts>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/amhrán#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">arrane</form>
+				<concepts>
+					<c>lyric</c>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/arrane#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">amrán</form>
+				<concepts>
+					<c>song</c>
+					<c>singing</c>
+				</concepts>
+				<url source="wiki">/wiki/amrán#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">amar</form>
+				<concepts>
+					<c>wailing</c>
+					<c>moaning</c>
+					<c>song</c>
+					<c>singing</c>
+				</concepts>
+				<url source="wiki">/wiki/amar#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">amhran</form>
+				<concepts>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/amhran#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">òran</form>
+				<concepts>
+					<c>song</c>
+					<c>poem</c>
+				</concepts>
+				<url source="wiki">/wiki/òran#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ambirādos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ambirādos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">iomradh</form>
+				<concepts>
+					<c>commentary</c>
+					<c>profile</c>
+					<c>mention</c>
+					<c>report</c>
+					<c>account</c>
+					<c>reference</c>
+					<c>allusion</c>
+				</concepts>
+				<url source="wiki">/wiki/iomradh#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ambostā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ambostā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">*ambosta</form>
+				<concepts>
+					<c>palmful</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Latin/ambosta</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*amɸlabros</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/amɸlabros</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">amlabar</form>
+				<concepts>
+					<c>mute</c>
+					<c>dumb</c>
+				</concepts>
+				<url source="wiki">/wiki/amlabar#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">aflafar</form>
+				<concepts>
+					<c>mute</c>
+					<c>dissonant</c>
+					<c>dumb</c>
+					<c>harsh</c>
+					<c>silent</c>
+					<c>discordant</c>
+				</concepts>
+				<url source="wiki">/wiki/aflafar#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*anderā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/anderā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">ainnir</form>
+				<concepts>
+					<c>maiden</c>
+					<c>girl</c>
+					<c>lass</c>
+				</concepts>
+				<url source="wiki">/wiki/ainnir#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">ainder</form>
+				<concepts>
+					<c>virgin</c>
+					<c>maiden</c>
+					<c>nonvirgin</c>
+				</concepts>
+				<url source="wiki">/wiki/ainder#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">ainnir</form>
+				<concepts>
+					<c>virgin</c>
+					<c>maiden</c>
+					<c>nymph</c>
+				</concepts>
+				<url source="wiki">/wiki/ainnir#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">anner</form>
+				<concepts>
+					<c>heifer</c>
+				</concepts>
+				<url source="wiki">/wiki/anner#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*asselī</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/asselī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">ezel</form>
+				<concepts>
+					<c>member</c>
+				</concepts>
+				<url source="wiki">/wiki/ezel#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">esel</form>
+				<concepts>
+					<c>limb</c>
+					<c>member</c>
+				</concepts>
+				<url source="wiki">/wiki/esel#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">aisil</form>
+				<concepts>
+					<c>part</c>
+					<c>piece</c>
+					<c>joint</c>
+				</concepts>
+				<url source="wiki">/wiki/aisil#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">aisil</form>
+				<concepts>
+					<c>part</c>
+					<c>division</c>
+					<c>joint</c>
+				</concepts>
+				<url source="wiki">/wiki/aisil#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*atigabaglā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/atigabaglā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">athgabáil</form>
+				<concepts>
+					<c>distraint</c>
+				</concepts>
+				<url source="wiki">/wiki/athgabáil#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*attrebā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/attrebā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">atrab</form>
+				<concepts>
+					<c>house</c>
+					<c>dwelling</c>
+					<c>possession</c>
+				</concepts>
+				<url source="wiki">/wiki/atrab#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">aitreabh</form>
+				<concepts>
+					<c>building</c>
+					<c>dwelling</c>
+					<c>complex</c>
+				</concepts>
+				<url source="wiki">/wiki/aitreabh#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">athref</form>
+				<concepts>
+					<c>dwelling-place</c>
+					<c>abode</c>
+					<c>home</c>
+				</concepts>
+				<url source="wiki">/wiki/athref#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*auberos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/auberos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">uabhar</form>
+				<concepts>
+					<c>exuberance</c>
+					<c>frolicksomeness</c>
+					<c>arrogance</c>
+					<c>luxuriance</c>
+					<c>frolicking</c>
+					<c>spiritedness</c>
+					<c>rankness</c>
+					<c>pride</c>
+					<c>astonishment</c>
+					<c>eeriness</c>
+				</concepts>
+				<url source="wiki">/wiki/uabhar#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">úabar</form>
+				<concepts>
+					<c>vanity</c>
+					<c>pride</c>
+					<c>arrogance</c>
+				</concepts>
+				<url source="wiki">/wiki/úabar#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ofer</form>
+				<concepts>
+					<c>vain</c>
+					<c>futile</c>
+				</concepts>
+				<url source="wiki">/wiki/ofer#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*autītos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/autītos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">uathadh</form>
+				<concepts>
+					<c>small</c>
+					<c>number</c>
+					<c>few</c>
+				</concepts>
+				<url source="wiki">/wiki/uathadh#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">úathad</form>
+				<concepts>
+					<c>a few</c>
+				</concepts>
+				<url source="wiki">/wiki/úathad#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">odid</form>
+				<concepts>
+					<c>hardly</c>
+					<c>scarcely</c>
+				</concepts>
+				<url source="wiki">/wiki/odid#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*awV-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/awV-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">avu</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/avu#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">aane</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/aane#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">áe</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/áe#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">adha</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/adha#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">afu</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/afu#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*awontīr</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/awontīr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">eontr</form>
+				<concepts>
+					<c>uncle</c>
+				</concepts>
+				<url source="wiki">/wiki/eontr#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">amnair</form>
+				<concepts>
+					<c>maternal uncle</c>
+				</concepts>
+				<url source="wiki">/wiki/amnair#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ewythr</form>
+				<concepts>
+					<c>uncle</c>
+				</concepts>
+				<url source="wiki">/wiki/ewythr#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*banowessā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/banowessā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">bainis</form>
+				<concepts>
+					<c>wedding</c>
+				</concepts>
+				<url source="wiki">/wiki/bainis#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">bannish</form>
+				<concepts>
+					<c>bridal</c>
+				</concepts>
+				<url source="wiki">/wiki/bannish#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">bannish</form>
+				<concepts>
+					<c>wedding</c>
+				</concepts>
+				<url source="wiki">/wiki/bannish#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">banais</form>
+				<concepts>
+					<c>wedding</c>
+				</concepts>
+				<url source="wiki">/wiki/banais#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*banwos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/banwos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">bonham</form>
+				<concepts>
+					<c>piglet</c>
+					<c>bonham</c>
+				</concepts>
+				<url source="wiki">/wiki/bonham#English</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">banbh</form>
+				<concepts>
+					<c>ace of hearts</c>
+					<c>piglet</c>
+				</concepts>
+				<url source="wiki">/wiki/banbh#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">banb</form>
+				<concepts>
+					<c>piglet</c>
+				</concepts>
+				<url source="wiki">/wiki/banb#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*birros</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/birros</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">berr</form>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/berr#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">berr</form>
+				<concepts>
+					<c>brief</c>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/berr#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">berr</form>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/berr#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">byr</form>
+				<concepts>
+					<c>concise</c>
+					<c>brief</c>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/byr#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*bledyos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/bledyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">bleiz</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/bleiz#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">bleydh</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/bleydh#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">bled</form>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/bled#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">blaidd</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/blaidd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*blēdanī</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/blēdanī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">bledhen</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/bledhen#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">bliain</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/bliain#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">blein</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/blein#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">blíadain</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/blíadain#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">bliadhna</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/bliadhna#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">blwyddyn</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/blwyddyn#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">blynedd</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/blynedd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*boudīkos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/boudīkos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">buddug</form>
+				<concepts>
+					<c>victorious</c>
+				</concepts>
+				<url source="wiki">/wiki/buddug#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*brattos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/brattos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">brat</form>
+				<concepts>
+					<c>mantle</c>
+					<c>cloak</c>
+					<c>covering</c>
+					<c>curtain</c>
+				</concepts>
+				<url source="wiki">/wiki/brat#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">bratach</form>
+				<concepts>
+					<c>flag</c>
+				</concepts>
+				<url source="wiki">/wiki/bratach#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">bratt</form>
+				<concepts>
+					<c>cloak</c>
+					<c>cloth</c>
+				</concepts>
+				<url source="wiki">/wiki/bratt#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">brat</form>
+				<concepts>
+					<c>covering</c>
+					<c>cloak</c>
+					<c>cover</c>
+					<c>mat</c>
+					<c>veil</c>
+					<c>canopy</c>
+					<c>mantle</c>
+				</concepts>
+				<url source="wiki">/wiki/brat#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">bratach</form>
+				<concepts>
+					<c>banner</c>
+					<c>flag</c>
+				</concepts>
+				<url source="wiki">/wiki/bratach#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">brat</form>
+				<concepts>
+					<c>pinafore</c>
+					<c>rag</c>
+					<c>apron</c>
+				</concepts>
+				<url source="wiki">/wiki/brat#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">brethyn</form>
+				<concepts>
+					<c>cloth</c>
+				</concepts>
+				<url source="wiki">/wiki/brethyn#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*brokkos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/brokkos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">բրոշ</form>
+				<translit>broš</translit>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/բրոշ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">broc'h</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/broc'h#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">brogh</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/brogh#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">broche</form>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/broche#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">breech</form>
+				<concepts>
+					<c>Born</c>
+					<c>breech</c>
+					<c>breech</c>
+				</concepts>
+				<url source="wiki">/wiki/breech#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">breech</form>
+				<concepts>
+					<c>beat</c>
+					<c>fit</c>
+					<c>breech</c>
+				</concepts>
+				<url source="wiki">/wiki/breech#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">breech</form>
+				<concepts>
+					<c>breech birth</c>
+					<c>breech</c>
+				</concepts>
+				<url source="wiki">/wiki/breech#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">breeches</form>
+				<concepts>
+					<c>breeches</c>
+					<c>breeches</c>
+				</concepts>
+				<url source="wiki">/wiki/breeches#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">breeches</form>
+				<concepts>
+					<c>pantaloons</c>
+					<c>smallclothes</c>
+					<c>trousers</c>
+					<c>breeches</c>
+				</concepts>
+				<url source="wiki">/wiki/breeches#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">brock</form>
+				<concepts>
+					<c>brocket</c>
+					<c>dirty</c>
+					<c>brock</c>
+				</concepts>
+				<url source="wiki">/wiki/brock#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">brock</form>
+				<concepts>
+					<c>taunt</c>
+					<c>brock</c>
+				</concepts>
+				<url source="wiki">/wiki/brock#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">broche</form>
+				<concepts>
+					<c>pin</c>
+					<c>spike</c>
+					<c>peg</c>
+					<c>spit</c>
+					<c>brooch</c>
+					<c>skewer</c>
+				</concepts>
+				<url source="wiki">/wiki/broche#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">broca</form>
+				<concepts>
+					<c>woodworm</c>
+					<c>shipworm</c>
+					<c>drill bit</c>
+					<c>brooch</c>
+					<c>piddock</c>
+					<c>stud</c>
+				</concepts>
+				<url source="wiki">/wiki/broca#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">broco</form>
+				<concepts>
+					<c>bad-tempered</c>
+				</concepts>
+				<url source="wiki">/wiki/broco#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბროში</form>
+				<translit>broši</translit>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/ბროში#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Brosche</form>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/Brosche#German</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">bros</form>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/bros#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">broc</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/broc#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">broccus</form>
+				<concepts>
+					<c>buck-toothed</c>
+				</concepts>
+				<url source="wiki">/wiki/broccus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">broccus</form>
+				<concepts>
+					<c>buck-toothed</c>
+				</concepts>
+				<url source="wiki">/wiki/broccus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">brock</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/brock#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">brocc</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/brocc#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old English</lang>
+				<form script="LATIN">brocc</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/brocc#Old_English</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">بروش</form>
+				<translit>broş</translit>
+				<concepts>
+					<c>broche</c>
+				</concepts>
+				<url source="wiki">/wiki/بروش#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">broca</form>
+				<concepts>
+					<c>auger</c>
+					<c>drill bit</c>
+					<c>borer</c>
+					<c>drill</c>
+					<c>bit</c>
+				</concepts>
+				<url source="wiki">/wiki/broca#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">broșă</form>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/broșă#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">брошь</form>
+				<translit>brošʹ</translit>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/брошь#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Scots</lang>
+				<form script="LATIN">broach</form>
+				<concepts>
+					<c>slender</c>
+					<c>spindle</c>
+					<c>thin</c>
+				</concepts>
+				<url source="wiki">/wiki/broach#Scots</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">broc</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/broc#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">broche</form>
+				<concepts>
+					<c>cufflink</c>
+					<c>brooch</c>
+					<c>clasp</c>
+					<c>cuff link</c>
+					<c>clothes peg</c>
+					<c>paperclip</c>
+					<c>punch line</c>
+				</concepts>
+				<url source="wiki">/wiki/broche#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">broş</form>
+				<concepts>
+					<c>brooch</c>
+				</concepts>
+				<url source="wiki">/wiki/broş#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">broch</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/broch#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*brusnyos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/brusnyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">broinne</form>
+				<concepts>
+					<c>brink</c>
+					<c>bosom</c>
+					<c>verge</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/broinne#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">bruinne</form>
+				<concepts>
+					<c>bosom</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/bruinne#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">bryn</form>
+				<concepts>
+					<c>hill</c>
+				</concepts>
+				<url source="wiki">/wiki/bryn#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*brīgā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/brīgā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">brí</form>
+				<concepts>
+					<c>vigor</c>
+					<c>strength</c>
+					<c>significance</c>
+					<c>merit</c>
+					<c>influence</c>
+					<c>quantity</c>
+					<c>meaning</c>
+				</concepts>
+				<url source="wiki">/wiki/brí#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">bree</form>
+				<concepts>
+					<c>energize</c>
+					<c>power</c>
+					<c>invigorate</c>
+				</concepts>
+				<url source="wiki">/wiki/bree#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">bree</form>
+				<concepts>
+					<c>gist</c>
+					<c>initiative</c>
+					<c>importance</c>
+					<c>power</c>
+					<c>glow</c>
+					<c>validity</c>
+					<c>effect</c>
+					<c>vigour</c>
+					<c>interpretation</c>
+					<c>significance</c>
+					<c>stamina</c>
+					<c>animation</c>
+					<c>implication</c>
+					<c>virtue</c>
+					<c>drift</c>
+					<c>energy</c>
+					<c>essence</c>
+				</concepts>
+				<url source="wiki">/wiki/bree#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">bríg</form>
+				<concepts>
+					<c>power</c>
+					<c>strength</c>
+					<c>vigour</c>
+					<c>value</c>
+					<c>force</c>
+					<c>vitality</c>
+					<c>virtue</c>
+				</concepts>
+				<url source="wiki">/wiki/bríg#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">brìgh</form>
+				<concepts>
+					<c>moment</c>
+					<c>gist</c>
+					<c>essence</c>
+					<c>pith</c>
+					<c>strength</c>
+					<c>point</c>
+					<c>juice</c>
+					<c>meaning</c>
+					<c>significance</c>
+					<c>sparkle</c>
+					<c>purport</c>
+					<c>sense</c>
+					<c>fizz</c>
+					<c>sap</c>
+					<c>drift</c>
+					<c>energy</c>
+					<c>substance</c>
+				</concepts>
+				<url source="wiki">/wiki/brìgh#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*budīnā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/budīnā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">buíon</form>
+				<concepts>
+					<c>troop</c>
+					<c>company</c>
+					<c>work gang</c>
+					<c>band</c>
+					<c>platoon</c>
+				</concepts>
+				<url source="wiki">/wiki/buíon#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">buiden</form>
+				<concepts>
+					<c>troop</c>
+					<c>band</c>
+				</concepts>
+				<url source="wiki">/wiki/buiden#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">byddin</form>
+				<concepts>
+					<c>army</c>
+				</concepts>
+				<url source="wiki">/wiki/byddin#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*bēsman</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/bēsman</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">béim</form>
+				<concepts>
+					<c>beat</c>
+					<c>stroke</c>
+					<c>emphasis</c>
+					<c>stress</c>
+					<c>blow</c>
+					<c>accent</c>
+				</concepts>
+				<url source="wiki">/wiki/béim#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">béim</form>
+				<concepts>
+					<c>beat</c>
+					<c>stroke</c>
+					<c>emphasis</c>
+					<c>stress</c>
+					<c>blow</c>
+					<c>accent</c>
+				</concepts>
+				<url source="wiki">/wiki/béim#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">béim</form>
+				<concepts>
+					<c>stroke</c>
+					<c>blow</c>
+				</concepts>
+				<url source="wiki">/wiki/béim#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">beum</form>
+				<concepts>
+					<c>stroke</c>
+					<c>stress</c>
+					<c>blow</c>
+				</concepts>
+				<url source="wiki">/wiki/beum#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*dekametos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/dekametos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">dekved</form>
+				<concepts>
+					<c>decade</c>
+				</concepts>
+				<url source="wiki">/wiki/dekved#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">degves</form>
+				<concepts>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/degves#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">dechmad</form>
+				<concepts>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/dechmad#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">deicheamh</form>
+				<concepts>
+					<c>decimal</c>
+				</concepts>
+				<url source="wiki">/wiki/deicheamh#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">deicheamh</form>
+				<concepts>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/deicheamh#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">degfed</form>
+				<concepts>
+					<c>tenth</c>
+				</concepts>
+				<url source="wiki">/wiki/degfed#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*drukos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/drukos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">drogh</form>
+				<concepts>
+					<c>wicked</c>
+					<c>evil</c>
+					<c>bad</c>
+				</concepts>
+				<url source="wiki">/wiki/drogh#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">droch</form>
+				<concepts>
+					<c>evil</c>
+					<c>bad</c>
+				</concepts>
+				<url source="wiki">/wiki/droch#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*drungos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/drungos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">drungus</form>
+				<concepts>
+					<c>troop</c>
+				</concepts>
+				<url source="wiki">/wiki/drungus#Latin</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*drūtos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/drūtos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">drud</form>
+				<concepts>
+					<c>expensive</c>
+					<c>brave</c>
+					<c>furious</c>
+					<c>painful</c>
+					<c>daring</c>
+					<c>foolish</c>
+					<c>grievous</c>
+				</concepts>
+				<url source="wiki">/wiki/drud#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*dubrokū</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/dubrokū</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">dourgi</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/dourgi#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">dowrgi</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/dowrgi#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">dobharchú</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/dobharchú#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">dooarchoo</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/dooarchoo#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">doburchú</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/doburchú#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">dobhar-chù</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/dobhar-chù#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">dwrgi</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/dwrgi#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">dyfrgi</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/dyfrgi#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*dworestus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/dworestus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">dorus</form>
+				<concepts>
+					<c>door</c>
+				</concepts>
+				<url source="wiki">/wiki/dorus#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*dīgalā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/dīgalā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">dígal</form>
+				<concepts>
+					<c>revenge</c>
+					<c>vengeance</c>
+					<c>punishment</c>
+				</concepts>
+				<url source="wiki">/wiki/dígal#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">dial</form>
+				<concepts>
+					<c>avenge</c>
+				</concepts>
+				<url source="wiki">/wiki/dial#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">dial</form>
+				<concepts>
+					<c>revenge</c>
+					<c>vengeance</c>
+				</concepts>
+				<url source="wiki">/wiki/dial#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*dīreiyom</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/dīreiyom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">dirwy</form>
+				<concepts>
+					<c>fine</c>
+				</concepts>
+				<url source="wiki">/wiki/dirwy#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ekʷālos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ekʷālos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">ebeul</form>
+				<concepts>
+					<c>foal</c>
+				</concepts>
+				<url source="wiki">/wiki/ebeul#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ebol</form>
+				<concepts>
+					<c>colt</c>
+					<c>foal</c>
+				</concepts>
+				<url source="wiki">/wiki/ebol#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*eni-miskos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/eni-miskos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ymysg</form>
+				<concepts>
+					<c>among</c>
+					<c>amongst</c>
+				</concepts>
+				<url source="wiki">/wiki/ymysg#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*esyās</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/esyās</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">he</form>
+				<concepts>
+					<c>her</c>
+				</concepts>
+				<url source="wiki">/wiki/he#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">aí</form>
+				<concepts>
+					<c>hers</c>
+					<c>theirs</c>
+					<c>his</c>
+				</concepts>
+				<url source="wiki">/wiki/aí#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*exs-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/exs-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">eas-</form>
+				<concepts>
+					<c>ex-</c>
+					<c>un-</c>
+					<c>dis-</c>
+				</concepts>
+				<url source="wiki">/wiki/eas-#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">eas-</form>
+				<concepts>
+					<c>dis-</c>
+				</concepts>
+				<url source="wiki">/wiki/eas-#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*exsoβnos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/exsoβnos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">esamain</form>
+				<concepts>
+					<c>fearless</c>
+				</concepts>
+				<url source="wiki">/wiki/esamain#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*galā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/galā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">gal</form>
+				<concepts>
+					<c>blusterer</c>
+				</concepts>
+				<url source="wiki">/wiki/gal#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">gal</form>
+				<concepts>
+					<c>bout</c>
+					<c>fit</c>
+					<c>demand</c>
+					<c>valor</c>
+					<c>fury</c>
+					<c>whiff</c>
+					<c>steam</c>
+					<c>turn</c>
+					<c>puff</c>
+					<c>vapor</c>
+				</concepts>
+				<url source="wiki">/wiki/gal#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">gal</form>
+				<concepts>
+					<c>valor</c>
+					<c>ardor</c>
+					<c>fury</c>
+				</concepts>
+				<url source="wiki">/wiki/gal#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">gal</form>
+				<concepts>
+					<c>ardour</c>
+					<c>vapour</c>
+					<c>fury</c>
+					<c>valour</c>
+					<c>steam</c>
+				</concepts>
+				<url source="wiki">/wiki/gal#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*gargos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/gargos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">garg</form>
+				<concepts>
+					<c>acrid</c>
+					<c>rough</c>
+					<c>bitter</c>
+					<c>harsh</c>
+					<c>strident</c>
+					<c>pungent</c>
+					<c>fierce</c>
+					<c>gruff</c>
+					<c>searing</c>
+				</concepts>
+				<url source="wiki">/wiki/garg#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">garg</form>
+				<concepts>
+					<c>acrid</c>
+					<c>angry</c>
+					<c>ferocious</c>
+					<c>bitter</c>
+					<c>harsh</c>
+					<c>acetous</c>
+					<c>rabid</c>
+					<c>pungent</c>
+					<c>brutal</c>
+					<c>brutish</c>
+					<c>fierce</c>
+					<c>gruff</c>
+					<c>tart</c>
+					<c>barbarous</c>
+					<c>ardent</c>
+					<c>acrimonious</c>
+					<c>cruel</c>
+				</concepts>
+				<url source="wiki">/wiki/garg#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*gnīmus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/gnīmus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">gníomh</form>
+				<concepts>
+					<c>deed</c>
+					<c>doing</c>
+					<c>action</c>
+					<c>fact</c>
+					<c>performing</c>
+					<c>act</c>
+					<c>exercise</c>
+					<c>feat</c>
+				</concepts>
+				<url source="wiki">/wiki/gníomh#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">gním</form>
+				<concepts>
+					<c>deed</c>
+					<c>doing</c>
+					<c>action</c>
+					<c>work</c>
+					<c>act</c>
+					<c>making</c>
+				</concepts>
+				<url source="wiki">/wiki/gním#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">gnìomh</form>
+				<concepts>
+					<c>deed</c>
+					<c>act</c>
+					<c>action</c>
+					<c>task</c>
+				</concepts>
+				<url source="wiki">/wiki/gnìomh#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*gurmos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/gurmos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">gorm</form>
+				<concepts>
+					<c>black</c>
+					<c>azure</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/gorm#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">gorrym</form>
+				<concepts>
+					<c>black</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/gorrym#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">gorm</form>
+				<concepts>
+					<c>green</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/gorm#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwrm</form>
+				<concepts>
+					<c>dusky</c>
+					<c>brown</c>
+				</concepts>
+				<url source="wiki">/wiki/gwrm#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*gʷeleti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/gʷeleti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">gelid</form>
+				<concepts>
+					<c>graze</c>
+					<c>consume</c>
+				</concepts>
+				<url source="wiki">/wiki/gelid#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*gʷeltis</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/gʷeltis</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">gealt</form>
+				<concepts>
+					<c>crazy</c>
+					<c>lunatic</c>
+				</concepts>
+				<url source="wiki">/wiki/gealt#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwyllt</form>
+				<concepts>
+					<c>untamed</c>
+					<c>furious</c>
+					<c>wild</c>
+					<c>unruly</c>
+					<c>raging</c>
+				</concepts>
+				<url source="wiki">/wiki/gwyllt#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*gʷeltā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/gʷeltā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">geot</form>
+				<concepts>
+					<c>grass</c>
+				</concepts>
+				<url source="wiki">/wiki/geot#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">gwelt</form>
+				<concepts>
+					<c>grass</c>
+				</concepts>
+				<url source="wiki">/wiki/gwelt#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">gwels</form>
+				<concepts>
+					<c>grass</c>
+				</concepts>
+				<url source="wiki">/wiki/gwels#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">innilt</form>
+				<concepts>
+					<c>grazing</c>
+				</concepts>
+				<url source="wiki">/wiki/innilt#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwellt</form>
+				<concepts>
+					<c>grass</c>
+					<c>straw</c>
+				</concepts>
+				<url source="wiki">/wiki/gwellt#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*gʷenom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/gʷenom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">gen</form>
+				<concepts>
+					<c>laugh</c>
+					<c>sport</c>
+					<c>levity</c>
+					<c>smile</c>
+				</concepts>
+				<url source="wiki">/wiki/gen#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwên</form>
+				<concepts>
+					<c>smile</c>
+				</concepts>
+				<url source="wiki">/wiki/gwên#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*imbetom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/imbetom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">iomad</form>
+				<concepts>
+					<c>abundance</c>
+				</concepts>
+				<url source="wiki">/wiki/iomad#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">imbed</form>
+				<concepts>
+					<c>amount</c>
+					<c>riches</c>
+					<c>excess</c>
+					<c>food</c>
+					<c>abundance</c>
+					<c>number</c>
+					<c>contract</c>
+				</concepts>
+				<url source="wiki">/wiki/imbed#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">iomadh</form>
+				<concepts>
+					<c>a number of</c>
+					<c>many a</c>
+					<c>a lot</c>
+					<c>various</c>
+					<c>many</c>
+					<c>diverse</c>
+				</concepts>
+				<url source="wiki">/wiki/iomadh#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kaballos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kaballos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">capall</form>
+				<concepts>
+					<c>horse</c>
+					<c>large</c>
+					<c>coarse</c>
+					<c>mare</c>
+				</concepts>
+				<url source="wiki">/wiki/capall#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">caballus</form>
+				<concepts>
+					<c>jade</c>
+					<c>pack-horse</c>
+					<c>nag</c>
+					<c>hack</c>
+				</concepts>
+				<url source="wiki">/wiki/caballus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">cabbyl</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/cabbyl#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">capall</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/capall#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">capall</form>
+				<concepts>
+					<c>colt</c>
+					<c>mare</c>
+				</concepts>
+				<url source="wiki">/wiki/capall#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ceffyl</form>
+				<concepts>
+					<c>mount</c>
+					<c>horse</c>
+					<c>nag</c>
+					<c>steed</c>
+				</concepts>
+				<url source="wiki">/wiki/ceffyl#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kanktus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kanktus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">céachta</form>
+				<concepts>
+					<c>plough</c>
+				</concepts>
+				<url source="wiki">/wiki/céachta#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">keeaght</form>
+				<concepts>
+					<c>plough</c>
+				</concepts>
+				<url source="wiki">/wiki/keeaght#Manx</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kantos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kantos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">kant</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/kant#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">cant</form>
+				<concepts>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/cant#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Cebuano</lang>
+				<form script="LATIN">kanto</form>
+				<concepts>
+					<c>corner</c>
+				</concepts>
+				<url source="wiki">/wiki/kanto#Cebuano</url>
+			</reflex>
+			<reflex>
+				<lang>Corsican</lang>
+				<form script="LATIN">cantu</form>
+				<concepts>
+					<c>singing</c>
+				</concepts>
+				<url source="wiki">/wiki/cantu#Corsican</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">cantus</form>
+				<concepts>
+					<c>cantus</c>
+					<c>cantus</c>
+				</concepts>
+				<url source="wiki">/wiki/cantus#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">chant</form>
+				<concepts>
+					<c>sing</c>
+					<c>utter</c>
+					<c>chant</c>
+				</concepts>
+				<url source="wiki">/wiki/chant#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">chant</form>
+				<concepts>
+					<c>twang</c>
+					<c>chant</c>
+				</concepts>
+				<url source="wiki">/wiki/chant#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">chant</form>
+				<concepts>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/chant#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">cjant</form>
+				<concepts>
+					<c>singing</c>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/cjant#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Gallurese</lang>
+				<form script="LATIN">cantu</form>
+				<concepts>
+					<c>chant</c>
+					<c>singing</c>
+				</concepts>
+				<url source="wiki">/wiki/cantu#Gallurese</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">chant</form>
+				<concepts>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/chant#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">cantu</form>
+				<concepts>
+					<c>chant</c>
+					<c>singing</c>
+				</concepts>
+				<url source="wiki">/wiki/cantu#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">kanto</form>
+				<concepts>
+					<c>corner</c>
+				</concepts>
+				<url source="wiki">/wiki/kanto#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Walloon</lang>
+				<form script="LATIN">tchant</form>
+				<concepts>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/tchant#Walloon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*karbantos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/karbantos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">charpente</form>
+				<concepts>
+					<c>structure</c>
+					<c>build</c>
+					<c>framework</c>
+				</concepts>
+				<url source="wiki">/wiki/charpente#French</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">carbad</form>
+				<concepts>
+					<c>chariot</c>
+				</concepts>
+				<url source="wiki">/wiki/carbad#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">carpentum</form>
+				<concepts>
+					<c>barouche</c>
+					<c>cart</c>
+					<c>chariot</c>
+					<c>carriage</c>
+					<c>wagon</c>
+				</concepts>
+				<url source="wiki">/wiki/carpentum#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">carpat</form>
+				<concepts>
+					<c>chariot</c>
+				</concepts>
+				<url source="wiki">/wiki/carpat#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">carbad</form>
+				<concepts>
+					<c>vehicle</c>
+					<c>chariot</c>
+					<c>carriage</c>
+					<c>wagon</c>
+					<c>coach</c>
+				</concepts>
+				<url source="wiki">/wiki/carbad#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cerbyd</form>
+				<concepts>
+					<c>vehicle</c>
+				</concepts>
+				<url source="wiki">/wiki/cerbyd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kariyos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kariyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">crydd</form>
+				<concepts>
+					<c>shoemaker</c>
+					<c>cobbler</c>
+				</concepts>
+				<url source="wiki">/wiki/crydd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kartati</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kartati</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cart</form>
+				<concepts>
+					<c>tan</c>
+					<c>cleanse</c>
+					<c>clear away</c>
+					<c>scavenge</c>
+					<c>clean</c>
+				</concepts>
+				<url source="wiki">/wiki/cart#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">cartaid</form>
+				<concepts>
+					<c>expel</c>
+					<c>drive off</c>
+				</concepts>
+				<url source="wiki">/wiki/cartaid#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cairt</form>
+				<concepts>
+					<c>bark</c>
+					<c>rind</c>
+					<c>charter</c>
+					<c>card</c>
+					<c>cart</c>
+					<c>wagon</c>
+					<c>chart</c>
+				</concepts>
+				<url source="wiki">/wiki/cairt#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kattos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kattos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">caitín</form>
+				<concepts>
+					<c>fluff</c>
+					<c>pile</c>
+					<c>kitten</c>
+					<c>catkin</c>
+					<c>nap</c>
+				</concepts>
+				<url source="wiki">/wiki/caitín#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cat</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/cat#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">kayt</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/kayt#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">caittín</form>
+				<concepts>
+					<c>kitten</c>
+				</concepts>
+				<url source="wiki">/wiki/caittín#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">catt</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/catt#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cat</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/cat#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kattā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kattā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">kazh</form>
+				<concepts>
+					<c>cat</c>
+					<c>tomcat</c>
+				</concepts>
+				<url source="wiki">/wiki/kazh#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">cath</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/cath#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">kath</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/kath#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cath</form>
+				<concepts>
+					<c>wildcat</c>
+					<c>cat</c>
+					<c>cat-o'-nine-tails</c>
+					<c>tipcat</c>
+				</concepts>
+				<url source="wiki">/wiki/cath#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kentusamonyos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kentusamonyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cyntefin</form>
+				<concepts>
+					<c>spring</c>
+					<c>May</c>
+					<c>summer</c>
+				</concepts>
+				<url source="wiki">/wiki/cyntefin#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kentusedom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kentusedom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cyntedd</form>
+				<concepts>
+					<c>forecourt</c>
+					<c>porch</c>
+					<c>court</c>
+					<c>vestibule</c>
+					<c>entry</c>
+					<c>lobby</c>
+				</concepts>
+				<url source="wiki">/wiki/cyntedd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ketorā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ketorā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cedor</form>
+				<concepts>
+					<c>pubic hair</c>
+					<c>private parts</c>
+					<c>genitalia</c>
+					<c>pubes</c>
+					<c>mons pubis</c>
+				</concepts>
+				<url source="wiki">/wiki/cedor#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*klamos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/klamos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">klañv</form>
+				<concepts>
+					<c>sick</c>
+					<c>ill</c>
+				</concepts>
+				<url source="wiki">/wiki/klañv#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">clam</form>
+				<concepts>
+					<c>leper</c>
+				</concepts>
+				<url source="wiki">/wiki/clam#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">claf</form>
+				<concepts>
+					<c>invalid</c>
+					<c>patient</c>
+				</concepts>
+				<url source="wiki">/wiki/claf#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">claf</form>
+				<concepts>
+					<c>unwell</c>
+					<c>diseased</c>
+					<c>ill</c>
+				</concepts>
+				<url source="wiki">/wiki/claf#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*klukaros</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/klukaros</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">clegyr</form>
+				<concepts>
+					<c>rock</c>
+					<c>crag</c>
+				</concepts>
+				<url source="wiki">/wiki/clegyr#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*klukā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/klukā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cloch</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/cloch#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cloch</form>
+				<concepts>
+					<c>stone</c>
+					<c>testicle</c>
+					<c>bead</c>
+				</concepts>
+				<url source="wiki">/wiki/cloch#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">clagh</form>
+				<concepts>
+					<c>stone</c>
+					<c>testicle</c>
+				</concepts>
+				<url source="wiki">/wiki/clagh#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">cloch</form>
+				<concepts>
+					<c>precious stone</c>
+					<c>gem</c>
+					<c>castle</c>
+					<c>stone</c>
+					<c>fortress</c>
+					<c>stronghold</c>
+					<c>rock</c>
+					<c>bead</c>
+				</concepts>
+				<url source="wiki">/wiki/cloch#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">clach</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/clach#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">clach</form>
+				<concepts>
+					<c>stone</c>
+					<c>testicle</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/clach#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">clog</form>
+				<concepts>
+					<c>cliff</c>
+					<c>rockface</c>
+				</concepts>
+				<url source="wiki">/wiki/clog#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Yola</lang>
+				<form script="LATIN">clouk</form>
+				<concepts>
+					<c>simpleton</c>
+					<c>silly</c>
+				</concepts>
+				<url source="wiki">/wiki/clouk#Yola</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*knūs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/knūs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">kraoñ</form>
+				<concepts>
+					<c>nuts</c>
+				</concepts>
+				<url source="wiki">/wiki/kraoñ#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">know</form>
+				<concepts>
+					<c>nuts</c>
+				</concepts>
+				<url source="wiki">/wiki/know#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cnó</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/cnó#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">cro</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/cro#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">cnú</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/cnú#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cnò</form>
+				<concepts>
+					<c>nut</c>
+					<c>filbert</c>
+				</concepts>
+				<url source="wiki">/wiki/cnò#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cnau</form>
+				<concepts>
+					<c>nuts</c>
+				</concepts>
+				<url source="wiki">/wiki/cnau#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*komaltyos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/komaltyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cyfaill</form>
+				<concepts>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/cyfaill#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*komangus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/komangus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cúng</form>
+				<concepts>
+					<c>narrow</c>
+				</concepts>
+				<url source="wiki">/wiki/cúng#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">cumung</form>
+				<concepts>
+					<c>restricted</c>
+					<c>close</c>
+					<c>constrained</c>
+					<c>compressed</c>
+					<c>narrow</c>
+				</concepts>
+				<url source="wiki">/wiki/cumung#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cumhang</form>
+				<concepts>
+					<c>close</c>
+					<c>tight</c>
+					<c>illiberal</c>
+					<c>close-minded</c>
+					<c>narrow</c>
+					<c>narrow-minded</c>
+				</concepts>
+				<url source="wiki">/wiki/cumhang#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cumhang</form>
+				<concepts>
+					<c>ravine</c>
+					<c>defile</c>
+				</concepts>
+				<url source="wiki">/wiki/cumhang#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cyfyng</form>
+				<concepts>
+					<c>difficult</c>
+					<c>confined</c>
+					<c>narrow</c>
+				</concepts>
+				<url source="wiki">/wiki/cyfyng#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*korkyos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/korkyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">coirce</form>
+				<concepts>
+					<c>oats</c>
+				</concepts>
+				<url source="wiki">/wiki/coirce#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">coirce</form>
+				<concepts>
+					<c>oats</c>
+				</concepts>
+				<url source="wiki">/wiki/coirce#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ceirch</form>
+				<concepts>
+					<c>oats</c>
+				</concepts>
+				<url source="wiki">/wiki/ceirch#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*krittā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/krittā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">creat</form>
+				<concepts>
+					<c>shape</c>
+					<c>frame</c>
+					<c>appearance</c>
+				</concepts>
+				<url source="wiki">/wiki/creat#Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*krundis</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/krundis</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cruinn</form>
+				<concepts>
+					<c>round</c>
+					<c>accurate</c>
+					<c>sparing</c>
+					<c>miserly</c>
+					<c>gathered</c>
+					<c>exact</c>
+					<c>frugal</c>
+					<c>concentrated</c>
+				</concepts>
+				<url source="wiki">/wiki/cruinn#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">cruinn</form>
+				<concepts>
+					<c>round</c>
+					<c>scrupulous</c>
+					<c>consummate</c>
+					<c>accurate</c>
+					<c>circumstantial</c>
+					<c>detailed</c>
+					<c>compact</c>
+					<c>unambiguous</c>
+					<c>exact</c>
+					<c>spherical</c>
+					<c>strict</c>
+					<c>circular</c>
+				</concepts>
+				<url source="wiki">/wiki/cruinn#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cruinn</form>
+				<concepts>
+					<c>round</c>
+					<c>neat</c>
+					<c>gathered</c>
+					<c>globular</c>
+					<c>collected</c>
+					<c>circular</c>
+					<c>succinct</c>
+				</concepts>
+				<url source="wiki">/wiki/cruinn#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">crwn</form>
+				<concepts>
+					<c>round</c>
+					<c>complete</c>
+					<c>globular</c>
+					<c>rotund</c>
+					<c>rounded</c>
+					<c>circular</c>
+				</concepts>
+				<url source="wiki">/wiki/crwn#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kruttos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kruttos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">cruto</form>
+				<concepts>
+					<c>heap</c>
+					<c>top</c>
+					<c>mountain</c>
+					<c>tassel</c>
+				</concepts>
+				<url source="wiki">/wiki/cruto#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">curuto</form>
+				<concepts>
+					<c>heap</c>
+					<c>top</c>
+					<c>mountain</c>
+					<c>tassel</c>
+				</concepts>
+				<url source="wiki">/wiki/curuto#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cruit</form>
+				<concepts>
+					<c>hump</c>
+					<c>hunch</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/cruit#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">cruitçh</form>
+				<concepts>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/cruitçh#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">crott</form>
+				<concepts>
+					<c>hump</c>
+					<c>lute</c>
+					<c>hunch</c>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/crott#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cruit</form>
+				<concepts>
+					<c>croft</c>
+				</concepts>
+				<url source="wiki">/wiki/cruit#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">crwth</form>
+				<concepts>
+					<c>convexity</c>
+					<c>purring</c>
+					<c>crwth</c>
+					<c>bent</c>
+					<c>viol</c>
+					<c>convex</c>
+					<c>violin</c>
+					<c>basket</c>
+					<c>hump</c>
+					<c>rounded</c>
+					<c>vessel</c>
+					<c>hunchbacked</c>
+					<c>box</c>
+					<c>hunchback</c>
+					<c>fiddle</c>
+				</concepts>
+				<url source="wiki">/wiki/crwth#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kulis</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kulis</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">kelyon</form>
+				<concepts>
+					<c>flies</c>
+				</concepts>
+				<url source="wiki">/wiki/kelyon#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cuil</form>
+				<concepts>
+					<c>bug</c>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/cuil#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cuileog</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/cuileog#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">quill</form>
+				<concepts>
+					<c>gnat</c>
+				</concepts>
+				<url source="wiki">/wiki/quill#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">cuileóc</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/cuileóc#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">cuil</form>
+				<concepts>
+					<c>gnat</c>
+					<c>fly</c>
+					<c>flea</c>
+				</concepts>
+				<url source="wiki">/wiki/cuil#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cuileag</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/cuileag#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cylion</form>
+				<concepts>
+					<c>flies</c>
+				</concepts>
+				<url source="wiki">/wiki/cylion#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kulɸom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kulɸom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">col</form>
+				<concepts>
+					<c>prohibition</c>
+					<c>dislike</c>
+					<c>lust</c>
+					<c>relationship</c>
+					<c>sin</c>
+					<c>violation</c>
+					<c>incest</c>
+					<c>relation</c>
+				</concepts>
+				<url source="wiki">/wiki/col#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">col</form>
+				<concepts>
+					<c>sin</c>
+					<c>violation</c>
+				</concepts>
+				<url source="wiki">/wiki/col#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">col</form>
+				<concepts>
+					<c>incest</c>
+				</concepts>
+				<url source="wiki">/wiki/col#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kuwannos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kuwannos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">kaouenn</form>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/kaouenn#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">cowan</form>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/cowan#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">civet</form>
+				<concepts>
+					<c>owl</c>
+					<c>burrowing owl</c>
+				</concepts>
+				<url source="wiki">/wiki/civet#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">chat-huant</form>
+				<concepts>
+					<c>barn owl</c>
+				</concepts>
+				<url source="wiki">/wiki/chat-huant#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">chevêche</form>
+				<concepts>
+					<c>little owl</c>
+				</concepts>
+				<url source="wiki">/wiki/chevêche#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">choin</form>
+				<concepts>
+					<c>bogrush</c>
+				</concepts>
+				<url source="wiki">/wiki/choin#French</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">*cava</form>
+				<concepts>
+					<c>owl</c>
+					<c>jay</c>
+					<c>rook</c>
+					<c>jackdaw</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Latin/cawa</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">cavannus</form>
+				<concepts>
+					<c>tawny owl</c>
+				</concepts>
+				<url source="wiki">/wiki/cavannus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">cahouain</form>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/cahouain#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">cahouette</form>
+				<concepts>
+					<c>rook</c>
+					<c>jackdaw</c>
+				</concepts>
+				<url source="wiki">/wiki/cahouette#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">cavèca</form>
+				<concepts>
+					<c>owl</c>
+					<c>foolish</c>
+					<c>silly</c>
+					<c>dimwitted</c>
+				</concepts>
+				<url source="wiki">/wiki/cavèca#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">ciovică</form>
+				<concepts>
+					<c>collared pratincole</c>
+				</concepts>
+				<url source="wiki">/wiki/ciovică#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">tschuetta</form>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/tschuetta#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">chova</form>
+				<concepts>
+					<c>chough</c>
+				</concepts>
+				<url source="wiki">/wiki/chova#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kuxsketi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kuxsketi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">kousket</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/kousket#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">cysgu</form>
+				<concepts>
+					<c>sleep</c>
+				</concepts>
+				<url source="wiki">/wiki/cysgu#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*kʷezdis</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/kʷezdis</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">pjesë</form>
+				<concepts>
+					<c>portion</c>
+					<c>part</c>
+					<c>fraction</c>
+					<c>particle</c>
+					<c>share</c>
+					<c>fragment</c>
+				</concepts>
+				<url source="wiki">/wiki/pjesë#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">պիես</form>
+				<translit>pies</translit>
+				<concepts>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/պիես#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">peça</form>
+				<concepts>
+					<c>piece</c>
+					<c>ordinary</c>
+					<c>garment</c>
+					<c>room</c>
+				</concepts>
+				<url source="wiki">/wiki/peça#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">peth</form>
+				<concepts>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/peth#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">peth</form>
+				<concepts>
+					<c>what</c>
+				</concepts>
+				<url source="wiki">/wiki/peth#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">pyth</form>
+				<concepts>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/pyth#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">pyth</form>
+				<concepts>
+					<c>what</c>
+				</concepts>
+				<url source="wiki">/wiki/pyth#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Danish</lang>
+				<form script="LATIN">pjece</form>
+				<concepts>
+					<c>gun</c>
+					<c>piece</c>
+					<c>pamphlet</c>
+					<c>booklet</c>
+					<c>leaflet</c>
+				</concepts>
+				<url source="wiki">/wiki/pjece#Danish</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">peece</form>
+				<concepts>
+					<c>fortress</c>
+					<c>peece</c>
+				</concepts>
+				<url source="wiki">/wiki/peece#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">piece</form>
+				<concepts>
+					<c>gun</c>
+					<c>painting</c>
+					<c>shoddy</c>
+					<c>pacifier</c>
+					<c>toupee</c>
+					<c>individual</c>
+					<c>castle</c>
+					<c>sculpture</c>
+					<c>wig</c>
+					<c>dummy</c>
+					<c>coin</c>
+					<c>sandwich</c>
+					<c>distance</c>
+					<c>person</c>
+					<c>slice</c>
+					<c>piece</c>
+				</concepts>
+				<url source="wiki">/wiki/piece#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">piece</form>
+				<concepts>
+					<c>repair</c>
+					<c>patch</c>
+					<c>make</c>
+					<c>enlarge</c>
+					<c>assemble</c>
+					<c>piece</c>
+				</concepts>
+				<url source="wiki">/wiki/piece#English</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">biisi</form>
+				<concepts>
+					<c>song</c>
+				</concepts>
+				<url source="wiki">/wiki/biisi#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">pièce</form>
+				<concepts>
+					<c>document</c>
+					<c>room</c>
+					<c>patch</c>
+					<c>paper</c>
+					<c>piece</c>
+					<c>ordinary</c>
+					<c>play</c>
+					<c>coin</c>
+				</concepts>
+				<url source="wiki">/wiki/pièce#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">peza</form>
+				<concepts>
+					<c>subset</c>
+					<c>group</c>
+					<c>part</c>
+					<c>piece</c>
+					<c>latrine</c>
+					<c>net</c>
+					<c>fragment</c>
+				</concepts>
+				<url source="wiki">/wiki/peza#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">პიესა</form>
+				<translit>ṗiesa</translit>
+				<concepts>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/პიესა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cuid</form>
+				<concepts>
+					<c>part</c>
+					<c>portion</c>
+				</concepts>
+				<url source="wiki">/wiki/cuid#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">píosa</form>
+				<concepts>
+					<c>piecework</c>
+					<c>patch</c>
+					<c>bailer</c>
+					<c>literary</c>
+					<c>piece</c>
+					<c>coin</c>
+					<c>bit</c>
+				</concepts>
+				<url source="wiki">/wiki/píosa#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Kazakh</lang>
+				<form script="CYRILLIC">пьеса</form>
+				<translit>pesa</translit>
+				<concepts>
+					<c>piece</c>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/пьеса#Kazakh</url>
+			</reflex>
+			<reflex>
+				<lang>Kazakh</lang>
+				<form script="CYRILLIC">пьеса</form>
+				<translit>pesa</translit>
+				<concepts>
+					<c>piece</c>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/пьеса#Kazakh</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">pettia</form>
+				<concepts>
+					<c>portion</c>
+					<c>piece</c>
+				</concepts>
+				<url source="wiki">/wiki/pettia#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">biċċa</form>
+				<concepts>
+					<c>portion</c>
+					<c>fact</c>
+					<c>piece</c>
+					<c>event</c>
+					<c>concern</c>
+					<c>coin</c>
+					<c>business</c>
+				</concepts>
+				<url source="wiki">/wiki/biċċa#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">cooid</form>
+				<concepts>
+					<c>valuables</c>
+					<c>part</c>
+					<c>assets</c>
+					<c>goods</c>
+					<c>proportion</c>
+				</concepts>
+				<url source="wiki">/wiki/cooid#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle English</lang>
+				<form script="LATIN">pece</form>
+				<concepts>
+					<c>piece</c>
+					<c>bit</c>
+					<c>morsel</c>
+				</concepts>
+				<url source="wiki">/wiki/pece#Middle_English</url>
+			</reflex>
+			<reflex>
+				<lang>Middle English</lang>
+				<form script="LATIN">pese</form>
+				<concepts>
+					<c>pea</c>
+				</concepts>
+				<url source="wiki">/wiki/pese#Middle_English</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">piece</form>
+				<concepts>
+					<c>part</c>
+					<c>moment</c>
+					<c>piece</c>
+					<c>bit</c>
+				</concepts>
+				<url source="wiki">/wiki/piece#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">pièche</form>
+				<concepts>
+					<c>play</c>
+					<c>coin</c>
+				</concepts>
+				<url source="wiki">/wiki/pièche#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Kurdish</lang>
+				<form script="LATIN">piyes</form>
+				<concepts>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/piyes#Northern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">piece</form>
+				<concepts>
+					<c>part</c>
+					<c>piece</c>
+					<c>bit</c>
+				</concepts>
+				<url source="wiki">/wiki/piece#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">cuit</form>
+				<concepts>
+					<c>portion</c>
+					<c>meal</c>
+					<c>part</c>
+					<c>partiality</c>
+					<c>possession</c>
+					<c>means</c>
+					<c>property</c>
+					<c>share</c>
+				</concepts>
+				<url source="wiki">/wiki/cuit#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">piesă</form>
+				<concepts>
+					<c>piece</c>
+					<c>song</c>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/piesă#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">пье́са</form>
+				<translit>pʹjésa</translit>
+				<concepts>
+					<c>piece</c>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/пьеса#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">cuid</form>
+				<concepts>
+					<c>part</c>
+					<c>ingredient</c>
+					<c>share</c>
+					<c>portion</c>
+				</concepts>
+				<url source="wiki">/wiki/cuid#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">pìos</form>
+				<concepts>
+					<c>attractive</c>
+					<c>piece</c>
+					<c>sandwich</c>
+					<c>hunk</c>
+					<c>bit</c>
+					<c>fragment</c>
+				</concepts>
+				<url source="wiki">/wiki/pìos#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">pezza</form>
+				<concepts>
+					<c>block</c>
+					<c>rag</c>
+					<c>wheel</c>
+					<c>piece</c>
+					<c>bud</c>
+					<c>coin</c>
+				</concepts>
+				<url source="wiki">/wiki/pezza#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">pieza</form>
+				<concepts>
+					<c>part</c>
+					<c>piece</c>
+					<c>ordinary</c>
+					<c>room</c>
+				</concepts>
+				<url source="wiki">/wiki/pieza#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Sranan Tongo</lang>
+				<form script="LATIN">pisi</form>
+				<concepts>
+					<c>piece</c>
+				</concepts>
+				<url source="wiki">/wiki/pisi#Sranan_Tongo</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">pjäs</form>
+				<concepts>
+					<c>object</c>
+					<c>piece</c>
+					<c>play</c>
+					<c>piece of work</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/pjäs#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">peth</form>
+				<concepts>
+					<c>something</c>
+					<c>anything</c>
+					<c>matter</c>
+					<c>affair</c>
+					<c>opinion</c>
+					<c>idea</c>
+					<c>instrument</c>
+					<c>characteristic</c>
+					<c>interests</c>
+					<c>stuff</c>
+					<c>equipment</c>
+					<c>thing</c>
+					<c>creature</c>
+					<c>event</c>
+					<c>statement</c>
+					<c>material</c>
+					<c>device</c>
+					<c>attribute</c>
+					<c>person</c>
+					<c>action</c>
+					<c>object</c>
+					<c>act</c>
+					<c>substance</c>
+					<c>quality</c>
+					<c>business</c>
+				</concepts>
+				<url source="wiki">/wiki/peth#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Yiddish</lang>
+				<form script="HEBREW">פּיעסע</form>
+				<translit>pyese</translit>
+				<concepts>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/פּיעסע#Yiddish</url>
+			</reflex>
+			<reflex>
+				<lang>Yola</lang>
+				<form script="LATIN">peece</form>
+				<concepts>
+					<c>piece</c>
+				</concepts>
+				<url source="wiki">/wiki/peece#Yola</url>
+			</reflex>
+			<reflex>
+				<lang>Yola</lang>
+				<form script="LATIN">piz</form>
+				<concepts>
+					<c>pea</c>
+				</concepts>
+				<url source="wiki">/wiki/piz#Yola</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*liyants</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/liyants</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">liae</form>
+				<concepts>
+					<c>flood</c>
+				</concepts>
+				<url source="wiki">/wiki/liae#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">lie</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/lie#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*lomanā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/lomanā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">loman</form>
+				<concepts>
+					<c>rope</c>
+					<c>cord</c>
+				</concepts>
+				<url source="wiki">/wiki/loman#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">lomhainn</form>
+				<concepts>
+					<c>gang</c>
+					<c>leash</c>
+					<c>pack</c>
+					<c>band</c>
+				</concepts>
+				<url source="wiki">/wiki/lomhainn#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*lukūts</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/lukūts</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">luch</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/luch#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">lugh</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/lugh#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">luch</form>
+				<concepts>
+					<c>rat</c>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/luch#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">luch</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/luch#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">llyg</form>
+				<concepts>
+					<c>shrew</c>
+				</concepts>
+				<url source="wiki">/wiki/llyg#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*lēris</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/lēris</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">léir</form>
+				<concepts>
+					<c>explicit</c>
+					<c>clever</c>
+					<c>evident</c>
+					<c>distinct</c>
+					<c>clear</c>
+				</concepts>
+				<url source="wiki">/wiki/léir#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">léir</form>
+				<concepts>
+					<c>zealous</c>
+					<c>careful</c>
+					<c>perceptible</c>
+					<c>earnest</c>
+					<c>assiduous</c>
+					<c>visible</c>
+				</concepts>
+				<url source="wiki">/wiki/léir#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">lèir</form>
+				<concepts>
+					<c>evident</c>
+					<c>obvious</c>
+					<c>clear</c>
+					<c>plain</c>
+				</concepts>
+				<url source="wiki">/wiki/lèir#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">llwyr</form>
+				<concepts>
+					<c>entire</c>
+					<c>total</c>
+					<c>complete</c>
+				</concepts>
+				<url source="wiki">/wiki/llwyr#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*mailos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/mailos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">moal</form>
+				<concepts>
+					<c>bald</c>
+				</concepts>
+				<url source="wiki">/wiki/moal#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">maol</form>
+				<concepts>
+					<c>edgeless</c>
+					<c>cropped</c>
+					<c>bald</c>
+					<c>blunt</c>
+					<c>flattened</c>
+					<c>obtuse</c>
+					<c>bare</c>
+					<c>hornless</c>
+					<c>unprotected</c>
+					<c>flat</c>
+					<c>dense</c>
+					<c>roofless</c>
+				</concepts>
+				<url source="wiki">/wiki/maol#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">maol</form>
+				<concepts>
+					<c>obtuse</c>
+					<c>devotee</c>
+					<c>bare</c>
+					<c>flat</c>
+					<c>dense</c>
+					<c>servant</c>
+					<c>person</c>
+				</concepts>
+				<url source="wiki">/wiki/maol#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">meayl</form>
+				<concepts>
+					<c>hairless</c>
+					<c>obtuse</c>
+					<c>bald</c>
+					<c>hornless</c>
+					<c>bleak</c>
+				</concepts>
+				<url source="wiki">/wiki/meayl#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">máel</form>
+				<concepts>
+					<c>bare</c>
+					<c>rounded</c>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/máel#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">máel</form>
+				<concepts>
+					<c>pointless</c>
+					<c>shorn</c>
+					<c>blunt</c>
+					<c>bald</c>
+					<c>flattened</c>
+					<c>obtuse</c>
+					<c>bare</c>
+					<c>hornless</c>
+					<c>defenceless</c>
+					<c>exposed</c>
+				</concepts>
+				<url source="wiki">/wiki/máel#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">maol</form>
+				<concepts>
+					<c>flat</c>
+					<c>hornless</c>
+					<c>blunt</c>
+					<c>bald</c>
+				</concepts>
+				<url source="wiki">/wiki/maol#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">moel</form>
+				<concepts>
+					<c>bare</c>
+				</concepts>
+				<url source="wiki">/wiki/moel#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">moel</form>
+				<concepts>
+					<c>bare</c>
+					<c>bald</c>
+					<c>plain</c>
+				</concepts>
+				<url source="wiki">/wiki/moel#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*mammā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/mammā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">mamm</form>
+				<concepts>
+					<c>mother</c>
+					<c>womb</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/mamm#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">mamm</form>
+				<concepts>
+					<c>mother</c>
+				</concepts>
+				<url source="wiki">/wiki/mamm#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">buime</form>
+				<concepts>
+					<c>nanny</c>
+					<c>nurse</c>
+					<c>foster mother</c>
+				</concepts>
+				<url source="wiki">/wiki/buime#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">mimmey</form>
+				<concepts>
+					<c>guardian</c>
+					<c>foster mother</c>
+					<c>godmother</c>
+					<c>sponsor</c>
+				</concepts>
+				<url source="wiki">/wiki/mimmey#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">muimme</form>
+				<concepts>
+					<c>foster mother</c>
+					<c>wet nurse</c>
+					<c>instructress</c>
+					<c>patroness</c>
+				</concepts>
+				<url source="wiki">/wiki/muimme#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">muime</form>
+				<concepts>
+					<c>stepmother</c>
+					<c>godmother</c>
+					<c>midwife</c>
+					<c>nurse</c>
+				</concepts>
+				<url source="wiki">/wiki/muime#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">mam</form>
+				<concepts>
+					<c>mother</c>
+					<c>queen bee</c>
+					<c>dam</c>
+					<c>ancestress</c>
+				</concepts>
+				<url source="wiki">/wiki/mam#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*markākos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/markākos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">marc'heg</form>
+				<concepts>
+					<c>knight</c>
+					<c>rider</c>
+					<c>horseman</c>
+				</concepts>
+				<url source="wiki">/wiki/marc'heg#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">marcach</form>
+				<concepts>
+					<c>cavalry</c>
+					<c>cavalryman</c>
+					<c>rider</c>
+					<c>jockey</c>
+					<c>cavalier</c>
+					<c>horseman</c>
+				</concepts>
+				<url source="wiki">/wiki/marcach#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">markiagh</form>
+				<concepts>
+					<c>horseman</c>
+					<c>jockey</c>
+					<c>cavalier</c>
+					<c>rider</c>
+				</concepts>
+				<url source="wiki">/wiki/markiagh#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Welsh</lang>
+				<form script="LATIN">marchawc</form>
+				<concepts>
+					<c>horseman</c>
+				</concepts>
+				<url source="wiki">/wiki/marchawc#Middle_Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">marcach</form>
+				<concepts>
+					<c>horseman</c>
+					<c>rider</c>
+				</concepts>
+				<url source="wiki">/wiki/marcach#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">marcach</form>
+				<concepts>
+					<c>equestrian</c>
+				</concepts>
+				<url source="wiki">/wiki/marcach#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">marcach</form>
+				<concepts>
+					<c>rider</c>
+					<c>jockey</c>
+					<c>knight</c>
+					<c>cavalier</c>
+					<c>horseman</c>
+				</concepts>
+				<url source="wiki">/wiki/marcach#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">marchog</form>
+				<concepts>
+					<c>horseman</c>
+					<c>knight</c>
+					<c>rider</c>
+				</concepts>
+				<url source="wiki">/wiki/marchog#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*medyosamonyos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/medyosamonyos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">Meitheamh</form>
+				<concepts>
+					<c>June</c>
+				</concepts>
+				<url source="wiki">/wiki/Meitheamh#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">Mehefin</form>
+				<concepts>
+					<c>June</c>
+				</concepts>
+				<url source="wiki">/wiki/Mehefin#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*menekkis</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/menekkis</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">minic</form>
+				<concepts>
+					<c>frequent</c>
+				</concepts>
+				<url source="wiki">/wiki/minic#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">minic</form>
+				<concepts>
+					<c>often</c>
+					<c>frequently</c>
+				</concepts>
+				<url source="wiki">/wiki/minic#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">menic</form>
+				<concepts>
+					<c>often</c>
+					<c>frequent</c>
+				</concepts>
+				<url source="wiki">/wiki/menic#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">mynych</form>
+				<concepts>
+					<c>often</c>
+					<c>frequent</c>
+				</concepts>
+				<url source="wiki">/wiki/mynych#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*mennos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/mennos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">meann</form>
+				<concepts>
+					<c>kid</c>
+				</concepts>
+				<url source="wiki">/wiki/meann#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*messus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/messus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">meas</form>
+				<concepts>
+					<c>anticipate</c>
+					<c>admire</c>
+					<c>esteem</c>
+					<c>guess</c>
+					<c>consider</c>
+					<c>estimate</c>
+					<c>evaluate</c>
+					<c>judge</c>
+				</concepts>
+				<url source="wiki">/wiki/meas#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">meas</form>
+				<concepts>
+					<c>opinion</c>
+					<c>evaluation</c>
+					<c>judgment</c>
+					<c>guess</c>
+					<c>estimate</c>
+					<c>esteem</c>
+					<c>admiration</c>
+					<c>respect</c>
+				</concepts>
+				<url source="wiki">/wiki/meas#Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*molātor</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/molātor</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">molaidir</form>
+				<concepts>
+					<c>praise</c>
+				</concepts>
+				<url source="wiki">/wiki/molaidir#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">moli</form>
+				<concepts>
+					<c>eulogize</c>
+					<c>praise</c>
+					<c>extol</c>
+					<c>laud</c>
+				</concepts>
+				<url source="wiki">/wiki/moli#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*molātus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/molātus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">molad</form>
+				<concepts>
+					<c>praise</c>
+				</concepts>
+				<url source="wiki">/wiki/molad#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">moladh</form>
+				<concepts>
+					<c>praise</c>
+				</concepts>
+				<url source="wiki">/wiki/moladh#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*mratom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/mratom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">brath</form>
+				<concepts>
+					<c>perception</c>
+					<c>feeling</c>
+					<c>detection</c>
+					<c>spying</c>
+					<c>betrayal</c>
+					<c>expectation</c>
+					<c>intention</c>
+					<c>dependence</c>
+					<c>reliance</c>
+				</concepts>
+				<url source="wiki">/wiki/brath#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">brath</form>
+				<concepts>
+					<c>opinion</c>
+					<c>spying</c>
+					<c>idea</c>
+					<c>dependance</c>
+					<c>betrayal</c>
+					<c>knowledge</c>
+					<c>notice</c>
+					<c>mass</c>
+					<c>information</c>
+					<c>expectation</c>
+					<c>intention</c>
+					<c>lump</c>
+					<c>lie</c>
+					<c>treachery</c>
+					<c>guess</c>
+					<c>design</c>
+					<c>treason</c>
+					<c>betraying</c>
+					<c>informing</c>
+				</concepts>
+				<url source="wiki">/wiki/brath#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">brad</form>
+				<concepts>
+					<c>treachery</c>
+					<c>treason</c>
+				</concepts>
+				<url source="wiki">/wiki/brad#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*mā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/mā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">má</form>
+				<concepts>
+					<c>even though</c>
+					<c>if</c>
+				</concepts>
+				<url source="wiki">/wiki/má#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">my</form>
+				<concepts>
+					<c>if</c>
+				</concepts>
+				<url source="wiki">/wiki/my#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">má</form>
+				<concepts>
+					<c>if</c>
+				</concepts>
+				<url source="wiki">/wiki/má#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*mārāti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/mārāti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">móraid</form>
+				<concepts>
+					<c>glorify</c>
+					<c>praise</c>
+					<c>magnify</c>
+					<c>increase</c>
+				</concepts>
+				<url source="wiki">/wiki/móraid#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*naumetos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/naumetos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">nawves</form>
+				<concepts>
+					<c>ninth</c>
+				</concepts>
+				<url source="wiki">/wiki/nawves#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">naoú</form>
+				<concepts>
+					<c>ninth</c>
+				</concepts>
+				<url source="wiki">/wiki/naoú#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">nómad</form>
+				<concepts>
+					<c>ninth</c>
+				</concepts>
+				<url source="wiki">/wiki/nómad#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">nawfed</form>
+				<concepts>
+					<c>ninth</c>
+				</concepts>
+				<url source="wiki">/wiki/nawfed#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*nāmants</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/nāmants</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gaulish</lang>
+				<form script="LATIN">*nāmants</form>
+				<concepts>
+					<c>enemy</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Gaulish/namants</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">namhaid</form>
+				<concepts>
+					<c>enemy</c>
+				</concepts>
+				<url source="wiki">/wiki/namhaid#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">náma</form>
+				<concepts>
+					<c>enemy</c>
+				</concepts>
+				<url source="wiki">/wiki/náma#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">námae</form>
+				<concepts>
+					<c>enemy</c>
+				</concepts>
+				<url source="wiki">/wiki/námae#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">nàmhaid</form>
+				<concepts>
+					<c>enemy</c>
+				</concepts>
+				<url source="wiki">/wiki/nàmhaid#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*omiyom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/omiyom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">umae</form>
+				<concepts>
+					<c>bronze</c>
+					<c>brass</c>
+					<c>copper</c>
+				</concepts>
+				<url source="wiki">/wiki/umae#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">umha</form>
+				<concepts>
+					<c>bronze</c>
+					<c>brass</c>
+					<c>copper</c>
+				</concepts>
+				<url source="wiki">/wiki/umha#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">efydd</form>
+				<concepts>
+					<c>bronze</c>
+					<c>brass</c>
+					<c>copper</c>
+				</concepts>
+				<url source="wiki">/wiki/efydd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ouxsanatā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ouxsanatā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">osna</form>
+				<concepts>
+					<c>sigh</c>
+				</concepts>
+				<url source="wiki">/wiki/osna#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">osna</form>
+				<concepts>
+					<c>sigh</c>
+				</concepts>
+				<url source="wiki">/wiki/osna#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*oxtūmetos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/oxtūmetos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">ethves</form>
+				<concepts>
+					<c>eighth</c>
+				</concepts>
+				<url source="wiki">/wiki/ethves#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Gaulish</lang>
+				<form script="LATIN">oxtumetos</form>
+				<concepts>
+					<c>eighth</c>
+				</concepts>
+				<url source="wiki">/wiki/oxtumetos#Gaulish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">ochtú</form>
+				<concepts>
+					<c>eighth</c>
+				</concepts>
+				<url source="wiki">/wiki/ochtú#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">ochtmad</form>
+				<concepts>
+					<c>eighth</c>
+				</concepts>
+				<url source="wiki">/wiki/ochtmad#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">ochdamh</form>
+				<concepts>
+					<c>eighth</c>
+				</concepts>
+				<url source="wiki">/wiki/ochdamh#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">wythfed</form>
+				<concepts>
+					<c>eighth</c>
+				</concepts>
+				<url source="wiki">/wiki/wythfed#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*rūnā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/rūnā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">rún</form>
+				<concepts>
+					<c>secret</c>
+					<c>design</c>
+					<c>affection</c>
+					<c>resolution</c>
+					<c>purpose</c>
+					<c>loved one</c>
+					<c>mystery</c>
+					<c>love</c>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/rún#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">rún</form>
+				<concepts>
+					<c>secret</c>
+					<c>design</c>
+					<c>affection</c>
+					<c>resolution</c>
+					<c>purpose</c>
+					<c>loved one</c>
+					<c>mystery</c>
+					<c>love</c>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/rún#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">roon</form>
+				<concepts>
+					<c>rune</c>
+				</concepts>
+				<url source="wiki">/wiki/roon#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">rún</form>
+				<concepts>
+					<c>secret</c>
+					<c>mystery</c>
+				</concepts>
+				<url source="wiki">/wiki/rún#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">rùn</form>
+				<concepts>
+					<c>desire</c>
+					<c>accord</c>
+					<c>secret</c>
+					<c>bent</c>
+					<c>determination</c>
+					<c>disposition</c>
+					<c>affection</c>
+					<c>fondness</c>
+					<c>design</c>
+					<c>secrecy</c>
+					<c>purpose</c>
+					<c>wish</c>
+					<c>regard</c>
+					<c>inclination</c>
+					<c>mystery</c>
+					<c>love</c>
+					<c>intention</c>
+				</concepts>
+				<url source="wiki">/wiki/rùn#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">rhin</form>
+				<concepts>
+					<c>virtue</c>
+					<c>essence</c>
+				</concepts>
+				<url source="wiki">/wiki/rhin#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*salā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/salā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">sail</form>
+				<concepts>
+					<c>dross</c>
+					<c>dirt</c>
+					<c>impurity</c>
+					<c>stain</c>
+					<c>defilement</c>
+				</concepts>
+				<url source="wiki">/wiki/sail#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">sal</form>
+				<concepts>
+					<c>dirt</c>
+					<c>filth</c>
+					<c>stain</c>
+				</concepts>
+				<url source="wiki">/wiki/sal#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*samaros</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/samaros</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">hafar</form>
+				<concepts>
+					<c>summer fallow</c>
+				</concepts>
+				<url source="wiki">/wiki/hafar#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*sanestos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/sanestos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">sannish</form>
+				<concepts>
+					<c>allusion</c>
+					<c>suggestion</c>
+					<c>whisper</c>
+					<c>hint</c>
+				</concepts>
+				<url source="wiki">/wiki/sannish#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">sannish</form>
+				<concepts>
+					<c>whisper</c>
+				</concepts>
+				<url source="wiki">/wiki/sannish#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">sanas</form>
+				<concepts>
+					<c>sign</c>
+					<c>announcement</c>
+					<c>warning</c>
+					<c>whisper</c>
+					<c>hint</c>
+					<c>notice</c>
+					<c>advertisement</c>
+					<c>signal</c>
+					<c>cue</c>
+				</concepts>
+				<url source="wiki">/wiki/sanas#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">hanes</form>
+				<concepts>
+					<c>history</c>
+					<c>report</c>
+					<c>account</c>
+					<c>record</c>
+					<c>chronicle</c>
+				</concepts>
+				<url source="wiki">/wiki/hanes#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*sextametos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/sextametos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">seythves</form>
+				<concepts>
+					<c>seventh</c>
+				</concepts>
+				<url source="wiki">/wiki/seythves#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Gaulish</lang>
+				<form script="LATIN">sextametos</form>
+				<concepts>
+					<c>seventh</c>
+				</concepts>
+				<url source="wiki">/wiki/sextametos#Gaulish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">seachtú</form>
+				<concepts>
+					<c>seventh</c>
+				</concepts>
+				<url source="wiki">/wiki/seachtú#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">sechtmad</form>
+				<concepts>
+					<c>seventh</c>
+				</concepts>
+				<url source="wiki">/wiki/sechtmad#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">seithfed</form>
+				<concepts>
+					<c>seventh</c>
+				</concepts>
+				<url source="wiki">/wiki/seithfed#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*sladyeti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/sladyeti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">slaidid</form>
+				<concepts>
+					<c>slay</c>
+					<c>strike</c>
+				</concepts>
+				<url source="wiki">/wiki/slaidid#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*sladyā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/sladyā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">lladd</form>
+				<concepts>
+					<c>kill</c>
+					<c>murder</c>
+					<c>slaughter</c>
+				</concepts>
+				<url source="wiki">/wiki/lladd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*slattā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/slattā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">slat</form>
+				<concepts>
+					<c>outskirts</c>
+					<c>yard</c>
+					<c>scion</c>
+					<c>cane</c>
+					<c>rail</c>
+					<c>rod</c>
+					<c>penis</c>
+					<c>sapling</c>
+					<c>slip</c>
+					<c>switch</c>
+					<c>wand</c>
+				</concepts>
+				<url source="wiki">/wiki/slat#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">slat</form>
+				<concepts>
+					<c>yard</c>
+					<c>twig</c>
+					<c>penis</c>
+					<c>rod</c>
+					<c>switch</c>
+					<c>wand</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/slat#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">llath</form>
+				<concepts>
+					<c>yard</c>
+					<c>beam</c>
+					<c>Welsh yard</c>
+					<c>rod</c>
+					<c>rafter</c>
+					<c>staff</c>
+					<c>wand</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/llath#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*slimnos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/slimnos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">sleamhain</form>
+				<concepts>
+					<c>slippery</c>
+				</concepts>
+				<url source="wiki">/wiki/sleamhain#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">shliawin</form>
+				<concepts>
+					<c>sleek</c>
+					<c>insidious</c>
+					<c>smooth</c>
+					<c>lubricated</c>
+					<c>slippery</c>
+					<c>skiddy</c>
+					<c>soapy</c>
+				</concepts>
+				<url source="wiki">/wiki/shliawin#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">sleamhainn</form>
+				<concepts>
+					<c>slippery</c>
+				</concepts>
+				<url source="wiki">/wiki/sleamhainn#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">llyfn</form>
+				<concepts>
+					<c>smooth</c>
+				</concepts>
+				<url source="wiki">/wiki/llyfn#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*snāmus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/snāmus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">nofio</form>
+				<concepts>
+					<c>stroke</c>
+					<c>swimming</c>
+				</concepts>
+				<url source="wiki">/wiki/nofio#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">nofio</form>
+				<concepts>
+					<c>swim</c>
+				</concepts>
+				<url source="wiki">/wiki/nofio#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*strutis</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/strutis</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">sruith</form>
+				<concepts>
+					<c>wise man</c>
+					<c>sage</c>
+				</concepts>
+				<url source="wiki">/wiki/sruith#Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*suwits</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/suwits</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">saoi</form>
+				<concepts>
+					<c>sage</c>
+				</concepts>
+				<url source="wiki">/wiki/saoi#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">suí</form>
+				<concepts>
+					<c>sage</c>
+					<c>scholar</c>
+				</concepts>
+				<url source="wiki">/wiki/suí#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*swīswīs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/swīswīs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">sibh</form>
+				<concepts>
+					<c>you</c>
+					<c>ye</c>
+				</concepts>
+				<url source="wiki">/wiki/sibh#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">shiu</form>
+				<concepts>
+					<c>you</c>
+					<c>ye</c>
+				</concepts>
+				<url source="wiki">/wiki/shiu#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">sib</form>
+				<concepts>
+					<c>you</c>
+					<c>ye</c>
+				</concepts>
+				<url source="wiki">/wiki/sib#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">sibh</form>
+				<concepts>
+					<c>you</c>
+					<c>ye</c>
+				</concepts>
+				<url source="wiki">/wiki/sibh#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*sīnā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/sīnā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">síon</form>
+				<concepts>
+					<c>weather</c>
+				</concepts>
+				<url source="wiki">/wiki/síon#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">sín</form>
+				<concepts>
+					<c>weather</c>
+				</concepts>
+				<url source="wiki">/wiki/sín#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">sian</form>
+				<concepts>
+					<c>weather</c>
+					<c>anything</c>
+					<c>storm</c>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/sian#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">hin</form>
+				<concepts>
+					<c>weather</c>
+				</concepts>
+				<url source="wiki">/wiki/hin#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*taistos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/taistos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">toos</form>
+				<concepts>
+					<c>bunch</c>
+					<c>tuft</c>
+				</concepts>
+				<url source="wiki">/wiki/toos#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">toos</form>
+				<concepts>
+					<c>dough</c>
+				</concepts>
+				<url source="wiki">/wiki/toos#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">teayst</form>
+				<concepts>
+					<c>pastry</c>
+					<c>paste</c>
+					<c>dough</c>
+				</concepts>
+				<url source="wiki">/wiki/teayst#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">taís</form>
+				<concepts>
+					<c>dough</c>
+				</concepts>
+				<url source="wiki">/wiki/taís#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">taois</form>
+				<concepts>
+					<c>batter</c>
+					<c>paste</c>
+					<c>dough</c>
+				</concepts>
+				<url source="wiki">/wiki/taois#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">toes</form>
+				<concepts>
+					<c>pastry</c>
+					<c>dough</c>
+				</concepts>
+				<url source="wiki">/wiki/toes#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*taskos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/taskos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">texón</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/texón#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">teixó</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/teixó#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">taxeren</form>
+				<concepts>
+					<c>appraise</c>
+					<c>evaluate</c>
+				</concepts>
+				<url source="wiki">/wiki/taxeren#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Teague</form>
+				<concepts>
+					<c>Irishman</c>
+					<c>Teague</c>
+				</concepts>
+				<url source="wiki">/wiki/Teague#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Teague</form>
+				<concepts>
+					<c>Teague</c>
+					<c>Teague</c>
+				</concepts>
+				<url source="wiki">/wiki/Teague#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">taste</form>
+				<concepts>
+					<c>drink</c>
+					<c>sartorial</c>
+					<c>predilection</c>
+					<c>liking</c>
+					<c>esthetic</c>
+					<c>taste</c>
+				</concepts>
+				<url source="wiki">/wiki/taste#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">taste</form>
+				<concepts>
+					<c>experience</c>
+					<c>handle</c>
+					<c>taste</c>
+				</concepts>
+				<url source="wiki">/wiki/taste#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">tanière</form>
+				<concepts>
+					<c>den</c>
+					<c>hideout</c>
+					<c>lair</c>
+				</concepts>
+				<url source="wiki">/wiki/tanière#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">taxer</form>
+				<concepts>
+					<c>accuse</c>
+					<c>tax</c>
+				</concepts>
+				<url source="wiki">/wiki/taxer#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">tâcher</form>
+				<concepts>
+					<c>endeavour</c>
+					<c>try</c>
+					<c>attempt</c>
+					<c>ensure</c>
+				</concepts>
+				<url source="wiki">/wiki/tâcher#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galatian</lang>
+				<form script="GREEK">τασκός</form>
+				<translit>taskós</translit>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/τασκός#Galatian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">teixugo</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/teixugo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">teixugo</form>
+				<concepts>
+					<c>brave</c>
+					<c>strong</c>
+				</concepts>
+				<url source="wiki">/wiki/teixugo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Gaulish</lang>
+				<form script="LATIN">*tasgos</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Gaulish/tasgos</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">टैक्स</form>
+				<translit>ṭaiks</translit>
+				<concepts>
+					<c>tax</c>
+				</concepts>
+				<url source="wiki">/wiki/टैक्स#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">tassare</form>
+				<concepts>
+					<c>tax</c>
+				</concepts>
+				<url source="wiki">/wiki/tassare#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle English</lang>
+				<form script="LATIN">taxen</form>
+				<concepts>
+					<c>impose</c>
+					<c>require</c>
+				</concepts>
+				<url source="wiki">/wiki/taxen#Middle_English</url>
+			</reflex>
+			<reflex>
+				<lang>Norwegian Bokmål</lang>
+				<form script="LATIN">taksere</form>
+				<concepts>
+					<c>appraise</c>
+					<c>assess</c>
+					<c>estimate</c>
+					<c>value</c>
+				</concepts>
+				<url source="wiki">/wiki/taksere#Norwegian_Bokmål</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">taisson</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/taisson#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">taxar</form>
+				<concepts>
+					<c>tax</c>
+				</concepts>
+				<url source="wiki">/wiki/taxar#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">texugo</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/texugo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">taxa</form>
+				<concepts>
+					<c>tax</c>
+				</concepts>
+				<url source="wiki">/wiki/taxa#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Rotokas</lang>
+				<form script="LATIN">takisi</form>
+				<concepts>
+					<c>tax</c>
+				</concepts>
+				<url source="wiki">/wiki/takisi#Rotokas</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">tasar</form>
+				<concepts>
+					<c>value</c>
+				</concepts>
+				<url source="wiki">/wiki/tasar#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">taksíl</form>
+				<concepts>
+					<c>idiotic</c>
+					<c>foolish</c>
+					<c>traitorous</c>
+					<c>treacherous</c>
+				</concepts>
+				<url source="wiki">/wiki/taksil#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">taksíl</form>
+				<concepts>
+					<c>traitor</c>
+					<c>idiot</c>
+					<c>fool</c>
+				</concepts>
+				<url source="wiki">/wiki/taksil#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">texu</form>
+				<concepts>
+					<c>white-nosed coati</c>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/texu#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tok Pisin</lang>
+				<form script="LATIN">takis</form>
+				<concepts>
+					<c>tax</c>
+				</concepts>
+				<url source="wiki">/wiki/takis#Tok_Pisin</url>
+			</reflex>
+			<reflex>
+				<lang>Yola</lang>
+				<form script="LATIN">taaste</form>
+				<concepts>
+					<c>taste</c>
+				</concepts>
+				<url source="wiki">/wiki/taaste#Yola</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*tegoslougom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/tegoslougom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cornish</lang>
+				<form script="LATIN">teylu</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/teylu#Cornish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">teaghlach</form>
+				<concepts>
+					<c>immediate family</c>
+					<c>household</c>
+				</concepts>
+				<url source="wiki">/wiki/teaghlach#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">teglach</form>
+				<concepts>
+					<c>family</c>
+					<c>household</c>
+				</concepts>
+				<url source="wiki">/wiki/teglach#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">teaghlach</form>
+				<concepts>
+					<c>dwelling</c>
+					<c>by extension</c>
+					<c>household</c>
+					<c>progeny</c>
+					<c>clan</c>
+					<c>family</c>
+					<c>race</c>
+					<c>house</c>
+					<c>tribe</c>
+				</concepts>
+				<url source="wiki">/wiki/teaghlach#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">teulu</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/teulu#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*tigernos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/tigernos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Breton</lang>
+				<form script="LATIN">tiern</form>
+				<concepts>
+					<c>prince</c>
+					<c>sovereign</c>
+				</concepts>
+				<url source="wiki">/wiki/tiern#Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">tiarna</form>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/tiarna#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">çhiarn</form>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/çhiarn#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Irish</lang>
+				<form script="LATIN">tigerna</form>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/tigerna#Middle_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">tigernae</form>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/tigernae#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">tighearna</form>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/tighearna#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">teyrn</form>
+				<concepts>
+					<c>monarch</c>
+					<c>king</c>
+					<c>sovereign</c>
+				</concepts>
+				<url source="wiki">/wiki/teyrn#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*towissākos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/towissākos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">taoiseach</form>
+				<concepts>
+					<c>chieftain</c>
+					<c>taoiseach</c>
+					<c>leader</c>
+					<c>prime minister</c>
+				</concepts>
+				<url source="wiki">/wiki/taoiseach#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Breton</lang>
+				<form script="LATIN">toguisoc</form>
+				<concepts>
+					<c>king</c>
+					<c>prince</c>
+					<c>leader</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/toguisoc#Old_Breton</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">toísech</form>
+				<concepts>
+					<c>first</c>
+				</concepts>
+				<url source="wiki">/wiki/toísech#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">toísech</form>
+				<concepts>
+					<c>leader</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/toísech#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">tywysog</form>
+				<concepts>
+					<c>king</c>
+					<c>prince</c>
+					<c>leader</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/tywysog#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*tu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/tu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">t-</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/t-#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*uɸognīmus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/uɸognīmus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gweini</form>
+				<concepts>
+					<c>in service</c>
+					<c>wait</c>
+					<c>serve</c>
+				</concepts>
+				<url source="wiki">/wiki/gweini#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*uɸolexs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/uɸolexs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">fail</form>
+				<concepts>
+					<c>bracelet</c>
+					<c>sty</c>
+					<c>wreath</c>
+					<c>ring</c>
+				</concepts>
+				<url source="wiki">/wiki/fail#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">foil</form>
+				<concepts>
+					<c>bracelet</c>
+					<c>pigsty</c>
+					<c>ring</c>
+				</concepts>
+				<url source="wiki">/wiki/foil#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">muccfoil</form>
+				<concepts>
+					<c>pigsty</c>
+				</concepts>
+				<url source="wiki">/wiki/muccfoil#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwâl</form>
+				<concepts>
+					<c>litter</c>
+					<c>lair</c>
+					<c>couch</c>
+					<c>bed</c>
+					<c>den</c>
+					<c>covert</c>
+				</concepts>
+				<url source="wiki">/wiki/gwâl#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*uɸosistamus</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/uɸosistamus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">faoiseamh</form>
+				<concepts>
+					<c>relief</c>
+					<c>ease</c>
+					<c>alleviation</c>
+				</concepts>
+				<url source="wiki">/wiki/faoiseamh#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">fóesam</form>
+				<concepts>
+					<c>protection</c>
+				</concepts>
+				<url source="wiki">/wiki/fóesam#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*wegyā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/wegyā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwe</form>
+				<concepts>
+					<c>gauze</c>
+					<c>spiderweb</c>
+					<c>web</c>
+				</concepts>
+				<url source="wiki">/wiki/gwe#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*widubiyom</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/widubiyom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">fidbae</form>
+				<concepts>
+					<c>billhook</c>
+				</concepts>
+				<url source="wiki">/wiki/fidbae#Old_Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*wimmonā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/wimmonā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">gamó</form>
+				<concepts>
+					<c>mullein</c>
+					<c>asphodel</c>
+				</concepts>
+				<url source="wiki">/wiki/gamó#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">goémon</form>
+				<concepts>
+					<c>wrack</c>
+					<c>kelp</c>
+				</concepts>
+				<url source="wiki">/wiki/goémon#French</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">feamainn</form>
+				<concepts>
+					<c>seawrack</c>
+					<c>eelgrass</c>
+					<c>wrack</c>
+					<c>seaweed</c>
+				</concepts>
+				<url source="wiki">/wiki/feamainn#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">famlagh</form>
+				<concepts>
+					<c>seaweed</c>
+				</concepts>
+				<url source="wiki">/wiki/famlagh#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">gamão</form>
+				<concepts>
+					<c>backgammon</c>
+				</concepts>
+				<url source="wiki">/wiki/gamão#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">feamainn</form>
+				<concepts>
+					<c>fertilise</c>
+					<c>manure</c>
+				</concepts>
+				<url source="wiki">/wiki/feamainn#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">feamainn</form>
+				<concepts>
+					<c>seaweed</c>
+				</concepts>
+				<url source="wiki">/wiki/feamainn#Scottish_Gaelic</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">gamón</form>
+				<concepts>
+					<c>asphodel</c>
+				</concepts>
+				<url source="wiki">/wiki/gamón#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwymon</form>
+				<concepts>
+					<c>seaweed</c>
+				</concepts>
+				<url source="wiki">/wiki/gwymon#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*wolsos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/wolsos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">gwall</form>
+				<concepts>
+					<c>mistake</c>
+				</concepts>
+				<url source="wiki">/wiki/gwall#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ɸare-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ɸare-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">ar-</form>
+				<concepts>
+					<c>for-</c>
+					<c>fore-</c>
+				</concepts>
+				<url source="wiki">/wiki/ar-#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ar-</form>
+				<concepts>
+					<c>sur-</c>
+					<c>on</c>
+					<c>super-</c>
+					<c>near</c>
+					<c>above</c>
+					<c>epi-</c>
+				</concepts>
+				<url source="wiki">/wiki/ar-#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ɸarebereti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ɸarebereti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">ar·beir</form>
+				<concepts>
+					<c>reproach</c>
+					<c>express</c>
+					<c>subdue</c>
+				</concepts>
+				<url source="wiki">/wiki/arbeir#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">arfer</form>
+				<concepts>
+					<c>custom</c>
+					<c>habit</c>
+					<c>practice</c>
+					<c>procedure</c>
+				</concepts>
+				<url source="wiki">/wiki/arfer#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">arfer</form>
+				<concepts>
+					<c>use</c>
+					<c>be used to</c>
+					<c>used to</c>
+					<c>accustomed</c>
+				</concepts>
+				<url source="wiki">/wiki/arfer#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ɸarewēdyom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ɸarewēdyom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Middle Welsh</lang>
+				<form script="LATIN">arwyd</form>
+				<concepts>
+					<c>sign</c>
+					<c>signal</c>
+				</concepts>
+				<url source="wiki">/wiki/arwyd#Middle_Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">airde</form>
+				<concepts>
+					<c>sign</c>
+					<c>token</c>
+				</concepts>
+				<url source="wiki">/wiki/airde#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">arwydd</form>
+				<concepts>
+					<c>sign</c>
+					<c>signal</c>
+				</concepts>
+				<url source="wiki">/wiki/arwydd#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ɸratom</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ɸratom</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">rath</form>
+				<concepts>
+					<c>usefulness</c>
+					<c>grant</c>
+					<c>bestowal</c>
+					<c>abundance</c>
+					<c>good</c>
+					<c>grace</c>
+					<c>bounty</c>
+					<c>favour</c>
+					<c>prosperity</c>
+					<c>gift</c>
+				</concepts>
+				<url source="wiki">/wiki/rath#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">rhad</form>
+				<concepts>
+					<c>blessing</c>
+					<c>grace</c>
+				</concepts>
+				<url source="wiki">/wiki/rhad#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">rhad</form>
+				<concepts>
+					<c>cheap</c>
+				</concepts>
+				<url source="wiki">/wiki/rhad#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Celtic</plang>
+			<pform>*ɸroannketi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Celtic/ɸroannketi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">righ</form>
+				<concepts>
+					<c>reach</c>
+					<c>arrive at</c>
+					<c>stretch</c>
+				</concepts>
+				<url source="wiki">/wiki/righ#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Irish</lang>
+				<form script="LATIN">ro·icc</form>
+				<concepts>
+					<c>arrive</c>
+					<c>reach</c>
+				</concepts>
+				<url source="wiki">/wiki/roicc#Old_Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Scottish Gaelic</lang>
+				<form script="LATIN">ruig</form>
+				<concepts>
+					<c>arrive</c>
+					<c>reach</c>
+				</concepts>
+				<url source="wiki">/wiki/ruig#Scottish_Gaelic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

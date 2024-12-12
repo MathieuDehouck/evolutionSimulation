@@ -1,0 +1,6717 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*bal-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/bal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">багӏли</form>
+				<translit>baʻli</translit>
+				<concepts>
+					<c>cherry</c>
+				</concepts>
+				<url source="wiki">/wiki/багӏли#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბალი</form>
+				<translit>bali</translit>
+				<concepts>
+					<c>dance</c>
+					<c>ball</c>
+				</concepts>
+				<url source="wiki">/wiki/ბალი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მბული</form>
+				<translit>mbuli</translit>
+				<concepts>
+					<c>sweet cherry</c>
+					<c>wild cherry</c>
+				</concepts>
+				<url source="wiki">/wiki/მბული#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ბული</form>
+				<translit>buli</translit>
+				<concepts>
+					<c>wild cherry</c>
+				</concepts>
+				<url source="wiki">/wiki/ბული#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">бал</form>
+				<translit>bal</translit>
+				<concepts>
+					<c>cherry</c>
+				</concepts>
+				<url source="wiki">/wiki/бал#Ossetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ber-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ber-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბერი</form>
+				<translit>beri</translit>
+				<concepts>
+					<c>monk</c>
+				</concepts>
+				<url source="wiki">/wiki/ბერი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბერი</form>
+				<translit>beri</translit>
+				<concepts>
+					<c>monk</c>
+				</concepts>
+				<url source="wiki">/wiki/ბერი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ბერი</form>
+				<translit>beri</translit>
+				<concepts>
+					<c>monk</c>
+				</concepts>
+				<url source="wiki">/wiki/ბერი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*borbal-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/borbal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბორბალა</form>
+				<translit>borbala</translit>
+				<concepts>
+					<c>spider</c>
+				</concepts>
+				<url source="wiki">/wiki/ბორბალა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბორბალი</form>
+				<translit>borbali</translit>
+				<concepts>
+					<c>wheel</c>
+				</concepts>
+				<url source="wiki">/wiki/ბორბალი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ბობოლა</form>
+				<translit>bobola</translit>
+				<concepts>
+					<c>bug</c>
+					<c>insect</c>
+					<c>spider</c>
+				</concepts>
+				<url source="wiki">/wiki/ბობოლა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ბორბოლია</form>
+				<translit>borbolia</translit>
+				<concepts>
+					<c>spider</c>
+				</concepts>
+				<url source="wiki">/wiki/ბორბოლია#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ბორბალი</form>
+				<translit>borbali</translit>
+				<concepts>
+					<c>wheel</c>
+				</concepts>
+				<url source="wiki">/wiki/ბორბალი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*brʒ₁-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/brʒ₁-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბრძანება</form>
+				<translit>brʒaneba</translit>
+				<concepts>
+					<c>bidding</c>
+					<c>behest</c>
+					<c>order</c>
+					<c>commandment</c>
+					<c>command</c>
+				</concepts>
+				<url source="wiki">/wiki/ბრძანება#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*brṭq̇el-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/brṭq̇el-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბრტყელი</form>
+				<translit>brṭq̇eli</translit>
+				<concepts>
+					<c>flat</c>
+				</concepts>
+				<url source="wiki">/wiki/ბრტყელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბრტყელი</form>
+				<translit>brṭq̇eli</translit>
+				<concepts>
+					<c>flat</c>
+				</concepts>
+				<url source="wiki">/wiki/ბრტყელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ბირტყა</form>
+				<translit>birṭq̇a</translit>
+				<concepts>
+					<c>flat</c>
+				</concepts>
+				<url source="wiki">/wiki/ბირტყა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ლაპარტყია</form>
+				<translit>laṗarṭq̇ia</translit>
+				<concepts>
+					<c>flat</c>
+				</concepts>
+				<url source="wiki">/wiki/ლაპარტყია#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ბრტყელი</form>
+				<translit>brṭq̇eli</translit>
+				<concepts>
+					<c>flat</c>
+				</concepts>
+				<url source="wiki">/wiki/ბრტყელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*buʒ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/buʒ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბუძულაჲ</form>
+				<translit>buʒulay</translit>
+				<concepts>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუძულაჲ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ბუძი</form>
+				<translit>bużi</translit>
+				<concepts>
+					<c>breast</c>
+					<c>teat</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუძი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*buṭḳa-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/buṭḳa-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ბუტკო</form>
+				<translit>buṭḳo</translit>
+				<concepts>
+					<c>pistil</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუტკო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ბუტკა</form>
+				<translit>buťǩa</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუტკა#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*buṭḳar-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/buṭḳar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფუტკარი</form>
+				<translit>puṭḳari</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/ფუტკარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფუტკარი</form>
+				<translit>puṭḳari</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/ფუტკარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ბუტკუჯი</form>
+				<translit>buťǩuci</translit>
+				<concepts>
+					<c>bee</c>
+					<c>honey bee</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუტკუჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ფუტკარი</form>
+				<translit>puṭḳari</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/ფუტკარი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*car-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/car-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ო-ნცორ-უ,ო-ნცი(რ)-უ</form>
+				<translit>o-nʒor-u,o-nʒi(r)-u</translit>
+				<concepts>
+					<c>sift</c>
+				</concepts>
+				<url source="wiki">/wiki/ნცორუმს#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">აღცრაჲ</form>
+				<translit>aɣcray</translit>
+				<concepts>
+					<c>disperse</c>
+					<c>scatter</c>
+					<c>sift</c>
+				</concepts>
+				<url source="wiki">/wiki/აღცრაჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*cel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/cel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ცელი</form>
+				<translit>celi</translit>
+				<concepts>
+					<c>scythe</c>
+				</concepts>
+				<url source="wiki">/wiki/ცელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ცელი</form>
+				<translit>celi</translit>
+				<concepts>
+					<c>scythe</c>
+				</concepts>
+				<url source="wiki">/wiki/ცელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ო-ნცალ-უ</form>
+				<translit>o-nʒal-u</translit>
+				<concepts>
+					<c>cut</c>
+				</concepts>
+				<url source="wiki">/wiki/ნცალუფს#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ცელი</form>
+				<translit>celi</translit>
+				<concepts>
+					<c>scythe</c>
+				</concepts>
+				<url source="wiki">/wiki/ცელი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ცელი</form>
+				<translit>celi</translit>
+				<concepts>
+					<c>scythe</c>
+				</concepts>
+				<url source="wiki">/wiki/ცელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣wer-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣wer-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">წვერი</form>
+				<translit>c̣veri</translit>
+				<concepts>
+					<c>tip</c>
+					<c>point</c>
+					<c>beard</c>
+					<c>vertex</c>
+					<c>top</c>
+				</concepts>
+				<url source="wiki">/wiki/წვერი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">წვანჯი</form>
+				<translit>c̣vanǯi</translit>
+				<concepts>
+					<c>peak</c>
+					<c>point</c>
+					<c>tip</c>
+				</concepts>
+				<url source="wiki">/wiki/წვანჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">წუერი</form>
+				<translit>c̣ueri</translit>
+				<concepts>
+					<c>point</c>
+					<c>top</c>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/წუერი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁arb-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁arb-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">წარბი</form>
+				<translit>c̣arbi</translit>
+				<concepts>
+					<c>eyebrow</c>
+					<c>brow</c>
+				</concepts>
+				<url source="wiki">/wiki/წარბი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">წარბი</form>
+				<translit>c̣arbi</translit>
+				<concepts>
+					<c>eyebrow</c>
+					<c>brow</c>
+				</concepts>
+				<url source="wiki">/wiki/წარბი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">წარი</form>
+				<translit>c̣ari</translit>
+				<concepts>
+					<c>eyebrow</c>
+				</concepts>
+				<url source="wiki">/wiki/წარი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">წარბი</form>
+				<translit>c̣arbi</translit>
+				<concepts>
+					<c>eyebrow</c>
+				</concepts>
+				<url source="wiki">/wiki/წარბი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁eb-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁eb-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ო-ჭაბ-უ</form>
+				<translit>o-ç̌ab-u</translit>
+				<concepts>
+					<c>glue</c>
+					<c>attach</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭაბუმს#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁ebar-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁ebar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭაფურია</form>
+				<translit>č̣apuria</translit>
+				<concepts>
+					<c>glutinous</c>
+					<c>sugar-sweet</c>
+					<c>sticky</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭაფურია#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁ebo-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁ebo-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">ծեփ</form>
+				<translit>cepʿ</translit>
+				<concepts>
+					<c>putty</c>
+					<c>coating</c>
+					<c>plaster</c>
+				</concepts>
+				<url source="wiki">/wiki/ծեփ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">წებო</form>
+				<translit>c̣ebo</translit>
+				<concepts>
+					<c>glue</c>
+				</concepts>
+				<url source="wiki">/wiki/წებო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">წებო</form>
+				<translit>c̣ebo</translit>
+				<concepts>
+					<c>glue</c>
+				</concepts>
+				<url source="wiki">/wiki/წებო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ჭაბუ</form>
+				<translit>ç̌abu</translit>
+				<concepts>
+					<c>glue</c>
+					<c>European mistletoe</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭაბუ#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭაბუ</form>
+				<translit>č̣abu</translit>
+				<concepts>
+					<c>glue</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭაბუ#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">ծեփ</form>
+				<translit>cepʿ</translit>
+				<concepts>
+					<c>putty</c>
+					<c>plastering</c>
+					<c>plaster</c>
+				</concepts>
+				<url source="wiki">/wiki/ծեփ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">წებო</form>
+				<translit>c̣ebo</translit>
+				<concepts>
+					<c>glue</c>
+				</concepts>
+				<url source="wiki">/wiki/წებო#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁itel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁itel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">წითელი</form>
+				<translit>c̣iteli</translit>
+				<concepts>
+					<c>red</c>
+					<c>communist</c>
+				</concepts>
+				<url source="wiki">/wiki/წითელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">წითელი</form>
+				<translit>c̣iteli</translit>
+				<concepts>
+					<c>red</c>
+					<c>communist</c>
+				</concepts>
+				<url source="wiki">/wiki/წითელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მჭითა</form>
+				<translit>mç̌ita</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/მჭითა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭითა</form>
+				<translit>č̣ita</translit>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭითა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">წითელი</form>
+				<translit>c̣iteli</translit>
+				<concepts>
+					<c>table of contents</c>
+					<c>red</c>
+					<c>ark</c>
+				</concepts>
+				<url source="wiki">/wiki/წითელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁iḳ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁iḳ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭიკუ</form>
+				<translit>č̣iḳu</translit>
+				<concepts>
+					<c>wormy</c>
+					<c>small</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭიკუ#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁qar-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁qar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მწყერი</form>
+				<translit>mc̣q̇eri</translit>
+				<concepts>
+					<c>quail</c>
+				</concepts>
+				<url source="wiki">/wiki/მწყერი#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c̣₁q̇an-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c̣₁q̇an-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭყონი</form>
+				<translit>č̣q̇oni</translit>
+				<concepts>
+					<c>oak</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭყონი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c₁ic₁-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c₁ic₁-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ციცინათელა</form>
+				<translit>cicinatela</translit>
+				<concepts>
+					<c>glowworm</c>
+					<c>firefly</c>
+				</concepts>
+				<url source="wiki">/wiki/ციცინათელა#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c₁wil-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c₁wil-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ცვილი</form>
+				<translit>cvili</translit>
+				<concepts>
+					<c>wax</c>
+				</concepts>
+				<url source="wiki">/wiki/ცვილი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჩირი</form>
+				<translit>čiri</translit>
+				<concepts>
+					<c>wax</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩირი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ცჳლი</form>
+				<translit>cwili</translit>
+				<concepts>
+					<c>wax</c>
+				</concepts>
+				<url source="wiki">/wiki/ცჳლი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*c₁xwir-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/c₁xwir-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ცხვირი</form>
+				<translit>cxviri</translit>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/ცხვირი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ჩხვინდი</form>
+				<translit>çxvindi</translit>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩხვინდი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჩხვინდი</form>
+				<translit>čxvindi</translit>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩხვინდი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ცხჳრი</form>
+				<translit>cxwiri</translit>
+				<concepts>
+					<c>nose</c>
+					<c>snout</c>
+					<c>muzzle</c>
+				</concepts>
+				<url source="wiki">/wiki/ცხჳრი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*da-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/da-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დო</form>
+				<translit>do</translit>
+				<concepts>
+					<c>but</c>
+					<c>and</c>
+				</concepts>
+				<url source="wiki">/wiki/დო#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">დო</form>
+				<translit>do</translit>
+				<concepts>
+					<c>or</c>
+					<c>and</c>
+				</concepts>
+				<url source="wiki">/wiki/დო#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*daq̇w-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/daq̇w-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">იდაყვი</form>
+				<translit>idaq̇vi</translit>
+				<concepts>
+					<c>elbow</c>
+				</concepts>
+				<url source="wiki">/wiki/იდაყვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დუყუ</form>
+				<translit>duqu</translit>
+				<concepts>
+					<c>elbow</c>
+				</concepts>
+				<url source="wiki">/wiki/დუყუ#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">დუჸი</form>
+				<translit>duʾi</translit>
+				<concepts>
+					<c>elbow</c>
+				</concepts>
+				<url source="wiki">/wiki/დუჸი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">იდაყჳ</form>
+				<translit>idaq̇wi</translit>
+				<concepts>
+					<c>elbow</c>
+				</concepts>
+				<url source="wiki">/wiki/იდაყჳ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*did-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/did-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">დიდი</form>
+				<translit>didi</translit>
+				<concepts>
+					<c>important</c>
+					<c>longstanding</c>
+					<c>older</c>
+					<c>numerous</c>
+					<c>big</c>
+					<c>great</c>
+					<c>valuable</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/დიდი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">დიდი</form>
+				<translit>didi</translit>
+				<concepts>
+					<c>important</c>
+					<c>longstanding</c>
+					<c>older</c>
+					<c>numerous</c>
+					<c>big</c>
+					<c>great</c>
+					<c>valuable</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/დიდი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დიდი</form>
+				<translit>didi</translit>
+				<concepts>
+					<c>grandma</c>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/დიდი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დიდი</form>
+				<translit>didi</translit>
+				<concepts>
+					<c>high</c>
+					<c>long</c>
+					<c>big</c>
+					<c>great</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/დიდი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დიდო</form>
+				<translit>dido</translit>
+				<concepts>
+					<c>much</c>
+					<c>very</c>
+					<c>a lot</c>
+					<c>many</c>
+				</concepts>
+				<url source="wiki">/wiki/დიდო#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">დიდი</form>
+				<translit>didi</translit>
+				<concepts>
+					<c>big</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/დიდი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">დიდი</form>
+				<translit>didi</translit>
+				<concepts>
+					<c>great</c>
+					<c>glorious</c>
+					<c>big</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/დიდი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*dindgel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/dindgel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">დინდგელი</form>
+				<translit>dindgeli</translit>
+				<concepts>
+					<c>propolis</c>
+				</concepts>
+				<url source="wiki">/wiki/დინდგელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">დგვინდგვი</form>
+				<translit>dgvindgvi</translit>
+				<concepts>
+					<c>resin</c>
+					<c>tar</c>
+					<c>propolis</c>
+				</concepts>
+				<url source="wiki">/wiki/დგვინდგვი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">დინდგუ̂ილდ</form>
+				<translit>dindgûild</translit>
+				<concepts>
+					<c>resin</c>
+					<c>tar</c>
+				</concepts>
+				<url source="wiki">/wiki/დინდგუ̂ილდ#Svan</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">დჷნდგელაი</form>
+				<translit>dəndgelai</translit>
+				<concepts>
+					<c>propolis</c>
+				</concepts>
+				<url source="wiki">/wiki/დჷნდგელაი#Svan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*diq-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/diq-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">თიხა</form>
+				<translit>tixa</translit>
+				<concepts>
+					<c>clay</c>
+				</concepts>
+				<url source="wiki">/wiki/თიხა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დიხა</form>
+				<translit>dixa</translit>
+				<concepts>
+					<c>place</c>
+					<c>land</c>
+					<c>earth</c>
+					<c>soil</c>
+				</concepts>
+				<url source="wiki">/wiki/დიხა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">დიხა</form>
+				<translit>dixa</translit>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+					<c>clay</c>
+					<c>soil</c>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/დიხა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">თიჴაჲ</form>
+				<translit>tiqay</translit>
+				<concepts>
+					<c>clay</c>
+				</concepts>
+				<url source="wiki">/wiki/თიჴაჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*diḳ-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/diḳ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დიკა</form>
+				<translit>diǩa</translit>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/დიკა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Tabasaran</lang>
+				<form script="CYRILLIC">дукӏ</form>
+				<translit>duḳ</translit>
+				<concepts>
+					<c>millet</c>
+				</concepts>
+				<url source="wiki">/wiki/дукӏ#Tabasaran</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ečw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ečw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ეჩო</form>
+				<translit>ečo</translit>
+				<concepts>
+					<c>adze</c>
+				</concepts>
+				<url source="wiki">/wiki/ეჩო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ეჩვა</form>
+				<translit>ečva</translit>
+				<concepts>
+					<c>adze</c>
+				</concepts>
+				<url source="wiki">/wiki/ეჩვა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ეჩუეჲ</form>
+				<translit>ečuey</translit>
+				<concepts>
+					<c>adze</c>
+				</concepts>
+				<url source="wiki">/wiki/ეჩუეჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*grʒel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/grʒel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">გრძელი</form>
+				<translit>grʒeli</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/გრძელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">გრძელი</form>
+				<translit>grʒeli</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/გრძელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სიგრძე</form>
+				<translit>sigrʒe</translit>
+				<concepts>
+					<c>length</c>
+				</concepts>
+				<url source="wiki">/wiki/სიგრძე#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">გუნძე</form>
+				<translit>gunże</translit>
+				<concepts>
+					<c>tall</c>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/გუნძე#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">გინძე</form>
+				<translit>ginʒe</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/გინძე#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">გრძელი</form>
+				<translit>grʒeli</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/გრძელი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">სიგრძჱ</form>
+				<translit>sigrʒē</translit>
+				<concepts>
+					<c>length</c>
+				</concepts>
+				<url source="wiki">/wiki/სიგრძჱ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*grḳ-al-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/grḳ-al-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">რკალი</form>
+				<translit>rḳali</translit>
+				<concepts>
+					<c>hoop</c>
+					<c>ring</c>
+				</concepts>
+				<url source="wiki">/wiki/რკალი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კერკელი</form>
+				<translit>ǩerǩeli</translit>
+				<concepts>
+					<c>simit</c>
+					<c>ring</c>
+					<c>hoop</c>
+					<c>bagel</c>
+					<c>circle</c>
+				</concepts>
+				<url source="wiki">/wiki/კერკელი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*gwel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/gwel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">გველი</form>
+				<translit>gveli</translit>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/გველი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ყვერი</form>
+				<translit>qveri</translit>
+				<concepts>
+					<c>blindworm</c>
+					<c>slowworm</c>
+				</concepts>
+				<url source="wiki">/wiki/ყვერი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">გვერი</form>
+				<translit>gveri</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/გვერი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">გვერი</form>
+				<translit>gveri</translit>
+				<concepts>
+					<c>spiteful</c>
+					<c>evil</c>
+				</concepts>
+				<url source="wiki">/wiki/გვერი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">გუელი</form>
+				<translit>gueli</translit>
+				<concepts>
+					<c>giant</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/გუელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*gza-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/gza-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">გზა</form>
+				<translit>gza</translit>
+				<concepts>
+					<c>road</c>
+					<c>path</c>
+					<c>way</c>
+					<c>method</c>
+				</concepts>
+				<url source="wiki">/wiki/გზა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">გზა</form>
+				<translit>gza</translit>
+				<concepts>
+					<c>road</c>
+					<c>track</c>
+					<c>way</c>
+					<c>path</c>
+				</concepts>
+				<url source="wiki">/wiki/გზა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ზა</form>
+				<translit>za</translit>
+				<concepts>
+					<c>road</c>
+				</concepts>
+				<url source="wiki">/wiki/ზა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">გზაჲ</form>
+				<translit>gzay</translit>
+				<concepts>
+					<c>way</c>
+				</concepts>
+				<url source="wiki">/wiki/გზაჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*isar-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/isar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ისარი</form>
+				<translit>isari</translit>
+				<concepts>
+					<c>arrow</c>
+				</concepts>
+				<url source="wiki">/wiki/ისარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ისარი</form>
+				<translit>isari</translit>
+				<concepts>
+					<c>arrow</c>
+				</concepts>
+				<url source="wiki">/wiki/ისარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ისიჯი</form>
+				<translit>isici</translit>
+				<concepts>
+					<c>arrow</c>
+				</concepts>
+				<url source="wiki">/wiki/ისიჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ისინდი</form>
+				<translit>isindi</translit>
+				<concepts>
+					<c>arrow</c>
+					<c>jousting</c>
+					<c>lance</c>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/ისინდი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ისარი</form>
+				<translit>isari</translit>
+				<concepts>
+					<c>arrow</c>
+				</concepts>
+				<url source="wiki">/wiki/ისარი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*isl-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/isl-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ისლი</form>
+				<translit>isli</translit>
+				<concepts>
+					<c>sedge</c>
+				</concepts>
+				<url source="wiki">/wiki/ისლი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ისირი</form>
+				<translit>isiri</translit>
+				<concepts>
+					<c>chaff</c>
+					<c>straw</c>
+					<c>hay</c>
+				</concepts>
+				<url source="wiki">/wiki/ისირი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ისირი</form>
+				<translit>isiri</translit>
+				<concepts>
+					<c>sedge</c>
+				</concepts>
+				<url source="wiki">/wiki/ისირი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*kacw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/kacw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а-қәы́ц</form>
+				<translit>a-kʷə́c</translit>
+				<concepts>
+					<c>thorn</c>
+				</concepts>
+				<url source="wiki">/wiki/ақәыц#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქაცვი</form>
+				<translit>kacvi</translit>
+				<concepts>
+					<c>sea buckthorn</c>
+				</concepts>
+				<url source="wiki">/wiki/ქაცვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ქუცი</form>
+				<translit>kuci</translit>
+				<concepts>
+					<c>sea buckthorn</c>
+				</concepts>
+				<url source="wiki">/wiki/ქუცი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*katam-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/katam-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქათამი</form>
+				<translit>katami</translit>
+				<concepts>
+					<c>homosexual</c>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ქათამი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ქოთომი</form>
+				<translit>kotomi</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ქოთომი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ქათამი</form>
+				<translit>katami</translit>
+				<concepts>
+					<c>chicken</c>
+				</concepts>
+				<url source="wiki">/wiki/ქათამი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*kmar-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/kmar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქმარი</form>
+				<translit>kmari</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/ქმარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქმარი</form>
+				<translit>kmari</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/ქმარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ქომოჯი</form>
+				<translit>komoci</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/ქომოჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ქომონჯი</form>
+				<translit>komonǯi</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/ქომონჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ქმარი</form>
+				<translit>kmari</translit>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="wiki">/wiki/ქმარი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*kon-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/kon-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქონი</form>
+				<translit>koni</translit>
+				<concepts>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/ქონი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქონი</form>
+				<translit>koni</translit>
+				<concepts>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/ქონი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ქუნი</form>
+				<translit>kuni</translit>
+				<concepts>
+					<c>brain</c>
+				</concepts>
+				<url source="wiki">/wiki/ქუნი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ქონი</form>
+				<translit>koni</translit>
+				<concepts>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/ქონი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ქონი</form>
+				<translit>koni</translit>
+				<concepts>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/ქონი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*kor-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/kor-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ქორი</form>
+				<translit>kori</translit>
+				<concepts>
+					<c>blind</c>
+				</concepts>
+				<url source="wiki">/wiki/ქორი#Georgian:_hawk</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ქური</form>
+				<translit>kuri</translit>
+				<concepts>
+					<c>hawk</c>
+					<c>falcon</c>
+					<c>kite</c>
+				</concepts>
+				<url source="wiki">/wiki/ქური#Laz:_hawk</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ქორი</form>
+				<translit>kori</translit>
+				<concepts>
+					<c>northern goshawk</c>
+				</concepts>
+				<url source="wiki">/wiki/ქორი#Old_Georgian:_hawk</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*korap-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/korap-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ქოროფე</form>
+				<translit>korope</translit>
+				<concepts>
+					<c>chickweed</c>
+					<c>goosefoot</c>
+				</concepts>
+				<url source="wiki">/wiki/ქოროფე#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*kwrdeml-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/kwrdeml-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">გრდემლი</form>
+				<translit>grdemli</translit>
+				<concepts>
+					<c>anvil</c>
+				</concepts>
+				<url source="wiki">/wiki/გრდემლი#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*lap-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/lap-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ტლაპო</form>
+				<translit>ṭlaṗo</translit>
+				<concepts>
+					<c>mud</c>
+				</concepts>
+				<url source="wiki">/wiki/ტლაპო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ტოლოფი</form>
+				<translit>ťolopi</translit>
+				<concepts>
+					<c>mud</c>
+				</concepts>
+				<url source="wiki">/wiki/ტოლოფი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*laɣw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/laɣw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ლეღვი</form>
+				<translit>leɣvi</translit>
+				<concepts>
+					<c>fig</c>
+				</concepts>
+				<url source="wiki">/wiki/ლეღვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ლუღი</form>
+				<translit>luği</translit>
+				<concepts>
+					<c>fig</c>
+				</concepts>
+				<url source="wiki">/wiki/ლუღი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ლუღი</form>
+				<translit>luɣi</translit>
+				<concepts>
+					<c>fig</c>
+				</concepts>
+				<url source="wiki">/wiki/ლუღი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ლეღჳ</form>
+				<translit>leɣwi</translit>
+				<concepts>
+					<c>fig</c>
+				</concepts>
+				<url source="wiki">/wiki/ლეღჳ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*leḳw-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/leḳw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">լակոտ</form>
+				<translit>lakot</translit>
+				<concepts>
+					<c>cad</c>
+					<c>pup</c>
+					<c>child</c>
+					<c>dog</c>
+					<c>puppy</c>
+					<c>bastard</c>
+				</concepts>
+				<url source="wiki">/wiki/լակոտ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">լակոտ</form>
+				<translit>lakot</translit>
+				<concepts>
+					<c>cad</c>
+					<c>pup</c>
+					<c>child</c>
+					<c>dog</c>
+					<c>puppy</c>
+					<c>bastard</c>
+				</concepts>
+				<url source="wiki">/wiki/լակոտ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ლეკვი</form>
+				<translit>leḳvi</translit>
+				<concepts>
+					<c>whelp</c>
+					<c>puppy</c>
+					<c>pup</c>
+				</concepts>
+				<url source="wiki">/wiki/ლეკვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ლაკი</form>
+				<translit>laǩi</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ლაკი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ლაკოტი</form>
+				<translit>laǩoťi</translit>
+				<concepts>
+					<c>puppy</c>
+				</concepts>
+				<url source="wiki">/wiki/ლაკოტი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Armenian</lang>
+				<form script="ARMENIAN">լակոտ</form>
+				<translit>lakot</translit>
+				<concepts>
+					<c>puppy</c>
+				</concepts>
+				<url source="wiki">/wiki/լակոտ#Middle_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ლაკვი</form>
+				<translit>laḳvi</translit>
+				<concepts>
+					<c>puppy</c>
+				</concepts>
+				<url source="wiki">/wiki/ლაკვი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ლეკჳ</form>
+				<translit>leḳwi</translit>
+				<concepts>
+					<c>offspring</c>
+					<c>puppy</c>
+					<c>child</c>
+					<c>descendant</c>
+				</concepts>
+				<url source="wiki">/wiki/ლეკჳ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*lorc̣-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/lorc̣-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ლორწო</form>
+				<translit>lorc̣o</translit>
+				<concepts>
+					<c>phlegm</c>
+					<c>slobber</c>
+					<c>mucus</c>
+					<c>mucilage</c>
+					<c>slime</c>
+					<c>foam</c>
+				</concepts>
+				<url source="wiki">/wiki/ლორწო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ლერწი</form>
+				<translit>lerǯi</translit>
+				<concepts>
+					<c>saliva</c>
+					<c>sperm</c>
+					<c>semen</c>
+					<c>spittle</c>
+				</concepts>
+				<url source="wiki">/wiki/ლერწი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*lʿacar-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/lʿacar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">საცერი</form>
+				<translit>saceri</translit>
+				<concepts>
+					<c>sifter</c>
+					<c>sieve</c>
+					<c>strainer</c>
+				</concepts>
+				<url source="wiki">/wiki/საცერი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">საცერი</form>
+				<translit>saceri</translit>
+				<concepts>
+					<c>sifter</c>
+					<c>sieve</c>
+					<c>strainer</c>
+				</concepts>
+				<url source="wiki">/wiki/საცერი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">საცერი</form>
+				<translit>saceri</translit>
+				<concepts>
+					<c>sifter</c>
+					<c>sieve</c>
+					<c>strainer</c>
+				</concepts>
+				<url source="wiki">/wiki/საცერი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*lʿagzal-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/lʿagzal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ორზოლი</form>
+				<translit>orzoli</translit>
+				<concepts>
+					<c>provision</c>
+					<c>victual</c>
+				</concepts>
+				<url source="wiki">/wiki/ორზოლი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*lʿizmar-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/lʿizmar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სიზმარი</form>
+				<translit>sizmari</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/სიზმარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სიზმარი</form>
+				<translit>sizmari</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/სიზმარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">იზმოჯე</form>
+				<translit>izmoce</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/იზმოჯე#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">სიზმარი</form>
+				<translit>sizmari</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/სიზმარი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">სიზმარი</form>
+				<translit>sizmari</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/სიზმარი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">სიზმარი</form>
+				<translit>sizmari</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/სიზმარი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*mančw-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/mančw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მაჩვი</form>
+				<translit>mačvi</translit>
+				<concepts>
+					<c>Eurasian badger</c>
+				</concepts>
+				<url source="wiki">/wiki/მაჩვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მუმჩქვი</form>
+				<translit>mumçkvi</translit>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/მუმჩქვი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">მუნჩქვი</form>
+				<translit>munčkvi</translit>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/მუნჩქვი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">მაჩჳ</form>
+				<translit>mačwi</translit>
+				<concepts>
+					<c>badger</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/მაჩჳ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*martw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/martw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მართვე</form>
+				<translit>martve</translit>
+				<concepts>
+					<c>eaglet</c>
+				</concepts>
+				<url source="wiki">/wiki/მართვე#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">მოთა</form>
+				<translit>mota</translit>
+				<concepts>
+					<c>grandchild</c>
+				</concepts>
+				<url source="wiki">/wiki/მოთა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">მართუჱ</form>
+				<translit>martuē</translit>
+				<concepts>
+					<c>eaglet</c>
+				</concepts>
+				<url source="wiki">/wiki/მართუჱ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*mec̣₁rxal-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/mec̣₁rxal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მერცხალი</form>
+				<translit>mercxali</translit>
+				<concepts>
+					<c>swallow</c>
+				</concepts>
+				<url source="wiki">/wiki/მერცხალი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მერცხალი</form>
+				<translit>mercxali</translit>
+				<concepts>
+					<c>swallow</c>
+				</concepts>
+				<url source="wiki">/wiki/მერცხალი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">მაჭირხოლი</form>
+				<translit>mač̣irxoli</translit>
+				<concepts>
+					<c>swallow</c>
+				</concepts>
+				<url source="wiki">/wiki/მაჭირხოლი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">მერცხალი</form>
+				<translit>mercxali</translit>
+				<concepts>
+					<c>swallow</c>
+				</concepts>
+				<url source="wiki">/wiki/მერცხალი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*megrel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/megrel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მეგრელი</form>
+				<translit>megreli</translit>
+				<concepts>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მეგრელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მეგრელი</form>
+				<translit>megreli</translit>
+				<concepts>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მეგრელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მარგალი</form>
+				<translit>margali</translit>
+				<concepts>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მარგალი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მარგალი</form>
+				<translit>margali</translit>
+				<concepts>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მარგალი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მეგრელი</form>
+				<translit>megreli</translit>
+				<concepts>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მეგრელი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მეგრელი</form>
+				<translit>megreli</translit>
+				<concepts>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მეგრელი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">მარგალი</form>
+				<translit>margali</translit>
+				<concepts>
+					<c>farmer</c>
+					<c>peasant</c>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მარგალი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">მეგრელი</form>
+				<translit>megreli</translit>
+				<concepts>
+					<c>Mingrelian</c>
+				</concepts>
+				<url source="wiki">/wiki/მეგრელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*mxal-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/mxal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а-хәы́л</form>
+				<translit>a-xʷə́l</translit>
+				<concepts>
+					<c>kohlrabi</c>
+				</concepts>
+				<url source="wiki">/wiki/ахәыл#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ხული</form>
+				<translit>xuli</translit>
+				<concepts>
+					<c>kohlrabi</c>
+				</concepts>
+				<url source="wiki">/wiki/ხული#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*mč̣ad-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/mč̣ad-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მჭკუდი</form>
+				<translit>mç̌ǩudi</translit>
+				<concepts>
+					<c>cornbread</c>
+				</concepts>
+				<url source="wiki">/wiki/მჭკუდი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭკიდი</form>
+				<translit>č̣ḳidi</translit>
+				<concepts>
+					<c>millet</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭკიდი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*mč̣ax-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/mč̣ax-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მჭოხა</form>
+				<translit>mç̌oxa</translit>
+				<concepts>
+					<c>sour</c>
+				</concepts>
+				<url source="wiki">/wiki/მჭოხა#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*mšwil-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/mšwil-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მშვილდი</form>
+				<translit>mšvildi</translit>
+				<concepts>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/მშვილდი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">შქვილი</form>
+				<translit>škvili</translit>
+				<concepts>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/შქვილი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">მშჳლდი</form>
+				<translit>mšwildi</translit>
+				<concepts>
+					<c>rainbow</c>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/მშჳლდი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*mḳle-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/mḳle-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მოკლე</form>
+				<translit>moḳle</translit>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/მოკლე#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მკულე</form>
+				<translit>mǩule</translit>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/მკულე#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">მოკლჱ</form>
+				<translit>moḳlē</translit>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/მოკლჱ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*nat-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/nat-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">ἄνθραξ</form>
+				<translit>ánthrax</translit>
+				<concepts>
+					<c>carbuncle</c>
+					<c>boil</c>
+					<c>charcoal</c>
+					<c>abscess</c>
+				</concepts>
+				<url source="wiki">/wiki/ἄνθραξ#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">անթեղ</form>
+				<translit>antʿeġ</translit>
+				<concepts>
+					<c>ember</c>
+				</concepts>
+				<url source="wiki">/wiki/անթեղ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">anthrax</form>
+				<concepts>
+					<c>anthrax</c>
+				</concepts>
+				<url source="wiki">/wiki/anthrax#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">antrax</form>
+				<concepts>
+					<c>anthrax</c>
+				</concepts>
+				<url source="wiki">/wiki/antrax#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">anthrax</form>
+				<concepts>
+					<c>anthrax</c>
+				</concepts>
+				<url source="wiki">/wiki/anthrax#French</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ანთება</form>
+				<translit>anteba</translit>
+				<concepts>
+					<c>inflammation</c>
+				</concepts>
+				<url source="wiki">/wiki/ანთება#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ანთებული</form>
+				<translit>antebuli</translit>
+				<concepts>
+					<c>lit</c>
+					<c>alight</c>
+					<c>lighted</c>
+				</concepts>
+				<url source="wiki">/wiki/ანთებული#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მნათობი</form>
+				<translit>mnatobi</translit>
+				<concepts>
+					<c>luminous</c>
+					<c>luminary</c>
+				</concepts>
+				<url source="wiki">/wiki/მნათობი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ნათელი</form>
+				<translit>nateli</translit>
+				<concepts>
+					<c>light</c>
+					<c>blatant</c>
+					<c>obvious</c>
+					<c>lighted</c>
+				</concepts>
+				<url source="wiki">/wiki/ნათელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ნათელი</form>
+				<translit>nateli</translit>
+				<concepts>
+					<c>light</c>
+					<c>blatant</c>
+					<c>obvious</c>
+					<c>lighted</c>
+				</concepts>
+				<url source="wiki">/wiki/ნათელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სანთელი</form>
+				<translit>santeli</translit>
+				<concepts>
+					<c>candle</c>
+				</concepts>
+				<url source="wiki">/wiki/სანთელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Anthrax</form>
+				<concepts>
+					<c>anthrax</c>
+				</concepts>
+				<url source="wiki">/wiki/Anthrax#German</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">άνθρακας</form>
+				<translit>ánthrakas</translit>
+				<concepts>
+					<c>anthrax</c>
+					<c>charcoal</c>
+					<c>coal</c>
+					<c>carbon</c>
+				</concepts>
+				<url source="wiki">/wiki/άνθρακας#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">antraks</form>
+				<concepts>
+					<c>anthrax</c>
+				</concepts>
+				<url source="wiki">/wiki/antraks#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ნოთე</form>
+				<translit>note</translit>
+				<concepts>
+					<c>pine</c>
+					<c>kindling</c>
+				</concepts>
+				<url source="wiki">/wiki/ნოთე#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">անթեղ</form>
+				<translit>antʿeł</translit>
+				<concepts>
+					<c>ember</c>
+				</concepts>
+				<url source="wiki">/wiki/անթեղ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ანთრაკი</form>
+				<translit>antraḳi</translit>
+				<concepts>
+					<c>carbuncle</c>
+				</concepts>
+				<url source="wiki">/wiki/ანთრაკი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ნათელი</form>
+				<translit>nateli</translit>
+				<concepts>
+					<c>clean</c>
+					<c>blatant</c>
+					<c>obvious</c>
+				</concepts>
+				<url source="wiki">/wiki/ნათელი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ნათელი</form>
+				<translit>nateli</translit>
+				<concepts>
+					<c>ray</c>
+					<c>light</c>
+					<c>candle</c>
+				</concepts>
+				<url source="wiki">/wiki/ნათელი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">антракс</form>
+				<concepts>
+					<c>anthrax</c>
+				</concepts>
+				<url source="wiki">/wiki/антракс#Serbo-Croatian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*nedl-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/nedl-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ნედლი</form>
+				<translit>nedli</translit>
+				<concepts>
+					<c>fresh</c>
+					<c>raw</c>
+					<c>sodden</c>
+					<c>moist</c>
+					<c>damp</c>
+				</concepts>
+				<url source="wiki">/wiki/ნედლი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ნედლი</form>
+				<translit>nedli</translit>
+				<concepts>
+					<c>fresh</c>
+					<c>raw</c>
+					<c>sodden</c>
+					<c>moist</c>
+					<c>damp</c>
+				</concepts>
+				<url source="wiki">/wiki/ნედლი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ლადრე</form>
+				<translit>ladre</translit>
+				<concepts>
+					<c>moist</c>
+					<c>damp</c>
+					<c>sodden</c>
+				</concepts>
+				<url source="wiki">/wiki/ლადრე#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ლადირი</form>
+				<translit>ladiri</translit>
+				<concepts>
+					<c>fresh</c>
+					<c>raw</c>
+					<c>sodden</c>
+					<c>moist</c>
+					<c>damp</c>
+				</concepts>
+				<url source="wiki">/wiki/ლადირი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ნედლი</form>
+				<translit>nedli</translit>
+				<concepts>
+					<c>green</c>
+					<c>fresh</c>
+					<c>sodden</c>
+					<c>moist</c>
+					<c>damp</c>
+				</concepts>
+				<url source="wiki">/wiki/ნედლი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*niǯgw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/niǯgw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ნინძგი</form>
+				<translit>ninʒgi</translit>
+				<concepts>
+					<c>beak</c>
+				</concepts>
+				<url source="wiki">/wiki/ნინძგი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*omṗe-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/omṗe-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">უმპა</form>
+				<translit>ump̌a</translit>
+				<concepts>
+					<c>navel</c>
+					<c>umbilical cord</c>
+				</concepts>
+				<url source="wiki">/wiki/უმპა#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*pirṭw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/pirṭw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფილტვი</form>
+				<translit>pilṭvi</translit>
+				<concepts>
+					<c>lung</c>
+				</concepts>
+				<url source="wiki">/wiki/ფილტვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ფიჟვი</form>
+				<translit>pižvi</translit>
+				<concepts>
+					<c>lung</c>
+				</concepts>
+				<url source="wiki">/wiki/ფიჟვი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ფირტვი</form>
+				<translit>pirṭvi</translit>
+				<concepts>
+					<c>lung</c>
+				</concepts>
+				<url source="wiki">/wiki/ფირტვი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ფირტჳ</form>
+				<translit>pirṭwi</translit>
+				<concepts>
+					<c>lung</c>
+				</concepts>
+				<url source="wiki">/wiki/ფირტჳ#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">პერშუ̂და</form>
+				<translit>ṗeršûda</translit>
+				<concepts>
+					<c>lung</c>
+				</concepts>
+				<url source="wiki">/wiki/პერშუ̂და#Svan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*pkwil-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/pkwil-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფქვილი</form>
+				<translit>pkvili</translit>
+				<concepts>
+					<c>flour</c>
+				</concepts>
+				<url source="wiki">/wiki/ფქვილი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფქვილი</form>
+				<translit>pkvili</translit>
+				<concepts>
+					<c>flour</c>
+				</concepts>
+				<url source="wiki">/wiki/ფქვილი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მქვერი</form>
+				<translit>mkveri</translit>
+				<concepts>
+					<c>flour</c>
+				</concepts>
+				<url source="wiki">/wiki/მქვერი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ქვირი</form>
+				<translit>kviri</translit>
+				<concepts>
+					<c>flour</c>
+				</concepts>
+				<url source="wiki">/wiki/ქვირი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ფქვილი</form>
+				<translit>pkvili</translit>
+				<concepts>
+					<c>flour</c>
+					<c>millstone</c>
+				</concepts>
+				<url source="wiki">/wiki/ფქვილი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*puc₁-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/puc₁-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფიცი</form>
+				<translit>pici</translit>
+				<concepts>
+					<c>oath</c>
+					<c>adjuration</c>
+				</concepts>
+				<url source="wiki">/wiki/ფიცი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფიცი</form>
+				<translit>pici</translit>
+				<concepts>
+					<c>oath</c>
+					<c>adjuration</c>
+				</concepts>
+				<url source="wiki">/wiki/ფიცი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ფიცი</form>
+				<translit>pici</translit>
+				<concepts>
+					<c>oath</c>
+					<c>adjuration</c>
+				</concepts>
+				<url source="wiki">/wiki/ფიცი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*pšal-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/pšal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ფშალა</form>
+				<translit>pšala</translit>
+				<concepts>
+					<c>hop</c>
+				</concepts>
+				<url source="wiki">/wiki/ფშალა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ფშქველა</form>
+				<translit>pşkvela</translit>
+				<concepts>
+					<c>black alder</c>
+				</concepts>
+				<url source="wiki">/wiki/ფშქველა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ფშალე</form>
+				<translit>pšale</translit>
+				<concepts>
+					<c>hop</c>
+				</concepts>
+				<url source="wiki">/wiki/ფშალე#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*qar-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/qar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხარი</form>
+				<translit>xari</translit>
+				<concepts>
+					<c>ox</c>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/ხარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჴარი</form>
+				<translit>qari</translit>
+				<concepts>
+					<c>ox</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴარი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*qe-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/qe-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხელი</form>
+				<translit>xeli</translit>
+				<concepts>
+					<c>crazy</c>
+					<c>insane</c>
+				</concepts>
+				<url source="wiki">/wiki/ხელი#Georgian:_hand</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ხე</form>
+				<translit>xe</translit>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ხე#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჴელი</form>
+				<translit>qeli</translit>
+				<concepts>
+					<c>document</c>
+					<c>signature</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*qew-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/qew-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხევი</form>
+				<translit>xevi</translit>
+				<concepts>
+					<c>ravine</c>
+				</concepts>
+				<url source="wiki">/wiki/ხევი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ხაბო</form>
+				<translit>xabo</translit>
+				<concepts>
+					<c>ravine</c>
+				</concepts>
+				<url source="wiki">/wiki/ხაბო#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჴევი</form>
+				<translit>qevi</translit>
+				<concepts>
+					<c>valley</c>
+					<c>gorge</c>
+					<c>ravine</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴევი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*qund-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/qund-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხუნდი</form>
+				<translit>xundi</translit>
+				<concepts>
+					<c>stocks</c>
+					<c>brake shoe</c>
+					<c>trap</c>
+				</concepts>
+				<url source="wiki">/wiki/ხუნდი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჴუნდი</form>
+				<translit>qundi</translit>
+				<concepts>
+					<c>stocks</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴუნდი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*qweza-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/qweza-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჴუეზაჲ</form>
+				<translit>quezay</translit>
+				<concepts>
+					<c>pie</c>
+				</concepts>
+				<url source="wiki">/wiki/ჴუეზაჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*q̇amal-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/q̇amal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ტყემალი</form>
+				<translit>ṭq̇emali</translit>
+				<concepts>
+					<c>Prunus cerasifera</c>
+					<c>cherry plum</c>
+					<c>syn</c>
+					<c>tkemali</c>
+				</concepts>
+				<url source="wiki">/wiki/ტყემალი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ყომური</form>
+				<translit>qomuri</translit>
+				<concepts>
+					<c>cherry plum</c>
+				</concepts>
+				<url source="wiki">/wiki/ყომური#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჸომური</form>
+				<translit>ʾomuri</translit>
+				<concepts>
+					<c>cherry plum</c>
+					<c>tkemali</c>
+				</concepts>
+				<url source="wiki">/wiki/ჸომური#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*q̇an-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/q̇an-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყანა</form>
+				<translit>q̇ana</translit>
+				<concepts>
+					<c>earth</c>
+					<c>cornfield</c>
+				</concepts>
+				<url source="wiki">/wiki/ყანა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ონა</form>
+				<translit>ona</translit>
+				<concepts>
+					<c>field</c>
+				</concepts>
+				<url source="wiki">/wiki/ონა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჸვანა</form>
+				<translit>ʾvana</translit>
+				<concepts>
+					<c>ground</c>
+					<c>land</c>
+					<c>earth</c>
+					<c>cornfield</c>
+				</concepts>
+				<url source="wiki">/wiki/ჸვანა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ყანაჲ</form>
+				<translit>q̇anay</translit>
+				<concepts>
+					<c>cornfield</c>
+				</concepts>
+				<url source="wiki">/wiki/ყანაჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*q̇arq̇anṭ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/q̇arq̇anṭ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყარყანტო</form>
+				<translit>q̇arq̇anṭo</translit>
+				<concepts>
+					<c>gullet</c>
+				</concepts>
+				<url source="wiki">/wiki/ყარყანტო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ყირყინტი</form>
+				<translit>qirqinťi</translit>
+				<concepts>
+					<c>larynx</c>
+				</concepts>
+				<url source="wiki">/wiki/ყირყინტი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*q̇ua-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/q̇ua-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყუა</form>
+				<translit>q̇ua</translit>
+				<concepts>
+					<c>heel</c>
+					<c>hard</c>
+					<c>spine</c>
+					<c>counterfoil</c>
+					<c>crust</c>
+					<c>stub</c>
+				</concepts>
+				<url source="wiki">/wiki/ყუა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კვა</form>
+				<translit>ǩva</translit>
+				<concepts>
+					<c>forehead</c>
+				</concepts>
+				<url source="wiki">/wiki/კვა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჸვინგი</form>
+				<translit>ʾvingi</translit>
+				<concepts>
+					<c>occiput</c>
+					<c>neck</c>
+					<c>temple</c>
+				</concepts>
+				<url source="wiki">/wiki/ჸვინგი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ყჳნი</form>
+				<translit>q̇wini</translit>
+				<concepts>
+					<c>forehead</c>
+				</concepts>
+				<url source="wiki">/wiki/ყჳნი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*q̇ur-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/q̇ur-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყური</form>
+				<translit>q̇uri</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/ყური#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყური</form>
+				<translit>q̇uri</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/ყური#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჸუჯა</form>
+				<translit>ʾuǯa</translit>
+				<concepts>
+					<c>deaf</c>
+					<c>earless</c>
+					<c>silly</c>
+					<c>dumb</c>
+				</concepts>
+				<url source="wiki">/wiki/ჸუჯა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჸუჯი</form>
+				<translit>ʾuǯi</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/ჸუჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ყური</form>
+				<translit>q̇uri</translit>
+				<concepts>
+					<c>handle</c>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/ყური#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*q̇uru-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/q̇uru-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყრუ</form>
+				<translit>q̇ru</translit>
+				<concepts>
+					<c>deaf</c>
+				</concepts>
+				<url source="wiki">/wiki/ყრუ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყრუ</form>
+				<translit>q̇ru</translit>
+				<concepts>
+					<c>deaf</c>
+				</concepts>
+				<url source="wiki">/wiki/ყრუ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყრუ</form>
+				<translit>q̇ru</translit>
+				<concepts>
+					<c>deep</c>
+					<c>unpopulated</c>
+					<c>retarded</c>
+					<c>deaf</c>
+					<c>obscure</c>
+				</concepts>
+				<url source="wiki">/wiki/ყრუ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყრუ</form>
+				<translit>q̇ru</translit>
+				<concepts>
+					<c>deep</c>
+					<c>unpopulated</c>
+					<c>retarded</c>
+					<c>deaf</c>
+					<c>obscure</c>
+				</concepts>
+				<url source="wiki">/wiki/ყრუ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჸურუ</form>
+				<translit>ʾuru</translit>
+				<concepts>
+					<c>deaf</c>
+					<c>silly</c>
+					<c>dumb</c>
+				</concepts>
+				<url source="wiki">/wiki/ჸურუ#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ყრუ</form>
+				<translit>q̇ru</translit>
+				<concepts>
+					<c>deaf person</c>
+				</concepts>
+				<url source="wiki">/wiki/ყრუ#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">ყუ̂რიუ̂</form>
+				<translit>q̇ûriû</translit>
+				<concepts>
+					<c>deaf</c>
+					<c>ignorant</c>
+				</concepts>
+				<url source="wiki">/wiki/ყუ̂რიუ̂#Svan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*q̇wel-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/q̇wel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ყველი</form>
+				<translit>q̇veli</translit>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/ყველი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ყვალი</form>
+				<translit>qvali</translit>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/ყვალი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჸვალი</form>
+				<translit>ʾvali</translit>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/ჸვალი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ყუელი</form>
+				<translit>q̇ueli</translit>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/ყუელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*rḳina-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/rḳina-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">რკინა</form>
+				<translit>rḳina</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/რკინა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ერკინა</form>
+				<translit>erǩina</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ერკინა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">რკინაჲ</form>
+				<translit>rḳinay</translit>
+				<concepts>
+					<c>iron</c>
+					<c>blade</c>
+					<c>chain</c>
+					<c>sword</c>
+				</concepts>
+				<url source="wiki">/wiki/რკინაჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*sel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/sel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სელი</form>
+				<translit>seli</translit>
+				<concepts>
+					<c>cart</c>
+				</concepts>
+				<url source="wiki">/wiki/სელი#Georgian:_flax</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">სელი</form>
+				<translit>seli</translit>
+				<concepts>
+					<c>linen</c>
+					<c>flax</c>
+				</concepts>
+				<url source="wiki">/wiki/სელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*sur-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/sur-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სურო</form>
+				<translit>suro</translit>
+				<concepts>
+					<c>ivy</c>
+				</concepts>
+				<url source="wiki">/wiki/სურო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მსუჯი</form>
+				<translit>msuci</translit>
+				<concepts>
+					<c>ivy</c>
+				</concepts>
+				<url source="wiki">/wiki/მსუჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ცურუ</form>
+				<translit>curu</translit>
+				<concepts>
+					<c>ivy</c>
+				</concepts>
+				<url source="wiki">/wiki/ცურუ#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*s₁owel-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/s₁owel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">შუვი</form>
+				<translit>şuvi</translit>
+				<concepts>
+					<c>wet</c>
+				</concepts>
+				<url source="wiki">/wiki/შუვი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*s₁xu-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/s₁xu-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მსხვილი</form>
+				<translit>msxvili</translit>
+				<concepts>
+					<c>thick</c>
+					<c>large-scale</c>
+				</concepts>
+				<url source="wiki">/wiki/მსხვილი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ჩხუ</form>
+				<translit>çxu</translit>
+				<concepts>
+					<c>thick</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩხუ#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">შხუ</form>
+				<translit>šxu</translit>
+				<concepts>
+					<c>thick</c>
+					<c>big</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/შხუ#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">სხჳლი</form>
+				<translit>sxwili</translit>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/სხჳლი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*tel-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/tel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">თუ</form>
+				<translit>tu</translit>
+				<concepts>
+					<c>piglet</c>
+				</concepts>
+				<url source="wiki">/wiki/თუ#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*toq-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/toq-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">թոխր</form>
+				<translit>tʿoxr</translit>
+				<concepts>
+					<c>pick</c>
+					<c>mattock</c>
+					<c>hoe</c>
+					<c>pickaxe</c>
+				</concepts>
+				<url source="wiki">/wiki/թոխր#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">თოხი</form>
+				<translit>toxi</translit>
+				<concepts>
+					<c>mattock</c>
+					<c>dig</c>
+					<c>hack</c>
+					<c>hoe</c>
+					<c>spud</c>
+				</concepts>
+				<url source="wiki">/wiki/თოხი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">თოხი</form>
+				<translit>toxi</translit>
+				<concepts>
+					<c>hoe</c>
+				</concepts>
+				<url source="wiki">/wiki/თოხი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">თორხი</form>
+				<translit>torxi</translit>
+				<concepts>
+					<c>hoe</c>
+				</concepts>
+				<url source="wiki">/wiki/თორხი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">თოჴი</form>
+				<translit>toqi</translit>
+				<concepts>
+					<c>hoe</c>
+				</concepts>
+				<url source="wiki">/wiki/თოჴი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*toš-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/toš-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">თოში</form>
+				<translit>toši</translit>
+				<concepts>
+					<c>slush</c>
+					<c>floe</c>
+				</concepts>
+				<url source="wiki">/wiki/თოში#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*txamel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/txamel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">თხომუ</form>
+				<translit>txomu</translit>
+				<concepts>
+					<c>black alder</c>
+				</concepts>
+				<url source="wiki">/wiki/თხომუ#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">თხუმუ</form>
+				<translit>txumu</translit>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/თხუმუ#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*txaml-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/txaml-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">თხომური</form>
+				<translit>txomuri</translit>
+				<concepts>
+					<c>pus</c>
+					<c>inflammation</c>
+				</concepts>
+				<url source="wiki">/wiki/თხომური#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">თხომური</form>
+				<translit>txomuri</translit>
+				<concepts>
+					<c>pus</c>
+				</concepts>
+				<url source="wiki">/wiki/თხომური#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*wenaq-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/wenaq-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ვენახი</form>
+				<translit>venaxi</translit>
+				<concepts>
+					<c>vineyard</c>
+				</concepts>
+				<url source="wiki">/wiki/ვენახი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ბინეხი</form>
+				<translit>binexi</translit>
+				<concepts>
+					<c>vine</c>
+				</concepts>
+				<url source="wiki">/wiki/ბინეხი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ბინეხი</form>
+				<translit>binexi</translit>
+				<concepts>
+					<c>vine</c>
+					<c>vineyard</c>
+				</concepts>
+				<url source="wiki">/wiki/ბინეხი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ვენაჴი</form>
+				<translit>venaqi</translit>
+				<concepts>
+					<c>vine</c>
+					<c>vineyard</c>
+				</concepts>
+				<url source="wiki">/wiki/ვენაჴი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*werc₁xl-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/werc₁xl-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ვერცხლი</form>
+				<translit>vercxli</translit>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/ვერცხლი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ვარჩხილი</form>
+				<translit>varčxili</translit>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/ვარჩხილი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ვეცხლი</form>
+				<translit>vecxli</translit>
+				<concepts>
+					<c>money</c>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/ვეცხლი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*werʒ₁-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/werʒ₁-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ვერძი</form>
+				<translit>verʒi</translit>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/ვერძი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ვერძი</form>
+				<translit>verʒi</translit>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/ვერძი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ერჯი</form>
+				<translit>erǯi</translit>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/ერჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ვერძი</form>
+				<translit>verʒi</translit>
+				<concepts>
+					<c>ram</c>
+					<c>Aries</c>
+				</concepts>
+				<url source="wiki">/wiki/ვერძი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*xanč̣el-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/xanč̣el-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ხანჭელი</form>
+				<translit>xanç̌eli</translit>
+				<concepts>
+					<c>green</c>
+				</concepts>
+				<url source="wiki">/wiki/ხანჭელი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ხონჭკალი</form>
+				<translit>xonç̌ǩali</translit>
+				<concepts>
+					<c>ripe</c>
+				</concepts>
+				<url source="wiki">/wiki/ხონჭკალი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*xraš-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/xraš-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხრაშუნი</form>
+				<translit>xrašuni</translit>
+				<concepts>
+					<c>crunch</c>
+				</concepts>
+				<url source="wiki">/wiki/ხრაშუნი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ხუშქორი</form>
+				<translit>xuškori</translit>
+				<concepts>
+					<c>crunch</c>
+				</concepts>
+				<url source="wiki">/wiki/ხუშქორი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*xwartkl-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/xwartkl-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხვართქლა</form>
+				<translit>xvartkla</translit>
+				<concepts>
+					<c>field bindweed</c>
+				</concepts>
+				<url source="wiki">/wiki/ხვართქლა#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*zamtar-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/zamtar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ზამთარი</form>
+				<translit>zamtari</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/ზამთარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ზამთარი</form>
+				<translit>zamtari</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/ზამთარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ზოთონჯი</form>
+				<translit>zotonǯi</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/ზოთონჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ზამთარი</form>
+				<translit>zamtari</translit>
+				<concepts>
+					<c>winter</c>
+				</concepts>
+				<url source="wiki">/wiki/ზამთარი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*zašw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/zašw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შაშვი</form>
+				<translit>šašvi</translit>
+				<concepts>
+					<c>thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/შაშვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ზესკუ</form>
+				<translit>zesǩu</translit>
+				<concepts>
+					<c>thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/ზესკუ#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ზესკვი</form>
+				<translit>zesḳvi</translit>
+				<concepts>
+					<c>thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/ზესკვი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">შაშჳ</form>
+				<translit>šašwi</translit>
+				<concepts>
+					<c>thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/შაშჳ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*zman-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/zman-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ო-ზმონ-უ</form>
+				<translit>o-zmon-u</translit>
+				<concepts>
+					<c>design</c>
+					<c>imagine</c>
+					<c>picture</c>
+					<c>think</c>
+					<c>to plan</c>
+				</concepts>
+				<url source="wiki">/wiki/იზმონაჲ#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*zrkel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/zrkel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სქელი</form>
+				<translit>skeli</translit>
+				<concepts>
+					<c>thick</c>
+					<c>rotund</c>
+				</concepts>
+				<url source="wiki">/wiki/სქელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ზირქალი</form>
+				<translit>zirkali</translit>
+				<concepts>
+					<c>thick</c>
+					<c>stout</c>
+					<c>clumsy</c>
+				</concepts>
+				<url source="wiki">/wiki/ზირქალი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ზრქელი</form>
+				<translit>zrkeli</translit>
+				<concepts>
+					<c>thick</c>
+					<c>rotund</c>
+					<c>stout</c>
+				</concepts>
+				<url source="wiki">/wiki/ზრქელი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">სგელ</form>
+				<translit>sgel</translit>
+				<concepts>
+					<c>thick</c>
+					<c>stout</c>
+				</concepts>
+				<url source="wiki">/wiki/სგელ#Svan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*čečw-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/čečw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჩენჩო</form>
+				<translit>čenčo</translit>
+				<concepts>
+					<c>pod</c>
+					<c>shuck</c>
+					<c>husk</c>
+					<c>hull</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩენჩო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ჩონჩი</form>
+				<translit>çonçi</translit>
+				<concepts>
+					<c>cornhusk</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩონჩი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჩენჩი</form>
+				<translit>čenči</translit>
+				<concepts>
+					<c>pod</c>
+					<c>shuck</c>
+					<c>husk</c>
+					<c>hull</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩენჩი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ცქვეცქვი</form>
+				<translit>ckveckvi</translit>
+				<concepts>
+					<c>pod</c>
+					<c>shuck</c>
+					<c>husk</c>
+					<c>hull</c>
+				</concepts>
+				<url source="wiki">/wiki/ცქვეცქვი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*č̣erel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/č̣erel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჭრელი</form>
+				<translit>č̣reli</translit>
+				<concepts>
+					<c>pied</c>
+					<c>multicolored</c>
+					<c>pockmarked</c>
+					<c>variegated</c>
+					<c>particoloured</c>
+					<c>piebald</c>
+					<c>motley</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭრელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჭრელი</form>
+				<translit>č̣reli</translit>
+				<concepts>
+					<c>pied</c>
+					<c>multicolored</c>
+					<c>pockmarked</c>
+					<c>variegated</c>
+					<c>particoloured</c>
+					<c>piebald</c>
+					<c>motley</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭრელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჭრელი</form>
+				<translit>č̣reli</translit>
+				<concepts>
+					<c>pied</c>
+					<c>multicolored</c>
+					<c>pockmarked</c>
+					<c>variegated</c>
+					<c>particoloured</c>
+					<c>piebald</c>
+					<c>motley</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭრელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*č̣il-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/č̣il-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭკირი</form>
+				<translit>č̣ḳiri</translit>
+				<concepts>
+					<c>nit</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭკირი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*č̣ur-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/č̣ur-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჭურჭელი</form>
+				<translit>č̣urč̣eli</translit>
+				<concepts>
+					<c>tableware</c>
+					<c>utensil</c>
+					<c>vessel</c>
+					<c>container</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭურჭელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Armenian</lang>
+				<form script="ARMENIAN">կճուճ</form>
+				<translit>kčuč</translit>
+				<concepts>
+					<c>pot</c>
+					<c>pipkin</c>
+				</concepts>
+				<url source="wiki">/wiki/կճուճ#Middle_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჭკუჯი</form>
+				<translit>č̣ḳuǯi</translit>
+				<concepts>
+					<c>ship</c>
+					<c>vessel</c>
+					<c>coffin</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭკუჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჭური</form>
+				<translit>č̣uri</translit>
+				<concepts>
+					<c>vessel</c>
+					<c>container</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭური#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჭურჭერი</form>
+				<translit>č̣urč̣eri</translit>
+				<concepts>
+					<c>tableware</c>
+					<c>utensil</c>
+					<c>vessel</c>
+					<c>container</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭურჭერი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*šind-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/šind-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შინდი</form>
+				<translit>šindi</translit>
+				<concepts>
+					<c>cornelian cherry</c>
+				</concepts>
+				<url source="wiki">/wiki/შინდი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">სკინდი</form>
+				<translit>sǩindi</translit>
+				<concepts>
+					<c>cornelian cherry</c>
+				</concepts>
+				<url source="wiki">/wiki/სკინდი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*šol-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/šol-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">շերտ</form>
+				<translit>šert</translit>
+				<concepts>
+					<c>strip</c>
+					<c>stratum</c>
+					<c>layer</c>
+					<c>streak</c>
+					<c>coating</c>
+					<c>bed</c>
+					<c>coat</c>
+					<c>slice</c>
+					<c>stripe</c>
+				</concepts>
+				<url source="wiki">/wiki/շերտ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">assot</form>
+				<concepts>
+					<c>scourge</c>
+					<c>whip</c>
+					<c>flogging</c>
+				</concepts>
+				<url source="wiki">/wiki/assot#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܫܱܘܛܳܐ</form>
+				<translit>šawṭā</translit>
+				<concepts>
+					<c>scourge</c>
+					<c>whip</c>
+					<c>lash</c>
+				</concepts>
+				<url source="wiki">/wiki/ܫܘܛܐ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შოლტი</form>
+				<translit>šolṭi</translit>
+				<concepts>
+					<c>cane</c>
+					<c>switch</c>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/შოლტი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">שׁוֹט</form>
+				<translit>šōṭ</translit>
+				<concepts>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/שוט#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">შორთი</form>
+				<translit>şorti</translit>
+				<concepts>
+					<c>strip</c>
+				</concepts>
+				<url source="wiki">/wiki/შორთი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">sawt</form>
+				<concepts>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/sawt#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">შორტი</form>
+				<translit>šorṭi</translit>
+				<concepts>
+					<c>layer</c>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/შორტი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">შქვერთი</form>
+				<translit>škverti</translit>
+				<concepts>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/შქვერთი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">շերտ</form>
+				<translit>šert</translit>
+				<concepts>
+					<c>splinter</c>
+					<c>slice</c>
+				</concepts>
+				<url source="wiki">/wiki/շերտ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">შოლტი</form>
+				<translit>šolṭi</translit>
+				<concepts>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/შოლტი#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">سوط</form>
+				<translit>savt</translit>
+				<concepts>
+					<c>scourge</c>
+					<c>whip</c>
+					<c>lash</c>
+				</concepts>
+				<url source="wiki">/wiki/سوط#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">zotta</form>
+				<concepts>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/zotta#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">შუ̂ელტ</form>
+				<translit>šûelṭ</translit>
+				<concepts>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/შუ̂ელტ#Svan</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">savt</form>
+				<concepts>
+					<c>scourge</c>
+					<c>whip</c>
+					<c>lash</c>
+				</concepts>
+				<url source="wiki">/wiki/savt#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">şoldu</form>
+				<concepts>
+					<c>whip</c>
+				</concepts>
+				<url source="wiki">/wiki/şoldu#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*šrial-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/šrial-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შრ-იალ-ი</form>
+				<translit>šr-ial-i</translit>
+				<concepts>
+					<c>rustling</c>
+					<c>rustle</c>
+				</concepts>
+				<url source="wiki">/wiki/შრიალი#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*šurd-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/šurd-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შურდული</form>
+				<translit>šurduli</translit>
+				<concepts>
+					<c>sling</c>
+				</concepts>
+				<url source="wiki">/wiki/შურდული#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შურდული</form>
+				<translit>šurduli</translit>
+				<concepts>
+					<c>sling</c>
+				</concepts>
+				<url source="wiki">/wiki/შურდული#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">შურდუნი</form>
+				<translit>šurduni</translit>
+				<concepts>
+					<c>sling</c>
+				</concepts>
+				<url source="wiki">/wiki/შურდუნი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">შქურდუმი</form>
+				<translit>škurdumi</translit>
+				<concepts>
+					<c>sling</c>
+				</concepts>
+				<url source="wiki">/wiki/შქურდუმი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">შურდული</form>
+				<translit>šurduli</translit>
+				<concepts>
+					<c>sling</c>
+				</concepts>
+				<url source="wiki">/wiki/შურდული#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*šuw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/šuw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჩქვა</form>
+				<translit>čkva</translit>
+				<concepts>
+					<c>fang</c>
+				</concepts>
+				<url source="wiki">/wiki/ჩქვა#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*šwel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/šwel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შველი</form>
+				<translit>šveli</translit>
+				<concepts>
+					<c>roe deer</c>
+				</concepts>
+				<url source="wiki">/wiki/შველი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მსქვერი</form>
+				<translit>mskveri</translit>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/მსქვერი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">სქვერი</form>
+				<translit>skveri</translit>
+				<concepts>
+					<c>roe deer</c>
+				</concepts>
+				<url source="wiki">/wiki/სქვერი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*šwil-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/šwil-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შვილი</form>
+				<translit>švili</translit>
+				<concepts>
+					<c>offspring</c>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/შვილი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">შვილი</form>
+				<translit>švili</translit>
+				<concepts>
+					<c>offspring</c>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/შვილი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">სქირი</form>
+				<translit>skiri</translit>
+				<concepts>
+					<c>baby</c>
+					<c>son</c>
+				</concepts>
+				<url source="wiki">/wiki/სქირი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">შვილი</form>
+				<translit>švili</translit>
+				<concepts>
+					<c>daughter</c>
+					<c>son</c>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/შვილი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ǯač̣w-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ǯač̣w-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჯაჭვი</form>
+				<translit>ǯač̣vi</translit>
+				<concepts>
+					<c>chain</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯაჭვი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჯაჭუ</form>
+				<translit>ǯač̣u</translit>
+				<concepts>
+					<c>chain mail</c>
+					<c>chain</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯაჭუ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ǯinč̣ar-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ǯinč̣ar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჭინჭარი</form>
+				<translit>č̣inč̣ari</translit>
+				<concepts>
+					<c>nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭინჭარი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დიჭკიჯი</form>
+				<translit>diç̌ǩici</translit>
+				<concepts>
+					<c>nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/დიჭკიჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჯინჭარი</form>
+				<translit>ǯinč̣ari</translit>
+				<concepts>
+					<c>nettle</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯინჭარი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ǯinč̣wel-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ǯinč̣wel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჭიანჭველა</form>
+				<translit>č̣ianč̣vela</translit>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/ჭიანჭველა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დუმჭკუ</form>
+				<translit>dumç̌ǩu</translit>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/დუმჭკუ#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჯინჭველი</form>
+				<translit>ǯinč̣veli</translit>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯინჭველი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ǯiǯɣ-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ǯiǯɣ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჯიჯღი</form>
+				<translit>ǯiǯɣi</translit>
+				<concepts>
+					<c>song thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯიჯღი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჯღირჯღი</form>
+				<translit>ǯɣirǯɣi</translit>
+				<concepts>
+					<c>mistle thrush</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯღირჯღი#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ɣerʒ₁-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ɣerʒ₁-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ღერძი</form>
+				<translit>ɣerʒi</translit>
+				<concepts>
+					<c>pivot</c>
+					<c>axle</c>
+					<c>kingpin</c>
+				</concepts>
+				<url source="wiki">/wiki/ღერძი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ღანჯი</form>
+				<translit>ğanci</translit>
+				<concepts>
+					<c>calf</c>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/ღანჯი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ɣor-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ɣor-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">խոճկոր</form>
+				<translit>xočkor</translit>
+				<concepts>
+					<c>piglet</c>
+				</concepts>
+				<url source="wiki">/wiki/խոճկոր#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ღორი</form>
+				<translit>ɣori</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ღორი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ღორი</form>
+				<translit>ɣori</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ღორი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ღეჯი</form>
+				<translit>ğeci</translit>
+				<concepts>
+					<c>pig</c>
+					<c>swine</c>
+				</concepts>
+				<url source="wiki">/wiki/ღეჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ღეჯი</form>
+				<translit>ɣeǯi</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ღეჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">խոճ-կոր</form>
+				<translit>xoč-kor</translit>
+				<concepts>
+					<c>piglet</c>
+				</concepts>
+				<url source="wiki">/wiki/խոճկոր#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ღორი</form>
+				<translit>ɣori</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ღორი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ɣrma-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ɣrma-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">խրամ</form>
+				<translit>xram</translit>
+				<concepts>
+					<c>moat</c>
+					<c>rupture</c>
+					<c>breach</c>
+					<c>entrenchment</c>
+					<c>trench</c>
+				</concepts>
+				<url source="wiki">/wiki/խրամ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ღრმა</form>
+				<translit>ɣrma</translit>
+				<concepts>
+					<c>profound</c>
+					<c>deep</c>
+				</concepts>
+				<url source="wiki">/wiki/ღრმა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხრამი</form>
+				<translit>xrami</translit>
+				<concepts>
+					<c>Khrami</c>
+				</concepts>
+				<url source="wiki">/wiki/ხრამი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ხრამი</form>
+				<translit>xrami</translit>
+				<concepts>
+					<c>precipice</c>
+					<c>ravine</c>
+				</concepts>
+				<url source="wiki">/wiki/ხრამი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ღორმა</form>
+				<translit>ğorma</translit>
+				<concepts>
+					<c>hollow</c>
+					<c>cave</c>
+					<c>hole</c>
+					<c>cavity</c>
+				</concepts>
+				<url source="wiki">/wiki/ღორმა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">խրամ</form>
+				<translit>xram</translit>
+				<concepts>
+					<c>mine</c>
+					<c>moat</c>
+					<c>division</c>
+					<c>rupture</c>
+					<c>ditch</c>
+					<c>sap</c>
+					<c>separation</c>
+					<c>fortification</c>
+					<c>breach</c>
+					<c>trench</c>
+				</concepts>
+				<url source="wiki">/wiki/խրամ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ღრმაჲ</form>
+				<translit>ɣrmay</translit>
+				<concepts>
+					<c>profound</c>
+					<c>deep</c>
+				</concepts>
+				<url source="wiki">/wiki/ღრმაჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒaml-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒaml-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ძემური</form>
+				<translit>żemuri</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/ძემური#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ძამლი</form>
+				<translit>ʒamli</translit>
+				<concepts>
+					<c>rat</c>
+				</concepts>
+				<url source="wiki">/wiki/ძამლი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒeʒw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒeʒw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">დაძი</form>
+				<translit>dażi</translit>
+				<concepts>
+					<c>thorn</c>
+				</concepts>
+				<url source="wiki">/wiki/დაძი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒul-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒul-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სიძულვილი</form>
+				<translit>siʒulvili</translit>
+				<concepts>
+					<c>hatred</c>
+				</concepts>
+				<url source="wiki">/wiki/სიძულვილი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სძულს</form>
+				<translit>sʒuls</translit>
+				<concepts>
+					<c>hate</c>
+				</concepts>
+				<url source="wiki">/wiki/სძულს#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒuʒu-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒuʒu-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ძუძუ</form>
+				<translit>ʒuʒu</translit>
+				<concepts>
+					<c>breast</c>
+					<c>mamma</c>
+				</concepts>
+				<url source="wiki">/wiki/ძუძუ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ძუძუჲ</form>
+				<translit>ʒuʒuy</translit>
+				<concepts>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/ძუძუჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒ₁el-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒ₁el-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">ձեղուն</form>
+				<translit>jeġun</translit>
+				<concepts>
+					<c>ceiling</c>
+				</concepts>
+				<url source="wiki">/wiki/ձեղուն#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ძელი</form>
+				<translit>ʒeli</translit>
+				<concepts>
+					<c>tree</c>
+					<c>beam</c>
+					<c>goalpost</c>
+					<c>log</c>
+					<c>bar</c>
+				</concepts>
+				<url source="wiki">/wiki/ძელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ძელი</form>
+				<translit>ʒeli</translit>
+				<concepts>
+					<c>tree</c>
+					<c>beam</c>
+					<c>goalpost</c>
+					<c>log</c>
+					<c>bar</c>
+				</concepts>
+				<url source="wiki">/wiki/ძელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ნჯა</form>
+				<translit>nca</translit>
+				<concepts>
+					<c>timber</c>
+					<c>billet</c>
+					<c>tree</c>
+					<c>log</c>
+					<c>lumber</c>
+				</concepts>
+				<url source="wiki">/wiki/ნჯა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჯა</form>
+				<translit>ǯa</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">ձեղուն</form>
+				<translit>jełun</translit>
+				<concepts>
+					<c>ceiling</c>
+					<c>palate</c>
+				</concepts>
+				<url source="wiki">/wiki/ձեղուն#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ძელი</form>
+				<translit>ʒeli</translit>
+				<concepts>
+					<c>boat</c>
+					<c>wood</c>
+					<c>tree</c>
+					<c>raft</c>
+					<c>cross</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/ძელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒ₁er-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒ₁er-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ძე̄რ</form>
+				<translit>ʒēr</translit>
+				<concepts>
+					<c>kite</c>
+				</concepts>
+				<url source="wiki">/wiki/ძერ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ძერა</form>
+				<translit>ʒera</translit>
+				<concepts>
+					<c>falcon</c>
+					<c>kite</c>
+				</concepts>
+				<url source="wiki">/wiki/ძერა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ჯაჯა</form>
+				<translit>ǯaǯa</translit>
+				<concepts>
+					<c>kite</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯაჯა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">მჯაჯი</form>
+				<translit>mcaci</translit>
+				<concepts>
+					<c>yew</c>
+				</concepts>
+				<url source="wiki">/wiki/მჯაჯი#Laz:_kite</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ძერი</form>
+				<translit>ʒeri</translit>
+				<concepts>
+					<c>falcon</c>
+					<c>kite</c>
+				</concepts>
+				<url source="wiki">/wiki/ძერი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒ₁ir-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒ₁ir-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ძირი</form>
+				<translit>ʒiri</translit>
+				<concepts>
+					<c>root</c>
+					<c>bottom</c>
+					<c>bilge</c>
+				</concepts>
+				<url source="wiki">/wiki/ძირი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ძირი</form>
+				<translit>ʒiri</translit>
+				<concepts>
+					<c>root</c>
+					<c>bottom</c>
+					<c>bilge</c>
+				</concepts>
+				<url source="wiki">/wiki/ძირი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ჯიჯი</form>
+				<translit>cici</translit>
+				<concepts>
+					<c>bottom</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯიჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჯინჯი</form>
+				<translit>ǯinǯi</translit>
+				<concepts>
+					<c>root</c>
+					<c>bottom</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯინჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ძირი</form>
+				<translit>ʒiri</translit>
+				<concepts>
+					<c>root</c>
+					<c>bottom</c>
+					<c>bilge</c>
+				</concepts>
+				<url source="wiki">/wiki/ძირი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒ₁ixe-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒ₁ixe-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ციხე</form>
+				<translit>cixe</translit>
+				<concepts>
+					<c>fortress</c>
+					<c>jail</c>
+					<c>prison</c>
+				</concepts>
+				<url source="wiki">/wiki/ციხე#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ჯიხა</form>
+				<translit>cixa</translit>
+				<concepts>
+					<c>castle</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯიხა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჯიხა</form>
+				<translit>ǯixa</translit>
+				<concepts>
+					<c>fortress</c>
+					<c>castle</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯიხა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჯიხა</form>
+				<translit>ǯixa</translit>
+				<concepts>
+					<c>tall</c>
+					<c>mighty</c>
+					<c>stalwart</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯიხა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ციხჱ</form>
+				<translit>cixē</translit>
+				<concepts>
+					<c>fortress</c>
+					<c>jail</c>
+					<c>prison</c>
+				</concepts>
+				<url source="wiki">/wiki/ციხჱ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ʒ₁wel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ʒ₁wel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ძველი</form>
+				<translit>ʒveli</translit>
+				<concepts>
+					<c>former</c>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/ძველი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ჯვეში</form>
+				<translit>cveşi</translit>
+				<concepts>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯვეში#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჯვეში</form>
+				<translit>ǯveši</translit>
+				<concepts>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/ჯვეში#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ძუელი</form>
+				<translit>ʒueli</translit>
+				<concepts>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/ძუელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳad-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳad-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კოდუმს</form>
+				<translit>ǩodums</translit>
+				<concepts>
+					<c>construct</c>
+					<c>build</c>
+				</concepts>
+				<url source="wiki">/wiki/კოდუმს#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳadel-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳadel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კედელი</form>
+				<translit>ḳedeli</translit>
+				<concepts>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/კედელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კედელი</form>
+				<translit>ḳedeli</translit>
+				<concepts>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/კედელი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კოდა</form>
+				<translit>ǩoda</translit>
+				<concepts>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/კოდა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">კედელი</form>
+				<translit>ḳedeli</translit>
+				<concepts>
+					<c>railing</c>
+					<c>edge</c>
+					<c>barrier</c>
+					<c>fence</c>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/კედელი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳar-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳar-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կարամ</form>
+				<translit>karam</translit>
+				<concepts>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/կարամ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կարենալ</form>
+				<translit>karenal</translit>
+				<concepts>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/կարենալ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կռիվ</form>
+				<translit>kṙiv</translit>
+				<concepts>
+					<c>war</c>
+					<c>brawl</c>
+					<c>fight</c>
+					<c>struggle</c>
+					<c>quarrel</c>
+					<c>battle</c>
+					<c>strife</c>
+				</concepts>
+				<url source="wiki">/wiki/կռիվ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կռվել</form>
+				<translit>kṙvel</translit>
+				<concepts>
+					<c>struggle</c>
+					<c>fight</c>
+				</concepts>
+				<url source="wiki">/wiki/կռվել#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კრივი</form>
+				<translit>ḳrivi</translit>
+				<concepts>
+					<c>spar</c>
+					<c>pugilism</c>
+					<c>boxing</c>
+					<c>box</c>
+				</concepts>
+				<url source="wiki">/wiki/კრივი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კორ-უმ-ს</form>
+				<translit>ǩor-um-s</translit>
+				<concepts>
+					<c>attach</c>
+					<c>wrap</c>
+					<c>bind</c>
+					<c>connect</c>
+					<c>tie</c>
+					<c>link</c>
+				</concepts>
+				<url source="wiki">/wiki/კორუმს#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">կարեմ</form>
+				<translit>karem</translit>
+				<concepts>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/կարեմ#Old_Armenian:_bind</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">կռիւ</form>
+				<translit>kṙiw</translit>
+				<concepts>
+					<c>dispute</c>
+					<c>combat</c>
+					<c>struggle</c>
+					<c>quarrel</c>
+					<c>battle</c>
+					<c>contest</c>
+				</concepts>
+				<url source="wiki">/wiki/կռիւ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">կռուիմ</form>
+				<translit>kṙuim</translit>
+				<concepts>
+					<c>grasp</c>
+					<c>take hold</c>
+					<c>fight</c>
+					<c>dispute</c>
+					<c>struggle</c>
+					<c>debate</c>
+					<c>stick to</c>
+					<c>adhere</c>
+					<c>cleave</c>
+					<c>catch</c>
+					<c>quarrel</c>
+					<c>come to blows</c>
+					<c>skirmish</c>
+					<c>contest</c>
+					<c>contend</c>
+					<c>cling</c>
+				</concepts>
+				<url source="wiki">/wiki/կռուիմ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">კრვა</form>
+				<translit>ḳrva</translit>
+				<concepts>
+					<c>strike</c>
+					<c>tie up</c>
+					<c>push</c>
+					<c>beat</c>
+					<c>bind</c>
+				</concepts>
+				<url source="wiki">/wiki/კრვა#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳaḳab-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳaḳab-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კაკაბი</form>
+				<translit>ḳaḳabi</translit>
+				<concepts>
+					<c>partridge</c>
+				</concepts>
+				<url source="wiki">/wiki/კაკაბი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კაკაბი</form>
+				<translit>ḳaḳabi</translit>
+				<concepts>
+					<c>partridge</c>
+				</concepts>
+				<url source="wiki">/wiki/კაკაბი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კოკობე</form>
+				<translit>ḳoḳobe</translit>
+				<concepts>
+					<c>partridge</c>
+				</concepts>
+				<url source="wiki">/wiki/კოკობე#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">კაკაბი</form>
+				<translit>ḳaḳabi</translit>
+				<concepts>
+					<c>partridge</c>
+				</concepts>
+				<url source="wiki">/wiki/კაკაბი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳop-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳop-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კეფა</form>
+				<translit>ḳepa</translit>
+				<concepts>
+					<c>occiput</c>
+					<c>nape</c>
+				</concepts>
+				<url source="wiki">/wiki/კეფა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კოპალი</form>
+				<translit>ǩop̌ali</translit>
+				<concepts>
+					<c>mace</c>
+					<c>club</c>
+					<c>cudgel</c>
+				</concepts>
+				<url source="wiki">/wiki/კოპალი#Laz</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳowz-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳowz-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კოვზი</form>
+				<translit>ḳovzi</translit>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/კოვზი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კოვზი</form>
+				<translit>ḳovzi</translit>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/კოვზი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კუზი</form>
+				<translit>ǩuzi</translit>
+				<concepts>
+					<c>spoonful</c>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/კუზი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კიზი</form>
+				<translit>ḳizi</translit>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/კიზი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">კოვზი</form>
+				<translit>ḳovzi</translit>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/კოვზი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳoɣo-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳoɣo-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კოღო</form>
+				<translit>ḳoɣo</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/კოღო#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კოღონი</form>
+				<translit>ǩoğoni</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/კოღონი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კოღო</form>
+				<translit>ḳoɣo</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/კოღო#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კოღონა</form>
+				<translit>ḳoɣona</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/კოღონა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კოღონა</form>
+				<translit>ḳoɣona</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/კოღონა#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">კოღონ</form>
+				<translit>ḳoɣon</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/კოღონ#Svan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳraw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳraw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კრავი</form>
+				<translit>ḳravi</translit>
+				<concepts>
+					<c>lambkin</c>
+					<c>baa-lamb</c>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/კრავი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კრავი</form>
+				<translit>ḳravi</translit>
+				<concepts>
+					<c>lambkin</c>
+					<c>baa-lamb</c>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/კრავი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კირიბი</form>
+				<translit>ḳiribi</translit>
+				<concepts>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/კირიბი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">კრავი</form>
+				<translit>ḳravi</translit>
+				<concepts>
+					<c>lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/კრავი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳu-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳu-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abkhaz</lang>
+				<form script="CYRILLIC">а-кәу́а</form>
+				<translit>a-kʷʼúa</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/акәуа#Abkhaz</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კუ</form>
+				<translit>ḳu</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>cancer</c>
+					<c>bishop</c>
+					<c>tumor</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/კუ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">კუჲ</form>
+				<translit>ḳuy</translit>
+				<concepts>
+					<c>tortoise</c>
+				</concepts>
+				<url source="wiki">/wiki/კუჲ#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳunṭ-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳunṭ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კუნდურა</form>
+				<translit>ǩundura</translit>
+				<concepts>
+					<c>February</c>
+				</concepts>
+				<url source="wiki">/wiki/კუნდურა#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კუნტა</form>
+				<translit>ḳunṭa</translit>
+				<concepts>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/კუნტა#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳuṭ-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳuṭ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კუტუ</form>
+				<translit>ḳuṭu</translit>
+				<concepts>
+					<c>penis</c>
+				</concepts>
+				<url source="wiki">/wiki/კუტუ#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">კუტუ</form>
+				<translit>ǩuťu</translit>
+				<concepts>
+					<c>penis</c>
+				</concepts>
+				<url source="wiki">/wiki/კუტუ#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">კუტუ</form>
+				<translit>ḳuṭu</translit>
+				<concepts>
+					<c>penis</c>
+				</concepts>
+				<url source="wiki">/wiki/კუტუ#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳwax-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳwax-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მკვახე</form>
+				<translit>mḳvaxe</translit>
+				<concepts>
+					<c>unripe</c>
+				</concepts>
+				<url source="wiki">/wiki/მკვახე#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Svan</lang>
+				<form script="GEORGIAN">კუხ</form>
+				<translit>ḳux</translit>
+				<concepts>
+					<c>unripe</c>
+				</concepts>
+				<url source="wiki">/wiki/კუხ#Svan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ḳwes-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ḳwes-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">კვესი</form>
+				<translit>ḳvesi</translit>
+				<concepts>
+					<c>firestriker</c>
+				</concepts>
+				<url source="wiki">/wiki/კვესი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">კუესი</form>
+				<translit>ḳuesi</translit>
+				<concepts>
+					<c>firestriker</c>
+				</concepts>
+				<url source="wiki">/wiki/კუესი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṗaṗ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṗaṗ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">პაპა</form>
+				<translit>ṗaṗa</translit>
+				<concepts>
+					<c>grandad</c>
+					<c>granddad</c>
+				</concepts>
+				<url source="wiki">/wiki/პაპა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">პაპა</form>
+				<translit>ṗaṗa</translit>
+				<concepts>
+					<c>grandad</c>
+					<c>granddad</c>
+				</concepts>
+				<url source="wiki">/wiki/პაპა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">პაპული</form>
+				<translit>p̌ap̌uli</translit>
+				<concepts>
+					<c>grandpa</c>
+					<c>ancestor</c>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/პაპული#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">პაპუ</form>
+				<translit>ṗaṗu</translit>
+				<concepts>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/პაპუ#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">პაპა</form>
+				<translit>ṗaṗa</translit>
+				<concepts>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/პაპა#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṭal-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṭal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">тӏулг</form>
+				<translit>tʼulg</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/тӏулг#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṭanṭal-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṭanṭal-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ტანტალი</form>
+				<translit>ṭanṭali</translit>
+				<concepts>
+					<c>tantalum</c>
+				</concepts>
+				<url source="wiki">/wiki/ტანტალი#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṭapel-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṭapel-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ტაფელა</form>
+				<translit>ṭapela</translit>
+				<concepts>
+					<c>European bitterling</c>
+				</concepts>
+				<url source="wiki">/wiki/ტაფელა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ტოფუ</form>
+				<translit>ṭopu</translit>
+				<concepts>
+					<c>nase</c>
+				</concepts>
+				<url source="wiki">/wiki/ტოფუ#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṭq̇aw-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṭq̇aw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ტყავი</form>
+				<translit>ṭq̇avi</translit>
+				<concepts>
+					<c>skin</c>
+					<c>leather</c>
+				</concepts>
+				<url source="wiki">/wiki/ტყავი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">ტყავი</form>
+				<translit>ṭq̇avi</translit>
+				<concepts>
+					<c>skin</c>
+					<c>leather</c>
+				</concepts>
+				<url source="wiki">/wiki/ტყავი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ტკები</form>
+				<translit>ťǩebi</translit>
+				<concepts>
+					<c>skin</c>
+					<c>leather</c>
+				</concepts>
+				<url source="wiki">/wiki/ტკები#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ტყები</form>
+				<translit>ṭq̇ebi</translit>
+				<concepts>
+					<c>skin</c>
+					<c>hide</c>
+				</concepts>
+				<url source="wiki">/wiki/ტყები#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ტყავი</form>
+				<translit>ṭq̇avi</translit>
+				<concepts>
+					<c>skin</c>
+					<c>leather</c>
+				</concepts>
+				<url source="wiki">/wiki/ტყავი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṭq̇w-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṭq̇w-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სიტყვა</form>
+				<translit>siṭq̇va</translit>
+				<concepts>
+					<c>speech</c>
+					<c>talk</c>
+					<c>word</c>
+					<c>conversation</c>
+				</concepts>
+				<url source="wiki">/wiki/სიტყვა#Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṭrad-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṭrad-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">მტრედი</form>
+				<translit>mṭredi</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/მტრედი#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Laz</lang>
+				<form script="GEORGIAN">ტოროჯი</form>
+				<translit>ťoroci</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/ტოროჯი#Laz</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ტორონჯი</form>
+				<translit>ṭoronǯi</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/ტორონჯი#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ტრედი</form>
+				<translit>ṭredi</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/ტრედი#Old_Georgian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Georgian-Zan</plang>
+			<pform>*ṭurṭ-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Georgian-Zan/ṭurṭ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ტურტურუე</form>
+				<translit>ṭurṭurue</translit>
+				<concepts>
+					<c>Caucasian grouse</c>
+					<c>turtle dove</c>
+				</concepts>
+				<url source="wiki">/wiki/ტურტურუე#Mingrelian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

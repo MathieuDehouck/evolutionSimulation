@@ -1,0 +1,1749 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*aak</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/aak</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">āc</form>
+				<concepts>
+					<c>who</c>
+				</concepts>
+				<url source="wiki">/wiki/ac#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*aakatl</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/aakatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Huasteca Nahuatl</lang>
+				<form script="LATIN">akatl</form>
+				<concepts>
+					<c>reed</c>
+				</concepts>
+				<url source="wiki">/wiki/akatl#Central_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Central Nahuatl</lang>
+				<form script="LATIN">acatl</form>
+				<concepts>
+					<c>cane</c>
+					<c>reed</c>
+				</concepts>
+				<url source="wiki">/wiki/acatl#Central_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">ācatl</form>
+				<concepts>
+					<c>reed</c>
+				</concepts>
+				<url source="wiki">/wiki/acatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">öcatl</form>
+				<concepts>
+					<c>reed</c>
+				</concepts>
+				<url source="wiki">/wiki/öcatl#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Western Huasteca Nahuatl</lang>
+				<form script="LATIN">akatl</form>
+				<concepts>
+					<c>reed</c>
+				</concepts>
+				<url source="wiki">/wiki/akatl#Western_Huasteca_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*aamatl</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/aamatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Nahuatl</lang>
+				<form script="LATIN">amatl</form>
+				<concepts>
+					<c>letter</c>
+					<c>paper</c>
+					<c>document</c>
+					<c>book</c>
+				</concepts>
+				<url source="wiki">/wiki/amatl#Central_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">āmatl</form>
+				<concepts>
+					<c>letter</c>
+					<c>paper</c>
+					<c>document</c>
+					<c>book</c>
+				</concepts>
+				<url source="wiki">/wiki/amatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">āmat</form>
+				<concepts>
+					<c>paper</c>
+					<c>document</c>
+					<c>fig tree</c>
+					<c>book</c>
+				</concepts>
+				<url source="wiki">/wiki/amat#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pochutec</lang>
+				<form script="LATIN">ameʹt</form>
+				<concepts>
+					<c>paper</c>
+					<c>document</c>
+				</concepts>
+				<url source="wiki">/wiki/ameʹt#Pochutec</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">ömatl</form>
+				<concepts>
+					<c>paper</c>
+				</concepts>
+				<url source="wiki">/wiki/ömatl#Tetelcingo_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*aatl</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/aatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Huasteca Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Central_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Central Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Central_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">ātl</form>
+				<concepts>
+					<c>water</c>
+					<c>urine</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Coatepec Nahuatl</lang>
+				<form script="LATIN">a</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/a#Coatepec_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Durango Nahuatl</lang>
+				<form script="LATIN">at</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/at#Eastern_Durango_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Guerrero Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Guerrero_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Huaxcaleca Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Huaxcaleca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">a̱ꞌti</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/a̱ꞌti#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Michoacán Nahuatl</lang>
+				<form script="LATIN">al</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/al#Michoacán_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Morelos Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Morelos_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Puebla Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Northern_Puebla_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Orizaba Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Orizaba_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">at</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/at#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">āt</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/at#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Temascaltepec Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Temascaltepec_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">ötzintli̱</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ötzintli̱#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tlamacazapa Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Tlamacazapa_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Western Durango Nahuatl</lang>
+				<form script="LATIN">át</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/át#Western_Durango_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Western Huasteca Nahuatl</lang>
+				<form script="LATIN">atl</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/atl#Western_Huasteca_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*aayootl</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/aayootl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">a̱yo̱tzi̱n</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/a̱yo̱tzi̱n#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">āyūtzin</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/ayutzin#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pochutec</lang>
+				<form script="LATIN">ayuʹt</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/ayuʹt#Pochutec</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">öyutl</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/öyutl#Tetelcingo_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*ahsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/ahsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">ahci</form>
+				<concepts>
+					<c>arrive</c>
+				</concepts>
+				<url source="wiki">/wiki/ahci#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">ajsi</form>
+				<concepts>
+					<c>arrive</c>
+				</concepts>
+				<url source="wiki">/wiki/ajsi#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">ajsi</form>
+				<concepts>
+					<c>find</c>
+					<c>find oneself</c>
+					<c>obtain</c>
+				</concepts>
+				<url source="wiki">/wiki/ajsi#Pipil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*estli</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/estli</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">eztli</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/eztli#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Highland Puebla Nahuatl</lang>
+				<form script="LATIN">esti</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/esti#Highland_Puebla_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">yestli̱</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/yestli̱#Tetelcingo_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*kaan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/kaan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">cá̱n</form>
+				<concepts>
+					<c>where</c>
+				</concepts>
+				<url source="wiki">/wiki/cá̱n#Mecayapan_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*keem</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/keem</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">quēn</form>
+				<concepts>
+					<c>how</c>
+				</concepts>
+				<url source="wiki">/wiki/quen#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*koolootl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/koolootl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">cōlōtl</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/colotl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">co̱lo̱ꞌ</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/co̱lo̱ꞌ#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Morelos Nahuatl</lang>
+				<form script="LATIN">kolotl</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/kolotl#Morelos_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">kulut</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/kulut#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pochutec</lang>
+				<form script="LATIN">culuʹt</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/culuʹt#Pochutec</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">culutl</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/culutl#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Xicotepec de Juárez Totonac</lang>
+				<form script="LATIN">culūtl</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/culūtl#Xicotepec_de_Juárez_Totonac</url>
+			</reflex>
+			<reflex>
+				<lang>Zacatlán-Ahuacatlán-Tepetzintla Nahuatl</lang>
+				<form script="LATIN">colotl</form>
+				<concepts>
+					<c>scorpion</c>
+				</concepts>
+				<url source="wiki">/wiki/colotl#Zacatlán-Ahuacatlán-Tepetzintla_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*koyootl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/koyootl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Huasteca Nahuatl</lang>
+				<form script="LATIN">koyotl</form>
+				<concepts>
+					<c>mestizo</c>
+				</concepts>
+				<url source="wiki">/wiki/koyotl#Central_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Central Nahuatl</lang>
+				<form script="LATIN">coyotl</form>
+				<concepts>
+					<c>coyote</c>
+					<c>foreigner</c>
+				</concepts>
+				<url source="wiki">/wiki/coyotl#Central_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">coyōtl</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/coyotl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">coyote</form>
+				<concepts>
+					<c>Canis latrans</c>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/coyote#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">coyote</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/coyote#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Kojote</form>
+				<concepts>
+					<c>coyote</c>
+					<c>Canis latrans</c>
+				</concepts>
+				<url source="wiki">/wiki/Kojote#German</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">cadhóit</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/cadhóit#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">coyote</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/coyote#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">코요테</form>
+				<translit>koyote</translit>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/코요테#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">coyo̱ꞌ</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/coyo̱ꞌ#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Morelos Nahuatl</lang>
+				<form script="LATIN">koyotl</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/koyotl#Morelos_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">kuyut</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/kuyut#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">kuyūt</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/kuyut#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">coiot</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/coiot#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">койо́т</form>
+				<translit>kojót</translit>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/койот#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">coyote</form>
+				<concepts>
+					<c>coyote</c>
+					<c>fixer</c>
+					<c>middleman</c>
+				</concepts>
+				<url source="wiki">/wiki/coyote#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">koyote</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/koyote#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">coyutl</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/coyutl#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Western Huasteca Nahuatl</lang>
+				<form script="LATIN">koyotl</form>
+				<concepts>
+					<c>mestizo</c>
+					<c>foreigner</c>
+				</concepts>
+				<url source="wiki">/wiki/koyotl#Western_Huasteca_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*kʷitlatl</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/kʷitlatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">cuitlatl</form>
+				<concepts>
+					<c>feces</c>
+					<c>excrement</c>
+				</concepts>
+				<url source="wiki">/wiki/cuitlatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">cuitlatl</form>
+				<concepts>
+					<c>feces</c>
+					<c>excrement</c>
+				</concepts>
+				<url source="wiki">/wiki/cuitlatl#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*ma:kwil</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/ma:kwil</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">mācuīlli</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/macuilli#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">mākwil</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/makwil#Pipil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*masaatl</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/masaatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Huasteca Nahuatl</lang>
+				<form script="LATIN">masatl</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/masatl#Central_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Central Nahuatl</lang>
+				<form script="LATIN">mazatl</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/mazatl#Central_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">mazātl</form>
+				<concepts>
+					<c>horse</c>
+					<c>beast</c>
+					<c>deer</c>
+					<c>wild animal</c>
+				</concepts>
+				<url source="wiki">/wiki/mazatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Kaqchikel</lang>
+				<form script="LATIN">masat</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/masat#Kaqchikel</url>
+			</reflex>
+			<reflex>
+				<lang>Morelos Nahuatl</lang>
+				<form script="LATIN">masatl</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/masatl#Morelos_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">masat</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/masat#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">masāt</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/masat#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pochutec</lang>
+				<form script="LATIN">meçaʹt</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/meçaʹt#Pochutec</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">masötl</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/masötl#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Zacatlán-Ahuacatlán-Tepetzintla Nahuatl</lang>
+				<form script="LATIN">masatl</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/masatl#Zacatlán-Ahuacatlán-Tepetzintla_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*miktia</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/miktia</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">mictia</form>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/mictia#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">miktia</form>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/miktia#Pipil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*mičim</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/mičim</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">michin</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/michin#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">michi</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/michi#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">michin</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/michin#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pochutec</lang>
+				<form script="LATIN">michoʹm</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/michoʹm#Pochutec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*naawi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/naawi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">nāhui</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/nahui#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">nāwi</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/nawi#Pipil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*neštli</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/neštli</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">nextli</form>
+				<concepts>
+					<c>Ash</c>
+				</concepts>
+				<url source="wiki">/wiki/nextli#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*okotl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/okotl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">ocotl</form>
+				<concepts>
+					<c>pine tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ocotl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">ocoꞌ</form>
+				<concepts>
+					<c>pine tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ocoꞌ#Mecayapan_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*ooȼtli</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/ooȼtli</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">ōtztli</form>
+				<concepts>
+					<c>pregnant woman</c>
+				</concepts>
+				<url source="wiki">/wiki/otztli#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">utztli̱</form>
+				<concepts>
+					<c>pregnant woman</c>
+				</concepts>
+				<url source="wiki">/wiki/utztli̱#Tetelcingo_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*petlatl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/petlatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">petlatl</form>
+				<concepts>
+					<c>mat</c>
+				</concepts>
+				<url source="wiki">/wiki/petlatl#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*pinaawa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/pinaawa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">pīnāhua</form>
+				<concepts>
+					<c>be ashamed</c>
+					<c>ashamed</c>
+				</concepts>
+				<url source="wiki">/wiki/pinahua#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*teeka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/teeka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tēca</form>
+				<concepts>
+					<c>have sex</c>
+					<c>pour</c>
+					<c>lay down</c>
+					<c>lie down</c>
+				</concepts>
+				<url source="wiki">/wiki/teca#Classical_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*tomatl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/tomatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Amis</lang>
+				<form script="LATIN">tomato</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomato#Amis</url>
+			</reflex>
+			<reflex>
+				<lang>Bikol Central</lang>
+				<form script="LATIN">kamatis</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/kamatis#Bikol_Central</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">tomaca</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomaca#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">tomàquet</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomàquet#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Cebuano</lang>
+				<form script="LATIN">kamatis</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/kamatis#Cebuano</url>
+			</reflex>
+			<reflex>
+				<lang>Central Huasteca Nahuatl</lang>
+				<form script="LATIN">tomatl</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomatl#Central_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Chichewa</lang>
+				<form script="LATIN">tomato</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomato#Chichewa</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tomatl</form>
+				<concepts>
+					<c>tomatillo</c>
+				</concepts>
+				<url source="wiki">/wiki/tomatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Danish</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Danish</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">tomatl</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomatl#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">tomato</form>
+				<concepts>
+					<c>Solanum lycopersicum</c>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomato#English</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">tomato</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomato#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>Estonian</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Estonian</url>
+			</reflex>
+			<reflex>
+				<lang>Faroese</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Faroese</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Tomate</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/Tomate#German</url>
+			</reflex>
+			<reflex>
+				<lang>Hiligaynon</lang>
+				<form script="LATIN">kamatis</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/kamatis#Hiligaynon</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">टमाटर</form>
+				<translit>ṭamāṭar</translit>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/टमाटर#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Interlingua</lang>
+				<form script="LATIN">tomate</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomate#Interlingua</url>
+			</reflex>
+			<reflex>
+				<lang>Karao</lang>
+				<form script="LATIN">kamatis</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/kamatis#Karao</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">토마토</form>
+				<translit>tomato</translit>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/토마토#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">tōmato</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tōmato#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Norwegian Bokmål</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Norwegian_Bokmål</url>
+			</reflex>
+			<reflex>
+				<lang>Norwegian Nynorsk</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Norwegian_Nynorsk</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">tumat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tumat#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">tomate</form>
+				<concepts>
+					<c>tomato</c>
+					<c>ball</c>
+				</concepts>
+				<url source="wiki">/wiki/tomate#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">томат</form>
+				<translit>tomat</translit>
+				<concepts>
+					<c>tomato</c>
+					<c>tomato sauce</c>
+				</concepts>
+				<url source="wiki">/wiki/томат#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Swahili</lang>
+				<form script="LATIN">tomato</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomato#Swahili</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">kamatis</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/kamatis#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tok Pisin</lang>
+				<form script="LATIN">tomato</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomato#Tok_Pisin</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">ٹماٹر</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/ٹماٹر#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Uzbek</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato sauce</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Uzbek</url>
+			</reflex>
+			<reflex>
+				<lang>Volapük</lang>
+				<form script="LATIN">tomat</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomat#Volapük</url>
+			</reflex>
+			<reflex>
+				<lang>Waray-Waray</lang>
+				<form script="LATIN">kamatis</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/kamatis#Waray-Waray</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">tomato</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomato#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>Yakut</lang>
+				<form script="CYRILLIC">томат</form>
+				<translit>tomat</translit>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/томат#Yakut</url>
+			</reflex>
+			<reflex>
+				<lang>Yakut</lang>
+				<form script="CYRILLIC">томат</form>
+				<translit>tomat</translit>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/томат#Yakut</url>
+			</reflex>
+			<reflex>
+				<lang>Yoruba</lang>
+				<form script="LATIN">tòmátì</form>
+				<concepts>
+					<c>tomato</c>
+				</concepts>
+				<url source="wiki">/wiki/tomati#Yoruba</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*yaalwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/yaalwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">yālhua</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/yalhua#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">ya̱lhua</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/ya̱lhua#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Puebla Nahuatl</lang>
+				<form script="LATIN">yalua</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/yalua#Northern_Puebla_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">yālua</form>
+				<concepts>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/yalua#Pipil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*čooka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/čooka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">chōca</form>
+				<concepts>
+					<c>cry</c>
+					<c>growl</c>
+					<c>bleat</c>
+					<c>roar</c>
+					<c>weep</c>
+				</concepts>
+				<url source="wiki">/wiki/choca#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Puebla Nahuatl</lang>
+				<form script="LATIN">choca</form>
+				<concepts>
+					<c>cry</c>
+					<c>weep</c>
+				</concepts>
+				<url source="wiki">/wiki/choca#Northern_Puebla_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*šoočitl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/šoočitl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Huasteca Nahuatl</lang>
+				<form script="LATIN">xochitl</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xochitl#Central_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Central Nahuatl</lang>
+				<form script="LATIN">xochitl</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xochitl#Central_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">xōchitl</form>
+				<concepts>
+					<c>day sign</c>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xochitl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">xochitl</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xochitl#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">xo̱chiꞌ</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xo̱chiꞌ#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Michoacán Nahuatl</lang>
+				<form script="LATIN">xuchil</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xuchil#Michoacán_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">shuchit</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/shuchit#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pochutec</lang>
+				<form script="LATIN">xuchoʹt</form>
+				<concepts>
+					<c>flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xuchoʹt#Pochutec</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">xuchi̱tl</form>
+				<concepts>
+					<c>Flower</c>
+				</concepts>
+				<url source="wiki">/wiki/xuchi̱tl#Tetelcingo_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*ȼapotl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/ȼapotl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tzapotl</form>
+				<concepts>
+					<c>sapote</c>
+				</concepts>
+				<url source="wiki">/wiki/tzapotl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">sapote</form>
+				<concepts>
+					<c>soft</c>
+					<c>sapote</c>
+				</concepts>
+				<url source="wiki">/wiki/sapote#English</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">tzapoꞌ</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/tzapoꞌ#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Michoacán Nahuatl</lang>
+				<form script="LATIN">tzapol</form>
+				<concepts>
+					<c>sapote</c>
+				</concepts>
+				<url source="wiki">/wiki/tzapol#Michoacán_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Oaxaca Nahuatl</lang>
+				<form script="LATIN">tzapotl</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/tzapotl#Northern_Oaxaca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">zapote</form>
+				<concepts>
+					<c>mamey sapote</c>
+				</concepts>
+				<url source="wiki">/wiki/zapote#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">tzapotl</form>
+				<concepts>
+					<c>sapote</c>
+				</concepts>
+				<url source="wiki">/wiki/tzapotl#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Yaqui</lang>
+				<form script="LATIN">sapóote</form>
+				<concepts>
+					<c>sapote</c>
+				</concepts>
+				<url source="wiki">/wiki/sapóote#Yaqui</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nahuan</plang>
+			<pform>*ȼiikatl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nahuan/ȼiikatl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Classical Nahuatl</lang>
+				<form script="LATIN">tzīcatl</form>
+				<concepts>
+					<c>leaf-cutter ant</c>
+				</concepts>
+				<url source="wiki">/wiki/tzicatl#Classical_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Eastern Huasteca Nahuatl</lang>
+				<form script="LATIN">tzicatl</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/tzicatl#Eastern_Huasteca_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Mecayapan Nahuatl</lang>
+				<form script="LATIN">tzi̱caꞌ</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/tzi̱caꞌ#Mecayapan_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Michoacán Nahuatl</lang>
+				<form script="LATIN">tzical</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/tzical#Michoacán_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Pipil</lang>
+				<form script="LATIN">tzīkat</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/tzikat#Pipil</url>
+			</reflex>
+			<reflex>
+				<lang>Pochutec</lang>
+				<form script="LATIN">tziqueʹt</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/tziqueʹt#Pochutec</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">tzicatl</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/tzicatl#Tetelcingo_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

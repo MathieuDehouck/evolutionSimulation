@@ -1,0 +1,171 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Trans-New Guinea</plang>
+			<pform>*mugu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Trans-New Guinea/mugu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Amharic</lang>
+				<form script="ETHIOPIC">ሙዝ</form>
+				<translit>muz</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ሙዝ#Amharic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">مَوْز</form>
+				<translit>mawz</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/موز#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">مَوْزَة</form>
+				<translit>mawza</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/موزة#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Baiso</lang>
+				<form script="LATIN">muze</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/muze#Baiso</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Musa</form>
+				<concepts>
+					<c>Musa</c>
+					<c>Musa</c>
+				</concepts>
+				<url source="wiki">/wiki/Musa#English</url>
+			</reflex>
+			<reflex>
+				<lang>Harari</lang>
+				<form script="ETHIOPIC">ሙዝ</form>
+				<translit>mūz</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ሙዝ#Harari</url>
+			</reflex>
+			<reflex>
+				<lang>Hijazi Arabic</lang>
+				<form script="ARABIC">موز</form>
+				<translit>mōz</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/موز#Hijazi_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Kachama-Ganjule</lang>
+				<form script="LATIN">muz</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/muz#Kachama-Ganjule</url>
+			</reflex>
+			<reflex>
+				<lang>Kachama-Ganjule</lang>
+				<form script="LATIN">muze</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/muze#Kachama-Ganjule</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Persian</lang>
+				<form script="INSCRIPTIONAL PAHLAVI">𐭬𐭅𐭆‎</form>
+				<translit>mwc</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/𐭬𐭅𐭆#Middle_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">موز</form>
+				<translit>mevz, muz</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/موز#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">मोच</form>
+				<translit>moca</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/मोच#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sidamo</lang>
+				<form script="LATIN">muuze</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/muuze#Sidamo</url>
+			</reflex>
+			<reflex>
+				<lang>Swahili</lang>
+				<form script="LATIN">mazu</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/mazu#Swahili</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">மோத்தை</form>
+				<translit>mōttai</translit>
+				<concepts>
+					<c>spathe</c>
+					<c>plantain</c>
+				</concepts>
+				<url source="wiki">/wiki/மோத்தை#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Tigre</lang>
+				<form script="ETHIOPIC">ሙዝ</form>
+				<translit>muz</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ሙዝ#Tigre</url>
+			</reflex>
+			<reflex>
+				<lang>Tigrinya</lang>
+				<form script="ETHIOPIC">ሙዝ</form>
+				<translit>muz</translit>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/ሙዝ#Tigrinya</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">muz</form>
+				<concepts>
+					<c>banana</c>
+				</concepts>
+				<url source="wiki">/wiki/muz#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

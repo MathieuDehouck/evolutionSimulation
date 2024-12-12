@@ -1,0 +1,212 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*kw-ettzi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/kw-ettzi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">bech</form>
+				<concepts>
+					<c>buzzard</c>
+				</concepts>
+				<url source="wiki">/wiki/bech#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*kw-eʔkkuʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/kw-eʔkkuʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">beecu</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/beecu#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*kwe-tzinaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/kwe-tzinaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">bidxiña</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/bidxiña#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">bdzɨ́ny</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/bdzɨ́ny#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*lla-ni</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/lla-ni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">ḻṉi</form>
+				<concepts>
+					<c>ceremony</c>
+					<c>festival</c>
+				</concepts>
+				<url source="wiki">/wiki/ḻṉi#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*xu-kwaaʔna</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/xu-kwaaʔna</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">xban</form>
+				<concepts>
+					<c>tail</c>
+					<c>stalk</c>
+				</concepts>
+				<url source="wiki">/wiki/xban#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*yisa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/yisa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">iz</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/iz#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Yatzachi Zapotec</lang>
+				<form script="LATIN">iz</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/iz#Yatzachi_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">iz</form>
+				<concepts>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/iz#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*yoʔo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/yoʔo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">yoo</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/yoo#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">yuu</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/yuu#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>Zoogocho Zapotec</lang>
+				<form script="LATIN">yoꞌo</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/yoꞌo#Zoogocho_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Zapotec</plang>
+			<pform>*yoʔo tawoʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Zapotec/yoʔo tawoʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Isthmus Zapotec</lang>
+				<form script="LATIN">yuꞌduꞌ</form>
+				<concepts>
+					<c>church</c>
+				</concepts>
+				<url source="wiki">/wiki/yuꞌduꞌ#Isthmus_Zapotec</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Guelavía Zapotec</lang>
+				<form script="LATIN">yudoo</form>
+				<concepts>
+					<c>church</c>
+				</concepts>
+				<url source="wiki">/wiki/yudoo#San_Juan_Guelavía_Zapotec</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

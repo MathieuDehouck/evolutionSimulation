@@ -1,0 +1,701 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*agas</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/agas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bau Bidayuh</lang>
+				<form script="LATIN">agas</form>
+				<concepts>
+					<c>sandfly</c>
+				</concepts>
+				<url source="wiki">/wiki/agas#Bau_Bidayuh</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">agas</form>
+				<concepts>
+					<c>sandfly</c>
+				</concepts>
+				<url source="wiki">/wiki/agas#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">agas</form>
+				<concepts>
+					<c>sandfly</c>
+				</concepts>
+				<url source="wiki">/wiki/agas#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="ARABIC">اݢس</form>
+				<concepts>
+					<c>sandfly</c>
+				</concepts>
+				<url source="wiki">/wiki/اݢس#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*basəh</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/basəh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Iban</lang>
+				<form script="LATIN">basah</form>
+				<concepts>
+					<c>wet</c>
+				</concepts>
+				<url source="wiki">/wiki/basah#Iban</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*bukit</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/bukit</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Brunei Malay</lang>
+				<form script="LATIN">bukit</form>
+				<concepts>
+					<c>hill</c>
+				</concepts>
+				<url source="wiki">/wiki/bukit#Brunei_Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">bukit</form>
+				<concepts>
+					<c>hill</c>
+				</concepts>
+				<url source="wiki">/wiki/bukit#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">bukit</form>
+				<concepts>
+					<c>hill</c>
+				</concepts>
+				<url source="wiki">/wiki/bukit#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ภูเก็ต</form>
+				<translit>puu-gèt</translit>
+				<concepts>
+					<c>Phuket</c>
+				</concepts>
+				<url source="wiki">/wiki/ภูเก็ต#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*dua(ʔ) alap-an</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/dua(ʔ) alap-an</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Banjarese</lang>
+				<form script="LATIN">dalapan</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/dalapan#Banjarese</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">delapan</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/delapan#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">delapan</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/delapan#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">lapan</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/lapan#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="ARABIC">دلاڤن</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/دلاڤن#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="ARABIC">لاڤن</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/لاڤن#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Sundanese</lang>
+				<form script="SUNDANESE">ᮓᮜᮕᮔ᮪</form>
+				<translit>dalapan</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ᮓᮜᮕᮔ᮪#Sundanese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*dəbu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/dəbu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">debu</form>
+				<concepts>
+					<c>silt</c>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/debu#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">debu</form>
+				<concepts>
+					<c>my</c>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/debu#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*ipar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/ipar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">ipar</form>
+				<concepts>
+					<c>in-law</c>
+				</concepts>
+				<url source="wiki">/wiki/ipar#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">ipar</form>
+				<concepts>
+					<c>in-law</c>
+				</concepts>
+				<url source="wiki">/wiki/ipar#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*kau(ʔ)</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/kau(ʔ)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">dikau</form>
+				<concepts>
+					<c>you</c>
+					<c>your</c>
+				</concepts>
+				<url source="wiki">/wiki/dikau#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">dikau</form>
+				<concepts>
+					<c>you</c>
+					<c>your</c>
+				</concepts>
+				<url source="wiki">/wiki/dikau#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*maləm</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/maləm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Brunei Malay</lang>
+				<form script="LATIN">malam</form>
+				<concepts>
+					<c>evening</c>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/malam#Brunei_Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Iban</lang>
+				<form script="LATIN">malam</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/malam#Iban</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">malam</form>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/malam#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Ternate</lang>
+				<form script="LATIN">malam</form>
+				<concepts>
+					<c>evening</c>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/malam#Ternate</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*muha</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/muha</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Iban</lang>
+				<form script="LATIN">mua</form>
+				<concepts>
+					<c>face</c>
+				</concepts>
+				<url source="wiki">/wiki/mua#Iban</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*paraŋ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/paraŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Macanese</lang>
+				<form script="LATIN">parám</form>
+				<concepts>
+					<c>cleaver</c>
+					<c>butcher's knife</c>
+				</concepts>
+				<url source="wiki">/wiki/parám#Macanese</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">parang</form>
+				<concepts>
+					<c>heavy</c>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/parang#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Pattani Malay</lang>
+				<form script="ARABIC">ڤارٍي</form>
+				<translit>parɛ</translit>
+				<concepts>
+					<c>heavy</c>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/ڤارٍي#Pattani_Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*pətəŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/pətəŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Iban</lang>
+				<form script="LATIN">petang</form>
+				<concepts>
+					<c>dark</c>
+				</concepts>
+				<url source="wiki">/wiki/petang#Iban</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">petang</form>
+				<concepts>
+					<c>afternoon</c>
+				</concepts>
+				<url source="wiki">/wiki/petang#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*ratus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/ratus</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Banjarese</lang>
+				<form script="LATIN">ratus</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/ratus#Banjarese</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">ratus</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/ratus#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">ratus</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/ratus#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Minangkabau</lang>
+				<form script="LATIN">ratuih</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/ratuih#Minangkabau</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*tawa(ʔ)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/tawa(ʔ)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Iban</lang>
+				<form script="LATIN">ketawa</form>
+				<concepts>
+					<c>laugh</c>
+				</concepts>
+				<url source="wiki">/wiki/ketawa#Iban</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*tuan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/tuan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">tuan</form>
+				<concepts>
+					<c>lord</c>
+					<c>master</c>
+					<c>mister</c>
+				</concepts>
+				<url source="wiki">/wiki/tuan#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">tuhan</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/tuhan#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">tuan</form>
+				<concepts>
+					<c>lord</c>
+					<c>master</c>
+					<c>mister</c>
+				</concepts>
+				<url source="wiki">/wiki/tuan#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">tuhan</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/tuhan#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="ARABIC">توهن</form>
+				<concepts>
+					<c>allah</c>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/توهن#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="ARABIC">توهن</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/توهن#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Maranao</lang>
+				<form script="LATIN">Tohan</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/Tohan#Maranao</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*təŋah hari</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/təŋah hari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">tengah hari</form>
+				<concepts>
+					<c>noon</c>
+				</concepts>
+				<url source="wiki">/wiki/tengah_hari#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Remontado Agta</lang>
+				<form script="LATIN">tanghárì</form>
+				<concepts>
+					<c>noon</c>
+				</concepts>
+				<url source="wiki">/wiki/tanghari#Remontado_Agta</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">tanghali</form>
+				<concepts>
+					<c>midday</c>
+					<c>noon</c>
+					<c>noontime</c>
+				</concepts>
+				<url source="wiki">/wiki/tanghali#Tagalog</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*untuŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/untuŋ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">untung</form>
+				<concepts>
+					<c>gain</c>
+					<c>profit</c>
+				</concepts>
+				<url source="wiki">/wiki/untung#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">untung</form>
+				<concepts>
+					<c>gain</c>
+				</concepts>
+				<url source="wiki">/wiki/untung#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*əru</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/əru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="ARABIC">ارو</form>
+				<concepts>
+					<c>casuarina</c>
+				</concepts>
+				<url source="wiki">/wiki/ارو#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*əsa(ʔ) alap-an</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/əsa(ʔ) alap-an</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">selapan</form>
+				<concepts>
+					<c>eight</c>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/selapan#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="ARABIC">سلاڤن</form>
+				<concepts>
+					<c>eight</c>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/سلاڤن#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Minangkabau</lang>
+				<form script="LATIN">salapan</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/salapan#Minangkabau</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Malayic</plang>
+			<pform>*əsa(ʔ) ambil-an</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Malayic/əsa(ʔ) ambil-an</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Banjarese</lang>
+				<form script="LATIN">sambilan</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/sambilan#Banjarese</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">sembilan</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/sembilan#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">sembilan</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/sembilan#Malay</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

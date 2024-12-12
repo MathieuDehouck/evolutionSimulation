@@ -1,0 +1,768 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*'iməl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/'iməl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">мимыл</form>
+				<translit>miməl</translit>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/мимыл#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">мимлыӈа</form>
+				<translit>mimləŋa</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/мимлыӈа#Kerek</url>
+			</reflex>
+			<reflex>
+				<lang>Koryak</lang>
+				<form script="CYRILLIC">мимыл</form>
+				<translit>miməl</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/мимыл#Koryak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*eðɣə-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/eðɣə-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">эргылъын</form>
+				<translit>erɣəlʔən</translit>
+				<concepts>
+					<c>bright</c>
+				</concepts>
+				<url source="wiki">/wiki/эргылъын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">атхлаӽ</form>
+				<translit>athlaχ</translit>
+				<concepts>
+					<c>bright</c>
+					<c>light</c>
+				</concepts>
+				<url source="wiki">/wiki/атхлаӽ#Itelmen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*juŋ(juŋ)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/juŋ(juŋ)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">юӈый</form>
+				<translit>juŋəj</translit>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/юӈый#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">йуӈйучӽ</form>
+				<translit>juŋjučχ</translit>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/йуӈйучӽ#Itelmen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*kukæ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/kukæ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">кукаӈа</form>
+				<translit>kukaŋa</translit>
+				<concepts>
+					<c>cooking pot</c>
+				</concepts>
+				<url source="wiki">/wiki/кукаӈа#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">кукэӈы</form>
+				<translit>kukeŋə</translit>
+				<concepts>
+					<c>pot</c>
+					<c>pan</c>
+				</concepts>
+				<url source="wiki">/wiki/кукэӈы#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">кукэч</form>
+				<translit>kukeč</translit>
+				<concepts>
+					<c>pot</c>
+					<c>pan</c>
+				</concepts>
+				<url source="wiki">/wiki/кукэч#Itelmen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*liŋ(liŋ)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/liŋ(liŋ)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">линлиӈ</form>
+				<translit>linliŋ</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/линлиӈ#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">лиӈч</form>
+				<translit>liŋč</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/лиӈч#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Koryak</lang>
+				<form script="CYRILLIC">лиӈлиӈ</form>
+				<translit>liŋliŋ</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/лиӈлиӈ#Koryak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*macve</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/macve</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">мачо</form>
+				<translit>mačo</translit>
+				<concepts>
+					<c>chest</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/мачо#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">мачуйӈа</form>
+				<translit>mačujŋa</translit>
+				<concepts>
+					<c>chest</c>
+				</concepts>
+				<url source="wiki">/wiki/мачуйӈа#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*milutæ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/milutæ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">мильут</form>
+				<translit>milʲut</translit>
+				<concepts>
+					<c>hare</c>
+				</concepts>
+				<url source="wiki">/wiki/мильут#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">милют</form>
+				<translit>milʲut</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/милют#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">мэлоталгын</form>
+				<translit>melotalɣən</translit>
+				<concepts>
+					<c>hare</c>
+				</concepts>
+				<url source="wiki">/wiki/мэлоталгын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">мињԓ</form>
+				<translit>miňɬ</translit>
+				<concepts>
+					<c>hare</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/мињԓ#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">миљӯтаӈа</form>
+				<translit>milʲūtaŋa</translit>
+				<concepts>
+					<c>hare</c>
+				</concepts>
+				<url source="wiki">/wiki/миљӯтаӈа#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*nanqən</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/nanqən</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">нанӄын</form>
+				<translit>nanqən</translit>
+				<concepts>
+					<c>stomach</c>
+				</concepts>
+				<url source="wiki">/wiki/нанӄын#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">нанӄылъын</form>
+				<translit>nanqəlʔən</translit>
+				<concepts>
+					<c>pregnant</c>
+				</concepts>
+				<url source="wiki">/wiki/нанӄылъын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">нанӄын</form>
+				<translit>nanqən</translit>
+				<concepts>
+					<c>stomach</c>
+				</concepts>
+				<url source="wiki">/wiki/нанӄын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">нанӄ</form>
+				<translit>nanq</translit>
+				<concepts>
+					<c>stomach</c>
+				</concepts>
+				<url source="wiki">/wiki/нанӄ#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">нанӄын</form>
+				<translit>nanqən</translit>
+				<concepts>
+					<c>stomach</c>
+				</concepts>
+				<url source="wiki">/wiki/нанӄын#Kerek</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">нынанӄа̄тӽи</form>
+				<translit>nənanqātχi</translit>
+				<concepts>
+					<c>pregnant</c>
+				</concepts>
+				<url source="wiki">/wiki/нынанӄа̄тӽи#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*pəlæk</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/pəlæk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">плакылгын</form>
+				<translit>plakəlɣən</translit>
+				<concepts>
+					<c>boot</c>
+				</concepts>
+				<url source="wiki">/wiki/плакылгын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">аплакылъан</form>
+				<translit>aplakəlʔan</translit>
+				<concepts>
+					<c>barefoot</c>
+				</concepts>
+				<url source="wiki">/wiki/аплакылъан#Kerek</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">плакылӈын</form>
+				<translit>plakəlŋən</translit>
+				<concepts>
+					<c>boot</c>
+				</concepts>
+				<url source="wiki">/wiki/плакылӈын#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*qetaqet</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/qetaqet</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">ӄитаӄит</form>
+				<translit>qitaqit</translit>
+				<concepts>
+					<c>Hucho taimen</c>
+				</concepts>
+				<url source="wiki">/wiki/ӄитаӄит#Alutor</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*qora</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/qora</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">ӄораӈы</form>
+				<translit>qoraŋə</translit>
+				<concepts>
+					<c>reindeer</c>
+				</concepts>
+				<url source="wiki">/wiki/ӄораӈы#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">ӄос</form>
+				<translit>qos</translit>
+				<concepts>
+					<c>raindeer</c>
+				</concepts>
+				<url source="wiki">/wiki/ӄос#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">ӄуйаӄуй</form>
+				<translit>qujaquj</translit>
+				<concepts>
+					<c>reindeer</c>
+				</concepts>
+				<url source="wiki">/wiki/ӄуйаӄуй#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*qətʀə(n)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/qətʀə(n)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">г'ытг'ын</form>
+				<translit>ʕətʕən</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/гʼытгʼын#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">ыттʼын</form>
+				<translit>ʔəttʔən</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ыттʼын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">°ӄосӽ</form>
+				<translit>°qosχ</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/°ӄосӽ#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Koryak</lang>
+				<form script="CYRILLIC">гʼытгʼын</form>
+				<translit>ʁətʁən</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/гʼытгʼын#Koryak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*rəʀæv</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/rəʀæv</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">ръэв</form>
+				<translit>rʔew</translit>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/ръэв#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">йъав</form>
+				<translit>jʔaw</translit>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/йъав#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*tumɣə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/tumɣə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">тумгытум</form>
+				<translit>tumɣətum</translit>
+				<concepts>
+					<c>friend</c>
+					<c>comrade</c>
+					<c>companion</c>
+				</concepts>
+				<url source="wiki">/wiki/тумгытум#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">тумгытум</form>
+				<translit>tumɣətum</translit>
+				<concepts>
+					<c>fellow</c>
+					<c>spouse</c>
+					<c>friend</c>
+					<c>comrade</c>
+					<c>companion</c>
+				</concepts>
+				<url source="wiki">/wiki/тумгытум#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Koryak</lang>
+				<form script="CYRILLIC">тумгытум</form>
+				<translit>tumɣətum</translit>
+				<concepts>
+					<c>comrade</c>
+					<c>companion</c>
+				</concepts>
+				<url source="wiki">/wiki/тумгытум#Koryak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*wala</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/wala</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">в'ала</form>
+				<translit>wala</translit>
+				<concepts>
+					<c>knife</c>
+				</concepts>
+				<url source="wiki">/wiki/вʼала#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">валы</form>
+				<translit>walə</translit>
+				<concepts>
+					<c>knife</c>
+				</concepts>
+				<url source="wiki">/wiki/валы#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">фаԓч</form>
+				<translit>ɸaɬč</translit>
+				<concepts>
+					<c>knife</c>
+				</concepts>
+				<url source="wiki">/wiki/фаԓч#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">вала</form>
+				<translit>wala</translit>
+				<concepts>
+					<c>knife</c>
+				</concepts>
+				<url source="wiki">/wiki/вала#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*æwæc(u)</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/æwæc(u)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">эвэч</form>
+				<translit>eweč</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/эвэч#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">чʼучʼу</form>
+				<translit>čʼučʼu</translit>
+				<concepts>
+					<c>salmon</c>
+				</concepts>
+				<url source="wiki">/wiki/чʼучʼу#Itelmen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*æɣælmiq</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/æɣælmiq</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">ав'алмиӄ</form>
+				<translit>awalmiq</translit>
+				<concepts>
+					<c>tinder</c>
+				</concepts>
+				<url source="wiki">/wiki/авʼалмиӄ#Alutor</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*ðəlɣə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/ðəlɣə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">тылгылӈын</form>
+				<translit>təlɣəlŋən</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/тылгылӈын#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">рылгылгын</form>
+				<translit>rəlɣəlɣən</translit>
+				<concepts>
+					<c>finger</c>
+					<c>toe</c>
+				</concepts>
+				<url source="wiki">/wiki/рылгылгын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">луфԓич</form>
+				<translit>luɸɬič</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/луфԓич#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">илыгыӽал</form>
+				<translit>iləɣəχal</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/илыгыӽал#Kerek</url>
+			</reflex>
+			<reflex>
+				<lang>Koryak</lang>
+				<form script="CYRILLIC">йәлгәлӈән</form>
+				<translit>jəlɣəlŋən</translit>
+				<concepts>
+					<c>finger</c>
+				</concepts>
+				<url source="wiki">/wiki/йәлгәлӈән#Koryak</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Chukotko-Kamchatkan</plang>
+			<pform>*ɣəv(ɣəv)</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Chukotko-Kamchatkan/ɣəv(ɣəv)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Alutor</lang>
+				<form script="CYRILLIC">гывгыв</form>
+				<translit>ɣəvɣəv</translit>
+				<concepts>
+					<c>chisel</c>
+				</concepts>
+				<url source="wiki">/wiki/гывгыв#Alutor</url>
+			</reflex>
+			<reflex>
+				<lang>Chukchi</lang>
+				<form script="CYRILLIC">выквын</form>
+				<translit>wəkwən</translit>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/выквын#Chukchi</url>
+			</reflex>
+			<reflex>
+				<lang>Itelmen</lang>
+				<form script="CYRILLIC">вач</form>
+				<translit>vač</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/вач#Itelmen</url>
+			</reflex>
+			<reflex>
+				<lang>Kerek</lang>
+				<form script="CYRILLIC">уккуӈа</form>
+				<translit>ukkuŋa</translit>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/уккуӈа#Kerek</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

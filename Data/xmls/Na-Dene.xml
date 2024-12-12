@@ -1,0 +1,50 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Na-Dene</plang>
+			<pform>*caj</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Na-Dene/caj</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tlingit</lang>
+				<form script="LATIN">shaa</form>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/shaa#Tlingit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Na-Dene</plang>
+			<pform>*ɢuǰ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Na-Dene/ɢuǰ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Haida</lang>
+				<form script="LATIN">g̱úuj</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/g̱úuj#Haida</url>
+			</reflex>
+			<reflex>
+				<lang>Tlingit</lang>
+				<form script="LATIN">g̱ooch</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/g̱ooch#Tlingit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

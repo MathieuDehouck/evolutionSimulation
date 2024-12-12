@@ -1,0 +1,864 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*borʒ(V)</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/borʒ(V)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Andi</lang>
+				<form script="CYRILLIC">борцӏцӏи</form>
+				<translit>borccʼi</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/борцӏцӏи#Andi</url>
+			</reflex>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">моцӏ</form>
+				<translit>mocʼ</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/моцӏ#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბუთთ</form>
+				<translit>butt</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/ბუთთ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">бутт</form>
+				<translit>butt</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/бутт#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">бутт</form>
+				<translit>butt</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/бутт#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">боцӏи</form>
+				<translit>boc’i</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/боцӏи#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*bɔrc̣(ə)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/bɔrc̣(ə)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Andi</lang>
+				<form script="CYRILLIC">боцӏо</form>
+				<translit>bocʼo</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/боцӏо#Andi</url>
+			</reflex>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">бацӏ</form>
+				<translit>bacʼ</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/бацӏ#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ბჵორწ</form>
+				<translit>b'orc̣</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/ბჵორწ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">бацӏо</form>
+				<translit>bacʼo</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/бацӏо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">борз</form>
+				<translit>borz</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/борз#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">боцӏе</form>
+				<translit>boc’e</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/боцӏе#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">баъцӏә</form>
+				<translit>båc’ə</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/баъцӏә#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">борз</form>
+				<translit>borz</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/борз#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">боцӏа</form>
+				<translit>boc’a</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/боцӏа#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">боцӏо</form>
+				<translit>boc’o</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/боцӏо#Khvarshi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*mɔč̣č̣(V)</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/mɔč̣č̣(V)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მოთთ</form>
+				<translit>mott</translit>
+				<concepts>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/მოთთ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">мотт</form>
+				<translit>mott</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/мотт#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*mɔʒ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/mɔʒ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Andi</lang>
+				<form script="CYRILLIC">мицӏцӏи</form>
+				<translit>miccʼi</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/мицӏцӏи#Andi</url>
+			</reflex>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">мацӏ</form>
+				<translit>macʼ</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/мацӏ#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">მოტტ</form>
+				<translit>moṭṭ</translit>
+				<concepts>
+					<c>tongue</c>
+					<c>language</c>
+				</concepts>
+				<url source="wiki">/wiki/მოტტ#Bats</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*ruƛ̣(V) ~ *ruƛ̣ƛ̣(V)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/ruƛ̣(V) ~ *ruƛ̣ƛ̣(V)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дукъ</form>
+				<translit>duqʼ</translit>
+				<concepts>
+					<c>yoke</c>
+					<c>crest</c>
+				</concepts>
+				<url source="wiki">/wiki/дукъ#Chechen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*rɔḳʷ(ə)</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/rɔḳʷ(ə)</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">ракӏ</form>
+				<translit>rakʼ</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ракӏ#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">დოკ</form>
+				<translit>doḳ</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/დოკ#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">йакӏо</form>
+				<translit>jakʼo</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/йакӏо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">ракӏо</form>
+				<translit>rakʼo</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ракӏо#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">дог</form>
+				<translit>dog</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/дог#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">рокӏве</form>
+				<translit>rok’ʷe</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/рокӏве#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">раъкӏу</form>
+				<translit>råk’u</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/раъкӏу#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">дог</form>
+				<translit>dog</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/дог#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">локӏва</form>
+				<translit>lok’va</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/локӏва#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">локӏо</form>
+				<translit>lok’o</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/локӏо#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">рокӏви</form>
+				<translit>rok’vi</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/рокӏви#Tsez</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">рокӏу</form>
+				<translit>rok’u</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/рокӏу#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*weršē</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/weršē</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">борш</form>
+				<translit>borš</translit>
+				<concepts>
+					<c>chestnut</c>
+					<c>horse chestnut</c>
+				</concepts>
+				<url source="wiki">/wiki/борш#Ingush</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*x̱änɦï</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/x̱änɦï</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghul</lang>
+				<form script="CYRILLIC">хьед</form>
+				<translit>x̂ed</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хьед#Aghul</url>
+			</reflex>
+			<reflex>
+				<lang>Aghwan</lang>
+				<form script="CAUCASIAN ALBANIAN">𐕀𐔴</form>
+				<translit>xe</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/𐕀𐔴#Aghwan</url>
+			</reflex>
+			<reflex>
+				<lang>Akhvakh</lang>
+				<form script="CYRILLIC">лълъени</form>
+				<translit>llˢeni</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лълъени#Akhvakh</url>
+			</reflex>
+			<reflex>
+				<lang>Andi</lang>
+				<form script="CYRILLIC">лъен</form>
+				<translit>lˢen</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъен#Andi</url>
+			</reflex>
+			<reflex>
+				<lang>Archi</lang>
+				<form script="CYRILLIC">лъан</form>
+				<translit>lʰan</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъан#Archi</url>
+			</reflex>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">лъим</form>
+				<translit>lˢim</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъим#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Bagvalal</lang>
+				<form script="CYRILLIC">лълъеᵸ</form>
+				<translit>llˢẽ</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лълъеᵸ#Bagvalal</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ხი</form>
+				<translit>xi</translit>
+				<concepts>
+					<c>river</c>
+					<c>brook</c>
+					<c>pond</c>
+					<c>water</c>
+					<c>stream</c>
+				</concepts>
+				<url source="wiki">/wiki/ხი#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Botlikh</lang>
+				<form script="CYRILLIC">лълъени</form>
+				<translit>llˢeni</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лълъени#Botlikh</url>
+			</reflex>
+			<reflex>
+				<lang>Budukh</lang>
+				<form script="CYRILLIC">хьад</form>
+				<translit>x̂ad</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хьад#Budukh</url>
+			</reflex>
+			<reflex>
+				<lang>Chamalal</lang>
+				<form script="CYRILLIC">лълъӣᵸ</form>
+				<translit>llˢı̇̃ı̇̃</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лълъиᵸ#Chamalal</url>
+			</reflex>
+			<reflex>
+				<lang>Chechen</lang>
+				<form script="CYRILLIC">хи</form>
+				<translit>xi</translit>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хи#Chechen</url>
+			</reflex>
+			<reflex>
+				<lang>Dargwa</lang>
+				<form script="CYRILLIC">гьин</form>
+				<translit>hin</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/гьин#Dargwa</url>
+			</reflex>
+			<reflex>
+				<lang>Dargwa</lang>
+				<form script="CYRILLIC">шин</form>
+				<translit>šin</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/шин#Dargwa</url>
+			</reflex>
+			<reflex>
+				<lang>Godoberi</lang>
+				<form script="CYRILLIC">лълъени</form>
+				<translit>ɬ:eni</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лълъени#Godoberi</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">хий</form>
+				<translit>xii</translit>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хий#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Karata</lang>
+				<form script="CYRILLIC">лълъеᵸй</form>
+				<translit>ɬ:ẽji</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лълъени#Karata</url>
+			</reflex>
+			<reflex>
+				<lang>Khinalug</lang>
+				<form script="CYRILLIC">хьу</form>
+				<translit>xu</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хьу#Khinalug</url>
+			</reflex>
+			<reflex>
+				<lang>Lak</lang>
+				<form script="CYRILLIC">шин</form>
+				<translit>šin</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/шин#Lak</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">йад</form>
+				<translit>jad</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/йад#Lezgi</url>
+			</reflex>
+			<reflex>
+				<lang>Rutul</lang>
+				<form script="CYRILLIC">хьед</form>
+				<translit>xäd</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хьед#Rutul</url>
+			</reflex>
+			<reflex>
+				<lang>Tabasaran</lang>
+				<form script="CYRILLIC">шид</form>
+				<translit>šid</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/шид#Tabasaran</url>
+			</reflex>
+			<reflex>
+				<lang>Tindi</lang>
+				<form script="CYRILLIC">лълъеᵸ</form>
+				<translit>ɬ:ẽ</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лълъеᵸ#Tindi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsakhur</lang>
+				<form script="CYRILLIC">хьаьн</form>
+				<translit>x́än</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хьаьн#Tsakhur</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">хе</form>
+				<translit>χe</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/хе#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*ɢ̄ə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/ɢ̄ə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">къого</form>
+				<translit>qxʼogo</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/къого#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Bats</lang>
+				<form script="GEORGIAN">ტყა</form>
+				<translit>ṭq̇a</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/ტყა#Bats</url>
+			</reflex>
+			<reflex>
+				<lang>Ingush</lang>
+				<form script="CYRILLIC">ткъо</form>
+				<translit>tqʼo</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/ткъо#Ingush</url>
+			</reflex>
+			<reflex>
+				<lang>Lezgi</lang>
+				<form script="CYRILLIC">къад</form>
+				<translit>q̄ad</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/къад#Lezgi</url>
+			</reflex>
+			<reflex>
+				<lang>Tabasaran</lang>
+				<form script="CYRILLIC">къаб</form>
+				<translit>q̄ab</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/къаб#Tabasaran</url>
+			</reflex>
+			<reflex>
+				<lang>Udi</lang>
+				<form script="CYRILLIC">къа</form>
+				<translit>q̇a</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/къа#Udi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*ɬ:ɔn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/ɬ:ɔn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bezhta</lang>
+				<form script="CYRILLIC">лъи</form>
+				<translit>lˢi</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъи#Bezhta</url>
+			</reflex>
+			<reflex>
+				<lang>Hinukh</lang>
+				<form script="CYRILLIC">лъе</form>
+				<translit>λe</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъе#Hinukh</url>
+			</reflex>
+			<reflex>
+				<lang>Hunzib</lang>
+				<form script="CYRILLIC">лъыᵸ</form>
+				<translit>λɨ̃</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъыᵸ#Hunzib</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">лъа</form>
+				<translit>λa</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъа#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">лъо</form>
+				<translit>λo</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъо#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Khvarshi</lang>
+				<form script="CYRILLIC">лъоᵸ</form>
+				<translit>λõ</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъоᵸ#Khvarshi</url>
+			</reflex>
+			<reflex>
+				<lang>Tsez</lang>
+				<form script="CYRILLIC">лъи</form>
+				<translit>λi</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/лъи#Tsez</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northeast Caucasian</plang>
+			<pform>*ḳwēmṭī</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northeast Caucasian/ḳwēmṭī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">քիթ</form>
+				<translit>kʿitʿ</translit>
+				<concepts>
+					<c>nose</c>
+					<c>tip</c>
+				</concepts>
+				<url source="wiki">/wiki/քիթ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Avar</lang>
+				<form script="CYRILLIC">кӏветӏ</form>
+				<translit>kʼwetʼ</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏветӏ#Avar</url>
+			</reflex>
+			<reflex>
+				<lang>Dargwa</lang>
+				<form script="CYRILLIC">кӏентӏ</form>
+				<translit>ḳenṭ</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏентӏ#Dargwa</url>
+			</reflex>
+			<reflex>
+				<lang>Godoberi</lang>
+				<form script="CYRILLIC">кӏотӏи</form>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏотӏи#Godoberi</url>
+			</reflex>
+			<reflex>
+				<lang>Khinalug</lang>
+				<form script="CYRILLIC">кӏыты́р</form>
+				<translit>ḳɨtɨ́r</translit>
+				<concepts>
+					<c>nose</c>
+				</concepts>
+				<url source="wiki">/wiki/кӏытыр#Khinalug</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">քիթ</form>
+				<translit>kʿitʿ</translit>
+				<concepts>
+					<c>nose</c>
+					<c>snout</c>
+					<c>muzzle</c>
+				</concepts>
+				<url source="wiki">/wiki/քիթ#Old_Armenian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

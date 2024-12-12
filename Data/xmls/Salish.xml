@@ -1,0 +1,262 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*k'ʷat'an</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/k'ʷat'an</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Klallam</lang>
+				<form script="LATIN">k'ʷát'ən</form>
+				<concepts>
+					<c>rat</c>
+				</concepts>
+				<url source="wiki">/wiki/k'ʷát'ən#Klallam</url>
+			</reflex>
+			<reflex>
+				<lang>Lushootseed</lang>
+				<form script="LATIN">k'ʷat'ad</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/k'ʷat'ad#Lushootseed</url>
+			</reflex>
+			<reflex>
+				<lang>Montana Salish</lang>
+				<form script="LATIN">k'ʷékʷt'neʔ</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/k'ʷékʷt'neʔ#Montana_Salish</url>
+			</reflex>
+			<reflex>
+				<lang>Saanich</lang>
+				<form script="LATIN">k'ʷet'ən</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/k'ʷet'ən#Saanich</url>
+			</reflex>
+			<reflex>
+				<lang>Squamish</lang>
+				<form script="LATIN">kw'át'an</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/kw'át'an#Squamish</url>
+			</reflex>
+			<reflex>
+				<lang>Thompson</lang>
+				<form script="LATIN">k'ʷetn'íʔ</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/k'ʷetn'íʔ#Thompson</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*miχał</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/miχał</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Columbia-Wenatchi</lang>
+				<form script="LATIN">míχał</form>
+				<concepts>
+					<c>black bear</c>
+				</concepts>
+				<url source="wiki">/wiki/míχał#Columbia-Wenatchi</url>
+			</reflex>
+			<reflex>
+				<lang>Comox</lang>
+				<form script="LATIN">mɛχaɬ</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/mɛχaɬ#Comox</url>
+			</reflex>
+			<reflex>
+				<lang>Squamish</lang>
+				<form script="LATIN">míχał</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/míχał#Squamish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*qʷlawl</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/qʷlawl</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lillooet</lang>
+				<form script="LATIN">qʷláwaʔ</form>
+				<concepts>
+					<c>onion</c>
+				</concepts>
+				<url source="wiki">/wiki/qʷláwaʔ#Lillooet</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*qʷəłin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/qʷəłin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Okanagan</lang>
+				<form script="LATIN">qʷəqʷłín'</form>
+				<concepts>
+					<c>birch</c>
+				</concepts>
+				<url source="wiki">/wiki/qʷəqʷłín'#Okanagan</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*smułac</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/smułac</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lillooet</lang>
+				<form script="LATIN">smúłac</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/smúłac#Lillooet</url>
+			</reflex>
+			<reflex>
+				<lang>Thompson</lang>
+				<form script="LATIN">šmúłeč</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/šmúłeč#Thompson</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*sməq'ʷaʔ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/sməq'ʷaʔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lushootseed</lang>
+				<form script="LATIN">sbəq̓ʷaʔ</form>
+				<concepts>
+					<c>heron</c>
+				</concepts>
+				<url source="wiki">/wiki/sbəq̓ʷaʔ#Lushootseed</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*smɣaw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/smɣaw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Columbia-Wenatchi</lang>
+				<form script="LATIN">šəmyáw</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/šəmyáw#Columbia-Wenatchi</url>
+			</reflex>
+			<reflex>
+				<lang>Lushootseed</lang>
+				<form script="LATIN">sbiaw</form>
+				<concepts>
+					<c>coyote</c>
+				</concepts>
+				<url source="wiki">/wiki/sbiaw#Lushootseed</url>
+			</reflex>
+			<reflex>
+				<lang>Shuswap</lang>
+				<form script="LATIN">smɣew'</form>
+				<concepts>
+					<c>lynx</c>
+				</concepts>
+				<url source="wiki">/wiki/smɣew'#Shuswap</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*sčaliłtǝn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/sčaliłtǝn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Squamish</lang>
+				<form script="LATIN">scháyilhen</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/scháyilhen#Squamish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Salish</plang>
+			<pform>*t'aməxʷ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Salish/t'aməxʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Squamish</lang>
+				<form script="LATIN">t'em̓xw</form>
+				<concepts>
+					<c>gooseberry</c>
+				</concepts>
+				<url source="wiki">/wiki/t'em̓xw#Squamish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

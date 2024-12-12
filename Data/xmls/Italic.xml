@@ -1,0 +1,5595 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*Flōzā</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/Flōzā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">Flore</form>
+				<concepts>
+					<c>Flora</c>
+				</concepts>
+				<url source="wiki">/wiki/Flore#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Flora</form>
+				<concepts>
+					<c>Flora</c>
+				</concepts>
+				<url source="wiki">/wiki/Flora#German</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Flora</form>
+				<concepts>
+					<c>flora</c>
+				</concepts>
+				<url source="wiki">/wiki/Flora#German</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">Flora</form>
+				<concepts>
+					<c>Flora</c>
+				</concepts>
+				<url source="wiki">/wiki/Flora#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">Flōra</form>
+				<concepts>
+					<c>Flora</c>
+				</concepts>
+				<url source="wiki">/wiki/Flora#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">Flora</form>
+				<concepts>
+					<c>Flora</c>
+				</concepts>
+				<url source="wiki">/wiki/Flora#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">Flora</form>
+				<concepts>
+					<c>Flora</c>
+				</concepts>
+				<url source="wiki">/wiki/Flora#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*Kerēs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/Kerēs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Afrikaans</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Afrikaans</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">Cerere</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Cerere#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Swahili</lang>
+				<form script="LATIN">Ceres</form>
+				<concepts>
+					<c>Ceres</c>
+				</concepts>
+				<url source="wiki">/wiki/Ceres#Swahili</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*Septemos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/Septemos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">Septimius</form>
+				<concepts>
+					<c>gens</c>
+				</concepts>
+				<url source="wiki">/wiki/Septimius#Latin</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*dweos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/dweos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">beō</form>
+				<concepts>
+					<c>bless</c>
+					<c>gladden</c>
+					<c>enrich</c>
+				</concepts>
+				<url source="wiki">/wiki/beo#Latin</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*engnārāō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/engnārāō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">inorar</form>
+				<concepts>
+					<c>unaware</c>
+					<c>ignorant</c>
+				</concepts>
+				<url source="wiki">/wiki/inorar#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">enyorar</form>
+				<concepts>
+					<c>long for</c>
+					<c>miss</c>
+				</concepts>
+				<url source="wiki">/wiki/enyorar#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">ignorar</form>
+				<concepts>
+					<c>ignorant</c>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorar#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">ignorer</form>
+				<concepts>
+					<c>unaware</c>
+					<c>ignorant</c>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorer#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">ignorar</form>
+				<concepts>
+					<c>ignorant</c>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorar#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">ignorieren</form>
+				<concepts>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorieren#German</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">ignorare</form>
+				<concepts>
+					<c>unaware</c>
+					<c>disregard</c>
+					<c>shrug off</c>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorare#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">ignorar</form>
+				<concepts>
+					<c>ignorant</c>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorar#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Piedmontese</lang>
+				<form script="LATIN">ignoré</form>
+				<concepts>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignoré#Piedmontese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">ignorar</form>
+				<concepts>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorar#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">ignora</form>
+				<concepts>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignora#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">añorar</form>
+				<concepts>
+					<c>pine</c>
+					<c>yearn</c>
+					<c>miss</c>
+				</concepts>
+				<url source="wiki">/wiki/añorar#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">ignorar</form>
+				<concepts>
+					<c>disregard</c>
+					<c>ignorant</c>
+					<c>ignore</c>
+				</concepts>
+				<url source="wiki">/wiki/ignorar#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*fabā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/fabā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">fauã</form>
+				<concepts>
+					<c>bean</c>
+					<c>lentil</c>
+					<c>broad bean</c>
+					<c>fava bean</c>
+					<c>horse bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fauã#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">faba</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/faba#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">fava</form>
+				<concepts>
+					<c>fava bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fava#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">fua</form>
+				<concepts>
+					<c>broad bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fua#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">fava</form>
+				<concepts>
+					<c>fava bean</c>
+					<c>fava</c>
+				</concepts>
+				<url source="wiki">/wiki/fava#English</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">fabo</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fabo#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>Faliscan</lang>
+				<form script="LATIN">haba</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/haba#Faliscan</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">fève</form>
+				<concepts>
+					<c>metal</c>
+					<c>broad bean</c>
+					<c>strictly</c>
+				</concepts>
+				<url source="wiki">/wiki/fève#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">fave</form>
+				<concepts>
+					<c>broad bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fave#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">faba</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/faba#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">fava</form>
+				<concepts>
+					<c>cock</c>
+					<c>broad bean</c>
+					<c>fava bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fava#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">ibawen</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/ibawen#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">faba</form>
+				<concepts>
+					<c>bean</c>
+					<c>horse bean</c>
+				</concepts>
+				<url source="wiki">/wiki/faba#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Neapolitan</lang>
+				<form script="LATIN">fafa</form>
+				<concepts>
+					<c>broad bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fafa#Neapolitan</url>
+			</reflex>
+			<reflex>
+				<lang>Neapolitan</lang>
+				<form script="LATIN">fafodda</form>
+				<concepts>
+					<c>broad bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fafodda#Neapolitan</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">fava</form>
+				<concepts>
+					<c>fava bean</c>
+				</concepts>
+				<url source="wiki">/wiki/fava#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Quechua</lang>
+				<form script="LATIN">jawas</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/jawas#Quechua</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">haba</form>
+				<concepts>
+					<c>bump</c>
+					<c>bean</c>
+					<c>broad bean</c>
+					<c>horse bean</c>
+					<c>nodule</c>
+				</concepts>
+				<url source="wiki">/wiki/haba#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Umbrian</lang>
+				<form script="OLD ITALIC">𐌇𐌀𐌐𐌉𐌍𐌀𐌚</form>
+				<translit>hapinaf</translit>
+				<concepts>
+					<c>ewe lamb</c>
+				</concepts>
+				<url source="wiki">/wiki/𐌇𐌀𐌐𐌉𐌍𐌀𐌚#Umbrian</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">ffa</form>
+				<concepts>
+					<c>beans</c>
+				</concepts>
+				<url source="wiki">/wiki/ffa#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*fameljā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/fameljā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">fumealji</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/fumealji#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Cimbrian</lang>
+				<form script="LATIN">famildja</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famildja#Cimbrian</url>
+			</reflex>
+			<reflex>
+				<lang>Cimbrian</lang>
+				<form script="LATIN">faméeja</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/faméeja#Cimbrian</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">famalja</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famalja#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">famee</form>
+				<concepts>
+					<c>strain</c>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famee#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Istriot</lang>
+				<form script="LATIN">fameîa</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/fameîa#Istriot</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">famiglia</form>
+				<concepts>
+					<c>family</c>
+					<c>household</c>
+				</concepts>
+				<url source="wiki">/wiki/famiglia#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Ligurian</lang>
+				<form script="LATIN">famìggia</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famìggia#Ligurian</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">familja</form>
+				<concepts>
+					<c>kind</c>
+					<c>lineage</c>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/familja#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Mòcheno</lang>
+				<form script="LATIN">familia</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/familia#Mòcheno</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">فاملیا</form>
+				<concepts>
+					<c>wife</c>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/فاملیا#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">famèja</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famèja#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">famì</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famì#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">femeie</form>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/femeie#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">famiglia</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famiglia#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">famigghia</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/famigghia#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">familya</form>
+				<concepts>
+					<c>wife</c>
+					<c>family</c>
+					<c>spouse</c>
+				</concepts>
+				<url source="wiki">/wiki/familya#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Venetian</lang>
+				<form script="LATIN">fameja</form>
+				<concepts>
+					<c>family</c>
+				</concepts>
+				<url source="wiki">/wiki/fameja#Venetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*formokaps</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/formokaps</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">fòrceps</form>
+				<concepts>
+					<c>forceps</c>
+				</concepts>
+				<url source="wiki">/wiki/fòrceps#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">forceps</form>
+				<concepts>
+					<c>forceps</c>
+				</concepts>
+				<url source="wiki">/wiki/forceps#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Forzeps</form>
+				<concepts>
+					<c>forceps</c>
+				</concepts>
+				<url source="wiki">/wiki/Forzeps#German</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">forcipe</form>
+				<concepts>
+					<c>forceps</c>
+				</concepts>
+				<url source="wiki">/wiki/forcipe#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">forceps</form>
+				<concepts>
+					<c>pincers</c>
+					<c>forceps</c>
+					<c>tongs</c>
+				</concepts>
+				<url source="wiki">/wiki/forceps#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">fórceps</form>
+				<concepts>
+					<c>forceps</c>
+				</concepts>
+				<url source="wiki">/wiki/fórceps#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">forceps</form>
+				<concepts>
+					<c>forceps</c>
+				</concepts>
+				<url source="wiki">/wiki/forceps#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">fórceps</form>
+				<concepts>
+					<c>forceps</c>
+				</concepts>
+				<url source="wiki">/wiki/fórceps#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*gnārāō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/gnārāō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">narrar</form>
+				<concepts>
+					<c>narrate</c>
+				</concepts>
+				<url source="wiki">/wiki/narrar#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">narrer</form>
+				<concepts>
+					<c>narrate</c>
+					<c>tell</c>
+				</concepts>
+				<url source="wiki">/wiki/narrer#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">narrar</form>
+				<concepts>
+					<c>narrate</c>
+				</concepts>
+				<url source="wiki">/wiki/narrar#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">narrare</form>
+				<concepts>
+					<c>narrate</c>
+					<c>tell</c>
+				</concepts>
+				<url source="wiki">/wiki/narrare#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">narrar</form>
+				<concepts>
+					<c>narrate</c>
+					<c>tell</c>
+					<c>describe</c>
+				</concepts>
+				<url source="wiki">/wiki/narrar#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">nara</form>
+				<concepts>
+					<c>narrate</c>
+					<c>tell</c>
+				</concepts>
+				<url source="wiki">/wiki/nara#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">nàrrere</form>
+				<concepts>
+					<c>diction</c>
+				</concepts>
+				<url source="wiki">/wiki/nàrrere#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">nàrrere</form>
+				<concepts>
+					<c>tell</c>
+					<c>say</c>
+				</concepts>
+				<url source="wiki">/wiki/nàrrere#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">narrar</form>
+				<concepts>
+					<c>narrate</c>
+				</concepts>
+				<url source="wiki">/wiki/narrar#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*haidos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/haidos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">ed</form>
+				<concepts>
+					<c>kid</c>
+				</concepts>
+				<url source="wiki">/wiki/ed#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">haedus</form>
+				<concepts>
+					<c>kid</c>
+				</concepts>
+				<url source="wiki">/wiki/haedus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">ied</form>
+				<concepts>
+					<c>kid</c>
+				</concepts>
+				<url source="wiki">/wiki/ied#Romanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*jakēō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/jakēō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aragonese</lang>
+				<form script="LATIN">chacer</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/chacer#Aragonese</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">dzac, dzãtseari, dzatsiri</form>
+				<concepts>
+					<c>lie</c>
+					<c>lie down</c>
+				</concepts>
+				<url source="wiki">/wiki/dzac#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Bourguignon</lang>
+				<form script="LATIN">gizai</form>
+				<concepts>
+					<c>find oneself</c>
+					<c>found</c>
+				</concepts>
+				<url source="wiki">/wiki/gizai#Bourguignon</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">jeure</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/jeure#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">joist</form>
+				<concepts>
+					<c>fit</c>
+					<c>joist</c>
+				</concepts>
+				<url source="wiki">/wiki/joist#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">gésir</form>
+				<concepts>
+					<c>lie</c>
+					<c>hidden</c>
+					<c>buried</c>
+				</concepts>
+				<url source="wiki">/wiki/gésir#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">jas</form>
+				<concepts>
+					<c>sheepfold</c>
+				</concepts>
+				<url source="wiki">/wiki/jas#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">jessi</form>
+				<concepts>
+					<c>be</c>
+				</concepts>
+				<url source="wiki">/wiki/jessi#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">xacer</form>
+				<concepts>
+					<c>lie</c>
+					<c>recline</c>
+				</concepts>
+				<url source="wiki">/wiki/xacer#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">xacer</form>
+				<concepts>
+					<c>rest</c>
+				</concepts>
+				<url source="wiki">/wiki/xacer#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Interlingua</lang>
+				<form script="LATIN">jacer</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/jacer#Interlingua</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">giacere</form>
+				<concepts>
+					<c>lie</c>
+					<c>find oneself</c>
+					<c>situated</c>
+					<c>sleep with</c>
+					<c>lie with</c>
+					<c>lay</c>
+				</concepts>
+				<url source="wiki">/wiki/giacere#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">jàser</form>
+				<concepts>
+					<c>lie down</c>
+				</concepts>
+				<url source="wiki">/wiki/jàser#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">jazer</form>
+				<concepts>
+					<c>lie</c>
+					<c>sit</c>
+					<c>lie down</c>
+					<c>lay</c>
+				</concepts>
+				<url source="wiki">/wiki/jazer#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">zăcea</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/zăcea#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">giaschair</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/giaschair#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">scher</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/scher#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">giaghere</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/giaghere#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">jachere</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/jachere#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">jaghere</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/jaghere#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">yacer</form>
+				<concepts>
+					<c>lie</c>
+					<c>recline</c>
+				</concepts>
+				<url source="wiki">/wiki/yacer#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*jowestos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/jowestos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Afrikaans</lang>
+				<form script="LATIN">juis</form>
+				<concepts>
+					<c>conversely</c>
+					<c>on the other hand</c>
+					<c>actually</c>
+					<c>precisely</c>
+					<c>in fact</c>
+					<c>exactly</c>
+				</concepts>
+				<url source="wiki">/wiki/juis#Afrikaans</url>
+			</reflex>
+			<reflex>
+				<lang>Afrikaans</lang>
+				<form script="LATIN">juis</form>
+				<concepts>
+					<c>correct</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/juis#Afrikaans</url>
+			</reflex>
+			<reflex>
+				<lang>Aragonese</lang>
+				<form script="LATIN">chusto</form>
+				<concepts>
+					<c>fair</c>
+					<c>just</c>
+				</concepts>
+				<url source="wiki">/wiki/chusto#Aragonese</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">giustu</form>
+				<concepts>
+					<c>exactly</c>
+					<c>just</c>
+					<c>precisely</c>
+				</concepts>
+				<url source="wiki">/wiki/giustu#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">xustu</form>
+				<concepts>
+					<c>fair</c>
+					<c>just</c>
+					<c>correct</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/xustu#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">just</form>
+				<concepts>
+					<c>fair</c>
+					<c>just</c>
+					<c>perfect</c>
+				</concepts>
+				<url source="wiki">/wiki/just#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">just</form>
+				<concepts>
+					<c>justly</c>
+				</concepts>
+				<url source="wiki">/wiki/just#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">jost</form>
+				<concepts>
+					<c>just</c>
+					<c>correct</c>
+				</concepts>
+				<url source="wiki">/wiki/jost#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">juist</form>
+				<concepts>
+					<c>conversely</c>
+					<c>on the other hand</c>
+					<c>just</c>
+					<c>actually</c>
+					<c>indeed</c>
+					<c>exactly</c>
+					<c>even</c>
+				</concepts>
+				<url source="wiki">/wiki/juist#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">juist</form>
+				<concepts>
+					<c>just</c>
+					<c>correct</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/juist#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">giusto</form>
+				<concepts>
+					<c>exact</c>
+					<c>strict</c>
+					<c>giusto</c>
+				</concepts>
+				<url source="wiki">/wiki/giusto#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">juste</form>
+				<concepts>
+					<c>exactly</c>
+					<c>only</c>
+					<c>just</c>
+					<c>precisely</c>
+				</concepts>
+				<url source="wiki">/wiki/juste#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">juste</form>
+				<concepts>
+					<c>perfect</c>
+					<c>grounded</c>
+					<c>just</c>
+					<c>fair</c>
+					<c>correct</c>
+					<c>reasonable</c>
+					<c>appropriate</c>
+				</concepts>
+				<url source="wiki">/wiki/juste#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">juste</form>
+				<concepts>
+					<c>righteous</c>
+				</concepts>
+				<url source="wiki">/wiki/juste#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">just</form>
+				<concepts>
+					<c>just</c>
+					<c>adequate</c>
+					<c>apt</c>
+					<c>exact</c>
+					<c>correct</c>
+					<c>right</c>
+					<c>proper</c>
+				</concepts>
+				<url source="wiki">/wiki/just#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">xusto</form>
+				<concepts>
+					<c>fair</c>
+					<c>just</c>
+				</concepts>
+				<url source="wiki">/wiki/xusto#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">giusto</form>
+				<concepts>
+					<c>exactly</c>
+					<c>just</c>
+				</concepts>
+				<url source="wiki">/wiki/giusto#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">giusto</form>
+				<concepts>
+					<c>just</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/giusto#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">giusto</form>
+				<concepts>
+					<c>righteous</c>
+				</concepts>
+				<url source="wiki">/wiki/giusto#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Kabuverdianu</lang>
+				<form script="LATIN">justu</form>
+				<concepts>
+					<c>fair</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/justu#Kabuverdianu</url>
+			</reflex>
+			<reflex>
+				<lang>Ladin</lang>
+				<form script="LATIN">giust</form>
+				<concepts>
+					<c>convenient</c>
+					<c>correct</c>
+					<c>appropriate</c>
+					<c>suitable</c>
+				</concepts>
+				<url source="wiki">/wiki/giust#Ladin</url>
+			</reflex>
+			<reflex>
+				<lang>Ladino</lang>
+				<form script="LATIN">djusto</form>
+				<concepts>
+					<c>exact</c>
+					<c>correct</c>
+				</concepts>
+				<url source="wiki">/wiki/djusto#Ladino</url>
+			</reflex>
+			<reflex>
+				<lang>Middle English</lang>
+				<form script="LATIN">juste</form>
+				<concepts>
+					<c>just</c>
+				</concepts>
+				<url source="wiki">/wiki/juste#Middle_English</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">juste</form>
+				<concepts>
+					<c>accurate</c>
+					<c>exact</c>
+				</concepts>
+				<url source="wiki">/wiki/juste#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Old Spanish</lang>
+				<form script="LATIN">justo</form>
+				<concepts>
+					<c>just</c>
+					<c>righteous</c>
+				</concepts>
+				<url source="wiki">/wiki/justo#Old_Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Spanish</lang>
+				<form script="LATIN">justo</form>
+				<concepts>
+					<c>righteous</c>
+				</concepts>
+				<url source="wiki">/wiki/justo#Old_Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">justo</form>
+				<concepts>
+					<c>fair</c>
+					<c>just</c>
+					<c>righteous</c>
+				</concepts>
+				<url source="wiki">/wiki/justo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">gióst</form>
+				<concepts>
+					<c>fair</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/gióst#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">jóst</form>
+				<concepts>
+					<c>fair</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/jóst#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">just</form>
+				<concepts>
+					<c>just</c>
+					<c>correct</c>
+				</concepts>
+				<url source="wiki">/wiki/just#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">gist</form>
+				<concepts>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/gist#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">justo</form>
+				<concepts>
+					<c>exactly</c>
+					<c>tightly</c>
+					<c>just</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/justo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">justo</form>
+				<concepts>
+					<c>fair</c>
+					<c>just</c>
+				</concepts>
+				<url source="wiki">/wiki/justo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Sranan Tongo</lang>
+				<form script="LATIN">yoysti</form>
+				<concepts>
+					<c>just</c>
+				</concepts>
+				<url source="wiki">/wiki/yoysti#Sranan_Tongo</url>
+			</reflex>
+			<reflex>
+				<lang>Venetian</lang>
+				<form script="LATIN">justo</form>
+				<concepts>
+					<c>fair</c>
+					<c>just</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/justo#Venetian</url>
+			</reflex>
+			<reflex>
+				<lang>Yola</lang>
+				<form script="LATIN">gist</form>
+				<concepts>
+					<c>just now</c>
+					<c>just</c>
+				</concepts>
+				<url source="wiki">/wiki/gist#Yola</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*katelos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/katelos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guinea-Bissau Creole</lang>
+				<form script="LATIN">katcur</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/katcur#Guinea-Bissau_Creole</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">cucciolo</form>
+				<concepts>
+					<c>puppy</c>
+					<c>cub</c>
+					<c>pup</c>
+				</concepts>
+				<url source="wiki">/wiki/cucciolo#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Kabuverdianu</lang>
+				<form script="LATIN">katchor</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/katchor#Kabuverdianu</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">catulus</form>
+				<concepts>
+					<c>whelp</c>
+					<c>puppy</c>
+				</concepts>
+				<url source="wiki">/wiki/catulus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Papiamentu</lang>
+				<form script="LATIN">kachó</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kachó#Papiamentu</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">cachorro</form>
+				<concepts>
+					<c>dog</c>
+					<c>puppy</c>
+					<c>hot dog</c>
+				</concepts>
+				<url source="wiki">/wiki/cachorro#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">cachorro</form>
+				<concepts>
+					<c>puppy</c>
+					<c>cub</c>
+					<c>pup</c>
+				</concepts>
+				<url source="wiki">/wiki/cachorro#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*kedō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/kedō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">cedir</form>
+				<concepts>
+					<c>concede</c>
+					<c>give in</c>
+				</concepts>
+				<url source="wiki">/wiki/cedir#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">čedur</form>
+				<concepts>
+					<c>submit</c>
+					<c>relinquish</c>
+					<c>cede</c>
+					<c>surrender</c>
+				</concepts>
+				<url source="wiki">/wiki/čedur#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">cede</form>
+				<concepts>
+					<c>give way</c>
+					<c>give up</c>
+					<c>cede</c>
+				</concepts>
+				<url source="wiki">/wiki/cede#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">céder</form>
+				<concepts>
+					<c>yield</c>
+				</concepts>
+				<url source="wiki">/wiki/céder#French</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">cedere</form>
+				<concepts>
+					<c>sell</c>
+					<c>surrender</c>
+					<c>give up</c>
+					<c>succumb</c>
+					<c>withdraw</c>
+					<c>cave in</c>
+					<c>resell</c>
+					<c>yield</c>
+					<c>give way</c>
+				</concepts>
+				<url source="wiki">/wiki/cedere#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">ceder</form>
+				<concepts>
+					<c>give away</c>
+					<c>give up</c>
+					<c>hand over</c>
+					<c>fall down</c>
+					<c>collapse</c>
+					<c>cede</c>
+					<c>lend</c>
+				</concepts>
+				<url source="wiki">/wiki/ceder#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">ceda</form>
+				<concepts>
+					<c>cede</c>
+					<c>yield</c>
+					<c>give up</c>
+				</concepts>
+				<url source="wiki">/wiki/ceda#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">ceder</form>
+				<concepts>
+					<c>relinquish</c>
+					<c>transfer</c>
+					<c>abandon</c>
+					<c>leave</c>
+					<c>diminish</c>
+					<c>hand over</c>
+					<c>convey</c>
+					<c>lessen</c>
+					<c>cave in</c>
+					<c>cede</c>
+					<c>yield</c>
+					<c>give in</c>
+					<c>decrease</c>
+				</concepts>
+				<url source="wiki">/wiki/ceder#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*knuks</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/knuks</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aragonese</lang>
+				<form script="LATIN">nou</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/nou#Aragonese</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">nucã</form>
+				<concepts>
+					<c>nut</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nucã#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">nuez</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nuez#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">anou</form>
+				<concepts>
+					<c>nut</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/anou#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">nou</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/nou#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">nauc</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/nauc#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">nukso</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/nukso#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">noix</form>
+				<concepts>
+					<c>knob</c>
+					<c>cushion</c>
+					<c>testicle</c>
+					<c>walnut</c>
+					<c>nut</c>
+					<c>pat</c>
+				</concepts>
+				<url source="wiki">/wiki/noix#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">noz</form>
+				<concepts>
+					<c>Adam's apple</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/noz#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Ido</lang>
+				<form script="LATIN">nuco</form>
+				<concepts>
+					<c>nut</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nuco#Ido</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">noce</form>
+				<concepts>
+					<c>nut</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/noce#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">noce</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/noce#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">noce</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/noce#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">*nocem</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Latin/nocem</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">nux</form>
+				<concepts>
+					<c>nut</c>
+					<c>almond tree</c>
+				</concepts>
+				<url source="wiki">/wiki/nux#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Ligurian</lang>
+				<form script="LATIN">nôxe</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nôxe#Ligurian</url>
+			</reflex>
+			<reflex>
+				<lang>Neapolitan</lang>
+				<form script="LATIN">noce</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/noce#Neapolitan</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">noga</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/noga#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">noz</form>
+				<concepts>
+					<c>nut</c>
+					<c>testicle</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/noz#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">nôș</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nôș#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">nôșa</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nôșa#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">nuc</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nuc#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">nucă</form>
+				<concepts>
+					<c>nut</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nucă#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">nusch</form>
+				<concepts>
+					<c>nut</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nusch#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">nuche</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/nuche#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">nughe</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/nughe#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">nuci</form>
+				<concepts>
+					<c>nut</c>
+				</concepts>
+				<url source="wiki">/wiki/nuci#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">nuez</form>
+				<concepts>
+					<c>nut</c>
+					<c>pecan</c>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nuez#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Venetian</lang>
+				<form script="LATIN">nóxa</form>
+				<concepts>
+					<c>walnut</c>
+				</concepts>
+				<url source="wiki">/wiki/nóxa#Venetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*kubāō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/kubāō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">couver</form>
+				<concepts>
+					<c>mollycoddle</c>
+					<c>coddle</c>
+					<c>brood</c>
+					<c>pamper</c>
+					<c>plot</c>
+					<c>scheme</c>
+					<c>hatch</c>
+				</concepts>
+				<url source="wiki">/wiki/couver#French</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">covare</form>
+				<concepts>
+					<c>brood</c>
+					<c>protect</c>
+					<c>nurture</c>
+					<c>cultivate</c>
+					<c>foster</c>
+					<c>incubate</c>
+				</concepts>
+				<url source="wiki">/wiki/covare#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Venetian</lang>
+				<form script="LATIN">coar</form>
+				<concepts>
+					<c>incubate</c>
+					<c>brood</c>
+				</concepts>
+				<url source="wiki">/wiki/coar#Venetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*lēks</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/lēks</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">ligj</form>
+				<concepts>
+					<c>statute</c>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/ligj#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">leadzi</form>
+				<concepts>
+					<c>rule</c>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/leadzi#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">llei</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/llei#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">llei</form>
+				<concepts>
+					<c>sort</c>
+					<c>fineness</c>
+					<c>type</c>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/llei#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">leĝo</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/leĝo#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">loi</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/loi#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">leç</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/leç#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Haitian Creole</lang>
+				<form script="LATIN">lalwa</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/lalwa#Haitian_Creole</url>
+			</reflex>
+			<reflex>
+				<lang>Ladin</lang>
+				<form script="LATIN">lege</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/lege#Ladin</url>
+			</reflex>
+			<reflex>
+				<lang>Lombard</lang>
+				<form script="LATIN">leg</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/leg#Lombard</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">loy</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/loy#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Moore</lang>
+				<form script="LATIN">laloa</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/laloa#Moore</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">louai</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/louai#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">lei</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/lei#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Old Occitan</lang>
+				<form script="LATIN">ley</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/ley#Old_Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">lei</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/lei#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">ley</form>
+				<concepts>
+					<c>religion</c>
+					<c>credence</c>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/ley#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Walloon</lang>
+				<form script="LATIN">lwè</form>
+				<concepts>
+					<c>law</c>
+				</concepts>
+				<url source="wiki">/wiki/lwè#Walloon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*manukaps</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/manukaps</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">mancebo</form>
+				<concepts>
+					<c>salesclerk</c>
+					<c>youngster</c>
+				</concepts>
+				<url source="wiki">/wiki/mancebo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">mancebo</form>
+				<concepts>
+					<c>young</c>
+				</concepts>
+				<url source="wiki">/wiki/mancebo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">manceps</form>
+				<concepts>
+					<c>contractor</c>
+					<c>proprietor</c>
+					<c>agent</c>
+					<c>renter</c>
+					<c>owner</c>
+					<c>bondsman</c>
+					<c>possessor</c>
+					<c>surety</c>
+					<c>purchaser</c>
+				</concepts>
+				<url source="wiki">/wiki/manceps#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">mancebo</form>
+				<concepts>
+					<c>coat stand</c>
+					<c>coat rack</c>
+					<c>boy</c>
+				</concepts>
+				<url source="wiki">/wiki/mancebo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">mancebo</form>
+				<concepts>
+					<c>bachelor</c>
+					<c>waiter</c>
+					<c>youth</c>
+				</concepts>
+				<url source="wiki">/wiki/mancebo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">mancebo</form>
+				<concepts>
+					<c>juvenile</c>
+				</concepts>
+				<url source="wiki">/wiki/mancebo#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*mentjōr</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/mentjōr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">mentir</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mentir#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">mentir</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mentir#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">mentir</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mentir#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">mintî</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mintî#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">mentir</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mentir#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">mentire</form>
+				<concepts>
+					<c>lie</c>
+					<c>falsify</c>
+					<c>fake</c>
+				</concepts>
+				<url source="wiki">/wiki/mentire#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">mentir</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mentir#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">mentir</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mentir#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">minți, mințire</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/minți#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">mentir</form>
+				<concepts>
+					<c>lie</c>
+				</concepts>
+				<url source="wiki">/wiki/mentir#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*moinokaps</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/moinokaps</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">mūniceps</form>
+				<concepts>
+					<c>citizen</c>
+				</concepts>
+				<url source="wiki">/wiki/municeps#Latin</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*nosteros</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/nosteros</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">noastrã</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/noastrã#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">nostru</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostru#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">nuestru</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nuestru#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">nostre</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostre#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">nostre</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nostre#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">nuester</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nuester#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">nuestra</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nuestra#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">nos</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nos#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">notre</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/notre#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">nôtre</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nôtre#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">nestre</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nestre#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">nestri</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nestri#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">nestris</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nestris#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">nosa</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nosa#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">nosas</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nosas#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">noso</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/noso#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">nosos</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nosos#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Istriot</lang>
+				<form script="LATIN">nostro</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostro#Istriot</url>
+			</reflex>
+			<reflex>
+				<lang>Istriot</lang>
+				<form script="LATIN">nostro</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nostro#Istriot</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">nostro</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostro#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">nostro</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nostro#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">nostro</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nostro#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Ladino</lang>
+				<form script="LATIN">muestro</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/muestro#Ladino</url>
+			</reflex>
+			<reflex>
+				<lang>Ladino</lang>
+				<form script="LATIN">muestro</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/muestro#Ladino</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">noster</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/noster#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">nous</form>
+				<concepts>
+					<c>ourselves</c>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/nous#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Mirandese</lang>
+				<form script="LATIN">nuosso</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nuosso#Mirandese</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">nòstre</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nòstre#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">nostre</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostre#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">noz</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/noz#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Old Galician-Portuguese</lang>
+				<form script="LATIN">nostro</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostro#Old_Galician-Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">nosso</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nosso#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">nosso</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nosso#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">noastre</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/noastre#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">noastră</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/noastră#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">nostru</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostru#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">nostru</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nostru#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">noștri</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/noștri#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Sardinian</lang>
+				<form script="LATIN">nostru</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nostru#Sardinian</url>
+			</reflex>
+			<reflex>
+				<lang>Sassarese</lang>
+				<form script="LATIN">nosthru</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nosthru#Sassarese</url>
+			</reflex>
+			<reflex>
+				<lang>Sassarese</lang>
+				<form script="LATIN">nosthru</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nosthru#Sassarese</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">nostru</form>
+				<concepts>
+					<c>our</c>
+				</concepts>
+				<url source="wiki">/wiki/nostru#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">nuestras</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nuestras#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">nuestro</form>
+				<concepts>
+					<c>our</c>
+					<c>ours</c>
+					<c>us</c>
+				</concepts>
+				<url source="wiki">/wiki/nuestro#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">nuestro</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nuestro#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">nuestros</form>
+				<concepts>
+					<c>ours</c>
+				</concepts>
+				<url source="wiki">/wiki/nuestros#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*oltm̥mos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/oltm̥mos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">últim</form>
+				<concepts>
+					<c>latest</c>
+					<c>last</c>
+					<c>topmost</c>
+					<c>utmost</c>
+					<c>bottommost</c>
+					<c>final</c>
+				</concepts>
+				<url source="wiki">/wiki/últim#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">ultiem</form>
+				<concepts>
+					<c>ultimate</c>
+				</concepts>
+				<url source="wiki">/wiki/ultiem#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">ultimate</form>
+				<concepts>
+					<c>final</c>
+					<c>conclusion</c>
+					<c>maximum</c>
+					<c>ultimate</c>
+				</concepts>
+				<url source="wiki">/wiki/ultimate#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">ultimate</form>
+				<concepts>
+					<c>finish</c>
+					<c>complete</c>
+					<c>ultimate</c>
+				</concepts>
+				<url source="wiki">/wiki/ultimate#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">ultimate</form>
+				<concepts>
+					<c>maximum</c>
+					<c>elemental</c>
+					<c>final</c>
+					<c>constituent</c>
+					<c>eventual</c>
+					<c>ultimate</c>
+				</concepts>
+				<url source="wiki">/wiki/ultimate#English</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">ultima</form>
+				<concepts>
+					<c>ultima</c>
+				</concepts>
+				<url source="wiki">/wiki/ultima#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">ultimaatumi</form>
+				<concepts>
+					<c>ultimatum</c>
+				</concepts>
+				<url source="wiki">/wiki/ultimaatumi#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">ultime</form>
+				<concepts>
+					<c>ultimate</c>
+				</concepts>
+				<url source="wiki">/wiki/ultime#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">ultin</form>
+				<concepts>
+					<c>last</c>
+				</concepts>
+				<url source="wiki">/wiki/ultin#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">último</form>
+				<concepts>
+					<c>final</c>
+					<c>latest</c>
+					<c>last</c>
+				</concepts>
+				<url source="wiki">/wiki/último#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">ultim</form>
+				<concepts>
+					<c>final</c>
+					<c>last</c>
+					<c>ultimate</c>
+				</concepts>
+				<url source="wiki">/wiki/ultim#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">ùrtimu</form>
+				<concepts>
+					<c>last</c>
+				</concepts>
+				<url source="wiki">/wiki/ùrtimu#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">último</form>
+				<concepts>
+					<c>final</c>
+					<c>latest</c>
+					<c>last</c>
+				</concepts>
+				<url source="wiki">/wiki/último#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*partikaps</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/partikaps</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">particeps</form>
+				<concepts>
+					<c>participant</c>
+				</concepts>
+				<url source="wiki">/wiki/particeps#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">particeps</form>
+				<concepts>
+					<c>sharing</c>
+					<c>participant</c>
+					<c>partaking</c>
+				</concepts>
+				<url source="wiki">/wiki/particeps#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">partícipe</form>
+				<concepts>
+					<c>participant</c>
+				</concepts>
+				<url source="wiki">/wiki/partícipe#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*poplos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/poplos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">pollancre</form>
+				<concepts>
+					<c>black poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/pollancre#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">populier</form>
+				<concepts>
+					<c>poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/populier#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">poplo</form>
+				<concepts>
+					<c>poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/poplo#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">peuplier</form>
+				<concepts>
+					<c>poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/peuplier#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">pôl</form>
+				<concepts>
+					<c>poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/pôl#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Ido</lang>
+				<form script="LATIN">poplo</form>
+				<concepts>
+					<c>poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/poplo#Ido</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">popler</form>
+				<concepts>
+					<c>poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/popler#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Vilamovian</lang>
+				<form script="LATIN">pōpuł</form>
+				<concepts>
+					<c>poplar</c>
+				</concepts>
+				<url source="wiki">/wiki/pōpuł#Vilamovian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*postm̥mos</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/postm̥mos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">pòstum</form>
+				<concepts>
+					<c>posthumous</c>
+				</concepts>
+				<url source="wiki">/wiki/pòstum#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">póstumo</form>
+				<concepts>
+					<c>posthumous</c>
+				</concepts>
+				<url source="wiki">/wiki/póstumo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">postumo</form>
+				<concepts>
+					<c>after-effect</c>
+					<c>hangover</c>
+					<c>consequence</c>
+				</concepts>
+				<url source="wiki">/wiki/postumo#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">postumo</form>
+				<concepts>
+					<c>posthumous</c>
+				</concepts>
+				<url source="wiki">/wiki/postumo#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">póstumo</form>
+				<concepts>
+					<c>posthumous</c>
+				</concepts>
+				<url source="wiki">/wiki/póstumo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">postum</form>
+				<concepts>
+					<c>posthumous</c>
+				</concepts>
+				<url source="wiki">/wiki/postum#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">póstumo</form>
+				<concepts>
+					<c>posthumous</c>
+				</concepts>
+				<url source="wiki">/wiki/póstumo#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*poteō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/poteō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aragonese</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Aragonese</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">pot</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>could</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/pot#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">puteari</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/puteari#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Bourguignon</lang>
+				<form script="LATIN">peuvoi</form>
+				<concepts>
+					<c>can</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/peuvoi#Bourguignon</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">potar</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/potar#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">power</form>
+				<concepts>
+					<c>hit</c>
+					<c>enable</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/power#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">power</form>
+				<concepts>
+					<c>impressive</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/power#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">power</form>
+				<concepts>
+					<c>quotient</c>
+					<c>influence</c>
+					<c>effectiveness</c>
+					<c>control</c>
+					<c>tractor</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/power#English</url>
+			</reflex>
+			<reflex>
+				<lang>Extremaduran</lang>
+				<form script="LATIN">poel</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/poel#Extremaduran</url>
+			</reflex>
+			<reflex>
+				<lang>Extremaduran</lang>
+				<form script="LATIN">poel</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/poel#Extremaduran</url>
+			</reflex>
+			<reflex>
+				<lang>Franco-Provençal</lang>
+				<form script="LATIN">povêr</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>able</c>
+					<c>may</c>
+				</concepts>
+				<url source="wiki">/wiki/povêr#Franco-Provençal</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">pouvoir</form>
+				<concepts>
+					<c>authority</c>
+					<c>power of attorney</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/pouvoir#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">pouvoir</form>
+				<concepts>
+					<c>possible</c>
+					<c>may</c>
+					<c>able</c>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/pouvoir#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">podê</form>
+				<concepts>
+					<c>may</c>
+					<c>might</c>
+					<c>could</c>
+					<c>able</c>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/podê#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>can</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>possession</c>
+					<c>might</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Power</form>
+				<concepts>
+					<c>strength</c>
+					<c>power</c>
+					<c>energy</c>
+				</concepts>
+				<url source="wiki">/wiki/Power#German</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">potere</form>
+				<concepts>
+					<c>possible</c>
+					<c>may</c>
+					<c>might</c>
+					<c>could</c>
+					<c>able</c>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/potere#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">potere</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/potere#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Ladin</lang>
+				<form script="LATIN">podei</form>
+				<concepts>
+					<c>possible</c>
+					<c>may</c>
+					<c>might</c>
+					<c>could</c>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/podei#Ladin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">possum</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>may</c>
+				</concepts>
+				<url source="wiki">/wiki/possum#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">possō</form>
+				<concepts>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/posso#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Leonese</lang>
+				<form script="LATIN">podere</form>
+				<concepts>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/podere#Leonese</url>
+			</reflex>
+			<reflex>
+				<lang>Ligurian</lang>
+				<form script="LATIN">poéi</form>
+				<concepts>
+					<c>possible</c>
+					<c>may</c>
+					<c>might</c>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/poéi#Ligurian</url>
+			</reflex>
+			<reflex>
+				<lang>Ligurian</lang>
+				<form script="LATIN">poéi</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/poéi#Ligurian</url>
+			</reflex>
+			<reflex>
+				<lang>Lombard</lang>
+				<form script="LATIN">podè</form>
+				<concepts>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/podè#Lombard</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">povoir</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/povoir#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">povoir</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/povoir#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Neapolitan</lang>
+				<form script="LATIN">potere</form>
+				<concepts>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/potere#Neapolitan</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">pouveî</form>
+				<concepts>
+					<c>can</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/pouveî#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">pooir</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/pooir#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">pooir</form>
+				<concepts>
+					<c>capability</c>
+					<c>ability</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/pooir#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">putea</form>
+				<concepts>
+					<c>possible</c>
+					<c>conceivable</c>
+					<c>may</c>
+					<c>could</c>
+					<c>able</c>
+					<c>can</c>
+					<c>possibility</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/putea#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">putere</form>
+				<concepts>
+					<c>force</c>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/putere#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">pudair</form>
+				<concepts>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/pudair#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">pudeir</form>
+				<concepts>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/pudeir#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">puder</form>
+				<concepts>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/puder#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">putiri</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+					<c>able</c>
+				</concepts>
+				<url source="wiki">/wiki/putiri#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>can</c>
+					<c>able</c>
+					<c>familiar</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">poder</form>
+				<concepts>
+					<c>reign</c>
+					<c>proxy</c>
+					<c>power</c>
+					<c>authorization</c>
+				</concepts>
+				<url source="wiki">/wiki/poder#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Walloon</lang>
+				<form script="LATIN">poleur</form>
+				<concepts>
+					<c>can</c>
+					<c>be able to</c>
+				</concepts>
+				<url source="wiki">/wiki/poleur#Walloon</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">pŵer</form>
+				<concepts>
+					<c>power</c>
+				</concepts>
+				<url source="wiki">/wiki/pŵer#Welsh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*priisemokaps</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/priisemokaps</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Afrikaans</lang>
+				<form script="LATIN">prinses</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prinses#Afrikaans</url>
+			</reflex>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">pringj</form>
+				<concepts>
+					<c>prince</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/pringj#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">πρῖγκιψ</form>
+				<translit>prînkips</translit>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/πρῖγκιψ#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">պրինց</form>
+				<translit>princʿ</translit>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/պրինց#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">príncep</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/príncep#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Cebuano</lang>
+				<form script="LATIN">prinsipe</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsipe#Cebuano</url>
+			</reflex>
+			<reflex>
+				<lang>Danish</lang>
+				<form script="LATIN">fyrste</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/fyrste#Danish</url>
+			</reflex>
+			<reflex>
+				<lang>Danish</lang>
+				<form script="LATIN">prins</form>
+				<concepts>
+					<c>prince</c>
+					<c>prince consort</c>
+				</concepts>
+				<url source="wiki">/wiki/prins#Danish</url>
+			</reflex>
+			<reflex>
+				<lang>Danish</lang>
+				<form script="LATIN">prinsesse</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsesse#Danish</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">prins</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prins#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">prinses</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prinses#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">prince</form>
+				<concepts>
+					<c>behave</c>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prince#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">prince</form>
+				<concepts>
+					<c>monarch</c>
+					<c>king</c>
+					<c>mushroom</c>
+					<c>sovereign</c>
+					<c>ruler</c>
+					<c>great</c>
+					<c>son</c>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prince#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">princeps</form>
+				<concepts>
+					<c>editio princeps</c>
+					<c>original</c>
+					<c>princeps</c>
+				</concepts>
+				<url source="wiki">/wiki/princeps#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">princess</form>
+				<concepts>
+					<c>prima donna</c>
+					<c>spoiled</c>
+					<c>daughter</c>
+					<c>queen</c>
+					<c>selfish</c>
+					<c>woman</c>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/princess#English</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">princo</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/princo#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>Faroese</lang>
+				<form script="LATIN">prinsessa</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsessa#Faroese</url>
+			</reflex>
+			<reflex>
+				<lang>Faroese</lang>
+				<form script="LATIN">prinsur</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsur#Faroese</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">prinsessa</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsessa#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">prinssi</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prinssi#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">prince</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prince#French</url>
+			</reflex>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">პრინცესა</form>
+				<translit>ṗrincesa</translit>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/პრინცესა#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Fürst</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/Fürst#German</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Prinz</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/Prinz#German</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Prinzessin</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/Prinzessin#German</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">πρίγκιπας</form>
+				<translit>prígkipas</translit>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/πρίγκιπας#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Icelandic</lang>
+				<form script="LATIN">prins</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prins#Icelandic</url>
+			</reflex>
+			<reflex>
+				<lang>Icelandic</lang>
+				<form script="LATIN">prinsessa</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsessa#Icelandic</url>
+			</reflex>
+			<reflex>
+				<lang>Ingrian</lang>
+				<form script="LATIN">printsi</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/printsi#Ingrian</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">prionsa</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prionsa#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">principe</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/principe#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">prīnceps</form>
+				<concepts>
+					<c>first</c>
+					<c>foremost</c>
+					<c>distinguished</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/princeps#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">prīnceps</form>
+				<concepts>
+					<c>head</c>
+					<c>chief</c>
+					<c>author</c>
+					<c>company</c>
+					<c>originator</c>
+					<c>founder</c>
+					<c>prince</c>
+					<c>principal</c>
+					<c>sovereign</c>
+					<c>director</c>
+					<c>leader</c>
+				</concepts>
+				<url source="wiki">/wiki/princeps#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">firsts</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/firsts#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">princese</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/princese#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Latvian</lang>
+				<form script="LATIN">princis</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/princis#Latvian</url>
+			</reflex>
+			<reflex>
+				<lang>Luxembourgish</lang>
+				<form script="LATIN">Prënz</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/Prënz#Luxembourgish</url>
+			</reflex>
+			<reflex>
+				<lang>Manx</lang>
+				<form script="LATIN">prinse</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prinse#Manx</url>
+			</reflex>
+			<reflex>
+				<lang>Old Occitan</lang>
+				<form script="LATIN">prince</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prince#Old_Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">پرَنْس</form>
+				<translit>prens</translit>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/پرنس#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">پرَنس</form>
+				<translit>perans</translit>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/پرنس#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">príncipe</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/príncipe#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">prinț</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prinț#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">prințesă</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prințesă#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">принц</form>
+				<translit>princ</translit>
+				<concepts>
+					<c>crown prince</c>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/принц#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">принцесса</form>
+				<translit>princessa</translit>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/принцесса#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">princ</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/princ#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">príncipe</form>
+				<concepts>
+					<c>first</c>
+				</concepts>
+				<url source="wiki">/wiki/príncipe#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">príncipe</form>
+				<concepts>
+					<c>ruler</c>
+					<c>prince</c>
+					<c>sovereign</c>
+				</concepts>
+				<url source="wiki">/wiki/príncipe#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">furste</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/furste#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">prins</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prins#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">prinsessa</form>
+				<concepts>
+					<c>princess</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsessa#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">prinsipe</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prinsipe#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">prens</form>
+				<concepts>
+					<c>prince</c>
+				</concepts>
+				<url source="wiki">/wiki/prens#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*priōs</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/priōs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">prior</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/prior#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">převor</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/převor#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">priori</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/priori#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">prieur</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/prieur#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Prior</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/Prior#German</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">prióir</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/prióir#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">priore</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/priore#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">przeor</form>
+				<concepts>
+					<c>prior</c>
+					<c>abbot</c>
+				</concepts>
+				<url source="wiki">/wiki/przeor#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">prior</form>
+				<concepts>
+					<c>prior</c>
+				</concepts>
+				<url source="wiki">/wiki/prior#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*proβwēd</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/proβwēd</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">probē</form>
+				<concepts>
+					<c>opportunely</c>
+					<c>correctly</c>
+					<c>rightly</c>
+					<c>well</c>
+					<c>properly</c>
+					<c>excellently</c>
+					<c>fitly</c>
+				</concepts>
+				<url source="wiki">/wiki/probe#Latin</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*puragō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/puragō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">pulgar</form>
+				<concepts>
+					<c>thumb</c>
+				</concepts>
+				<url source="wiki">/wiki/pulgar#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">purge</form>
+				<concepts>
+					<c>burden</c>
+					<c>wash away</c>
+					<c>imputation</c>
+					<c>cleanse</c>
+					<c>defecate</c>
+					<c>suspicion</c>
+					<c>prune</c>
+					<c>evacuate</c>
+					<c>vomit</c>
+					<c>guilt</c>
+					<c>trim</c>
+					<c>dress</c>
+					<c>clarify</c>
+					<c>void</c>
+					<c>purge</c>
+				</concepts>
+				<url source="wiki">/wiki/purge#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">purge</form>
+				<concepts>
+					<c>cathartic</c>
+					<c>purging</c>
+					<c>purge</c>
+				</concepts>
+				<url source="wiki">/wiki/purge#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">purger</form>
+				<concepts>
+					<c>bleed</c>
+					<c>purge</c>
+					<c>serve</c>
+				</concepts>
+				<url source="wiki">/wiki/purger#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">purgieren</form>
+				<concepts>
+					<c>purge</c>
+					<c>cleanse</c>
+					<c>claim</c>
+					<c>purify</c>
+					<c>refute</c>
+				</concepts>
+				<url source="wiki">/wiki/purgieren#German</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">purgare</form>
+				<concepts>
+					<c>purify</c>
+					<c>purge</c>
+				</concepts>
+				<url source="wiki">/wiki/purgare#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle English</lang>
+				<form script="LATIN">purgen</form>
+				<concepts>
+					<c>clean</c>
+					<c>purify</c>
+					<c>clear</c>
+					<c>cleanse</c>
+				</concepts>
+				<url source="wiki">/wiki/purgen#Middle_English</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">purgier</form>
+				<concepts>
+					<c>purge</c>
+				</concepts>
+				<url source="wiki">/wiki/purgier#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">purgar</form>
+				<concepts>
+					<c>purge</c>
+				</concepts>
+				<url source="wiki">/wiki/purgar#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">purga</form>
+				<concepts>
+					<c>purge</c>
+				</concepts>
+				<url source="wiki">/wiki/purga#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">purgar</form>
+				<concepts>
+					<c>bleed</c>
+					<c>purge</c>
+					<c>drain</c>
+				</concepts>
+				<url source="wiki">/wiki/purgar#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*rowestikos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/rowestikos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">rústec</form>
+				<concepts>
+					<c>rough</c>
+					<c>coarse</c>
+					<c>uncouth</c>
+					<c>stiff</c>
+					<c>crude</c>
+					<c>uneven</c>
+				</concepts>
+				<url source="wiki">/wiki/rústec#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">rústic</form>
+				<concepts>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rústic#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">rustiek</form>
+				<concepts>
+					<c>uncivilised</c>
+					<c>unrefined</c>
+					<c>rustic</c>
+					<c>uneducated</c>
+				</concepts>
+				<url source="wiki">/wiki/rustiek#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">roister</form>
+				<concepts>
+					<c>drunken</c>
+					<c>roister</c>
+				</concepts>
+				<url source="wiki">/wiki/roister#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">roister</form>
+				<concepts>
+					<c>roisterer</c>
+					<c>roister</c>
+				</concepts>
+				<url source="wiki">/wiki/roister#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">rustic</form>
+				<concepts>
+					<c>rough</c>
+					<c>artless</c>
+					<c>rural</c>
+					<c>unfinished</c>
+					<c>unaffected</c>
+					<c>crude</c>
+					<c>simple</c>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rustic#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">rustic</form>
+				<concepts>
+					<c>unsophisticated</c>
+					<c>rural</c>
+					<c>uncultured</c>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rustic#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">rustique</form>
+				<concepts>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rustique#French</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">rustico</form>
+				<concepts>
+					<c>cottage</c>
+					<c>outhouse</c>
+					<c>cabin</c>
+				</concepts>
+				<url source="wiki">/wiki/rustico#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">rustico</form>
+				<concepts>
+					<c>rough</c>
+					<c>coarse</c>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rustico#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">rūsticus</form>
+				<concepts>
+					<c>rustic</c>
+					<c>peasant</c>
+					<c>farmer</c>
+					<c>boor</c>
+				</concepts>
+				<url source="wiki">/wiki/rusticus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">rūsticus</form>
+				<concepts>
+					<c>unrefined</c>
+					<c>coarse</c>
+					<c>rural</c>
+					<c>boorish</c>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rusticus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Ligurian</lang>
+				<form script="LATIN">rùstego</form>
+				<concepts>
+					<c>rough</c>
+					<c>coarse</c>
+					<c>impolite</c>
+					<c>rude</c>
+				</concepts>
+				<url source="wiki">/wiki/rùstego#Ligurian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">rústico</form>
+				<concepts>
+					<c>peasant</c>
+				</concepts>
+				<url source="wiki">/wiki/rústico#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">rústico</form>
+				<concepts>
+					<c>rural</c>
+					<c>crude</c>
+					<c>rustic</c>
+					<c>homely</c>
+				</concepts>
+				<url source="wiki">/wiki/rústico#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">rustic</form>
+				<concepts>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rustic#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">rústico</form>
+				<concepts>
+					<c>rustic</c>
+				</concepts>
+				<url source="wiki">/wiki/rústico#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">rústico</form>
+				<concepts>
+					<c>unsophisticated</c>
+					<c>crude</c>
+					<c>rustic</c>
+					<c>clumsy</c>
+				</concepts>
+				<url source="wiki">/wiki/rústico#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Venetian</lang>
+				<form script="LATIN">rùstego</form>
+				<concepts>
+					<c>coarse</c>
+					<c>uncouth</c>
+				</concepts>
+				<url source="wiki">/wiki/rùstego#Venetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*sanktos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/sanktos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">shenjtë</form>
+				<concepts>
+					<c>holy</c>
+					<c>saint</c>
+					<c>sacred</c>
+				</concepts>
+				<url source="wiki">/wiki/shenjtë#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">simtu</form>
+				<concepts>
+					<c>feel</c>
+				</concepts>
+				<url source="wiki">/wiki/simtu#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">sãntu</form>
+				<concepts>
+					<c>holy</c>
+					<c>sacred</c>
+				</concepts>
+				<url source="wiki">/wiki/sãntu#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">sãntu</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/sãntu#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">santu</form>
+				<concepts>
+					<c>holy</c>
+				</concepts>
+				<url source="wiki">/wiki/santu#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">santu</form>
+				<concepts>
+					<c>saint</c>
+					<c>saint's day</c>
+				</concepts>
+				<url source="wiki">/wiki/santu#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">sant</form>
+				<concepts>
+					<c>holy</c>
+					<c>saintly</c>
+				</concepts>
+				<url source="wiki">/wiki/sant#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">sant</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/sant#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">suant</form>
+				<concepts>
+					<c>holy</c>
+				</concepts>
+				<url source="wiki">/wiki/suant#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>Dalmatian</lang>
+				<form script="LATIN">suant</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/suant#Dalmatian</url>
+			</reflex>
+			<reflex>
+				<lang>Danish</lang>
+				<form script="LATIN">Sankt</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/Sankt#Danish</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">Sint</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/Sint#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Sanctus</form>
+				<concepts>
+					<c>holy</c>
+					<c>Sanctus</c>
+				</concepts>
+				<url source="wiki">/wiki/Sanctus#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">Sanctus</form>
+				<concepts>
+					<c>Sanctus</c>
+				</concepts>
+				<url source="wiki">/wiki/Sanctus#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">saint</form>
+				<concepts>
+					<c>saintly</c>
+				</concepts>
+				<url source="wiki">/wiki/saint#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">sant</form>
+				<concepts>
+					<c>holy</c>
+					<c>sacred</c>
+				</concepts>
+				<url source="wiki">/wiki/sant#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">sant</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/sant#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>holy</c>
+					<c>sacred</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Sankt</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/Sankt#German</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">San</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/San#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Istriot</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>holy</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Istriot</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>holy</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Ladin</lang>
+				<form script="LATIN">sant</form>
+				<concepts>
+					<c>sacred</c>
+				</concepts>
+				<url source="wiki">/wiki/sant#Ladin</url>
+			</reflex>
+			<reflex>
+				<lang>Leonese</lang>
+				<form script="LATIN">santu</form>
+				<concepts>
+					<c>holy</c>
+				</concepts>
+				<url source="wiki">/wiki/santu#Leonese</url>
+			</reflex>
+			<reflex>
+				<lang>Macanese</lang>
+				<form script="LATIN">sâm</form>
+				<concepts>
+					<c>be</c>
+				</concepts>
+				<url source="wiki">/wiki/sâm#Macanese</url>
+			</reflex>
+			<reflex>
+				<lang>Macanese</lang>
+				<form script="LATIN">sã</form>
+				<concepts>
+					<c>be</c>
+				</concepts>
+				<url source="wiki">/wiki/sã#Macanese</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">saint</form>
+				<concepts>
+					<c>holy</c>
+				</concepts>
+				<url source="wiki">/wiki/saint#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Norman</lang>
+				<form script="LATIN">saint</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/saint#Norman</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">sant</form>
+				<concepts>
+					<c>holy</c>
+					<c>sacred</c>
+				</concepts>
+				<url source="wiki">/wiki/sant#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">saint</form>
+				<concepts>
+					<c>holy</c>
+					<c>devout</c>
+					<c>pious</c>
+				</concepts>
+				<url source="wiki">/wiki/saint#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">saint</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/saint#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>orisha</c>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>sacred</c>
+					<c>pure</c>
+					<c>undefiled</c>
+					<c>immaculate</c>
+					<c>holy</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">sfânt</form>
+				<concepts>
+					<c>holy</c>
+					<c>sacred</c>
+					<c>saintly</c>
+				</concepts>
+				<url source="wiki">/wiki/sfânt#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">sfânt</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/sfânt#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">santu</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/santu#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>holy</c>
+					<c>godly</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>name day</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">Sankt</form>
+				<concepts>
+					<c>saint</c>
+				</concepts>
+				<url source="wiki">/wiki/Sankt#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>holy</c>
+					<c>sacred</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">santo</form>
+				<concepts>
+					<c>saint</c>
+					<c>image</c>
+				</concepts>
+				<url source="wiki">/wiki/santo#Tagalog</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*sekʷontinos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/sekʷontinos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">sekondë</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/sekondë#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">segon</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/segon#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">segon</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/segon#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">segó</form>
+				<concepts>
+					<c>bran</c>
+				</concepts>
+				<url source="wiki">/wiki/segó#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">second</form>
+				<concepts>
+					<c>first mate</c>
+					<c>assistant</c>
+				</concepts>
+				<url source="wiki">/wiki/second#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">second</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/second#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">segundo</form>
+				<concepts>
+					<c>according to</c>
+				</concepts>
+				<url source="wiki">/wiki/segundo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">segundo</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/segundo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">segundo</form>
+				<concepts>
+					<c>second</c>
+					<c>second of arc</c>
+				</concepts>
+				<url source="wiki">/wiki/segundo#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Ladin</lang>
+				<form script="LATIN">segondo</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/segondo#Ladin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">secundus</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/secundus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">secundus</form>
+				<concepts>
+					<c>secondary</c>
+					<c>victorious</c>
+					<c>subordinate</c>
+					<c>inferior</c>
+					<c>according to</c>
+					<c>second</c>
+					<c>propitious</c>
+					<c>successful</c>
+					<c>favourable</c>
+					<c>fair</c>
+					<c>favorable</c>
+					<c>following</c>
+					<c>next</c>
+					<c>lucky</c>
+					<c>fortunate</c>
+				</concepts>
+				<url source="wiki">/wiki/secundus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">son</form>
+				<concepts>
+					<c>sound</c>
+				</concepts>
+				<url source="wiki">/wiki/son#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">segon</form>
+				<concepts>
+					<c>according to</c>
+				</concepts>
+				<url source="wiki">/wiki/segon#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Old Occitan</lang>
+				<form script="LATIN">segon</form>
+				<concepts>
+					<c>according to</c>
+				</concepts>
+				<url source="wiki">/wiki/segon#Old_Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">secund</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/secund#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">según</form>
+				<concepts>
+					<c>as</c>
+					<c>according to</c>
+					<c>depending on</c>
+				</concepts>
+				<url source="wiki">/wiki/según#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Võro</lang>
+				<form script="LATIN">sekond</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/sekond#Võro</url>
+			</reflex>
+			<reflex>
+				<lang>Yola</lang>
+				<form script="LATIN">secun</form>
+				<concepts>
+					<c>second</c>
+				</concepts>
+				<url source="wiki">/wiki/secun#Yola</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*serpents</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/serpents</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">sharpi</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/sharpi#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">serp</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serp#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>serpent</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>snake</c>
+					<c>serpent</c>
+					<c>foulmouthed</c>
+					<c>spiteful</c>
+					<c>unpleasant</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>meander</c>
+					<c>wind</c>
+					<c>encircle</c>
+					<c>serpent</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>snake</c>
+					<c>malicious</c>
+					<c>treacherous</c>
+					<c>subtle</c>
+					<c>large</c>
+					<c>serpent</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#English</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">serpento</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpento#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#French</url>
+			</reflex>
+			<reflex>
+				<lang>Friulian</lang>
+				<form script="LATIN">sarpint</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/sarpint#Friulian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">serpe</form>
+				<concepts>
+					<c>serpent</c>
+					<c>dragon</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpe#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Interlingua</lang>
+				<form script="LATIN">serpente</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpente#Interlingua</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">serpe</form>
+				<concepts>
+					<c>viper</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpe#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">serpente</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpente#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">serpens</form>
+				<concepts>
+					<c>creeping</c>
+					<c>crawling</c>
+				</concepts>
+				<url source="wiki">/wiki/serpens#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">serpens</form>
+				<concepts>
+					<c>louse</c>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpens#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">serp</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serp#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Megleno-Romanian</lang>
+				<form script="LATIN">șarpi</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/șarpi#Megleno-Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle French</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#Middle_French</url>
+			</reflex>
+			<reflex>
+				<lang>Occitan</lang>
+				<form script="LATIN">sèrp</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/sèrp#Occitan</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">serpente</form>
+				<concepts>
+					<c>serpent</c>
+				</concepts>
+				<url source="wiki">/wiki/serpente#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">șarpe</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/șarpe#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">șerpânță</form>
+				<concepts>
+					<c>gentian</c>
+					<c>milkwort</c>
+				</concepts>
+				<url source="wiki">/wiki/șerpânță#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">serp</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serp#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">serpaint</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpaint#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">serpent</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpent#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Romansch</lang>
+				<form script="LATIN">siarp</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/siarp#Romansch</url>
+			</reflex>
+			<reflex>
+				<lang>Sicilian</lang>
+				<form script="LATIN">serpi</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/serpi#Sicilian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">serpiente</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/serpiente#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">sierpe</form>
+				<concepts>
+					<c>angry</c>
+					<c>snake</c>
+					<c>sucker</c>
+					<c>shoot</c>
+					<c>dangerous</c>
+					<c>ugly</c>
+					<c>wriggler</c>
+					<c>sprout</c>
+				</concepts>
+				<url source="wiki">/wiki/sierpe#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Walloon</lang>
+				<form script="LATIN">sierpint</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/sierpint#Walloon</url>
+			</reflex>
+			<reflex>
+				<lang>Welsh</lang>
+				<form script="LATIN">sarff</form>
+				<concepts>
+					<c>serpent</c>
+				</concepts>
+				<url source="wiki">/wiki/sarff#Welsh</url>
+			</reflex>
+			<reflex>
+				<lang>West Frisian</lang>
+				<form script="LATIN">serpint</form>
+				<concepts>
+					<c>snake</c>
+					<c>serpent</c>
+					<c>foulmouthed</c>
+					<c>spiteful</c>
+					<c>unpleasant</c>
+				</concepts>
+				<url source="wiki">/wiki/serpint#West_Frisian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*swezrīnos</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/swezrīnos</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">sobrín</form>
+				<concepts>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/sobrín#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">sobriño</form>
+				<concepts>
+					<c>nephew</c>
+					<c>ring finger</c>
+				</concepts>
+				<url source="wiki">/wiki/sobriño#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">sobrīnus</form>
+				<concepts>
+					<c>nephew</c>
+					<c>sororal nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/sobrinus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Old Galician-Portuguese</lang>
+				<form script="LATIN">sobrinho</form>
+				<concepts>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/sobrinho#Old_Galician-Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Leonese</lang>
+				<form script="LATIN">sopbrino</form>
+				<concepts>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/sopbrino#Old_Leonese</url>
+			</reflex>
+			<reflex>
+				<lang>Papiamentu</lang>
+				<form script="LATIN">subrino</form>
+				<concepts>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/subrino#Papiamentu</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">sobrinho</form>
+				<concepts>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/sobrinho#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">sobrino</form>
+				<concepts>
+					<c>nephew</c>
+				</concepts>
+				<url source="wiki">/wiki/sobrino#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*tlokʷāks</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/tlokʷāks</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">loquaç</form>
+				<concepts>
+					<c>loquacious</c>
+					<c>talkative</c>
+				</concepts>
+				<url source="wiki">/wiki/loquaç#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">loquacious</form>
+				<concepts>
+					<c>talkative</c>
+					<c>chatty</c>
+					<c>loquacious</c>
+				</concepts>
+				<url source="wiki">/wiki/loquacious#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">loquace</form>
+				<concepts>
+					<c>loquacious</c>
+					<c>talkative</c>
+				</concepts>
+				<url source="wiki">/wiki/loquace#French</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">loquace</form>
+				<concepts>
+					<c>loquacious</c>
+					<c>talkative</c>
+					<c>eloquent</c>
+				</concepts>
+				<url source="wiki">/wiki/loquace#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">loquax</form>
+				<concepts>
+					<c>loquacious</c>
+					<c>talkative</c>
+					<c>chatty</c>
+				</concepts>
+				<url source="wiki">/wiki/loquax#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">loquaz</form>
+				<concepts>
+					<c>loquacious</c>
+					<c>talkative</c>
+					<c>chatty</c>
+				</concepts>
+				<url source="wiki">/wiki/loquaz#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">locvace</form>
+				<concepts>
+					<c>talkative</c>
+				</concepts>
+				<url source="wiki">/wiki/locvace#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">locuaz</form>
+				<concepts>
+					<c>loquacious</c>
+				</concepts>
+				<url source="wiki">/wiki/locuaz#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*uksōr</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/uksōr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aromanian</lang>
+				<form script="LATIN">ãnsor</form>
+				<concepts>
+					<c>get married</c>
+					<c>wed</c>
+					<c>marry</c>
+				</concepts>
+				<url source="wiki">/wiki/ãnsor#Aromanian</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">uxorial</form>
+				<concepts>
+					<c>wife</c>
+					<c>uxorious</c>
+					<c>uxorial</c>
+				</concepts>
+				<url source="wiki">/wiki/uxorial#English</url>
+			</reflex>
+			<reflex>
+				<lang>Faliscan</lang>
+				<form script="OLD ITALIC">𐌖𐌗𐌏𐌓</form>
+				<translit>uxor</translit>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/𐌖𐌗𐌏𐌓#Faliscan</url>
+			</reflex>
+			<reflex>
+				<lang>Interlingua</lang>
+				<form script="LATIN">uxor</form>
+				<concepts>
+					<c>wife</c>
+				</concepts>
+				<url source="wiki">/wiki/uxor#Interlingua</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">uxor</form>
+				<concepts>
+					<c>wife</c>
+					<c>consort</c>
+					<c>spouse</c>
+				</concepts>
+				<url source="wiki">/wiki/uxor#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Old French</lang>
+				<form script="LATIN">oissor</form>
+				<concepts>
+					<c>wife</c>
+					<c>spouse</c>
+				</concepts>
+				<url source="wiki">/wiki/oissor#Old_French</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">însura</form>
+				<concepts>
+					<c>wed</c>
+					<c>marry</c>
+				</concepts>
+				<url source="wiki">/wiki/însura#Romanian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Italic</plang>
+			<pform>*wenezāōr</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Italic/wenezāōr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">venerar</form>
+				<concepts>
+					<c>venerate</c>
+				</concepts>
+				<url source="wiki">/wiki/venerar#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">venerate</form>
+				<concepts>
+					<c>revere</c>
+					<c>venerate</c>
+				</concepts>
+				<url source="wiki">/wiki/venerate#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">vénérer</form>
+				<concepts>
+					<c>venerate</c>
+					<c>worship</c>
+					<c>revere</c>
+				</concepts>
+				<url source="wiki">/wiki/vénérer#French</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">venerare</form>
+				<concepts>
+					<c>venerate</c>
+					<c>revere</c>
+				</concepts>
+				<url source="wiki">/wiki/venerare#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">veneror</form>
+				<concepts>
+					<c>venerate</c>
+					<c>worship</c>
+					<c>adore</c>
+					<c>revere</c>
+				</concepts>
+				<url source="wiki">/wiki/veneror#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">venerar</form>
+				<concepts>
+					<c>venerate</c>
+				</concepts>
+				<url source="wiki">/wiki/venerar#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">venera</form>
+				<concepts>
+					<c>venerate</c>
+					<c>revere</c>
+				</concepts>
+				<url source="wiki">/wiki/venera#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">venerar</form>
+				<concepts>
+					<c>venerate</c>
+				</concepts>
+				<url source="wiki">/wiki/venerar#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

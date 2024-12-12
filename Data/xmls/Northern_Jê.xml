@@ -1,0 +1,152 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Northern Jê</plang>
+			<pform>*jacê</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northern Jê/jacê</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Apinayé</lang>
+				<form script="LATIN">jaê</form>
+				<concepts>
+					<c>nest</c>
+				</concepts>
+				<url source="wiki">/wiki/jaê#Apinayé</url>
+			</reflex>
+			<reflex>
+				<lang>Kayapó</lang>
+				<form script="LATIN">jaê</form>
+				<concepts>
+					<c>nest</c>
+				</concepts>
+				<url source="wiki">/wiki/jaê#Kayapó</url>
+			</reflex>
+			<reflex>
+				<lang>Pykobjê</lang>
+				<form script="LATIN">jaahi</form>
+				<concepts>
+					<c>nest</c>
+				</concepts>
+				<url source="wiki">/wiki/jaahi#Pykobjê</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northern Jê</plang>
+			<pform>*kacû</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northern Jê/kacû</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Canela</lang>
+				<form script="LATIN">cahuw</form>
+				<concepts>
+					<c>mortar</c>
+				</concepts>
+				<url source="wiki">/wiki/cahuw#Canela</url>
+			</reflex>
+			<reflex>
+				<lang>Kayapó</lang>
+				<form script="LATIN">kawa</form>
+				<concepts>
+					<c>mortar</c>
+				</concepts>
+				<url source="wiki">/wiki/kawa#Kayapó</url>
+			</reflex>
+			<reflex>
+				<lang>Pykobjê</lang>
+				<form script="LATIN">cahohw</form>
+				<concepts>
+					<c>mortar</c>
+				</concepts>
+				<url source="wiki">/wiki/cahohw#Pykobjê</url>
+			</reflex>
+			<reflex>
+				<lang>Tapayuna</lang>
+				<form script="LATIN">katuwa</form>
+				<concepts>
+					<c>mortar</c>
+				</concepts>
+				<url source="wiki">/wiki/katuwa#Tapayuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Northern Jê</plang>
+			<pform>*ŋgô</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Northern Jê/ŋgô</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Apinayé</lang>
+				<form script="LATIN">gô</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/gô#Apinayé</url>
+			</reflex>
+			<reflex>
+				<lang>Apinayé</lang>
+				<form script="LATIN">gô</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/gô#Apinayé</url>
+			</reflex>
+			<reflex>
+				<lang>Canela</lang>
+				<form script="LATIN">cô</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/cô#Canela</url>
+			</reflex>
+			<reflex>
+				<lang>Kayapó</lang>
+				<form script="LATIN">ngô</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngô#Kayapó</url>
+			</reflex>
+			<reflex>
+				<lang>Suyá</lang>
+				<form script="LATIN">ngô</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngô#Suyá</url>
+			</reflex>
+			<reflex>
+				<lang>Tapayuna</lang>
+				<form script="LATIN">ngô</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ngô#Tapayuna</url>
+			</reflex>
+			<reflex>
+				<lang>Tapayuna</lang>
+				<form script="LATIN">ngô</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngô#Tapayuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

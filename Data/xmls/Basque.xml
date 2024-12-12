@@ -1,0 +1,3782 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)aRi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)aRi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">harri</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+					<c>glass</c>
+				</concepts>
+				<url source="wiki">/wiki/harri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)aRo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)aRo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">harro</form>
+				<concepts>
+					<c>arrogant</c>
+				</concepts>
+				<url source="wiki">/wiki/harro#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)agin</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)agin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hagin</form>
+				<concepts>
+					<c>molar</c>
+					<c>molar tooth</c>
+					<c>scratch</c>
+					<c>dent</c>
+				</concepts>
+				<url source="wiki">/wiki/hagin#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hagin</form>
+				<concepts>
+					<c>yew</c>
+				</concepts>
+				<url source="wiki">/wiki/hagin#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)altza</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)altza</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*hals</form>
+				<concepts>
+					<c>alder</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/hals</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">haltz</form>
+				<concepts>
+					<c>alder</c>
+					<c>Alnus glutinosa</c>
+				</concepts>
+				<url source="wiki">/wiki/haltz#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)anbaR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)anbaR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hamar</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/hamar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)andi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)andi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">handi</form>
+				<concepts>
+					<c>big</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/handi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)araN</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)araN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">haran</form>
+				<concepts>
+					<c>valley</c>
+					<c>comarca</c>
+					<c>district</c>
+				</concepts>
+				<url source="wiki">/wiki/haran#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)aritz</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)aritz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*arix</form>
+				<concepts>
+					<c>oak</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/arix</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)eRi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)eRi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">herri</form>
+				<concepts>
+					<c>village</c>
+					<c>country</c>
+					<c>people</c>
+					<c>nation</c>
+					<c>town</c>
+				</concepts>
+				<url source="wiki">/wiki/herri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)erauts</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)erauts</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*heraus</form>
+				<concepts>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/heraus</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)odeCi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)odeCi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hodei</form>
+				<concepts>
+					<c>cloud</c>
+				</concepts>
+				<url source="wiki">/wiki/hodei#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)ogei</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)ogei</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hogei</form>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/hogei#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*(h)ori</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/(h)ori</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hori</form>
+				<concepts>
+					<c>that</c>
+				</concepts>
+				<url source="wiki">/wiki/hori#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hori</form>
+				<concepts>
+					<c>that one</c>
+				</concepts>
+				<url source="wiki">/wiki/hori#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*-kunbe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/-kunbe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">-kume</form>
+				<concepts>
+					<c>-ling</c>
+					<c>-let</c>
+				</concepts>
+				<url source="wiki">/wiki/-kume#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*a(h)o</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/a(h)o</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aho</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/aho#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aLa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aLa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ala</form>
+				<concepts>
+					<c>or</c>
+				</concepts>
+				<url source="wiki">/wiki/ala#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aNae</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aNae</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*hana</form>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/hana</url>
+			</reflex>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*hanai</form>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/hanai</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">anaia</form>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/anaia#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aRaNo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aRaNo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">arrano</form>
+				<concepts>
+					<c>eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/arrano#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aRani</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aRani</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">arrain</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/arrain#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aRano</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aRano</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">arraun</form>
+				<concepts>
+					<c>rowing</c>
+					<c>oar</c>
+				</concepts>
+				<url source="wiki">/wiki/arraun#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aReba</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aReba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">arreba</form>
+				<concepts>
+					<c>sister</c>
+				</concepts>
+				<url source="wiki">/wiki/arreba#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*adiN</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/adiN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">adin</form>
+				<concepts>
+					<c>era</c>
+					<c>age</c>
+				</concepts>
+				<url source="wiki">/wiki/adin#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*agoR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/agoR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">agor</form>
+				<concepts>
+					<c>barren</c>
+					<c>dry</c>
+				</concepts>
+				<url source="wiki">/wiki/agor#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">agor</form>
+				<concepts>
+					<c>drought</c>
+					<c>September</c>
+				</concepts>
+				<url source="wiki">/wiki/agor#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*akeR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/akeR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aker</form>
+				<concepts>
+					<c>he-goat</c>
+					<c>billy goat</c>
+				</concepts>
+				<url source="wiki">/wiki/aker#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*anabi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/anabi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ahabia</form>
+				<concepts>
+					<c>bilberry</c>
+					<c>whortleberry</c>
+				</concepts>
+				<url source="wiki">/wiki/ahabia#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">anavia</form>
+				<concepts>
+					<c>blueberry</c>
+				</concepts>
+				<url source="wiki">/wiki/anavia#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*anal</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/anal</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ahal</form>
+				<concepts>
+					<c>capability</c>
+					<c>might</c>
+					<c>power</c>
+					<c>capacity</c>
+				</concepts>
+				<url source="wiki">/wiki/ahal#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ahal</form>
+				<concepts>
+					<c>hopefully</c>
+				</concepts>
+				<url source="wiki">/wiki/ahal#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*anari</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/anari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ahari</form>
+				<concepts>
+					<c>ram</c>
+				</concepts>
+				<url source="wiki">/wiki/ahari#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*anate</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/anate</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ahate</form>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/ahate#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*andere</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/andere</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*andere</form>
+				<concepts>
+					<c>lady</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/andere</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">andre</form>
+				<concepts>
+					<c>lady</c>
+					<c>wife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/andre#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*angelu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/angelu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aingeru</form>
+				<concepts>
+					<c>angel</c>
+				</concepts>
+				<url source="wiki">/wiki/aingeru#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*angila</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/angila</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aingira</form>
+				<concepts>
+					<c>eel</c>
+				</concepts>
+				<url source="wiki">/wiki/aingira#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aniz-ba</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aniz-ba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ahizpa</form>
+				<concepts>
+					<c>sister</c>
+				</concepts>
+				<url source="wiki">/wiki/ahizpa#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*araN</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/araN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aran</form>
+				<concepts>
+					<c>plum</c>
+				</concepts>
+				<url source="wiki">/wiki/aran#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">arán</form>
+				<concepts>
+					<c>blackthorn</c>
+				</concepts>
+				<url source="wiki">/wiki/arán#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ardano</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ardano</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ardo</form>
+				<concepts>
+					<c>wine</c>
+				</concepts>
+				<url source="wiki">/wiki/ardo#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ardi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ardi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ardi</form>
+				<concepts>
+					<c>ewe</c>
+					<c>sheep</c>
+				</concepts>
+				<url source="wiki">/wiki/ardi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*argi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/argi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">argi</form>
+				<concepts>
+					<c>light</c>
+					<c>clarity</c>
+				</concepts>
+				<url source="wiki">/wiki/argi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*arhe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/arhe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">are</form>
+				<concepts>
+					<c>rake</c>
+				</concepts>
+				<url source="wiki">/wiki/are#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*arte</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/arte</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">arte</form>
+				<concepts>
+					<c>art</c>
+					<c>skill</c>
+				</concepts>
+				<url source="wiki">/wiki/arte#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">arte</form>
+				<concepts>
+					<c>until</c>
+				</concepts>
+				<url source="wiki">/wiki/arte#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*arte(h)e</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/arte(h)e</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*artahe</form>
+				<concepts>
+					<c>holm oak</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/artahe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aste</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aste</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aste</form>
+				<concepts>
+					<c>week</c>
+				</concepts>
+				<url source="wiki">/wiki/aste#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ate</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ate</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ate</form>
+				<concepts>
+					<c>entrance</c>
+					<c>goal</c>
+					<c>door</c>
+					<c>defile</c>
+					<c>gorge</c>
+					<c>exterior</c>
+				</concepts>
+				<url source="wiki">/wiki/ate#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*atzo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/atzo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">atzo</form>
+				<concepts>
+					<c>recently</c>
+					<c>yesterday</c>
+				</concepts>
+				<url source="wiki">/wiki/atzo#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*au(h)ari</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/au(h)ari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">afari</form>
+				<concepts>
+					<c>dinner</c>
+				</concepts>
+				<url source="wiki">/wiki/afari#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*aur-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/aur-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aulki</form>
+				<concepts>
+					<c>seat</c>
+					<c>dock</c>
+					<c>bench</c>
+					<c>workbench</c>
+					<c>see</c>
+					<c>chair</c>
+				</concepts>
+				<url source="wiki">/wiki/aulki#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">aurre</form>
+				<concepts>
+					<c>front</c>
+				</concepts>
+				<url source="wiki">/wiki/aurre#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*azaL</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/azaL</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">azal</form>
+				<concepts>
+					<c>skin</c>
+				</concepts>
+				<url source="wiki">/wiki/azal#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*azenari</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/azenari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">azeri</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/azeri#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">azeri</form>
+				<concepts>
+					<c>sly</c>
+					<c>astute</c>
+				</concepts>
+				<url source="wiki">/wiki/azeri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*azkeN</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/azkeN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">azken</form>
+				<concepts>
+					<c>end</c>
+					<c>the</c>
+				</concepts>
+				<url source="wiki">/wiki/azken#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">azken</form>
+				<concepts>
+					<c>last</c>
+				</concepts>
+				<url source="wiki">/wiki/azken#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*azpi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/azpi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">azpi</form>
+				<concepts>
+					<c>bottom</c>
+					<c>thigh</c>
+					<c>floor</c>
+				</concepts>
+				<url source="wiki">/wiki/azpi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*baLena</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/baLena</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">balea</form>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/balea#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque-Icelandic Pidgin</lang>
+				<form script="LATIN">balja</form>
+				<concepts>
+					<c>whale</c>
+				</concepts>
+				<url source="wiki">/wiki/balja#Basque-Icelandic_Pidgin</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*baRabiL</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/baRabiL</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">barrabil</form>
+				<concepts>
+					<c>testicle</c>
+				</concepts>
+				<url source="wiki">/wiki/barrabil#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*baRe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/baRe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">barre</form>
+				<concepts>
+					<c>laughter</c>
+				</concepts>
+				<url source="wiki">/wiki/barre#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bade</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bade</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bat</form>
+				<concepts>
+					<c>about</c>
+					<c>some</c>
+					<c>the same</c>
+					<c>an</c>
+					<c>a</c>
+					<c>around</c>
+				</concepts>
+				<url source="wiki">/wiki/bat#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bat</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/bat#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bat</form>
+				<concepts>
+					<c>someone</c>
+					<c>something</c>
+					<c>some</c>
+				</concepts>
+				<url source="wiki">/wiki/bat#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*banats</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/banats</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">mahats</form>
+				<concepts>
+					<c>grape</c>
+				</concepts>
+				<url source="wiki">/wiki/mahats#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*baso</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/baso</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">baso</form>
+				<concepts>
+					<c>capably</c>
+				</concepts>
+				<url source="wiki">/wiki/baso#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*be(h)aR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/be(h)aR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">behar</form>
+				<concepts>
+					<c>necessary</c>
+					<c>poor</c>
+				</concepts>
+				<url source="wiki">/wiki/behar#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">behar</form>
+				<concepts>
+					<c>work</c>
+					<c>necessity</c>
+					<c>need</c>
+					<c>effort</c>
+				</concepts>
+				<url source="wiki">/wiki/behar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*be(h)i</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/be(h)i</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">behi</form>
+				<concepts>
+					<c>cow</c>
+				</concepts>
+				<url source="wiki">/wiki/behi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*be(h)oR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/be(h)oR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">behor</form>
+				<concepts>
+					<c>mare</c>
+				</concepts>
+				<url source="wiki">/wiki/behor#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*beLe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/beLe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bele</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/bele#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*beRi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/beRi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*berri</form>
+				<concepts>
+					<c>new</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/berri</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">berri</form>
+				<concepts>
+					<c>new</c>
+				</concepts>
+				<url source="wiki">/wiki/berri#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">berri</form>
+				<concepts>
+					<c>news</c>
+				</concepts>
+				<url source="wiki">/wiki/berri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*beRogei</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/beRogei</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">berrogei</form>
+				<concepts>
+					<c>forty</c>
+				</concepts>
+				<url source="wiki">/wiki/berrogei#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bederatzu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bederatzu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bederatzi</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/bederatzi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*beletz</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/beletz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">beltz</form>
+				<concepts>
+					<c>liberal</c>
+					<c>red wine</c>
+					<c>black</c>
+					<c>quarter note</c>
+					<c>crotchet</c>
+				</concepts>
+				<url source="wiki">/wiki/beltz#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">beltz</form>
+				<concepts>
+					<c>sad</c>
+					<c>wicked</c>
+					<c>evil</c>
+					<c>dark</c>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/beltz#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Iberian</lang>
+				<form script="LATIN">beleś</form>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/beleś#Iberian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bera</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bera</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bera</form>
+				<concepts>
+					<c>oneself</c>
+					<c>in person</c>
+					<c>he</c>
+					<c>she</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/bera#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*beraRi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/beraRi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">belarri</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/belarri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bertze</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bertze</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">beste</form>
+				<concepts>
+					<c>other</c>
+				</concepts>
+				<url source="wiki">/wiki/beste#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*beso</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/beso</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">beso</form>
+				<concepts>
+					<c>arm</c>
+					<c>sleeve</c>
+				</concepts>
+				<url source="wiki">/wiki/beso#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bete</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bete</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bete</form>
+				<concepts>
+					<c>run out</c>
+					<c>carry out</c>
+					<c>fill out</c>
+					<c>exhaust</c>
+					<c>expire</c>
+					<c>fill in</c>
+					<c>satisfy</c>
+					<c>fill</c>
+					<c>fulfill</c>
+				</concepts>
+				<url source="wiki">/wiki/bete#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bi(h)aR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bi(h)aR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bihar</form>
+				<concepts>
+					<c>in the future</c>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/bihar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bi(h)otz</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bi(h)otz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*bihox</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/bihox</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bihotz</form>
+				<concepts>
+					<c>dear</c>
+					<c>courage</c>
+					<c>center</c>
+					<c>core</c>
+					<c>heart</c>
+					<c>spirit</c>
+					<c>darling</c>
+				</concepts>
+				<url source="wiki">/wiki/bihotz#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*biga</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/biga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/bi#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">biga</form>
+				<concepts>
+					<c>calf</c>
+				</concepts>
+				<url source="wiki">/wiki/biga#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">biga</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/biga#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bini</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bini</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">mihi</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/mihi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bizaR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bizaR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bizar</form>
+				<concepts>
+					<c>beard</c>
+				</concepts>
+				<url source="wiki">/wiki/bizar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*boN</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/boN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">on</form>
+				<concepts>
+					<c>convenient</c>
+					<c>good</c>
+					<c>useful</c>
+				</concepts>
+				<url source="wiki">/wiki/on#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*boronte</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/boronte</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">boronde</form>
+				<concepts>
+					<c>forehead</c>
+				</concepts>
+				<url source="wiki">/wiki/boronde#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*bortz</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/bortz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*bors</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/bors</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bost</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/bost#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*buraR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/buraR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">bular</form>
+				<concepts>
+					<c>chest</c>
+					<c>courage</c>
+					<c>breast</c>
+				</concepts>
+				<url source="wiki">/wiki/bular#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*burdina</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/burdina</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">burdina</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/burdina#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*buru</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/buru</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">buru</form>
+				<concepts>
+					<c>judgment</c>
+					<c>intellect</c>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/buru#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*buztaN</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/buztaN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">buztan</form>
+				<concepts>
+					<c>dick</c>
+					<c>cock</c>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/buztan#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*caio</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/caio</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*caio</form>
+				<concepts>
+					<c>seagull</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/caio</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*cedaŕ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/cedaŕ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*cedarr</form>
+				<concepts>
+					<c>soot</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/cedarr</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*concoŕ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/concoŕ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*concorr</form>
+				<concepts>
+					<c>hump</c>
+					<c>knob</c>
+					<c>joint</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/concorr</url>
+			</reflex>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*concorr</form>
+				<concepts>
+					<c>hunchbacked</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/concorr</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*deabulu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/deabulu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">deabru</form>
+				<concepts>
+					<c>mischievous</c>
+					<c>devil</c>
+					<c>Satan</c>
+					<c>demon</c>
+				</concepts>
+				<url source="wiki">/wiki/deabru#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*e(h)uN</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/e(h)uN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ehun</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/ehun#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*e-kus-i</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/e-kus-i</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ikusi</form>
+				<concepts>
+					<c>look</c>
+					<c>see</c>
+					<c>bear</c>
+					<c>stand</c>
+					<c>watch</c>
+				</concepts>
+				<url source="wiki">/wiki/ikusi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*e-oan-i</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/e-oan-i</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">joan</form>
+				<concepts>
+					<c>involve</c>
+					<c>affect</c>
+					<c>concern</c>
+					<c>go</c>
+				</concepts>
+				<url source="wiki">/wiki/joan#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*eNala</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/eNala</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">enara</form>
+				<concepts>
+					<c>swallow</c>
+					<c>swift</c>
+				</concepts>
+				<url source="wiki">/wiki/enara#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*edeR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/edeR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">eder</form>
+				<concepts>
+					<c>pretty</c>
+					<c>handsome</c>
+					<c>beautiful</c>
+					<c>good</c>
+					<c>admirable</c>
+					<c>big</c>
+					<c>grown</c>
+					<c>abundant</c>
+					<c>excellent</c>
+				</concepts>
+				<url source="wiki">/wiki/eder#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*enazuR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/enazuR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">hezur</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/hezur#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*erbi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/erbi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">erbi</form>
+				<concepts>
+					<c>hare</c>
+				</concepts>
+				<url source="wiki">/wiki/erbi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*eruR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/eruR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">elur</form>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/elur#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">alud</form>
+				<concepts>
+					<c>barrage</c>
+					<c>avalanche</c>
+				</concepts>
+				<url source="wiki">/wiki/alud#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*etse</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/etse</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">etxe</form>
+				<concepts>
+					<c>building</c>
+					<c>family</c>
+					<c>house</c>
+					<c>lineage</c>
+					<c>home</c>
+				</concepts>
+				<url source="wiki">/wiki/etxe#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*euLi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/euLi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">euli</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/euli#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*euri</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/euri</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">euri</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/euri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*gaitz</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/gaitz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*caiso</form>
+				<concepts>
+					<c>something bad</c>
+					<c>illness</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/caiso</url>
+			</reflex>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*caiso</form>
+				<concepts>
+					<c>wretched</c>
+					<c>poor</c>
+					<c>ill</c>
+					<c>wicked</c>
+					<c>bad</c>
+					<c>sick</c>
+					<c>poorly</c>
+					<c>difficult</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/caiso</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*gali</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/gali</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">gari</form>
+				<concepts>
+					<c>wheat</c>
+				</concepts>
+				<url source="wiki">/wiki/gari#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*gatz</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/gatz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">gatz</form>
+				<concepts>
+					<c>good humor</c>
+					<c>salt</c>
+				</concepts>
+				<url source="wiki">/wiki/gatz#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*gazi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/gazi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">gazi</form>
+				<concepts>
+					<c>salty</c>
+					<c>coarse</c>
+					<c>dirty</c>
+					<c>sour</c>
+					<c>acid</c>
+				</concepts>
+				<url source="wiki">/wiki/gazi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*gaztane</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/gaztane</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">gazta</form>
+				<concepts>
+					<c>cheese</c>
+				</concepts>
+				<url source="wiki">/wiki/gazta#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*geLa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/geLa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">gela</form>
+				<concepts>
+					<c>room</c>
+				</concepts>
+				<url source="wiki">/wiki/gela#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*gernu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/gernu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*cernu</form>
+				<concepts>
+					<c>urine</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/cernu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*gizoN</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/gizoN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*cison</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/cison</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">gizon</form>
+				<concepts>
+					<c>husband</c>
+					<c>human</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/gizon#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*goRi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/goRi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*corri</form>
+				<concepts>
+					<c>red</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/corri</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">gorri</form>
+				<concepts>
+					<c>bare</c>
+					<c>red</c>
+					<c>naked</c>
+				</concepts>
+				<url source="wiki">/wiki/gorri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*iLuN</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/iLuN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*ilun</form>
+				<concepts>
+					<c>dark</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/ilun</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ilun</form>
+				<concepts>
+					<c>dark</c>
+				</concepts>
+				<url source="wiki">/wiki/ilun#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ibaR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ibaR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ibar</form>
+				<concepts>
+					<c>valley</c>
+				</concepts>
+				<url source="wiki">/wiki/ibar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ikatz</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ikatz</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ikatz</form>
+				<concepts>
+					<c>anthrax</c>
+					<c>coal</c>
+				</concepts>
+				<url source="wiki">/wiki/ikatz#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*itsaso</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/itsaso</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">itsaso</form>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/itsaso#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*itzaL</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/itzaL</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">itzal</form>
+				<concepts>
+					<c>respect</c>
+					<c>shadow</c>
+				</concepts>
+				<url source="wiki">/wiki/itzal#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*izaR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/izaR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">izar</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/izar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*izarr-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/izarr-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">isard</form>
+				<concepts>
+					<c>chamois</c>
+				</concepts>
+				<url source="wiki">/wiki/isard#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">isard</form>
+				<concepts>
+					<c>rough</c>
+					<c>unapproachable</c>
+					<c>untamed</c>
+					<c>unsociable</c>
+					<c>wild</c>
+					<c>surly</c>
+					<c>rugged</c>
+				</concepts>
+				<url source="wiki">/wiki/isard#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">sarrio</form>
+				<concepts>
+					<c>Pyrenean chamois</c>
+				</concepts>
+				<url source="wiki">/wiki/sarrio#Spanish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*izeN</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/izeN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">izen</form>
+				<concepts>
+					<c>substantive</c>
+					<c>name</c>
+					<c>noun</c>
+				</concepts>
+				<url source="wiki">/wiki/izen#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*kaka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/kaka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*caca</form>
+				<concepts>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/caca</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">kaka</form>
+				<concepts>
+					<c>excrement</c>
+				</concepts>
+				<url source="wiki">/wiki/kaka#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*katena</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/katena</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">kate</form>
+				<concepts>
+					<c>chain</c>
+				</concepts>
+				<url source="wiki">/wiki/kate#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*lauR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/lauR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">lau</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/lau#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*le(h)eR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/le(h)eR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*leher</form>
+				<concepts>
+					<c>pine</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/leher</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*lepo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/lepo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">lepo</form>
+				<concepts>
+					<c>shoulder</c>
+					<c>neck</c>
+				</concepts>
+				<url source="wiki">/wiki/lepo#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*lotsa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/lotsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">lotsa</form>
+				<concepts>
+					<c>fear</c>
+					<c>respect</c>
+					<c>shame</c>
+					<c>deference</c>
+					<c>awe</c>
+				</concepts>
+				<url source="wiki">/wiki/lotsa#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*luze</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/luze</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">luze</form>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/luze#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">luze</form>
+				<concepts>
+					<c>widely</c>
+				</concepts>
+				<url source="wiki">/wiki/luze#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*na(h)i</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/na(h)i</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">nahi</form>
+				<concepts>
+					<c>fondness</c>
+					<c>wish</c>
+					<c>will</c>
+					<c>liking</c>
+				</concepts>
+				<url source="wiki">/wiki/nahi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*neska</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/neska</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">neska</form>
+				<concepts>
+					<c>maid</c>
+					<c>girl</c>
+				</concepts>
+				<url source="wiki">/wiki/neska#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*o(h)e</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/o(h)e</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ohe</form>
+				<concepts>
+					<c>bed</c>
+				</concepts>
+				<url source="wiki">/wiki/ohe#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*oLo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/oLo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">olo</form>
+				<concepts>
+					<c>oat</c>
+				</concepts>
+				<url source="wiki">/wiki/olo#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*odoL</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/odoL</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">odol</form>
+				<concepts>
+					<c>bloodline</c>
+					<c>blood</c>
+					<c>courage</c>
+				</concepts>
+				<url source="wiki">/wiki/odol#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ogi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ogi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ogi</form>
+				<concepts>
+					<c>wheat</c>
+					<c>food</c>
+					<c>bread</c>
+					<c>sustenance</c>
+				</concepts>
+				<url source="wiki">/wiki/ogi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ortzi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ortzi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ortzi</form>
+				<concepts>
+					<c>cloudy</c>
+				</concepts>
+				<url source="wiki">/wiki/ortzi#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ortzi</form>
+				<concepts>
+					<c>thundercloud</c>
+					<c>storm</c>
+					<c>daylight</c>
+					<c>thunder</c>
+					<c>atmosphere</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ortzi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*oso</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/oso</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">oso</form>
+				<concepts>
+					<c>completely</c>
+					<c>much</c>
+					<c>very</c>
+				</concepts>
+				<url source="wiki">/wiki/oso#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">oso</form>
+				<concepts>
+					<c>just</c>
+					<c>healthy</c>
+					<c>whole</c>
+					<c>complete</c>
+					<c>righteous</c>
+					<c>entire</c>
+					<c>all</c>
+				</concepts>
+				<url source="wiki">/wiki/oso#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*otso</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/otso</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*oxson</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/oxson</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">otso</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/otso#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*sagaR</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/sagaR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">sagar</form>
+				<concepts>
+					<c>apple</c>
+				</concepts>
+				<url source="wiki">/wiki/sagar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*sagu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/sagu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">sagu</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/sagu#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*sali</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/sali</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">sari</form>
+				<concepts>
+					<c>award</c>
+					<c>prize</c>
+					<c>payment</c>
+					<c>value</c>
+				</concepts>
+				<url source="wiki">/wiki/sari#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*sapar</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/sapar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*saparr</form>
+				<concepts>
+					<c>thicket</c>
+					<c>bush</c>
+					<c>bramble</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/saparr</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*sei</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/sei</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">sei</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/sei#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*senbe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/senbe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">seme</form>
+				<concepts>
+					<c>son</c>
+				</concepts>
+				<url source="wiki">/wiki/seme#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*seni</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/seni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">sein</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/sein#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*suge</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/suge</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">suge</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/suge#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*uRe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/uRe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">urre</form>
+				<concepts>
+					<c>gold</c>
+				</concepts>
+				<url source="wiki">/wiki/urre#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*unbe</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/unbe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*umme</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/umme</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">ume</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="wiki">/wiki/ume#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*untzi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/untzi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">untxi</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/untxi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*urde</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/urde</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">urde</form>
+				<concepts>
+					<c>filthy</c>
+					<c>dirty</c>
+				</concepts>
+				<url source="wiki">/wiki/urde#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">urde</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/urde#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*urzo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/urzo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">uso</form>
+				<concepts>
+					<c>dove</c>
+					<c>effeminate</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/uso#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*xainx́</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/xainx́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">urtxintxa</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/urtxintxa#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*za(h)aR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/za(h)aR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*sahar</form>
+				<concepts>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/sahar</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zahar</form>
+				<concepts>
+					<c>aged</c>
+					<c>old</c>
+				</concepts>
+				<url source="wiki">/wiki/zahar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zakuR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zakuR</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Albanian</lang>
+				<form script="LATIN">zagar</form>
+				<concepts>
+					<c>hunting dog</c>
+					<c>lackey</c>
+					<c>stooge</c>
+					<c>tramp</c>
+					<c>flunkey</c>
+					<c>greyhound</c>
+				</concepts>
+				<url source="wiki">/wiki/zagar#Albanian</url>
+			</reflex>
+			<reflex>
+				<lang>Aquitanian</lang>
+				<form script="LATIN">*sacur</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Aquitanian/sacur</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">txakur</form>
+				<concepts>
+					<c>dog</c>
+					<c>cop</c>
+				</concepts>
+				<url source="wiki">/wiki/txakur#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zakur</form>
+				<concepts>
+					<c>hound</c>
+				</concepts>
+				<url source="wiki">/wiki/zakur#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Corsican</lang>
+				<form script="LATIN">ghjacaru</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ghjacaru#Corsican</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">ζαγάρι</form>
+				<translit>zagári</translit>
+				<concepts>
+					<c>cur</c>
+					<c>hound</c>
+					<c>hunting dog</c>
+					<c>inferior</c>
+				</concepts>
+				<url source="wiki">/wiki/ζαγάρι#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">загар</form>
+				<translit>zagar</translit>
+				<concepts>
+					<c>hound</c>
+					<c>hunting dog</c>
+				</concepts>
+				<url source="wiki">/wiki/загар#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Armenian</lang>
+				<form script="ARMENIAN">զաղառ</form>
+				<translit>zaġaṙ</translit>
+				<concepts>
+					<c>hound</c>
+					<c>hunting dog</c>
+				</concepts>
+				<url source="wiki">/wiki/զաղառ#Middle_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">زغر</form>
+				<translit>zağar</translit>
+				<concepts>
+					<c>hound</c>
+					<c>hunting dog</c>
+				</concepts>
+				<url source="wiki">/wiki/زغر#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="LATIN">zàgār</form>
+				<concepts>
+					<c>hound</c>
+				</concepts>
+				<url source="wiki">/wiki/zagar#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Serbo-Croatian</lang>
+				<form script="CYRILLIC">за̀га̄р</form>
+				<concepts>
+					<c>hound</c>
+				</concepts>
+				<url source="wiki">/wiki/загар#Serbo-Croatian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">cachorro</form>
+				<concepts>
+					<c>puppy</c>
+					<c>cub</c>
+					<c>pup</c>
+				</concepts>
+				<url source="wiki">/wiki/cachorro#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">zağar</form>
+				<concepts>
+					<c>hound</c>
+				</concepts>
+				<url source="wiki">/wiki/zağar#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zelu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zelu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zeru</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/zeru#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zezeN</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zezeN</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zezen</form>
+				<concepts>
+					<c>bull</c>
+				</concepts>
+				<url source="wiki">/wiki/zezen#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*ziNaguRi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/ziNaguRi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">txingurri</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/txingurri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zinV</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zinV</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zi</form>
+				<concepts>
+					<c>acorn</c>
+				</concepts>
+				<url source="wiki">/wiki/zi#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zirar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zirar</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zilar</form>
+				<concepts>
+					<c>silver</c>
+				</concepts>
+				<url source="wiki">/wiki/zilar#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zoRi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zoRi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zorri</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/zorri#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zori</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zori</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">txori</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="wiki">/wiki/txori#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zori</form>
+				<concepts>
+					<c>fate</c>
+					<c>chance</c>
+					<c>fortune</c>
+					<c>luck</c>
+				</concepts>
+				<url source="wiki">/wiki/zori#Basque</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Basque</plang>
+			<pform>*zuLo</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Basque/zuLo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">Zulueta</form>
+				<concepts>
+					<c>hamlet</c>
+					<c>Navarre</c>
+					<c>Spain</c>
+				</concepts>
+				<url source="wiki">/wiki/Zulueta#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>Basque</lang>
+				<form script="LATIN">zulo</form>
+				<concepts>
+					<c>silo</c>
+					<c>hiding place</c>
+					<c>prison</c>
+					<c>grave</c>
+					<c>pit</c>
+					<c>den</c>
+					<c>hole</c>
+				</concepts>
+				<url source="wiki">/wiki/zulo#Basque</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">silo</form>
+				<concepts>
+					<c>cylindrical</c>
+					<c>silo</c>
+				</concepts>
+				<url source="wiki">/wiki/silo#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">silo</form>
+				<concepts>
+					<c>separate</c>
+					<c>isolate</c>
+					<c>silo</c>
+				</concepts>
+				<url source="wiki">/wiki/silo#English</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">zulo</form>
+				<concepts>
+					<c>hiding place</c>
+					<c>cache</c>
+				</concepts>
+				<url source="wiki">/wiki/zulo#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">silhouette</form>
+				<concepts>
+					<c>silhouette</c>
+				</concepts>
+				<url source="wiki">/wiki/silhouette#French</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">silo</form>
+				<concepts>
+					<c>silo</c>
+				</concepts>
+				<url source="wiki">/wiki/silo#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Silo</form>
+				<concepts>
+					<c>silo</c>
+				</concepts>
+				<url source="wiki">/wiki/Silo#German</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">silhueta</form>
+				<concepts>
+					<c>silhouette</c>
+				</concepts>
+				<url source="wiki">/wiki/silhueta#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">silo</form>
+				<concepts>
+					<c>silo</c>
+				</concepts>
+				<url source="wiki">/wiki/silo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">siluetă</form>
+				<concepts>
+					<c>silhouette</c>
+				</concepts>
+				<url source="wiki">/wiki/siluetă#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">silo</form>
+				<concepts>
+					<c>silo</c>
+				</concepts>
+				<url source="wiki">/wiki/silo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">zulo</form>
+				<concepts>
+					<c>hiding place</c>
+					<c>cache</c>
+				</concepts>
+				<url source="wiki">/wiki/zulo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">silüet</form>
+				<concepts>
+					<c>silhouette</c>
+				</concepts>
+				<url source="wiki">/wiki/silüet#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

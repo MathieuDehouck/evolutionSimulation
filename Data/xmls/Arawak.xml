@@ -1,0 +1,927 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*hamaka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/hamaka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">hamaka</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/hamaka#Lokono</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">գամակ</form>
+				<translit>gamak</translit>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/գամակ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">hamaca</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/hamaca#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Esperanto</lang>
+				<form script="LATIN">hamako</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/hamako#Esperanto</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">hamac</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/hamac#French</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">amaca</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/amaca#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">maca</form>
+				<concepts>
+					<c>gurney</c>
+					<c>stretcher</c>
+				</concepts>
+				<url source="wiki">/wiki/maca#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">hamac</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/hamac#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">гама́к</form>
+				<translit>gamák</translit>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/гамак#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Sranan Tongo</lang>
+				<form script="LATIN">amaka</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/amaka#Sranan_Tongo</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">hamak</form>
+				<concepts>
+					<c>hammock</c>
+				</concepts>
+				<url source="wiki">/wiki/hamak#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*hima</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/hima</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">hime</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/hime#Lokono</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*hunia</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/hunia</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">uni</form>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/uni#Lokono</url>
+			</reflex>
+			<reflex>
+				<lang>Curripaco</lang>
+				<form script="LATIN">uuni</form>
+				<translit>u:ni</translit>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/uuni#Curripaco</url>
+			</reflex>
+			<reflex>
+				<lang>Curripaco</lang>
+				<form script="LATIN">uuni</form>
+				<translit>u:ni~oni</translit>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/uuni#Curripaco</url>
+			</reflex>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">húya</form>
+				<translit>huja</translit>
+				<concepts>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/huya#Garifuna</url>
+			</reflex>
+			<reflex>
+				<lang>Mandahuaca</lang>
+				<form script="LATIN">úni</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/úni#Mandahuaca</url>
+			</reflex>
+			<reflex>
+				<lang>Maypure</lang>
+				<form script="LATIN">weni</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/weni#Maypure</url>
+			</reflex>
+			<reflex>
+				<lang>Resígaro</lang>
+				<form script="LATIN">hooní</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/hooní#Resígaro</url>
+			</reflex>
+			<reflex>
+				<lang>Xiriâna</lang>
+				<form script="LATIN">hunɨ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/hunɨ#Xiriâna</url>
+			</reflex>
+			<reflex>
+				<lang>Yavitero</lang>
+				<form script="LATIN">weni</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/weni#Yavitero</url>
+			</reflex>
+			<reflex>
+				<lang>Yine</lang>
+				<form script="LATIN">gonu</form>
+				<translit>honɨ</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/gonu#Yine</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*kahɨtʰi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/kahɨtʰi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">kathi</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/kathi#Lokono</url>
+			</reflex>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">hati</form>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/hati#Garifuna</url>
+			</reflex>
+			<reflex>
+				<lang>Wayuu</lang>
+				<form script="LATIN">kashi</form>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/kashi#Wayuu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*kanawa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/kanawa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Asturian</lang>
+				<form script="LATIN">canoa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoa#Asturian</url>
+			</reflex>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">canoa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoa#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">kano</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/kano#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">canoe</form>
+				<concepts>
+					<c>oversize</c>
+					<c>older</c>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoe#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">canoe</form>
+				<concepts>
+					<c>ride</c>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoe#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">canoë</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoë#French</url>
+			</reflex>
+			<reflex>
+				<lang>Galician</lang>
+				<form script="LATIN">canoa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoa#Galician</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Kanu</form>
+				<concepts>
+					<c>light</c>
+					<c>canoe</c>
+					<c>kayak</c>
+				</concepts>
+				<url source="wiki">/wiki/Kanu#German</url>
+			</reflex>
+			<reflex>
+				<lang>Huichol</lang>
+				<form script="LATIN">canuva</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canuva#Huichol</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">canú</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canú#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">canoa</form>
+				<concepts>
+					<c>canoe</c>
+					<c>canoeing</c>
+				</concepts>
+				<url source="wiki">/wiki/canoa#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">canoa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoa#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">кано́э</form>
+				<translit>kanóe</translit>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/каноэ#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>San Juan Colorado Mixtec</lang>
+				<form script="LATIN">canuva</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canuva#San_Juan_Colorado_Mixtec</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">canoa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/canoa#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Taíno</lang>
+				<form script="LATIN">*kanowa</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Taíno/kanowa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*kasiu-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/kasiu-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">kashyuna</form>
+				<concepts>
+					<c>alligator</c>
+				</concepts>
+				<url source="wiki">/wiki/kashyuna#Chamicuro</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*keni</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/keni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Wayuu</lang>
+				<form script="LATIN">jokoma</form>
+				<concepts>
+					<c>worm</c>
+				</concepts>
+				<url source="wiki">/wiki/jokoma#Wayuu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*kɨhti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/kɨhti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">kuti</form>
+				<concepts>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/kuti#Lokono</url>
+			</reflex>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">kujtu</form>
+				<translit>kuhtu</translit>
+				<concepts>
+					<c>foot</c>
+					<c>paw</c>
+				</concepts>
+				<url source="wiki">/wiki/kujtu#Chamicuro</url>
+			</reflex>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">ugudi</form>
+				<concepts>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/ugudi#Garifuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*kʰapɨ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/kʰapɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">shijpa</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/shijpa#Chamicuro</url>
+			</reflex>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">uhabu</form>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/uhabu#Garifuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*kʰiba</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/kʰiba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Wayuu</lang>
+				<form script="LATIN">ipa</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/ipa#Wayuu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*marikɨ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/marikɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">marisi</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/marisi#Lokono</url>
+			</reflex>
+			<reflex>
+				<lang>Bikol Central</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Bikol_Central</url>
+			</reflex>
+			<reflex>
+				<lang>Cebuano</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Cebuano</url>
+			</reflex>
+			<reflex>
+				<lang>Cuyunon</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Cuyunon</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">maize</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/maize#English</url>
+			</reflex>
+			<reflex>
+				<lang>Faroese</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Faroese</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">maïs</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/maïs#French</url>
+			</reflex>
+			<reflex>
+				<lang>Hiligaynon</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Hiligaynon</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Norwegian Bokmål</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+					<c>sweetcorn</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Norwegian_Bokmål</url>
+			</reflex>
+			<reflex>
+				<lang>Norwegian Nynorsk</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+					<c>sweetcorn</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Norwegian_Nynorsk</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">maíz</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/maíz#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">majs</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/majs#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+					<c>maize</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Waray-Waray</lang>
+				<form script="LATIN">mais</form>
+				<concepts>
+					<c>corn</c>
+				</concepts>
+				<url source="wiki">/wiki/mais#Waray-Waray</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*napɨ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/napɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">kajpu</form>
+				<translit>kahpu</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/kajpu#Chamicuro</url>
+			</reflex>
+			<reflex>
+				<lang>Wayuu</lang>
+				<form script="LATIN">jiipü</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/jiipü#Wayuu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*nene</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/nene</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">iye</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/iye#Lokono</url>
+			</reflex>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">menu</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/menu#Chamicuro</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*para</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/para</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">barana</form>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/barana#Garifuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*pe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/pe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">bohío</form>
+				<concepts>
+					<c>hut</c>
+					<c>bohío</c>
+				</concepts>
+				<url source="wiki">/wiki/bohío#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">bohío</form>
+				<concepts>
+					<c>hut</c>
+					<c>bohío</c>
+				</concepts>
+				<url source="wiki">/wiki/bohío#English</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">bohío</form>
+				<concepts>
+					<c>hut</c>
+				</concepts>
+				<url source="wiki">/wiki/bohío#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Taíno</lang>
+				<form script="LATIN">*bohi</form>
+				<concepts>
+					<c>house</c>
+					<c>dwelling</c>
+					<c>shelter</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Taíno/bohi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*takɨ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/takɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">arigei</form>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/arigei#Garifuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*uhbana</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/uhbana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">ojpana</form>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/ojpana#Chamicuro</url>
+			</reflex>
+			<reflex>
+				<lang>Wayuu</lang>
+				<form script="LATIN">apana</form>
+				<concepts>
+					<c>liver</c>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/apana#Wayuu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*ukɨ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/ukɨ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arawak</lang>
+				<form script="LATIN">akusi</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/akusi#Lokono</url>
+			</reflex>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">ojki</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/ojki#Chamicuro</url>
+			</reflex>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">agu</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/agu#Garifuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Arawak</plang>
+			<pform>*ʔitʰa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Arawak/ʔitʰa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chamicuro</lang>
+				<form script="LATIN">iila</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/iila#Chamicuro</url>
+			</reflex>
+			<reflex>
+				<lang>Garifuna</lang>
+				<form script="LATIN">hitaü</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/hitaü#Garifuna</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

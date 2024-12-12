@@ -1,0 +1,32 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Dargwa</plang>
+			<pform>*xin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Dargwa/xin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dargwa</lang>
+				<form script="CYRILLIC">гьин</form>
+				<translit>hin</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/гьин#Dargwa</url>
+			</reflex>
+			<reflex>
+				<lang>Dargwa</lang>
+				<form script="CYRILLIC">шин</form>
+				<translit>šin</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/шин#Dargwa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

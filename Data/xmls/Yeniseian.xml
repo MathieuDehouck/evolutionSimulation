@@ -1,0 +1,253 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Yeniseian</plang>
+			<pform>*aw</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yeniseian/aw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arin</lang>
+				<form script="LATIN">au</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/au#Arin</url>
+			</reflex>
+			<reflex>
+				<lang>Kott</lang>
+				<form script="LATIN">au</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/au#Kott</url>
+			</reflex>
+			<reflex>
+				<lang>Pumpokol</lang>
+				<form script="LATIN">u</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/u#Pumpokol</url>
+			</reflex>
+			<reflex>
+				<lang>Pumpokol</lang>
+				<form script="LATIN">úe</form>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/úe#Pumpokol</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yeniseian</plang>
+			<pform>*axʷ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yeniseian/axʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arin</lang>
+				<form script="LATIN">aj</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/aj#Arin</url>
+			</reflex>
+			<reflex>
+				<lang>Arin</lang>
+				<form script="LATIN">ä</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ä#Arin</url>
+			</reflex>
+			<reflex>
+				<lang>Assan</lang>
+				<form script="LATIN">aj</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/aj#Assan</url>
+			</reflex>
+			<reflex>
+				<lang>Assan</lang>
+				<form script="LATIN">ja</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ja#Assan</url>
+			</reflex>
+			<reflex>
+				<lang>Ket</lang>
+				<form script="CYRILLIC">ат</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ат#Ket</url>
+			</reflex>
+			<reflex>
+				<lang>Kott</lang>
+				<form script="LATIN">ai</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ai#Kott</url>
+			</reflex>
+			<reflex>
+				<lang>Pumpokol</lang>
+				<form script="LATIN">ad</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ad#Pumpokol</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yeniseian</plang>
+			<pform>*cajs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yeniseian/cajs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ket</lang>
+				<form script="CYRILLIC">ты’сь</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/тыʼсь#Ket</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yeniseian</plang>
+			<pform>*duwkʷ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yeniseian/duwkʷ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ket</lang>
+				<form script="CYRILLIC">ду’</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/дуʼ#Ket</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yeniseian</plang>
+			<pform>*xuɬ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yeniseian/xuɬ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arin</lang>
+				<form script="CYRILLIC">куль</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/куль#Arin</url>
+			</reflex>
+			<reflex>
+				<lang>Assan</lang>
+				<form script="CYRILLIC">уль</form>
+				<concepts>
+					<c>river</c>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/уль#Assan</url>
+			</reflex>
+			<reflex>
+				<lang>Ket</lang>
+				<form script="CYRILLIC">уль</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/уль#Ket</url>
+			</reflex>
+			<reflex>
+				<lang>Kott</lang>
+				<form script="CYRILLIC">уль</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/уль#Kott</url>
+			</reflex>
+			<reflex>
+				<lang>Pumpokol</lang>
+				<form script="CYRILLIC">уль</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/уль#Pumpokol</url>
+			</reflex>
+			<reflex>
+				<lang>Yug</lang>
+				<form script="CYRILLIC">уль</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/уль#Yug</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Yeniseian</plang>
+			<pform>*ʔes</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Yeniseian/ʔes</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Assan</lang>
+				<form script="CYRILLIC">эш</form>
+				<concepts>
+					<c>god</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/эш#Assan</url>
+			</reflex>
+			<reflex>
+				<lang>Kott</lang>
+				<form script="CYRILLIC">еш</form>
+				<concepts>
+					<c>god</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/еш#Kott</url>
+			</reflex>
+			<reflex>
+				<lang>Pumpokol</lang>
+				<form script="CYRILLIC">еч</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/еч#Pumpokol</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

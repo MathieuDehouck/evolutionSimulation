@@ -1,0 +1,5328 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*HanyátʰaH</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/HanyátʰaH</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">aññathā</form>
+				<concepts>
+					<c>otherwise</c>
+					<c>differently</c>
+				</concepts>
+				<url source="wiki">/wiki/aññathā#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀅𑀡𑁆𑀡𑀳</form>
+				<translit>aṇṇaha</translit>
+				<concepts>
+					<c>otherwise</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀅𑀡𑁆𑀡𑀳#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">अन्यथा</form>
+				<translit>anyáthā</translit>
+				<concepts>
+					<c>otherwise</c>
+				</concepts>
+				<url source="wiki">/wiki/अन्यथा#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*Hanćúš</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/Hanćúš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">আঁহ</form>
+				<translit>ãh</translit>
+				<concepts>
+					<c>fibre</c>
+				</concepts>
+				<url source="wiki">/wiki/আঁহ#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">আঁশ</form>
+				<translit>ãś</translit>
+				<concepts>
+					<c>sap</c>
+				</concepts>
+				<url source="wiki">/wiki/আঁশ#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">अंशु</form>
+				<translit>aṃśú</translit>
+				<concepts>
+					<c>array</c>
+					<c>point</c>
+					<c>stalk</c>
+					<c>cloth</c>
+					<c>end</c>
+					<c>filament</c>
+					<c>thread</c>
+					<c>sunbeam</c>
+				</concepts>
+				<url source="wiki">/wiki/अंशु#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*Harušás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/Harušás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">Արուսյակ</form>
+				<translit>Arusyak</translit>
+				<concepts>
+					<c>Venus</c>
+				</concepts>
+				<url source="wiki">/wiki/Արուսյակ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">արշալույս</form>
+				<translit>aršaluys</translit>
+				<concepts>
+					<c>dawn</c>
+				</concepts>
+				<url source="wiki">/wiki/արշալույս#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Armenian</lang>
+				<form script="ARMENIAN">արշալոյս</form>
+				<translit>aršaloys</translit>
+				<concepts>
+					<c>dawn</c>
+				</concepts>
+				<url source="wiki">/wiki/արշալոյս#Middle_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">урс</form>
+				<translit>urs</translit>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/урс#Ossetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*Hnā́riH</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/Hnā́riH</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬥𐬁𐬌𐬭𐬍</form>
+				<translit>nāirī</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬥𐬁𐬌𐬭𐬍#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">নারী</form>
+				<translit>nari</translit>
+				<concepts>
+					<c>wife</c>
+					<c>womankind</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/নারী#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">नार</form>
+				<translit>nār</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/नार#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">नारी</form>
+				<translit>nārī</translit>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/नारी#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Kannada</lang>
+				<form script="KANNADA">ನಾರಿ</form>
+				<translit>nāri</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ನಾರಿ#Kannada</url>
+			</reflex>
+			<reflex>
+				<lang>Malayalam</lang>
+				<form script="MALAYALAM">നാരി</form>
+				<translit>nāri</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/നാരി#Malayalam</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">nārī</form>
+				<concepts>
+					<c>woman</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/nārī#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀡𑀸𑀭𑀻</form>
+				<translit>ṇārī</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀡𑀸𑀭𑀻#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਨਾਰ</form>
+				<translit>nār</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ਨਾਰ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">नारी</form>
+				<translit>nā́rī</translit>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/नारी#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">నారి</form>
+				<translit>nāri</translit>
+				<concepts>
+					<c>bowstring</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/నారి#Telugu</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">นารี</form>
+				<translit>naa-rii</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/นารี#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*Yámas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/Yámas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">যম</form>
+				<translit>jom</translit>
+				<concepts>
+					<c>Yama</c>
+				</concepts>
+				<url source="wiki">/wiki/যম#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">যমজ</form>
+				<translit>jomoj</translit>
+				<concepts>
+					<c>twin-born</c>
+					<c>twin</c>
+				</concepts>
+				<url source="wiki">/wiki/যমজ#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Burmese</lang>
+				<form script="MYANMAR">ယာမာ</form>
+				<translit>yama</translit>
+				<concepts>
+					<c>Yama</c>
+				</concepts>
+				<url source="wiki">/wiki/ယာမာ#Burmese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">យម</form>
+				<translit>yum</translit>
+				<concepts>
+					<c>Yama</c>
+					<c>devil</c>
+					<c>Satan</c>
+					<c>death</c>
+				</concepts>
+				<url source="wiki">/wiki/យម#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">यम</form>
+				<translit>yam</translit>
+				<concepts>
+					<c>Yama</c>
+				</concepts>
+				<url source="wiki">/wiki/यम#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">यम</form>
+				<translit>yam</translit>
+				<concepts>
+					<c>Yama</c>
+				</concepts>
+				<url source="wiki">/wiki/यम#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Marathi</lang>
+				<form script="MODI">𑘧𑘦</form>
+				<translit>yama</translit>
+				<concepts>
+					<c>Yama</c>
+				</concepts>
+				<url source="wiki">/wiki/𑘧𑘦#Old_Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">யமன்</form>
+				<translit>yamaṉ</translit>
+				<concepts>
+					<c>Yama</c>
+				</concepts>
+				<url source="wiki">/wiki/யமன்#Tamil</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*aryamā́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/aryamā́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">ایرمان</form>
+				<translit>irmân</translit>
+				<concepts>
+					<c>cleric</c>
+					<c>religious leader</c>
+					<c>guest</c>
+					<c>friend</c>
+					<c>companion</c>
+				</concepts>
+				<url source="wiki">/wiki/ایرمان#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">ایرمان</form>
+				<translit>êrmân</translit>
+				<concepts>
+					<c>cleric</c>
+					<c>religious leader</c>
+					<c>guest</c>
+					<c>friend</c>
+					<c>companion</c>
+				</concepts>
+				<url source="wiki">/wiki/ایرمان#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">ایرمان</form>
+				<translit>ērmān</translit>
+				<concepts>
+					<c>cleric</c>
+					<c>religious leader</c>
+					<c>guest</c>
+					<c>friend</c>
+					<c>companion</c>
+				</concepts>
+				<url source="wiki">/wiki/ایرمان#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀅𑀚𑁆𑀚𑀫</form>
+				<translit>ajjama</translit>
+				<concepts>
+					<c>sun</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀅𑀚𑁆𑀚𑀫#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">अर्यमन्</form>
+				<translit>aryamán</translit>
+				<concepts>
+					<c>Aryaman</c>
+				</concepts>
+				<url source="wiki">/wiki/अर्यमन्#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">अर्यमन्</form>
+				<translit>aryamán</translit>
+				<concepts>
+					<c>companion</c>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/अर्यमन्#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*bíHȷ́am</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/bíHȷ́am</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Burmese</lang>
+				<form script="MYANMAR">ဗီဇ</form>
+				<translit>bija.</translit>
+				<concepts>
+					<c>ancestry</c>
+					<c>trait</c>
+					<c>genealogy</c>
+					<c>lineage</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/ဗီဇ#Burmese</url>
+			</reflex>
+			<reflex>
+				<lang>Gandhari</lang>
+				<form script="KHAROSHTHI">𐨦𐨁𐨩</form>
+				<translit>biya</translit>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/𐨦𐨁𐨩#Gandhari</url>
+			</reflex>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">બી</form>
+				<translit>bī</translit>
+				<concepts>
+					<c>source</c>
+					<c>seed</c>
+					<c>origin</c>
+				</concepts>
+				<url source="wiki">/wiki/બી#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Kalasha</lang>
+				<form script="LATIN">bi</form>
+				<concepts>
+					<c>semen</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/bi#Kalasha</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ពីជៈ</form>
+				<translit>piicĕəʼ</translit>
+				<concepts>
+					<c>embryo</c>
+					<c>germ</c>
+					<c>bud</c>
+					<c>shoot</c>
+					<c>seed</c>
+					<c>sprout</c>
+				</concepts>
+				<url source="wiki">/wiki/ពីជៈ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Konkani</lang>
+				<form script="DEVANAGARI">बी</form>
+				<concepts>
+					<c>pea</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/बी#Konkani</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">बी</form>
+				<translit>bī</translit>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/बी#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Nepali</lang>
+				<form script="DEVANAGARI">बीउ</form>
+				<translit>bīu</translit>
+				<concepts>
+					<c>seedling</c>
+					<c>stone</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/बीउ#Nepali</url>
+			</reflex>
+			<reflex>
+				<lang>Niya Prakrit</lang>
+				<form script="KHAROSHTHI">𐨧𐨁𐨗𐨹</form>
+				<translit>bhij́a</translit>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/𐨧𐨁𐨗𐨹#Niya_Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Old Marathi</lang>
+				<form script="MODI">𑘤𑘲𑘽</form>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/𑘤𑘲𑘽#Old_Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">bīja</form>
+				<concepts>
+					<c>germ</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/bīja#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀩𑀻𑀅</form>
+				<translit>bīa</translit>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀩𑀻𑀅#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">बीज</form>
+				<translit>bī́ja</translit>
+				<concepts>
+					<c>grain</c>
+					<c>origin</c>
+					<c>semen</c>
+					<c>algebra</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/बीज#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Shina</lang>
+				<form script="DEVANAGARI">बीँ</form>
+				<translit>bī̃</translit>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/बीँ#Shina</url>
+			</reflex>
+			<reflex>
+				<lang>Torwali</lang>
+				<form script="ARABIC">بِژ</form>
+				<translit>biž</translit>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/بِژ#Torwali</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*bʰayšaȷ́ás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/bʰayšaȷ́ás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">भेषज</form>
+				<translit>bheṣajá</translit>
+				<concepts>
+					<c>drug</c>
+					<c>remedy</c>
+					<c>medicine</c>
+				</concepts>
+				<url source="wiki">/wiki/भेषज#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">भेषज</form>
+				<translit>bheṣajá</translit>
+				<concepts>
+					<c>healing</c>
+					<c>sanative</c>
+					<c>curative</c>
+				</concepts>
+				<url source="wiki">/wiki/भेषज#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*gadaH</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/gadaH</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">गदा</form>
+				<translit>gadā</translit>
+				<concepts>
+					<c>mace</c>
+					<c>club</c>
+				</concepts>
+				<url source="wiki">/wiki/गदा#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">gada</form>
+				<concepts>
+					<c>mace</c>
+				</concepts>
+				<url source="wiki">/wiki/gada#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">गदा</form>
+				<translit>gadā</translit>
+				<concepts>
+					<c>mace</c>
+					<c>club</c>
+					<c>bludgeon</c>
+				</concepts>
+				<url source="wiki">/wiki/गदा#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*gʰawš-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/gʰawš-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">घुष्</form>
+				<translit>ghuṣ</translit>
+				<concepts>
+					<c>cry</c>
+					<c>call out</c>
+					<c>announce</c>
+				</concepts>
+				<url source="wiki">/wiki/घुष्#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*kapáwtas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/kapáwtas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կապույտ</form>
+				<translit>kapuyt</translit>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/կապույտ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կապույտ</form>
+				<translit>kapuyt</translit>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/կապույտ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կապուտ</form>
+				<translit>kaput</translit>
+				<concepts>
+					<c>European bullhead</c>
+				</concepts>
+				<url source="wiki">/wiki/կապուտ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">կապուտ</form>
+				<translit>kaput</translit>
+				<concepts>
+					<c>European bullhead</c>
+				</concepts>
+				<url source="wiki">/wiki/կապուտ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">কপৌ</form>
+				<translit>kopou</translit>
+				<concepts>
+					<c>oriental turtle dove</c>
+					<c>dove</c>
+					<c>turtle dove</c>
+				</concepts>
+				<url source="wiki">/wiki/কপৌ#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">কুপতি</form>
+				<translit>kupoti</translit>
+				<concepts>
+					<c>oriental turtle dove</c>
+					<c>dove</c>
+					<c>turtle dove</c>
+				</concepts>
+				<url source="wiki">/wiki/কুপতি#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Baluchi</lang>
+				<form script="ARABIC">کپوت</form>
+				<translit>kapōt</translit>
+				<concepts>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/کپوت#Baluchi</url>
+			</reflex>
+			<reflex>
+				<lang>Gandhari</lang>
+				<form script="KHAROSHTHI">𐨐𐨬𐨆𐨡</form>
+				<translit>kavoda</translit>
+				<concepts>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/𐨐𐨬𐨆𐨡#Gandhari</url>
+			</reflex>
+			<reflex>
+				<lang>Kalasha</lang>
+				<form script="LATIN">kohów</form>
+				<concepts>
+					<c>dove</c>
+				</concepts>
+				<url source="wiki">/wiki/kohów#Kalasha</url>
+			</reflex>
+			<reflex>
+				<lang>Khowar</lang>
+				<form script="ARABIC">کووور</form>
+				<translit>kowór</translit>
+				<concepts>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/کووور#Khowar</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Armenian</lang>
+				<form script="ARMENIAN">կապուտ</form>
+				<translit>kaput</translit>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/կապուտ#Middle_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Armenian</lang>
+				<form script="ARMENIAN">կապուտ</form>
+				<translit>kaput</translit>
+				<concepts>
+					<c>sky</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/կապուտ#Middle_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Kurdish</lang>
+				<form script="LATIN">kevok</form>
+				<concepts>
+					<c>dove</c>
+				</concepts>
+				<url source="wiki">/wiki/kevok#Northern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">կապոյտ</form>
+				<translit>kapoyt</translit>
+				<concepts>
+					<c>ashy</c>
+					<c>sky-blue</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/կապոյտ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">կապոյտ</form>
+				<translit>kapoyt</translit>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/կապոյտ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">کبوتر</form>
+				<translit>kabutar</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/کبوتر#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">کبود</form>
+				<translit>kabôd</translit>
+				<concepts>
+					<c>blue-gray</c>
+					<c>azure</c>
+					<c>indigo</c>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/کبود#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਕਬੂਤਰ</form>
+				<translit>kabūtar</translit>
+				<concepts>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/ਕਬੂਤਰ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">कपोत</form>
+				<translit>kapóta</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/कपोत#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">கபோதம்</form>
+				<translit>kapōtam</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/கபோதம்#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">కపోతము</form>
+				<translit>kapōtamu</translit>
+				<concepts>
+					<c>dove</c>
+					<c>pigeon</c>
+				</concepts>
+				<url source="wiki">/wiki/కపోతము#Telugu</url>
+			</reflex>
+			<reflex>
+				<lang>Zazaki</lang>
+				<form script="LATIN">kewe</form>
+				<concepts>
+					<c>blue</c>
+				</concepts>
+				<url source="wiki">/wiki/kewe#Zazaki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*kapʰas</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/kapʰas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">कफ</form>
+				<translit>kapha</translit>
+				<concepts>
+					<c>phlegm</c>
+				</concepts>
+				<url source="wiki">/wiki/कफ#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*kaćyápas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/kaćyápas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">কাছ</form>
+				<translit>kas</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/কাছ#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">কাছ</form>
+				<translit>kaso</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/কাছ#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">কচ্ছপ</form>
+				<translit>kocchop</translit>
+				<concepts>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/কচ্ছপ#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">কাছিম</form>
+				<translit>kachim</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/কাছিম#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Dhivehi</lang>
+				<form script="THAANA">ކަހަނބު</form>
+				<translit>kahaᵐbu</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>terrapin</c>
+				</concepts>
+				<url source="wiki">/wiki/ކަހަނބު#Dhivehi</url>
+			</reflex>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">કાચબો</form>
+				<translit>kācbo</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/કાચબો#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">कछुआ</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/कछुआ#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">कासव</form>
+				<translit>kāsav</translit>
+				<concepts>
+					<c>tortoise</c>
+				</concepts>
+				<url source="wiki">/wiki/कासव#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">хӕфс</form>
+				<translit>xæfs</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/хӕфс#Ossetian</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">kacchapa</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/kacchapa#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀓𑀘𑁆𑀙𑀯</form>
+				<translit>kacchava</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀓𑀘𑁆𑀙𑀯#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਕੱਛੂ</form>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/ਕੱਛੂ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">कच्छप</form>
+				<translit>kacchapa</translit>
+				<concepts>
+					<c>tortoise</c>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/कच्छप#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">कश्यप</form>
+				<translit>kaśyápa</translit>
+				<concepts>
+					<c>tortoise</c>
+				</concepts>
+				<url source="wiki">/wiki/कश्यप#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Zazaki</lang>
+				<form script="LATIN">kesa</form>
+				<concepts>
+					<c>tortoise</c>
+				</concepts>
+				<url source="wiki">/wiki/kesa#Zazaki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*krā́mHti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/krā́mHti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">क्रम</form>
+				<translit>kram</translit>
+				<concepts>
+					<c>sequence</c>
+					<c>system</c>
+					<c>arrangement</c>
+					<c>order</c>
+					<c>organization</c>
+				</concepts>
+				<url source="wiki">/wiki/क्रम#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦏꦿꦩ</form>
+				<translit>krama</translit>
+				<concepts>
+					<c>behaviour</c>
+					<c>character</c>
+					<c>marry</c>
+					<c>politeness</c>
+					<c>spouse</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦏꦿꦩ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">krama</form>
+				<concepts>
+					<c>duly</c>
+					<c>behaviour</c>
+					<c>order</c>
+					<c>custom</c>
+					<c>course</c>
+					<c>thereupon</c>
+					<c>then</c>
+					<c>conduct</c>
+					<c>condition</c>
+					<c>state</c>
+				</concepts>
+				<url source="wiki">/wiki/krama#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">خرامیدن</form>
+				<translit>xarâmidan</translit>
+				<concepts>
+					<c>strut</c>
+					<c>prance</c>
+				</concepts>
+				<url source="wiki">/wiki/خرامیدن#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">خرامیدن</form>
+				<translit>xirâmidan</translit>
+				<concepts>
+					<c>strut</c>
+					<c>prance</c>
+				</concepts>
+				<url source="wiki">/wiki/خرامیدن#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">خرامیدن</form>
+				<translit>xirāmidan, xarāmidan</translit>
+				<concepts>
+					<c>strut</c>
+					<c>prance</c>
+				</concepts>
+				<url source="wiki">/wiki/خرامیدن#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">क्रम</form>
+				<translit>kráma</translit>
+				<concepts>
+					<c>cause</c>
+					<c>way</c>
+					<c>effectuation</c>
+					<c>system</c>
+					<c>succession</c>
+					<c>route</c>
+					<c>ordering</c>
+					<c>series</c>
+					<c>proceeding</c>
+					<c>custom</c>
+					<c>foot</c>
+					<c>path</c>
+					<c>organization</c>
+					<c>rite</c>
+					<c>consecutiveness</c>
+					<c>circumstance</c>
+					<c>tradition</c>
+					<c>heredity</c>
+					<c>rule</c>
+					<c>step</c>
+					<c>order</c>
+					<c>occasion</c>
+					<c>method</c>
+					<c>going</c>
+					<c>progress</c>
+					<c>manner</c>
+				</concepts>
+				<url source="wiki">/wiki/क्रम#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">क्रामति</form>
+				<translit>krāmati</translit>
+				<concepts>
+					<c>step</c>
+					<c>advance</c>
+					<c>succeed</c>
+					<c>go</c>
+					<c>climb</c>
+					<c>practicable</c>
+					<c>cover</c>
+					<c>walk</c>
+					<c>take possession</c>
+					<c>go over</c>
+					<c>appliable</c>
+					<c>undertake</c>
+					<c>approach</c>
+				</concepts>
+				<url source="wiki">/wiki/क्रामति#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*kútas</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/kútas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Baluchi</lang>
+				<form script="ARABIC">کچک</form>
+				<translit>kučak</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/کچک#Baluchi</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Kurdish</lang>
+				<form script="LATIN">kûçik</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/kûçik#Northern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">куыдз</form>
+				<translit>k°yʒ</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/куыдз#Ossetian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*kʰumbʰás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/kʰumbʰás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Burmese</lang>
+				<form script="MYANMAR">ကုံ</form>
+				<translit>kum</translit>
+				<concepts>
+					<c>Aquarius</c>
+				</concepts>
+				<url source="wiki">/wiki/ကုံ#Burmese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">កុម្ភៈ</form>
+				<translit>komphĕəʼ</translit>
+				<concepts>
+					<c>February</c>
+				</concepts>
+				<url source="wiki">/wiki/កុម្ភៈ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">कुंभ</form>
+				<translit>kumbha</translit>
+				<concepts>
+					<c>Aquarius</c>
+				</concepts>
+				<url source="wiki">/wiki/कुंभ#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Niya Prakrit</lang>
+				<form script="KHAROSHTHI">𐨐𐨂𐨎𐨦</form>
+				<translit>kuṃba</translit>
+				<concepts>
+					<c>jar</c>
+				</concepts>
+				<url source="wiki">/wiki/𐨐𐨂𐨎𐨦#Niya_Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">kumbha</form>
+				<concepts>
+					<c>pitcher</c>
+				</concepts>
+				<url source="wiki">/wiki/kumbha#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">कुम्भ</form>
+				<translit>kumbhá</translit>
+				<concepts>
+					<c>sign of the zodiac</c>
+					<c>jar</c>
+					<c>pitcher</c>
+					<c>ewer</c>
+				</concepts>
+				<url source="wiki">/wiki/कुम्भ#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กุมภ์</form>
+				<translit>gum</translit>
+				<concepts>
+					<c>Aquarius</c>
+				</concepts>
+				<url source="wiki">/wiki/กุมภ์#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กุมภ์</form>
+				<translit>gum</translit>
+				<concepts>
+					<c>pitcher</c>
+				</concepts>
+				<url source="wiki">/wiki/กุมภ์#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*kʰáras</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/kʰáras</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">xər</form>
+				<translit>xər</translit>
+				<concepts>
+					<c>donkey</c>
+					<c>ass</c>
+				</concepts>
+				<url source="wiki">/wiki/xər#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Bactrian</lang>
+				<form script="GREEK">χαρο</form>
+				<translit>xaro</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/χαρο#Bactrian</url>
+			</reflex>
+			<reflex>
+				<lang>Baluchi</lang>
+				<form script="ARABIC">ہر</form>
+				<translit>har</translit>
+				<concepts>
+					<c>donkey</c>
+					<c>ass</c>
+				</concepts>
+				<url source="wiki">/wiki/ہر#Baluchi</url>
+			</reflex>
+			<reflex>
+				<lang>Central Kurdish</lang>
+				<form script="ARABIC">که‌ر</form>
+				<translit>ker</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/که‌ر#Central_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">खरा</form>
+				<translit>kharā</translit>
+				<concepts>
+					<c>straightforward</c>
+					<c>frank</c>
+					<c>genuine</c>
+					<c>upright</c>
+					<c>pure</c>
+					<c>plain</c>
+				</concepts>
+				<url source="wiki">/wiki/खरा#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Kurdish</lang>
+				<form script="LATIN">ker</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/ker#Northern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">khara</form>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/khara#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">khara</form>
+				<concepts>
+					<c>hard</c>
+					<c>harsh</c>
+					<c>hurtful</c>
+					<c>hot</c>
+					<c>sharp</c>
+					<c>acid</c>
+					<c>injurious</c>
+				</concepts>
+				<url source="wiki">/wiki/khara#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Ossetian</lang>
+				<form script="CYRILLIC">хӕрӕг</form>
+				<translit>xæræg</translit>
+				<concepts>
+					<c>donkey</c>
+				</concepts>
+				<url source="wiki">/wiki/хӕрӕг#Ossetian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">खर</form>
+				<translit>khára</translit>
+				<concepts>
+					<c>mule</c>
+					<c>crow</c>
+					<c>heron</c>
+					<c>donkey</c>
+					<c>osprey</c>
+				</concepts>
+				<url source="wiki">/wiki/खर#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Tajik</lang>
+				<form script="CYRILLIC">хар</form>
+				<translit>xar</translit>
+				<concepts>
+					<c>donkey</c>
+					<c>ass</c>
+				</concepts>
+				<url source="wiki">/wiki/хар#Tajik</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">ఖరము</form>
+				<translit>kharamu</translit>
+				<concepts>
+					<c>donkey</c>
+					<c>ass</c>
+				</concepts>
+				<url source="wiki">/wiki/ఖరము#Telugu</url>
+			</reflex>
+			<reflex>
+				<lang>Yagnobi</lang>
+				<form script="CYRILLIC">хар</form>
+				<translit>xar</translit>
+				<concepts>
+					<c>donkey</c>
+					<c>ass</c>
+				</concepts>
+				<url source="wiki">/wiki/хар#Yagnobi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*kʰā́</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/kʰā́</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">खा</form>
+				<translit>khā́</translit>
+				<concepts>
+					<c>fountain</c>
+					<c>spring</c>
+					<c>well</c>
+				</concepts>
+				<url source="wiki">/wiki/खा#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*makáćas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/makáćas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">মহ</form>
+				<translit>moh</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/মহ#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">মশা</form>
+				<translit>mośa</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/মশা#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Central Kurdish</lang>
+				<form script="ARABIC">مەگەز</form>
+				<translit>megez</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/مەگەز#Central_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Early Assamese</lang>
+				<form script="BENGALI">মশ</form>
+				<translit>mośo</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/মশ#Early_Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Khalaj</lang>
+				<form script="LATIN">mağas</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/mağas#Khalaj</url>
+			</reflex>
+			<reflex>
+				<lang>Konkani</lang>
+				<form script="DEVANAGARI">मूस</form>
+				<translit>mūs</translit>
+				<concepts>
+					<c>gnat</c>
+					<c>housefly</c>
+				</concepts>
+				<url source="wiki">/wiki/मूस#Konkani</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">مگس</form>
+				<translit>meges</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/مگس#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">مگس</form>
+				<translit>magas</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/مگس#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">मशक</form>
+				<translit>maśáka</translit>
+				<concepts>
+					<c>gnat</c>
+					<c>mosquito</c>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/मशक#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">మశకము</form>
+				<translit>maśakamu</translit>
+				<concepts>
+					<c>gnat</c>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/మశకము#Telugu</url>
+			</reflex>
+			<reflex>
+				<lang>Wakhi</lang>
+				<form script="LATIN">maks</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/maks#Wakhi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*mayū́kʰas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/mayū́kʰas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">մեխ</form>
+				<translit>mex</translit>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/մեխ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">mıx</form>
+				<concepts>
+					<c>tack</c>
+					<c>peg</c>
+					<c>penis</c>
+					<c>picket</c>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/mıx#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Crimean Tatar</lang>
+				<form script="LATIN">mıh</form>
+				<concepts>
+					<c>tack</c>
+					<c>nail</c>
+					<c>peg</c>
+				</concepts>
+				<url source="wiki">/wiki/mıh#Crimean_Tatar</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Persian</lang>
+				<form script="LATIN">myh</form>
+				<translit>mēx</translit>
+				<concepts>
+					<c>peg</c>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/myh#Middle_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Persian</lang>
+				<form script="OLD PERSIAN">𐎶𐎹𐎧</form>
+				<translit>m-y-x</translit>
+				<concepts>
+					<c>doorknob</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎶𐎹𐎧#Old_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">میخ</form>
+				<translit>mıh</translit>
+				<concepts>
+					<c>nail</c>
+					<c>coin die</c>
+				</concepts>
+				<url source="wiki">/wiki/میخ#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">میخ</form>
+				<translit>mıh</translit>
+				<concepts>
+					<c>nail</c>
+					<c>coin die</c>
+				</concepts>
+				<url source="wiki">/wiki/میخ#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">میخ</form>
+				<translit>mix</translit>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/میخ#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">میخ</form>
+				<translit>mêx</translit>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/میخ#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">मयूख</form>
+				<translit>mayū́kha</translit>
+				<concepts>
+					<c>brightness</c>
+					<c>ray of light</c>
+					<c>peg</c>
+					<c>flame</c>
+				</concepts>
+				<url source="wiki">/wiki/मयूख#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Uyghur</lang>
+				<form script="ARABIC">مىخ</form>
+				<translit>mix</translit>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/مىخ#Uyghur</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*mitrás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/mitrás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">möhür</form>
+				<concepts>
+					<c>stamp</c>
+					<c>seal</c>
+				</concepts>
+				<url source="wiki">/wiki/möhür#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">মিতা</form>
+				<translit>mita</translit>
+				<concepts>
+					<c>bosom friend</c>
+					<c>companion</c>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/মিতা#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲙⲓⲑⲣⲁⲥ</form>
+				<translit>mithras</translit>
+				<concepts>
+					<c>Mithras</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲙⲓⲑⲣⲁⲥ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Dhivehi</lang>
+				<form script="THAANA">މިތުރު</form>
+				<translit>mituru</translit>
+				<concepts>
+					<c>chum</c>
+					<c>buddy</c>
+					<c>associate</c>
+					<c>friend</c>
+					<c>ally</c>
+				</concepts>
+				<url source="wiki">/wiki/މިތުރު#Dhivehi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">मीत</form>
+				<concepts>
+					<c>lover</c>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/मीत#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">មិត្ត</form>
+				<translit>mɨt</translit>
+				<concepts>
+					<c>comrade</c>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/មិត្ត#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">мухур</form>
+				<translit>muhur</translit>
+				<concepts>
+					<c>cachet</c>
+					<c>seal</c>
+				</concepts>
+				<url source="wiki">/wiki/мухур#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">mitra</form>
+				<concepts>
+					<c>friend</c>
+					<c>companion</c>
+				</concepts>
+				<url source="wiki">/wiki/mitra#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Oriya</lang>
+				<form script="ORIYA">ମିତ</form>
+				<translit>mitô</translit>
+				<concepts>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/ମିତ#Odia</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">mitta</form>
+				<concepts>
+					<c>friendship</c>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/mitta#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਮੋਹਰ</form>
+				<translit>mohar</translit>
+				<concepts>
+					<c>signet</c>
+					<c>seal</c>
+					<c>stamp</c>
+					<c>cachet</c>
+					<c>mohur</c>
+				</concepts>
+				<url source="wiki">/wiki/ਮੋਹਰ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Sinhalese</lang>
+				<form script="SINHALA">මිතුරු</form>
+				<translit>mituru</translit>
+				<concepts>
+					<c>companion</c>
+					<c>friend</c>
+					<c>associate</c>
+					<c>ally</c>
+				</concepts>
+				<url source="wiki">/wiki/මිතුරු#Sinhalese</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">มิตร</form>
+				<translit>mít</translit>
+				<concepts>
+					<c>friend</c>
+					<c>crony</c>
+				</concepts>
+				<url source="wiki">/wiki/มิตร#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">mühür</form>
+				<concepts>
+					<c>seal</c>
+				</concepts>
+				<url source="wiki">/wiki/mühür#Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*máHm</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/máHm</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ashokan Prakrit</lang>
+				<form script="BRAHMI">𑀫𑀸</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>not</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀫𑀸#Ashokan_Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Central Kurdish</lang>
+				<form script="ARABIC">من</form>
+				<translit>min</translit>
+				<concepts>
+					<c>my</c>
+					<c>mine</c>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/من#Central_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Gandhari</lang>
+				<form script="KHAROSHTHI">𐨨</form>
+				<translit>ma</translit>
+				<concepts>
+					<c>not</c>
+				</concepts>
+				<url source="wiki">/wiki/𐨨#Gandhari</url>
+			</reflex>
+			<reflex>
+				<lang>Kalasha</lang>
+				<form script="LATIN">mo</form>
+				<concepts>
+					<c>don't</c>
+				</concepts>
+				<url source="wiki">/wiki/mo#Kalasha</url>
+			</reflex>
+			<reflex>
+				<lang>Old Bengali</lang>
+				<form script="BENGALI">মা</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>ne</c>
+					<c>not</c>
+				</concepts>
+				<url source="wiki">/wiki/মা#Old_Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Old Gujarati</lang>
+				<form script="DEVANAGARI">म</form>
+				<translit>ma</translit>
+				<concepts>
+					<c>not</c>
+				</concepts>
+				<url source="wiki">/wiki/म#Old_Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Southern Kurdish</lang>
+				<form script="ARABIC">مِ</form>
+				<translit>mi</translit>
+				<concepts>
+					<c>my</c>
+					<c>mine</c>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/م#Southern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Tajik</lang>
+				<form script="CYRILLIC">ман</form>
+				<translit>man</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ман#Tajik</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*mákšiH</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/mákšiH</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">মাখি</form>
+				<translit>makhi</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/মাখি#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">মাছি</form>
+				<translit>machi</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/মাছি#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">मक्खी</form>
+				<translit>makkhī</translit>
+				<concepts>
+					<c>bee</c>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/मक्खी#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Lojban</lang>
+				<form script="LATIN">sfani</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/Appendix:Lojban/sfani</url>
+			</reflex>
+			<reflex>
+				<lang>Oriya</lang>
+				<form script="ORIYA">ମାଛି</form>
+				<translit>machi</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/ମାଛି#Odia</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">makkhikā</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/makkhikā#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Pashto</lang>
+				<form script="ARABIC">مچۍ</form>
+				<translit>mačə́y</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/مچۍ#Pashto</url>
+			</reflex>
+			<reflex>
+				<lang>Pashto</lang>
+				<form script="ARABIC">مچۍ</form>
+				<translit>mučə́y, məčə́y</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/مچۍ#Pashto</url>
+			</reflex>
+			<reflex>
+				<lang>Pashto</lang>
+				<form script="ARABIC">مچۍ</form>
+				<translit>máčə</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/مچۍ#Pashto</url>
+			</reflex>
+			<reflex>
+				<lang>Pashto</lang>
+				<form script="ARABIC">مچۍ</form>
+				<translit>məčəy</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/مچۍ#Pashto</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਮੱਖੀ</form>
+				<translit>makkhī</translit>
+				<concepts>
+					<c>housefly</c>
+					<c>honeybee</c>
+				</concepts>
+				<url source="wiki">/wiki/ਮੱਖੀ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Rohingya</lang>
+				<form script="LATIN">masí</form>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/masí#Rohingya</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">मक्षिका</form>
+				<translit>makṣikā</translit>
+				<concepts>
+					<c>bee</c>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/मक्षिका#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sindhi</lang>
+				<form script="ARABIC">مَکِ</form>
+				<translit>makhi</translit>
+				<concepts>
+					<c>fist</c>
+				</concepts>
+				<url source="wiki">/wiki/مک#Sindhi</url>
+			</reflex>
+			<reflex>
+				<lang>Sindhi</lang>
+				<form script="ARABIC">مَکِ</form>
+				<translit>makhi</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/مک#Sindhi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*mátsyas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/mátsyas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ashokan Prakrit</lang>
+				<form script="BRAHMI">𑀫𑀙</form>
+				<translit>macha</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀫𑀙#Ashokan_Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">মাছ</form>
+				<translit>mas</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/মাছ#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬨𐬀𐬯𐬌𐬌𐬀</form>
+				<translit>masiia</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬨𐬀𐬯𐬌𐬌𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Awadhi</lang>
+				<form script="DEVANAGARI">मछरी</form>
+				<translit>machrī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मछरी#Awadhi</url>
+			</reflex>
+			<reflex>
+				<lang>Baluchi</lang>
+				<form script="ARABIC">ماہیگ</form>
+				<translit>māhīg</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ماہیگ#Baluchi</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">মাছ</form>
+				<translit>mach</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/মাছ#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Bhojpuri</lang>
+				<form script="DEVANAGARI">मछरी</form>
+				<translit>machᵊrī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मछरी#Bhojpuri</url>
+			</reflex>
+			<reflex>
+				<lang>Central Kurdish</lang>
+				<form script="ARABIC">ماسی</form>
+				<translit>masî</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ماسی#Central_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Chakma</lang>
+				<form script="CHAKMA">𑄟𑄌𑄴</form>
+				<translit>māc</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/𑄟𑄌𑄴#Chakma</url>
+			</reflex>
+			<reflex>
+				<lang>Dhivehi</lang>
+				<form script="THAANA">މަސް</form>
+				<translit>mas</translit>
+				<concepts>
+					<c>fish</c>
+					<c>bonito</c>
+				</concepts>
+				<url source="wiki">/wiki/މަސް#Dhivehi</url>
+			</reflex>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">માછલી</form>
+				<translit>māchlī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/માછલી#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">मच्छी</form>
+				<translit>macchī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मच्छी#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">मछली</form>
+				<translit>machlī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मछली#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">मत्स्य</form>
+				<translit>matsya</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मत्स्य#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Kachchi</lang>
+				<form script="GUJARATI">મછી</form>
+				<translit>machī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/મછી#Kachchi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">មច្ឆា</form>
+				<translit>macchaa</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/មច្ឆា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Kholosi</lang>
+				<form script="LATIN">māči</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/māči#Kholosi</url>
+			</reflex>
+			<reflex>
+				<lang>Khowar</lang>
+				<form script="ARABIC">مَڅھى</form>
+				<translit>matshí</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/مَڅھى#Khowar</url>
+			</reflex>
+			<reflex>
+				<lang>Konkani</lang>
+				<form script="DEVANAGARI">मासोळी</form>
+				<translit>māsoḷī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मासोळी#Konkani</url>
+			</reflex>
+			<reflex>
+				<lang>Malayalam</lang>
+				<form script="MALAYALAM">മത്സ്യം</form>
+				<translit>matsyaṁ</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/മത്സ്യം#Malayalam</url>
+			</reflex>
+			<reflex>
+				<lang>Nepali</lang>
+				<form script="DEVANAGARI">माछा</form>
+				<translit>māchā</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/माछा#Nepali</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Kurdish</lang>
+				<form script="LATIN">masî</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/masî#Northern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Oriya</lang>
+				<form script="ORIYA">ମତ୍ସ୍ଯ</form>
+				<translit>môtsjô</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ମତ୍ସ୍ଯ#Odia</url>
+			</reflex>
+			<reflex>
+				<lang>Oriya</lang>
+				<form script="ORIYA">ମାଛ</form>
+				<translit>machô</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ମାଛ#Odia</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">maccha</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/maccha#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀫𑀘𑁆𑀙</form>
+				<translit>maccha</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀫𑀘𑁆𑀙#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਮੱਛੀ</form>
+				<translit>macchī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ਮੱਛੀ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Rohingya</lang>
+				<form script="LATIN">mas</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/mas#Rohingya</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">मत्स्य</form>
+				<translit>mátsya</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मत्स्य#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sindhi</lang>
+				<form script="ARABIC">مڇِي</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/مڇي#Sindhi</url>
+			</reflex>
+			<reflex>
+				<lang>Sindhi</lang>
+				<form script="DEVANAGARI">मछी</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/मछी#Sindhi</url>
+			</reflex>
+			<reflex>
+				<lang>Sogdian</lang>
+				<form script="MANICHAEAN">𐫖𐫀𐫘𐫏𐫀𐫃</form>
+				<translit>mʾsyʾg</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/𐫖𐫀𐫘𐫏𐫀𐫃#Sogdian</url>
+			</reflex>
+			<reflex>
+				<lang>Sylheti</lang>
+				<form script="SYLOTI NAGRI">ꠝꠣꠍ</form>
+				<translit>masó</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ꠝꠣꠍ#Sylheti</url>
+			</reflex>
+			<reflex>
+				<lang>Tajik</lang>
+				<form script="CYRILLIC">моҳӣ</form>
+				<translit>mohī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/моҳӣ#Tajik</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">மச்சம்</form>
+				<translit>maccam</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/மச்சம்#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">மத்ஸ்யம்</form>
+				<translit>matsyam</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/மத்ஸ்யம்#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">మత్స్యము</form>
+				<translit>matsyamu</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/మత్స్యము#Telugu</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">มัจฉา</form>
+				<translit>mát-chǎa</translit>
+				<concepts>
+					<c>fish</c>
+					<c>merperson</c>
+				</concepts>
+				<url source="wiki">/wiki/มัจฉา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Traveller Norwegian</lang>
+				<form script="LATIN">makjo</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/makjo#Traveller_Norwegian</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">مَچھ</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/مچھ#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">مچھ</form>
+				<translit>macch</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/مچھ#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">مچھلی</form>
+				<translit>machlī</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/مچھلی#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Vlax Romani</lang>
+				<form script="LATIN">maćho</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/maćho#Vlax_Romani</url>
+			</reflex>
+			<reflex>
+				<lang>Vlax Romani</lang>
+				<form script="LATIN">maćho</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/maćho#Vlax_Romani</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*náymas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/náymas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Northern Kurdish</lang>
+				<form script="LATIN">nîv</form>
+				<concepts>
+					<c>half</c>
+				</concepts>
+				<url source="wiki">/wiki/nîv#Northern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">نیم</form>
+				<translit>nēm</translit>
+				<concepts>
+					<c>half</c>
+					<c>hemi-</c>
+					<c>semi-</c>
+				</concepts>
+				<url source="wiki">/wiki/نیم#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">नेम</form>
+				<translit>néma</translit>
+				<concepts>
+					<c>portion</c>
+					<c>root</c>
+					<c>acting</c>
+					<c>deceit</c>
+					<c>dancing</c>
+					<c>evening</c>
+					<c>food</c>
+					<c>limit</c>
+					<c>boundary</c>
+					<c>above</c>
+					<c>rice</c>
+					<c>time</c>
+					<c>hole</c>
+				</concepts>
+				<url source="wiki">/wiki/नेम#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">नेम</form>
+				<translit>néma</translit>
+				<concepts>
+					<c>several</c>
+					<c>half</c>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/नेम#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*pānsúš</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/pānsúš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">पांसु</form>
+				<translit>pāṃsú</translit>
+				<concepts>
+					<c>dust</c>
+				</concepts>
+				<url source="wiki">/wiki/पांसु#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*pāpás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/pāpás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">បាប</form>
+				<translit>baap</translit>
+				<concepts>
+					<c>sin</c>
+					<c>evil</c>
+					<c>bad</c>
+				</concepts>
+				<url source="wiki">/wiki/បាប#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Old Gujarati</lang>
+				<form script="DEVANAGARI">पाव</form>
+				<translit>pāv</translit>
+				<concepts>
+					<c>sin</c>
+				</concepts>
+				<url source="wiki">/wiki/पाव#Old_Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">pāpa</form>
+				<concepts>
+					<c>sin</c>
+				</concepts>
+				<url source="wiki">/wiki/pāpa#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">pāpa</form>
+				<concepts>
+					<c>sinful</c>
+					<c>evil</c>
+				</concepts>
+				<url source="wiki">/wiki/pāpa#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">पाप</form>
+				<translit>pāpá</translit>
+				<concepts>
+					<c>harm</c>
+					<c>vice</c>
+					<c>crime</c>
+					<c>trouble</c>
+					<c>misfortune</c>
+					<c>sin</c>
+					<c>evil</c>
+					<c>guilt</c>
+					<c>mischief</c>
+					<c>ill-luck</c>
+				</concepts>
+				<url source="wiki">/wiki/पाप#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">पाप</form>
+				<translit>pāpá</translit>
+				<concepts>
+					<c>inauspicious</c>
+					<c>vile</c>
+					<c>wretched</c>
+					<c>wicked</c>
+					<c>vicious</c>
+					<c>evil</c>
+					<c>bad</c>
+					<c>low</c>
+				</concepts>
+				<url source="wiki">/wiki/पाप#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">पाप</form>
+				<translit>pāpá</translit>
+				<concepts>
+					<c>villain</c>
+					<c>wretch</c>
+				</concepts>
+				<url source="wiki">/wiki/पाप#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">บาป</form>
+				<translit>bàap</translit>
+				<concepts>
+					<c>badness</c>
+					<c>sin</c>
+					<c>evilness</c>
+				</concepts>
+				<url source="wiki">/wiki/บาป#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">บาป</form>
+				<translit>bàap</translit>
+				<concepts>
+					<c>evil</c>
+					<c>bad</c>
+				</concepts>
+				<url source="wiki">/wiki/บาป#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*rayšás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/rayšás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">ریش</form>
+				<translit>rēš</translit>
+				<concepts>
+					<c>ulcer</c>
+					<c>scar</c>
+					<c>wound</c>
+				</concepts>
+				<url source="wiki">/wiki/ریش#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">रेष</form>
+				<translit>reṣá</translit>
+				<concepts>
+					<c>injury</c>
+					<c>hurt</c>
+				</concepts>
+				<url source="wiki">/wiki/रेष#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*sam-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/sam-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Georgian</lang>
+				<form script="GEORGIAN">სიამოვნება</form>
+				<translit>siamovneba</translit>
+				<concepts>
+					<c>pleasure</c>
+				</concepts>
+				<url source="wiki">/wiki/სიამოვნება#Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Persian</lang>
+				<form script="LATIN">hm</form>
+				<translit>ham</translit>
+				<concepts>
+					<c>same</c>
+					<c>similar</c>
+				</concepts>
+				<url source="wiki">/wiki/hm#Middle_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჰამო</form>
+				<translit>hamo</translit>
+				<concepts>
+					<c>delightful</c>
+					<c>pleasant</c>
+					<c>sweet</c>
+					<c>agreeable</c>
+					<c>likable</c>
+					<c>satisfying</c>
+				</concepts>
+				<url source="wiki">/wiki/ჰამო#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Mingrelian</lang>
+				<form script="GEORGIAN">ჰამო</form>
+				<translit>hamo</translit>
+				<concepts>
+					<c>delightful</c>
+					<c>pleasant</c>
+					<c>sweet</c>
+					<c>agreeable</c>
+					<c>likable</c>
+					<c>satisfying</c>
+				</concepts>
+				<url source="wiki">/wiki/ჰამო#Mingrelian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Georgian</lang>
+				<form script="GEORGIAN">ჰამო</form>
+				<translit>hamo</translit>
+				<concepts>
+					<c>pleasant</c>
+					<c>delightful</c>
+					<c>delicious</c>
+				</concepts>
+				<url source="wiki">/wiki/ჰამო#Old_Georgian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Persian</lang>
+				<form script="OLD PERSIAN">𐏃𐎶</form>
+				<translit>h-m</translit>
+				<concepts>
+					<c>same</c>
+					<c>together</c>
+				</concepts>
+				<url source="wiki">/wiki/𐏃𐎶#Old_Persian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*slagžʰnás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/slagžʰnás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">નાનું</form>
+				<translit>nānũ</translit>
+				<concepts>
+					<c>inferior</c>
+					<c>little</c>
+					<c>small</c>
+					<c>young</c>
+				</concepts>
+				<url source="wiki">/wiki/નાનું#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">नन्हा</form>
+				<translit>nanhā</translit>
+				<concepts>
+					<c>little</c>
+					<c>small</c>
+				</concepts>
+				<url source="wiki">/wiki/नन्हा#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Kannada</lang>
+				<form script="KANNADA">ಸಣ್ಣ</form>
+				<translit>saṇṇa</translit>
+				<concepts>
+					<c>little</c>
+					<c>small</c>
+				</concepts>
+				<url source="wiki">/wiki/ಸಣ್ಣ#Kannada</url>
+			</reflex>
+			<reflex>
+				<lang>Konkani</lang>
+				<form script="DEVANAGARI">लान</form>
+				<translit>lān</translit>
+				<concepts>
+					<c>little</c>
+					<c>small</c>
+					<c>smooth</c>
+				</concepts>
+				<url source="wiki">/wiki/लान#Konkani</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">लहान</form>
+				<translit>lahān</translit>
+				<concepts>
+					<c>small</c>
+					<c>short</c>
+				</concepts>
+				<url source="wiki">/wiki/लहान#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Nepali</lang>
+				<form script="DEVANAGARI">सानो</form>
+				<translit>sāno</translit>
+				<concepts>
+					<c>small</c>
+				</concepts>
+				<url source="wiki">/wiki/सानो#Nepali</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">saṇha</form>
+				<concepts>
+					<c>smooth</c>
+				</concepts>
+				<url source="wiki">/wiki/saṇha#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">لشن</form>
+				<translit>lašan</translit>
+				<concepts>
+					<c>soft</c>
+					<c>simple</c>
+					<c>smooth</c>
+				</concepts>
+				<url source="wiki">/wiki/لشن#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">श्लक्ष्ण</form>
+				<translit>ślakṣṇá</translit>
+				<concepts>
+					<c>minute</c>
+					<c>fine</c>
+					<c>small</c>
+					<c>soft</c>
+					<c>smooth</c>
+					<c>polished</c>
+					<c>tender</c>
+					<c>slippery</c>
+				</concepts>
+				<url source="wiki">/wiki/श्लक्ष्ण#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*sáynaH</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/sáynaH</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">հեն</form>
+				<translit>hen</translit>
+				<concepts>
+					<c>brigand</c>
+					<c>robber</c>
+				</concepts>
+				<url source="wiki">/wiki/հեն#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">सेना</form>
+				<translit>senā</translit>
+				<concepts>
+					<c>military</c>
+					<c>army</c>
+				</concepts>
+				<url source="wiki">/wiki/सेना#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">sena</form>
+				<concepts>
+					<c>army</c>
+				</concepts>
+				<url source="wiki">/wiki/sena#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Malayalam</lang>
+				<form script="MALAYALAM">സേന</form>
+				<translit>sēna</translit>
+				<concepts>
+					<c>army</c>
+				</concepts>
+				<url source="wiki">/wiki/സേന#Malayalam</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">सेना</form>
+				<translit>senā</translit>
+				<concepts>
+					<c>army</c>
+				</concepts>
+				<url source="wiki">/wiki/सेना#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">հէն</form>
+				<translit>hēn</translit>
+				<concepts>
+					<c>brigand</c>
+					<c>plundering</c>
+					<c>attack</c>
+					<c>brigandage</c>
+					<c>incursion</c>
+					<c>noise</c>
+					<c>piracy</c>
+					<c>commotion</c>
+					<c>robber</c>
+				</concepts>
+				<url source="wiki">/wiki/հէն#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਸੈਨਾ</form>
+				<translit>sainā</translit>
+				<concepts>
+					<c>military</c>
+					<c>army</c>
+					<c>troops</c>
+				</concepts>
+				<url source="wiki">/wiki/ਸੈਨਾ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">सेना</form>
+				<translit>sénā</translit>
+				<concepts>
+					<c>army</c>
+					<c>title</c>
+					<c>missile</c>
+					<c>battle-array</c>
+					<c>dart</c>
+					<c>spear</c>
+					<c>armament</c>
+				</concepts>
+				<url source="wiki">/wiki/सेना#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*síndʰuš</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/síndʰuš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">Ἰνδός</form>
+				<translit>Indós</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/Ἰνδός#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">Ἰνδός</form>
+				<translit>Indós</translit>
+				<concepts>
+					<c>Indus</c>
+				</concepts>
+				<url source="wiki">/wiki/Ἰνδός#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Assamese</lang>
+				<form script="BENGALI">হিন্দুস্তান</form>
+				<translit>hindustan</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/হিন্দুস্তান#Assamese</url>
+			</reflex>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">hind</form>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/hind#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Bashkir</lang>
+				<form script="CYRILLIC">һинд</form>
+				<translit>hind</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/һинд#Bashkir</url>
+			</reflex>
+			<reflex>
+				<lang>Bashkir</lang>
+				<form script="CYRILLIC">һинд</form>
+				<translit>hind</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/һинд#Bashkir</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">হিন্দু</form>
+				<translit>hindu</translit>
+				<concepts>
+					<c>Hindu</c>
+				</concepts>
+				<url source="wiki">/wiki/হিন্দু#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">হিন্দুস্তান</form>
+				<translit>hindustan</translit>
+				<concepts>
+					<c>North India</c>
+				</concepts>
+				<url source="wiki">/wiki/হিন্দুস্তান#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">হিন্দুস্তান</form>
+				<translit>hindustan</translit>
+				<concepts>
+					<c>North India</c>
+				</concepts>
+				<url source="wiki">/wiki/হিন্দুস্তান#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">天竺</form>
+				<translit>Tiānzhú</translit>
+				<concepts>
+					<c>Nepal</c>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/天竺#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>Chinese</lang>
+				<form script="CJK">身毒</form>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/身毒#Chinese</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ϩⲉⲛⲧⲟⲩ</form>
+				<translit>hentou</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/ϩⲉⲛⲧⲟⲩ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">hndwꜣy</form>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/hndwꜣy#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Elamite</lang>
+				<form script="CUNEIFORM">𒄭𒅔𒁺</form>
+				<translit>hi-in-du</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/𒄭𒅔𒁺#Elamite</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">India</form>
+				<concepts>
+					<c>India</c>
+					<c>India</c>
+				</concepts>
+				<url source="wiki">/wiki/India#English</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">Ινδός</form>
+				<translit>Indós</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/Ινδός#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">Ινδός</form>
+				<translit>Indós</translit>
+				<concepts>
+					<c>Indus</c>
+				</concepts>
+				<url source="wiki">/wiki/Ινδός#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">હિંદુસ્તાન</form>
+				<translit>hindustān</translit>
+				<concepts>
+					<c>Hindustan</c>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/હિંદુસ્તાન#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻĪnia</form>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻĪnia#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ʻĪnia</form>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/ʻĪnia#Hawaiian</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">हिंदी</form>
+				<translit>hindī</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/हिंदी#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">हिंदी</form>
+				<translit>hindī</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/हिंदी#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">हिंदुस्तान</form>
+				<translit>hindustān</translit>
+				<concepts>
+					<c>Hindustan</c>
+				</concepts>
+				<url source="wiki">/wiki/हिंदुस्तान#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">हिंदू</form>
+				<translit>hindū</translit>
+				<concepts>
+					<c>Hindu</c>
+				</concepts>
+				<url source="wiki">/wiki/हिंदू#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">हिंदू</form>
+				<translit>hindū</translit>
+				<concepts>
+					<c>Hindu</c>
+				</concepts>
+				<url source="wiki">/wiki/हिंदू#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">indaco</form>
+				<concepts>
+					<c>indigo</c>
+				</concepts>
+				<url source="wiki">/wiki/indaco#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">indaco</form>
+				<concepts>
+					<c>indigo</c>
+				</concepts>
+				<url source="wiki">/wiki/indaco#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">天竺</form>
+				<concepts>
+					<c>foreign</c>
+					<c>exotic</c>
+				</concepts>
+				<url source="wiki">/wiki/天竺#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Japanese</lang>
+				<form script="CJK">天竺</form>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/天竺#Japanese</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">인디아</form>
+				<translit>india</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/인디아#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">indicus</form>
+				<concepts>
+					<c>Indic</c>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/indicus#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">हिंदुस्थान</form>
+				<translit>hindusthān</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/हिंदुस्थान#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">हिन्दुस्तान</form>
+				<translit>hindustān</translit>
+				<concepts>
+					<c>Hindustan</c>
+				</concepts>
+				<url source="wiki">/wiki/हिन्दुस्तान#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Bengali</lang>
+				<form script="BENGALI">হিন্দুস্তান</form>
+				<translit>hindustan</translit>
+				<concepts>
+					<c>Hindustan</c>
+				</concepts>
+				<url source="wiki">/wiki/হিন্দুস্তান#Middle_Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Old Persian</lang>
+				<form script="OLD PERSIAN">𐏃𐎡𐎯𐎢𐏁</form>
+				<translit>h-i-du-u-š</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/𐏃𐎡𐎯𐎢𐏁#Old_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Punjabi</lang>
+				<form script="GURMUKHI">ਹਿੰਦੁਸਤਾਨੁ</form>
+				<translit>hindusatānu</translit>
+				<concepts>
+					<c>Hindustan</c>
+				</concepts>
+				<url source="wiki">/wiki/ਹਿੰਦੁਸਤਾਨੁ#Old_Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Oriya</lang>
+				<form script="ORIYA">ହିନ୍ଦୁସ୍ଥାନ</form>
+				<translit>hindusthanô</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/ହିନ୍ଦୁସ୍ଥାନ#Odia</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">هند</form>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/هند#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">indyk</form>
+				<concepts>
+					<c>turkey</c>
+				</concepts>
+				<url source="wiki">/wiki/indyk#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">índigo</form>
+				<concepts>
+					<c>indigo</c>
+				</concepts>
+				<url source="wiki">/wiki/índigo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">índigo</form>
+				<concepts>
+					<c>indigo</c>
+				</concepts>
+				<url source="wiki">/wiki/índigo#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਹਿੰਦੁਸਤਾਨ</form>
+				<translit>hindustān</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/ਹਿੰਦੁਸਤਾਨ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Romagnol</lang>
+				<form script="LATIN">índac</form>
+				<concepts>
+					<c>indigo blue</c>
+					<c>indigo</c>
+				</concepts>
+				<url source="wiki">/wiki/índac#Romagnol</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">indic</form>
+				<concepts>
+					<c>Indic</c>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/indic#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">सिन्धु</form>
+				<translit>síndhu</translit>
+				<concepts>
+					<c>river</c>
+					<c>white</c>
+					<c>sea</c>
+					<c>flood</c>
+					<c>ocean</c>
+					<c>stream</c>
+				</concepts>
+				<url source="wiki">/wiki/सिन्धु#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">हिन्दुस्थान</form>
+				<translit>hindusthāna</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/हिन्दुस्थान#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">índigo</form>
+				<concepts>
+					<c>indigo</c>
+				</concepts>
+				<url source="wiki">/wiki/índigo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">índigo</form>
+				<concepts>
+					<c>indigo</c>
+				</concepts>
+				<url source="wiki">/wiki/índigo#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Turkish</lang>
+				<form script="LATIN">Hint</form>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/Hint#Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">ہند</form>
+				<translit>hind</translit>
+				<concepts>
+					<c>IND</c>
+					<c>indo</c>
+					<c>Indian subcontinent</c>
+					<c>Indo-</c>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/ہند#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">ہندوستان</form>
+				<translit>hindustān</translit>
+				<concepts>
+					<c>Hindustan</c>
+					<c>Indian Subcontinent</c>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/ہندوستان#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">ہندو‎</form>
+				<translit>hindū</translit>
+				<concepts>
+					<c>Hindu</c>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/ہندو#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">ہندی</form>
+				<translit>hindī</translit>
+				<concepts>
+					<c>belonging</c>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/ہندی#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">ہِنْدُوسْتان</form>
+				<translit>hindūstān</translit>
+				<concepts>
+					<c>Hindustan</c>
+					<c>Indian Subcontinent</c>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/ہندوستان#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Uzbek</lang>
+				<form script="LATIN">hind</form>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/hind#Uzbek</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">Thiên Trúc</form>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/Thiên_Trúc#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">Thiên Trúc</form>
+				<translit>天竺</translit>
+				<concepts>
+					<c>india</c>
+				</concepts>
+				<url source="wiki">/wiki/Thiên_Trúc#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">Ấn Độ</form>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/Ấn_Độ#Vietnamese</url>
+			</reflex>
+			<reflex>
+				<lang>Vietnamese</lang>
+				<form script="LATIN">Ấn Độ</form>
+				<translit>印度</translit>
+				<concepts>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/Ấn_Độ#Vietnamese</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*támHaswāns</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/támHaswāns</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">तमस्वन्त्</form>
+				<translit>támasvant</translit>
+				<concepts>
+					<c>dark</c>
+					<c>gloomy</c>
+				</concepts>
+				<url source="wiki">/wiki/तमस्वत्#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ućíkš</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ućíkš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">उशिज्</form>
+				<translit>uśíj</translit>
+				<concepts>
+					<c>desirable</c>
+					<c>earnest</c>
+					<c>wishing</c>
+					<c>desiring</c>
+				</concepts>
+				<url source="wiki">/wiki/उशिज्#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">उशिज्</form>
+				<translit>uśíj</translit>
+				<concepts>
+					<c>priest</c>
+				</concepts>
+				<url source="wiki">/wiki/उशिज्#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*warāȷ́ʰás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/warāȷ́ʰás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">վարազ</form>
+				<translit>varaz</translit>
+				<concepts>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/վարազ#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬬𐬀𐬭𐬁𐬰𐬀</form>
+				<translit>varāza</translit>
+				<concepts>
+					<c>wild pig</c>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬬𐬀𐬭𐬁𐬰𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܘܪܙܐ</form>
+				<translit>warzāʾ</translit>
+				<concepts>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/ܘܪܙܐ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">बढ़ेला</form>
+				<translit>baṛhelā</translit>
+				<concepts>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/बढ़ेला#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Mazanderani</lang>
+				<form script="ARABIC">وراز</form>
+				<translit>verâz</translit>
+				<concepts>
+					<c>hog</c>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/وراز#Mazanderani</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Kurdish</lang>
+				<form script="LATIN">beraz</form>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/beraz#Northern_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">վարազ</form>
+				<translit>varaz</translit>
+				<concepts>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/վարազ#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Persian</lang>
+				<form script="LATIN">*warāzah</form>
+				<concepts>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Old_Persian/warāzah</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">varāha</form>
+				<concepts>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/varāha#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">گراز</form>
+				<translit>gorâz</translit>
+				<concepts>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/گراز#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">گراز</form>
+				<translit>gurāz</translit>
+				<concepts>
+					<c>boar</c>
+				</concepts>
+				<url source="wiki">/wiki/گراز#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">वराह</form>
+				<translit>varāhá</translit>
+				<concepts>
+					<c>hog</c>
+					<c>bull</c>
+					<c>wild boar</c>
+					<c>pig</c>
+					<c>boar</c>
+					<c>cloud</c>
+				</concepts>
+				<url source="wiki">/wiki/वराह#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Tajik</lang>
+				<form script="CYRILLIC">гуроз</form>
+				<translit>guroz</translit>
+				<concepts>
+					<c>brave</c>
+					<c>bold</c>
+				</concepts>
+				<url source="wiki">/wiki/гуроз#Tajik</url>
+			</reflex>
+			<reflex>
+				<lang>Tajik</lang>
+				<form script="CYRILLIC">гуроз</form>
+				<translit>guroz</translit>
+				<concepts>
+					<c>wild boar</c>
+				</concepts>
+				<url source="wiki">/wiki/гуроз#Tajik</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">వరాహము</form>
+				<translit>varāhamu</translit>
+				<concepts>
+					<c>hog</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/వరాహము#Telugu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*wr̥ćšás</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/wr̥ćšás</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ashokan Prakrit</lang>
+				<form script="BRAHMI">𑀮𑀼𑀔</form>
+				<translit>lukha</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀮𑀼𑀔#Ashokan_Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Ashokan Prakrit</lang>
+				<form script="BRAHMI">𑀯𑁆𑀭𑀙</form>
+				<translit>vracha</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀯𑁆𑀭𑀙#Ashokan_Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬬𐬀𐬭𐬆𐬱𐬀</form>
+				<translit>varəša</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬬𐬀𐬭𐬆𐬱𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Dhivehi</lang>
+				<form script="THAANA">ރުއް</form>
+				<translit>ruk̊</translit>
+				<concepts>
+					<c>palm tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ރުއް#Dhivehi</url>
+			</reflex>
+			<reflex>
+				<lang>Nepali</lang>
+				<form script="DEVANAGARI">रुख</form>
+				<translit>rukh</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/रुख#Nepali</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">rukkha</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/rukkha#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀭𑀼𑀓𑁆𑀔</form>
+				<translit>rukkha</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀭𑀼𑀓𑁆𑀔#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀯𑀘𑁆𑀙</form>
+				<translit>vaccha</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀯𑀘𑁆𑀙#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="ARABIC">رُکھ</form>
+				<translit>rukh</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/رکھ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="ARABIC">رُکھ</form>
+				<translit>rukkha</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/رکھ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਰੁੱਖ</form>
+				<translit>rukkha</translit>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ਰੁੱਖ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Romani</lang>
+				<form script="LATIN">rukh</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/rukh#Romani</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">वृक्ष</form>
+				<translit>vṛkṣá</translit>
+				<concepts>
+					<c>tree</c>
+					<c>wood</c>
+					<c>trunk</c>
+					<c>coffin</c>
+					<c>staff</c>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/वृक्ष#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*wítastiš</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/wítastiš</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">बित्ता</form>
+				<translit>bittā</translit>
+				<concepts>
+					<c>handspan</c>
+				</concepts>
+				<url source="wiki">/wiki/बित्ता#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">vidatthi</form>
+				<concepts>
+					<c>span</c>
+				</concepts>
+				<url source="wiki">/wiki/vidatthi#Pali</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*wī́nā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/wī́nā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">વીણા</form>
+				<translit>vīṇā</translit>
+				<concepts>
+					<c>veena</c>
+				</concepts>
+				<url source="wiki">/wiki/વીણા#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">बीन</form>
+				<translit>bīn</translit>
+				<concepts>
+					<c>pungi</c>
+				</concepts>
+				<url source="wiki">/wiki/बीन#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">ពិណ</form>
+				<translit>pɨn</translit>
+				<concepts>
+					<c>harp</c>
+				</concepts>
+				<url source="wiki">/wiki/ពិណ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Persian</lang>
+				<form script="LATIN">wn'</form>
+				<translit>win</translit>
+				<concepts>
+					<c>lute</c>
+					<c>veena</c>
+				</concepts>
+				<url source="wiki">/wiki/wn'#Middle_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">வீணை</form>
+				<translit>vīṇai</translit>
+				<concepts>
+					<c>veena</c>
+				</concepts>
+				<url source="wiki">/wiki/வீணை#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">వీణ</form>
+				<translit>vīṇa</translit>
+				<concepts>
+					<c>veena</c>
+				</concepts>
+				<url source="wiki">/wiki/వీణ#Telugu</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">พิณ</form>
+				<translit>pin</translit>
+				<concepts>
+					<c>lute</c>
+					<c>string instrument</c>
+				</concepts>
+				<url source="wiki">/wiki/พิณ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*yáćas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/yáćas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ashokan Prakrit</lang>
+				<form script="KHAROSHTHI">𐨩𐨭𐨆</form>
+				<translit>yaśo</translit>
+				<concepts>
+					<c>glory</c>
+				</concepts>
+				<url source="wiki">/wiki/𐨩𐨭𐨆#Ashokan_Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Bundeli</lang>
+				<form script="DEVANAGARI">जस</form>
+				<translit>jas</translit>
+				<concepts>
+					<c>fame</c>
+					<c>eulogy</c>
+					<c>glory</c>
+					<c>praise</c>
+				</concepts>
+				<url source="wiki">/wiki/जस#Bundeli</url>
+			</reflex>
+			<reflex>
+				<lang>Bundeli</lang>
+				<form script="DEVANAGARI">जस</form>
+				<translit>jas</translit>
+				<concepts>
+					<c>fame</c>
+					<c>eulogy</c>
+					<c>glory</c>
+					<c>praise</c>
+				</concepts>
+				<url source="wiki">/wiki/जस#Bundeli</url>
+			</reflex>
+			<reflex>
+				<lang>Chhattisgarhi</lang>
+				<form script="DEVANAGARI">जस</form>
+				<translit>jas</translit>
+				<concepts>
+					<c>fame</c>
+					<c>glory</c>
+					<c>praise</c>
+				</concepts>
+				<url source="wiki">/wiki/जस#Chhattisgarhi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">जस</form>
+				<concepts>
+					<c>glory</c>
+				</concepts>
+				<url source="wiki">/wiki/जस#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">जस</form>
+				<concepts>
+					<c>glory</c>
+				</concepts>
+				<url source="wiki">/wiki/जस#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦪꦱ</form>
+				<translit>yasa</translit>
+				<concepts>
+					<c>create</c>
+					<c>build</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦪꦱ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦪꦱ</form>
+				<translit>yasa</translit>
+				<concepts>
+					<c>house</c>
+					<c>merit</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦪꦱ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">យស</form>
+				<translit>yuəh</translit>
+				<concepts>
+					<c>fame</c>
+					<c>honor</c>
+					<c>rank</c>
+					<c>glory</c>
+				</concepts>
+				<url source="wiki">/wiki/យស#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Old Hindi</lang>
+				<form script="DEVANAGARI">जस</form>
+				<translit>jasa</translit>
+				<concepts>
+					<c>praise</c>
+					<c>eulogy</c>
+				</concepts>
+				<url source="wiki">/wiki/जस#Old_Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">yaśa</form>
+				<concepts>
+					<c>deed</c>
+					<c>glory</c>
+					<c>renown</c>
+					<c>fame</c>
+					<c>merit</c>
+					<c>building</c>
+					<c>honour</c>
+				</concepts>
+				<url source="wiki">/wiki/yaśa#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Punjabi</lang>
+				<form script="GURMUKHI">ਜਸੁ</form>
+				<translit>jasu</translit>
+				<concepts>
+					<c>fame</c>
+					<c>renown</c>
+					<c>glory</c>
+				</concepts>
+				<url source="wiki">/wiki/ਜਸੁ#Old_Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">yasas</form>
+				<concepts>
+					<c>success</c>
+					<c>fame</c>
+					<c>honour</c>
+				</concepts>
+				<url source="wiki">/wiki/yasas#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Prakrit</lang>
+				<form script="BRAHMI">𑀚𑀲</form>
+				<translit>jasa</translit>
+				<concepts>
+					<c>fame</c>
+					<c>glory</c>
+				</concepts>
+				<url source="wiki">/wiki/𑀚𑀲#Prakrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">यशस्</form>
+				<translit>yáśas</translit>
+				<concepts>
+					<c>splendor</c>
+					<c>glory</c>
+					<c>renown</c>
+					<c>fame</c>
+					<c>honor</c>
+				</concepts>
+				<url source="wiki">/wiki/यशस्#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">ยศ</form>
+				<translit>yót</translit>
+				<concepts>
+					<c>title</c>
+					<c>rank</c>
+				</concepts>
+				<url source="wiki">/wiki/ยศ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*Áryas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/Áryas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">արի</form>
+				<translit>ari</translit>
+				<concepts>
+					<c>Aryan</c>
+					<c>Iranian</c>
+					<c>Indo-European</c>
+				</concepts>
+				<url source="wiki">/wiki/արի#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Armenian</lang>
+				<form script="ARMENIAN">արի</form>
+				<translit>ari</translit>
+				<concepts>
+					<c>brave</c>
+					<c>valiant</c>
+					<c>manly</c>
+				</concepts>
+				<url source="wiki">/wiki/արի#Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬀𐬌𐬭𐬌𐬌𐬀</form>
+				<translit>airiia</translit>
+				<concepts>
+					<c>Iranian</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬀𐬌𐬭𐬌𐬌𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬆᬃᬬ</form>
+				<translit>arya</translit>
+				<concepts>
+					<c>noble</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬆᬃᬬ#Balinese</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">আর্য</form>
+				<translit>arjo</translit>
+				<concepts>
+					<c>Aryan</c>
+				</concepts>
+				<url source="wiki">/wiki/আর্য#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">আর্য</form>
+				<translit>arjo</translit>
+				<concepts>
+					<c>civilized</c>
+					<c>cultured</c>
+					<c>respectable</c>
+				</concepts>
+				<url source="wiki">/wiki/আর্য#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Erzya</lang>
+				<form script="CYRILLIC">уре</form>
+				<translit>uŕe</translit>
+				<concepts>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/уре#Erzya</url>
+			</reflex>
+			<reflex>
+				<lang>Estonian</lang>
+				<form script="LATIN">ori</form>
+				<concepts>
+					<c>serf</c>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/ori#Estonian</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">orja</form>
+				<concepts>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/orja#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">આજો</form>
+				<translit>ājo</translit>
+				<concepts>
+					<c>maternal grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/આજો#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">आर्य</form>
+				<translit>ārya</translit>
+				<concepts>
+					<c>Aryan</c>
+				</concepts>
+				<url source="wiki">/wiki/आर्य#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">आर्य</form>
+				<translit>ārya</translit>
+				<concepts>
+					<c>Aryan</c>
+				</concepts>
+				<url source="wiki">/wiki/आर्य#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">हिंद-आर्य</form>
+				<translit>hind-ārya</translit>
+				<concepts>
+					<c>Indo-Aryan</c>
+				</concepts>
+				<url source="wiki">/wiki/हिंद-आर्य#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">Arya</form>
+				<concepts>
+					<c>Aryan</c>
+				</concepts>
+				<url source="wiki">/wiki/Arya#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Ingrian</lang>
+				<form script="LATIN">orja</form>
+				<concepts>
+					<c>servant</c>
+				</concepts>
+				<url source="wiki">/wiki/orja#Ingrian</url>
+			</reflex>
+			<reflex>
+				<lang>Kannada</lang>
+				<form script="KANNADA">ಅಜ್ಜ</form>
+				<translit>ajja</translit>
+				<concepts>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/ಅಜ್ಜ#Kannada</url>
+			</reflex>
+			<reflex>
+				<lang>Kannada</lang>
+				<form script="KANNADA">ಅಜ್ಜಿ</form>
+				<translit>ajji</translit>
+				<concepts>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/ಅಜ್ಜಿ#Kannada</url>
+			</reflex>
+			<reflex>
+				<lang>Kildin Sami</lang>
+				<form script="CYRILLIC">вуэррьель</form>
+				<translit>vuerr’jel’</translit>
+				<concepts>
+					<c>northwest</c>
+				</concepts>
+				<url source="wiki">/wiki/вуэррьель#Kildin_Sami</url>
+			</reflex>
+			<reflex>
+				<lang>Kildin Sami</lang>
+				<form script="CYRILLIC">вуэррьял</form>
+				<translit>vuerr’jal</translit>
+				<concepts>
+					<c>west</c>
+				</concepts>
+				<url source="wiki">/wiki/вуэррьял#Kildin_Sami</url>
+			</reflex>
+			<reflex>
+				<lang>Komi-Zyrian</lang>
+				<form script="CYRILLIC">вер</form>
+				<translit>ver</translit>
+				<concepts>
+					<c>servant</c>
+					<c>slave</c>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/вер#Komi-Zyrian</url>
+			</reflex>
+			<reflex>
+				<lang>Konkani</lang>
+				<form script="DEVANAGARI">आजो</form>
+				<translit>āzô</translit>
+				<concepts>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/आजो#Konkani</url>
+			</reflex>
+			<reflex>
+				<lang>Konkani</lang>
+				<form script="DEVANAGARI">आयज</form>
+				<translit>āyaj</translit>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/आयज#Konkani</url>
+			</reflex>
+			<reflex>
+				<lang>Malayalam</lang>
+				<form script="MALAYALAM">അച്ചി</form>
+				<translit>acci</translit>
+				<concepts>
+					<c>mother</c>
+					<c>wife</c>
+					<c>woman</c>
+					<c>female</c>
+				</concepts>
+				<url source="wiki">/wiki/അച്ചി#Malayalam</url>
+			</reflex>
+			<reflex>
+				<lang>Malayalam</lang>
+				<form script="MALAYALAM">അച്ചൻ</form>
+				<translit>accaṉ</translit>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/അച്ചൻ#Malayalam</url>
+			</reflex>
+			<reflex>
+				<lang>Malayalam</lang>
+				<form script="MALAYALAM">അച്ഛൻ</form>
+				<translit>acchaṉ</translit>
+				<concepts>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/അച്ഛൻ#Malayalam</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">आज़</form>
+				<translit>āj̈</translit>
+				<concepts>
+					<c>today</c>
+				</concepts>
+				<url source="wiki">/wiki/आज#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">आज़ोबा</form>
+				<translit>āj̈obā</translit>
+				<concepts>
+					<c>maternal</c>
+					<c>paternal</c>
+					<c>old man</c>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/आजोबा#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">आजोबा</form>
+				<translit>ājobā</translit>
+				<concepts>
+					<c>maternal</c>
+					<c>paternal</c>
+					<c>old man</c>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/आजोबा#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Persian</lang>
+				<form script="INSCRIPTIONAL PAHLAVI">𐭠𐭩𐭫</form>
+				<translit>ʾyl</translit>
+				<concepts>
+					<c>Iranian</c>
+				</concepts>
+				<url source="wiki">/wiki/𐭠𐭩𐭫#Middle_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Persian</lang>
+				<form script="INSCRIPTIONAL PAHLAVI">𐭠𐭩𐭫</form>
+				<translit>ʾyl</translit>
+				<concepts>
+					<c>Iranian</c>
+				</concepts>
+				<url source="wiki">/wiki/𐭠𐭩𐭫#Middle_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Sami</lang>
+				<form script="LATIN">oarji</form>
+				<concepts>
+					<c>west</c>
+				</concepts>
+				<url source="wiki">/wiki/oarji#Northern_Sami</url>
+			</reflex>
+			<reflex>
+				<lang>Old Armenian</lang>
+				<form script="ARMENIAN">արի</form>
+				<translit>ari</translit>
+				<concepts>
+					<c>Aryan</c>
+					<c>Iranian</c>
+				</concepts>
+				<url source="wiki">/wiki/արի#Old_Armenian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Javanese</lang>
+				<form script="LATIN">ārya</form>
+				<concepts>
+					<c>Aryan</c>
+					<c>honorable</c>
+					<c>noble</c>
+					<c>respectable</c>
+				</concepts>
+				<url source="wiki">/wiki/ārya#Old_Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Old Persian</lang>
+				<form script="OLD PERSIAN">𐎠𐎼𐎡𐎹</form>
+				<translit>a-r-i-y</translit>
+				<concepts>
+					<c>Iranian</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎠𐎼𐎡𐎹#Old_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">ariya</form>
+				<concepts>
+					<c>Aryan</c>
+					<c>distinguished</c>
+					<c>noble</c>
+				</concepts>
+				<url source="wiki">/wiki/ariya#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">یل</form>
+				<translit>yal</translit>
+				<concepts>
+					<c>hero</c>
+				</concepts>
+				<url source="wiki">/wiki/یل#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">आर्य</form>
+				<translit>Ā́rya</translit>
+				<concepts>
+					<c>Indo-Aryan</c>
+				</concepts>
+				<url source="wiki">/wiki/आर्य#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">आर्य</form>
+				<translit>Ā́rya</translit>
+				<concepts>
+					<c>Indo-Aryan</c>
+				</concepts>
+				<url source="wiki">/wiki/आर्य#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">அச்சன்</form>
+				<translit>accaṉ</translit>
+				<concepts>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/அச்சன்#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">ஆரியம்</form>
+				<translit>āriyam</translit>
+				<concepts>
+					<c>Sanskrit</c>
+				</concepts>
+				<url source="wiki">/wiki/ஆரியம்#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Tulu</lang>
+				<form script="KANNADA">ಅಜ್ಜಿ</form>
+				<translit>ajji</translit>
+				<concepts>
+					<c>grandmother</c>
+				</concepts>
+				<url source="wiki">/wiki/ಅಜ್ಜಿ#Tulu</url>
+			</reflex>
+			<reflex>
+				<lang>Tulu</lang>
+				<form script="KANNADA">ಅಜ್ಜೆ</form>
+				<translit>ajje</translit>
+				<concepts>
+					<c>grandfather</c>
+				</concepts>
+				<url source="wiki">/wiki/ಅಜ್ಜೆ#Tulu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">آریہ</form>
+				<translit>ārya</translit>
+				<concepts>
+					<c>Aryan</c>
+					<c>Indo-Iranian</c>
+				</concepts>
+				<url source="wiki">/wiki/آریہ#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">آریہ</form>
+				<translit>ārya</translit>
+				<concepts>
+					<c>honorable</c>
+					<c>noble</c>
+					<c>respectable</c>
+				</concepts>
+				<url source="wiki">/wiki/آریہ#Urdu</url>
+			</reflex>
+			<reflex>
+				<lang>Veps</lang>
+				<form script="LATIN">orj</form>
+				<concepts>
+					<c>serf</c>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/orj#Veps</url>
+			</reflex>
+			<reflex>
+				<lang>Votic</lang>
+				<form script="LATIN">orjõ</form>
+				<concepts>
+					<c>serf</c>
+					<c>servant</c>
+					<c>slave</c>
+				</concepts>
+				<url source="wiki">/wiki/orjõ#Votic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*Índras</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/Índras</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬌𐬧𐬛𐬭𐬀</form>
+				<translit>iṇdra</translit>
+				<concepts>
+					<c>Indra</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬌𐬧𐬛𐬭𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬇᬦ᭄ᬤ᭄ᬭ</form>
+				<translit>Indra, indra</translit>
+				<concepts>
+					<c>Indra</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬇᬦ᭄ᬤ᭄ᬭ#Balinese</url>
+			</reflex>
+			<reflex>
+				<lang>Balinese</lang>
+				<form script="BALINESE">ᬇᬦ᭄ᬤ᭄ᬭ</form>
+				<translit>Indra, indra</translit>
+				<concepts>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/ᬇᬦ᭄ᬤ᭄ᬭ#Balinese</url>
+			</reflex>
+			<reflex>
+				<lang>Hurrian</lang>
+				<form script="CUNEIFORM">𒅔𒋫𒊏</form>
+				<concepts>
+					<c>Indra</c>
+				</concepts>
+				<url source="wiki">/wiki/𒅔𒋫𒊏#Hurrian</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">Indra</form>
+				<concepts>
+					<c>Indra</c>
+					<c>war</c>
+					<c>weather</c>
+					<c>Hinduism</c>
+				</concepts>
+				<url source="wiki">/wiki/Indra#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Javanese</lang>
+				<form script="JAVANESE">ꦆꦤ꧀ꦢꦿ</form>
+				<translit>Indra</translit>
+				<concepts>
+					<c>Indra</c>
+					<c>war</c>
+					<c>weather</c>
+					<c>Hinduism</c>
+				</concepts>
+				<url source="wiki">/wiki/ꦆꦤ꧀ꦢꦿ#Javanese</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">इन्द्र</form>
+				<translit>índra</translit>
+				<concepts>
+					<c>Indra</c>
+				</concepts>
+				<url source="wiki">/wiki/इन्द्र#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">इन्द्र</form>
+				<translit>índra</translit>
+				<concepts>
+					<c>chief</c>
+					<c>first</c>
+					<c>prince</c>
+					<c>supreme being</c>
+					<c>excellent</c>
+					<c>best</c>
+				</concepts>
+				<url source="wiki">/wiki/इन्द्र#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ákas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ákas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬀𐬐𐬀</form>
+				<translit>aka</translit>
+				<concepts>
+					<c>evil</c>
+					<c>bad</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬀𐬐𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">अक</form>
+				<translit>áka</translit>
+				<concepts>
+					<c>sin</c>
+					<c>pain</c>
+					<c>unhappiness</c>
+				</concepts>
+				<url source="wiki">/wiki/अक#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*átkas</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/átkas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">अत्क</form>
+				<translit>átka</translit>
+				<concepts>
+					<c>cloak</c>
+					<c>garment</c>
+				</concepts>
+				<url source="wiki">/wiki/अत्क#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ā́ćā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ā́ćā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cebuano</lang>
+				<form script="LATIN">asa</form>
+				<concepts>
+					<c>where</c>
+				</concepts>
+				<url source="wiki">/wiki/asa#Cebuano</url>
+			</reflex>
+			<reflex>
+				<lang>Gujarati</lang>
+				<form script="GUJARATI">આશા</form>
+				<translit>āśā</translit>
+				<concepts>
+					<c>hope</c>
+					<c>expectation</c>
+					<c>wish</c>
+				</concepts>
+				<url source="wiki">/wiki/આશા#Gujarati</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">आशा</form>
+				<translit>āśā</translit>
+				<concepts>
+					<c>hope</c>
+					<c>expectation</c>
+				</concepts>
+				<url source="wiki">/wiki/आशा#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">आस</form>
+				<translit>ās</translit>
+				<concepts>
+					<c>hope</c>
+					<c>aspiration</c>
+				</concepts>
+				<url source="wiki">/wiki/आस#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អាសា</form>
+				<translit>ʼaasaa</translit>
+				<concepts>
+					<c>desire</c>
+					<c>hope</c>
+					<c>sympathy</c>
+					<c>aspiration</c>
+					<c>wish</c>
+				</concepts>
+				<url source="wiki">/wiki/អាសា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អាសា</form>
+				<translit>ʼaasaa</translit>
+				<concepts>
+					<c>wish</c>
+					<c>want</c>
+				</concepts>
+				<url source="wiki">/wiki/អាសា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">អាសា</form>
+				<translit>ʼaasaa</translit>
+				<concepts>
+					<c>zealous</c>
+					<c>voluntary</c>
+					<c>serious</c>
+					<c>diligent</c>
+					<c>sympathetic</c>
+				</concepts>
+				<url source="wiki">/wiki/អាសា#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Lambadi</lang>
+				<form script="LATIN">aasaa</form>
+				<concepts>
+					<c>hope</c>
+					<c>wish</c>
+				</concepts>
+				<url source="wiki">/wiki/aasaa#Lambadi</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">asa</form>
+				<concepts>
+					<c>hope</c>
+				</concepts>
+				<url source="wiki">/wiki/asa#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malay</lang>
+				<form script="LATIN">asa</form>
+				<concepts>
+					<c>hope</c>
+				</concepts>
+				<url source="wiki">/wiki/asa#Malay</url>
+			</reflex>
+			<reflex>
+				<lang>Malayalam</lang>
+				<form script="MALAYALAM">ആശ</form>
+				<translit>āśa</translit>
+				<concepts>
+					<c>desire</c>
+					<c>hope</c>
+					<c>ambition</c>
+					<c>wish</c>
+				</concepts>
+				<url source="wiki">/wiki/ആശ#Malayalam</url>
+			</reflex>
+			<reflex>
+				<lang>Marathi</lang>
+				<form script="DEVANAGARI">आशा</form>
+				<translit>āśā</translit>
+				<concepts>
+					<c>hope</c>
+				</concepts>
+				<url source="wiki">/wiki/आशा#Marathi</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">asa</form>
+				<concepts>
+					<c>dependence</c>
+					<c>hoping</c>
+					<c>expectation</c>
+					<c>belief</c>
+					<c>anticipation</c>
+					<c>reliance</c>
+				</concepts>
+				<url source="wiki">/wiki/asa#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">pag-asa</form>
+				<concepts>
+					<c>hope</c>
+					<c>dependence</c>
+					<c>expectation</c>
+					<c>anticipation</c>
+					<c>reliance</c>
+				</concepts>
+				<url source="wiki">/wiki/pag-asa#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tagalog</lang>
+				<form script="LATIN">umasa</form>
+				<concepts>
+					<c>hope</c>
+					<c>feel</c>
+					<c>confident</c>
+					<c>rely</c>
+					<c>depend</c>
+				</concepts>
+				<url source="wiki">/wiki/umasa#Tagalog</url>
+			</reflex>
+			<reflex>
+				<lang>Tamil</lang>
+				<form script="TAMIL">ஆசை</form>
+				<translit>ācai</translit>
+				<concepts>
+					<c>desire</c>
+					<c>hope</c>
+					<c>affection</c>
+					<c>wish</c>
+					<c>love</c>
+					<c>attachment</c>
+				</concepts>
+				<url source="wiki">/wiki/ஆசை#Tamil</url>
+			</reflex>
+			<reflex>
+				<lang>Telugu</lang>
+				<form script="TELUGU">ఆశ</form>
+				<translit>āśa</translit>
+				<concepts>
+					<c>desire</c>
+					<c>hope</c>
+					<c>love</c>
+				</concepts>
+				<url source="wiki">/wiki/ఆశ#Telugu</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">อาสา</form>
+				<translit>aa-sǎa</translit>
+				<concepts>
+					<c>desire</c>
+					<c>hope</c>
+					<c>wish</c>
+				</concepts>
+				<url source="wiki">/wiki/อาสา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">อาสา</form>
+				<translit>aa-sǎa</translit>
+				<concepts>
+					<c>volunteer</c>
+				</concepts>
+				<url source="wiki">/wiki/อาสา#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Urdu</lang>
+				<form script="ARABIC">آس</form>
+				<translit>ās</translit>
+				<concepts>
+					<c>hope</c>
+					<c>expectation</c>
+				</concepts>
+				<url source="wiki">/wiki/آس#Urdu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ćráyHištʰas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ćráyHištʰas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">श्रेष्ठ</form>
+				<translit>śreṣṭh</translit>
+				<concepts>
+					<c>excellent</c>
+					<c>best</c>
+					<c>high-quality</c>
+				</concepts>
+				<url source="wiki">/wiki/श्रेष्ठ#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Hindi</lang>
+				<form script="DEVANAGARI">सेठ</form>
+				<translit>seṭh</translit>
+				<concepts>
+					<c>merchant</c>
+					<c>banker</c>
+				</concepts>
+				<url source="wiki">/wiki/सेठ#Hindi</url>
+			</reflex>
+			<reflex>
+				<lang>Kannada</lang>
+				<form script="KANNADA">ಶ್ರೇಷ್ಠ</form>
+				<translit>śrēṣṭha</translit>
+				<concepts>
+					<c>meritorious</c>
+					<c>noble</c>
+					<c>notable</c>
+					<c>great</c>
+					<c>best</c>
+				</concepts>
+				<url source="wiki">/wiki/ಶ್ರೇಷ್ಠ#Kannada</url>
+			</reflex>
+			<reflex>
+				<lang>Khmer</lang>
+				<form script="KHMER">សេដ្ឋ</form>
+				<translit>seetthaʼ</translit>
+				<concepts>
+					<c>supreme</c>
+					<c>excellent</c>
+					<c>best</c>
+				</concepts>
+				<url source="wiki">/wiki/សេដ្ឋ#Khmer</url>
+			</reflex>
+			<reflex>
+				<lang>Pali</lang>
+				<form script="LATIN">seṭṭha</form>
+				<concepts>
+					<c>excellent</c>
+					<c>best</c>
+				</concepts>
+				<url source="wiki">/wiki/seṭṭha#Pali</url>
+			</reflex>
+			<reflex>
+				<lang>Punjabi</lang>
+				<form script="GURMUKHI">ਸ੍ਰੇਸ਼ਠ</form>
+				<translit>sreśaṭh</translit>
+				<concepts>
+					<c>superior</c>
+					<c>excellent</c>
+					<c>superb</c>
+				</concepts>
+				<url source="wiki">/wiki/ਸ੍ਰੇਸ਼ਠ#Punjabi</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">श्रेष्ठ</form>
+				<translit>śréṣṭha</translit>
+				<concepts>
+					<c>best</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/श्रेष्ठ#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">เศรษฐ</form>
+				<translit>sèet-tà-</translit>
+				<concepts>
+					<c>supreme</c>
+					<c>excellent</c>
+					<c>best</c>
+				</concepts>
+				<url source="wiki">/wiki/เศรษฐ#Thai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ćráyHyas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ćráyHyas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">श्रेयस्</form>
+				<translit>śréyas</translit>
+				<concepts>
+					<c>good</c>
+					<c>happiness</c>
+				</concepts>
+				<url source="wiki">/wiki/श्रेयस्#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">श्रेयस्</form>
+				<translit>śréyas</translit>
+				<concepts>
+					<c>preferable</c>
+					<c>superior</c>
+					<c>best</c>
+					<c>better</c>
+				</concepts>
+				<url source="wiki">/wiki/श्रेयस्#Sanskrit</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">श्रेयस्</form>
+				<translit>śréyas</translit>
+				<concepts>
+					<c>rather</c>
+					<c>better</c>
+				</concepts>
+				<url source="wiki">/wiki/श्रेयस्#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ǰáǰʰukas</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ǰáǰʰukas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬛𐬎𐬲𐬀𐬐𐬀</form>
+				<translit>dužaka</translit>
+				<concepts>
+					<c>hedgehog</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬛𐬎𐬲𐬀𐬐𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬯𐬍𐬲𐬀𐬐𐬀</form>
+				<translit>sīžaka</translit>
+				<concepts>
+					<c>hedgehog</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬯𐬍𐬲𐬀𐬐𐬀#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">जहका</form>
+				<translit>jáhakā</translit>
+				<concepts>
+					<c>hedgehog</c>
+				</concepts>
+				<url source="wiki">/wiki/जहका#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ȷ́ráyas</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ȷ́ráyas</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Avestan</lang>
+				<form script="AVESTAN">𐬰𐬭𐬀𐬌𐬌𐬀𐬢𐬵</form>
+				<translit>zraiiaŋh</translit>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/𐬰𐬭𐬀𐬌𐬌𐬀𐬢𐬵#Avestan</url>
+			</reflex>
+			<reflex>
+				<lang>Central Kurdish</lang>
+				<form script="ARABIC">زەریا</form>
+				<translit>zerya</translit>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/زەریا#Central_Kurdish</url>
+			</reflex>
+			<reflex>
+				<lang>Old Persian</lang>
+				<form script="OLD PERSIAN">𐎭𐎼𐎹</form>
+				<translit>d-r-y</translit>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎭𐎼𐎹#Old_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">دریا</form>
+				<translit>daryâ</translit>
+				<concepts>
+					<c>river</c>
+					<c>ocean</c>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/دریا#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Persian</lang>
+				<form script="ARABIC">زراه</form>
+				<translit>zerâh, zerâh, zarâh</translit>
+				<concepts>
+					<c>sea</c>
+					<c>ocean</c>
+				</concepts>
+				<url source="wiki">/wiki/زراه#Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">ज्रयस्</form>
+				<translit>jráyas</translit>
+				<concepts>
+					<c>space</c>
+					<c>expanse</c>
+				</concepts>
+				<url source="wiki">/wiki/ज्रयस्#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Indo-Iranian</plang>
+			<pform>*ȷ́ʰarmyám</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Indo-Iranian/ȷ́ʰarmyám</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Sanskrit</lang>
+				<form script="DEVANAGARI">हर्म्य</form>
+				<translit>harmyá</translit>
+				<concepts>
+					<c>prison</c>
+					<c>palace</c>
+					<c>stronghold</c>
+					<c>mansion</c>
+				</concepts>
+				<url source="wiki">/wiki/हर्म्य#Sanskrit</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

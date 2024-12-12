@@ -1,0 +1,7275 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*abdu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/abdu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᡩᡠ</form>
+				<translit>adu</translit>
+				<concepts>
+					<c>clothing</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᡩᡠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᡩᡠᠨ</form>
+				<translit>adun</translit>
+				<concepts>
+					<c>herd</c>
+					<c>flock</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᡩᡠᠨ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*aja</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/aja</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ай</form>
+				<translit>aj</translit>
+				<concepts>
+					<c>good</c>
+				</concepts>
+				<url source="wiki">/wiki/ай#Even</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*akin</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/akin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᡥᡡᠨ</form>
+				<translit>ahūn</translit>
+				<concepts>
+					<c>elder brother</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᡥᡡᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᡥᡡᠨ</form>
+				<translit>ahūn</translit>
+				<concepts>
+					<c>older</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᡥᡡᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nivkh</lang>
+				<form script="CYRILLIC">аки</form>
+				<translit>aki</translit>
+				<concepts>
+					<c>big brother</c>
+				</concepts>
+				<url source="wiki">/wiki/аки#Nivkh</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">akɪn</form>
+				<concepts>
+					<c>older brother</c>
+				</concepts>
+				<url source="wiki">/wiki/akɪn#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*aliku</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/aliku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᠯᡳᡴᡡ</form>
+				<translit>alikū</translit>
+				<concepts>
+					<c>plate</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᠯᡳᡴᡡ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*amŋa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/amŋa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">амӈа</form>
+				<translit>amŋa</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/амӈа#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">амӈа̇</form>
+				<translit>amŋȧ</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/амӈа#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">амӈа</form>
+				<translit>amŋa</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/амӈа#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᠩᡤᠠ</form>
+				<translit>angga</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᠩᡤᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">аӈма</form>
+				<translit>aŋma</translit>
+				<concepts>
+					<c>opening</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/аӈма#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">amŋa</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/amŋa#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">аӈма</form>
+				<translit>aŋma</translit>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/аӈма#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*anda</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/anda</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">анда</form>
+				<translit>anda</translit>
+				<concepts>
+					<c>friend</c>
+				</concepts>
+				<url source="wiki">/wiki/анда#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᠨᡩᠠ</form>
+				<translit>anda</translit>
+				<concepts>
+					<c>bosom friend</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᠨᡩᠠ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*bi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/bi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">би</form>
+				<translit>ʙi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">би</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᡳ</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">ми</form>
+				<translit>mi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ми#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">би</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">би</form>
+				<translit>bi</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/би#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*bi-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/bi-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">бидэ̄й</form>
+				<translit>ʙidə̄j</translit>
+				<concepts>
+					<c>be</c>
+				</concepts>
+				<url source="wiki">/wiki/бидэй#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">бимӣ</form>
+				<translit>bimī</translit>
+				<concepts>
+					<c>be</c>
+					<c>live</c>
+				</concepts>
+				<url source="wiki">/wiki/бими#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᡳᠮᠪᡳ</form>
+				<translit>bimbi</translit>
+				<concepts>
+					<c>be</c>
+					<c>exist</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᡳᠮᠪᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*biaga</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/biaga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">бя̄г</form>
+				<translit>ʙẹ̄g</translit>
+				<concepts>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/бяг#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">бе̄га</form>
+				<translit>bēga</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/бега#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᡳᠶᠠ</form>
+				<translit>biya</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᡳᠶᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">биа</form>
+				<translit>bia</translit>
+				<concepts>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/биа#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">bɛ꞉</form>
+				<concepts>
+					<c>month</c>
+				</concepts>
+				<url source="wiki">/wiki/bɛ꞉#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*bilga</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/bilga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">билга</form>
+				<translit>ʙilga</translit>
+				<concepts>
+					<c>throat</c>
+				</concepts>
+				<url source="wiki">/wiki/билга#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᡳᠯᡥᠠ</form>
+				<translit>bilha</translit>
+				<concepts>
+					<c>throat</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᡳᠯᡥᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">билга</form>
+				<translit>bilga</translit>
+				<concepts>
+					<c>throat</c>
+				</concepts>
+				<url source="wiki">/wiki/билга#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*bira</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/bira</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">бира</form>
+				<translit>bira</translit>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/бира#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᡳᡵᠠ</form>
+				<translit>bira</translit>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᡳᡵᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">amur</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/amur#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*bola</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/bola</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">болони</form>
+				<translit>boloņi</translit>
+				<concepts>
+					<c>autumn</c>
+				</concepts>
+				<url source="wiki">/wiki/болони#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᠣᠯᠣᡵᡳ</form>
+				<translit>bolori</translit>
+				<concepts>
+					<c>autumn</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᠣᠯᠣᡵᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*bosakta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/bosakta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">боста</form>
+				<translit>ʙosta</translit>
+				<concepts>
+					<c>kidney</c>
+				</concepts>
+				<url source="wiki">/wiki/боста#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">босокто</form>
+				<translit>bosokto</translit>
+				<concepts>
+					<c>kidney</c>
+				</concepts>
+				<url source="wiki">/wiki/босокто#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᠣᠰᡥᠣ</form>
+				<translit>bosho</translit>
+				<concepts>
+					<c>kidney</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᠣᠰᡥᠣ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">босокто</form>
+				<translit>bosokto</translit>
+				<concepts>
+					<c>kidney</c>
+				</concepts>
+				<url source="wiki">/wiki/босокто#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">bɔʃɔktɔ</form>
+				<concepts>
+					<c>kidney</c>
+				</concepts>
+				<url source="wiki">/wiki/bɔʃɔktɔ#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*buga</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/buga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">буг</form>
+				<translit>ʙug</translit>
+				<concepts>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/буг#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">буга</form>
+				<translit>buga</translit>
+				<concepts>
+					<c>heaven</c>
+					<c>world</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/буга#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠪᠠ</form>
+				<translit>ba</translit>
+				<concepts>
+					<c>location</c>
+					<c>land</c>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠪᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">боа</form>
+				<translit>boa</translit>
+				<concepts>
+					<c>outside</c>
+					<c>region</c>
+					<c>deity</c>
+					<c>sky</c>
+					<c>weather</c>
+					<c>god</c>
+					<c>place</c>
+				</concepts>
+				<url source="wiki">/wiki/боа#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">бо̄</form>
+				<translit>bō</translit>
+				<concepts>
+					<c>sky</c>
+					<c>country</c>
+				</concepts>
+				<url source="wiki">/wiki/бо̄#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">bʊwa</form>
+				<concepts>
+					<c>heaven</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/bʊwa#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*börgö</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/börgö</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">бургу</form>
+				<translit>burgu</translit>
+				<concepts>
+					<c>thick</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/бургу#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">буйгу</form>
+				<translit>buygu</translit>
+				<concepts>
+					<c>thick</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/буйгу#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">bulgu</form>
+				<concepts>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/bulgu#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*bū-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/bū-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">бумӣ</form>
+				<translit>bumī</translit>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/буми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">бувури</form>
+				<translit>buwuri</translit>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="wiki">/wiki/бувури#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*daga</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/daga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дачан</form>
+				<translit>dačan</translit>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="wiki">/wiki/дачан#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*darama</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/darama</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">дарам</form>
+				<translit>daram</translit>
+				<concepts>
+					<c>back</c>
+				</concepts>
+				<url source="wiki">/wiki/дарам#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡩᠠᡵᠠ</form>
+				<translit>dara</translit>
+				<concepts>
+					<c>waist</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡩᠠᡵᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡩᠠᡵᠠᠮᠠ</form>
+				<translit>darama</translit>
+				<concepts>
+					<c>waist</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡩᠠᡵᠠᠮᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дарама</form>
+				<translit>darama</translit>
+				<concepts>
+					<c>back</c>
+				</concepts>
+				<url source="wiki">/wiki/дарама#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*degʒegi-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/degʒegi-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">дэгдэй</form>
+				<translit>dəgdəj</translit>
+				<concepts>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/дэгдэй#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">dʒəgdə-</form>
+				<concepts>
+					<c>burn</c>
+				</concepts>
+				<url source="wiki">/wiki/dʒəgdə-#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*dilgan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/dilgan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дылган</form>
+				<translit>dilgan</translit>
+				<concepts>
+					<c>sound</c>
+					<c>noise</c>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/дылган#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᡳᠯᡤᠠᠨ</form>
+				<translit>jilgan</translit>
+				<concepts>
+					<c>voice</c>
+					<c>noise</c>
+					<c>sound</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᡳᠯᡤᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дилган</form>
+				<translit>dilgan</translit>
+				<concepts>
+					<c>voice</c>
+				</concepts>
+				<url source="wiki">/wiki/дилган#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*dili</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/dili</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">дыл</form>
+				<translit>dil</translit>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/дыл#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дыл</form>
+				<translit>dil</translit>
+				<concepts>
+					<c>head</c>
+				</concepts>
+				<url source="wiki">/wiki/дыл#Evenki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*dirami</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/dirami</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дырам</form>
+				<translit>diram</translit>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/дырам#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᡳᡵᠠᠮᡳᠨ</form>
+				<translit>jiramin</translit>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᡳᡵᠠᠮᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дирами</form>
+				<translit>dirami</translit>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/дирами#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">diram</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="wiki">/wiki/diram#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*dolba</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/dolba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">долбани</form>
+				<translit>dolʙaņi</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/долбани#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">долбонӣ</form>
+				<translit>dolboņī</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/долбони#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡩᠣᠪᠣᡵᡳ</form>
+				<translit>dobori</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡩᠣᠪᠣᡵᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">долбо</form>
+				<translit>dolbo</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/долбо#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">долбо</form>
+				<translit>dolbo</translit>
+				<concepts>
+					<c>nocturnal</c>
+				</concepts>
+				<url source="wiki">/wiki/долбо#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">dɔlbɔ</form>
+				<concepts>
+					<c>nighttime</c>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/dɔlbɔ#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">догбо</form>
+				<translit>dogbo</translit>
+				<concepts>
+					<c>night</c>
+				</concepts>
+				<url source="wiki">/wiki/догбо#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*duurää-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/duurää-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᡠᡵᠠᠮᠪᡳ</form>
+				<translit>jurambi</translit>
+				<concepts>
+					<c>depart</c>
+					<c>set out</c>
+					<c>set off</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᡠᡵᠠᠮᠪᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*dügün</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/dügün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дыгин</form>
+				<translit>digin</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/дыгин#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="LATIN">duwin</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/duwin#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡩ᠋ᡠ᠋ᡳ᠌ᠨ</form>
+				<translit>duin</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡩ᠋ᡠ᠋ᡳ᠌ᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡩᡠᡳᠨ</form>
+				<translit>duin</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡩᡠᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дуин</form>
+				<translit>duin</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/дуин#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">диғин</form>
+				<translit>diɣin</translit>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/диғин#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">diḡing</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/diḡing#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*dōldi-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/dōldi-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">долдада̄й</form>
+				<translit>doldadāj</translit>
+				<concepts>
+					<c>hear</c>
+				</concepts>
+				<url source="wiki">/wiki/долдадай#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">до̄лды̄мӣ</form>
+				<translit>dōldīmī</translit>
+				<concepts>
+					<c>listen</c>
+					<c>hear</c>
+				</concepts>
+				<url source="wiki">/wiki/долдыми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡩᠣᠨᠵᡳᠮᠪᡳ</form>
+				<translit>donjimbi</translit>
+				<concepts>
+					<c>hear</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡩᠣᠨᠵᡳᠮᠪᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*emün</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/emün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">өмэн</form>
+				<translit>ömən</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/өмэн#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">умӯн</form>
+				<translit>umūn</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/умун#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="CYRILLIC">әmu</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/әmu#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Kyakala</lang>
+				<form script="CJK">额穆</form>
+				<translit>emu</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/额穆#Kyakala</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᠮᡠ</form>
+				<translit>emu</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᠮᡠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">эмун</form>
+				<translit>emun</translit>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/эмун#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">өмөн</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/өмөн#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">emung</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/emung#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*eri-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/eri-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᡵᡤᡝᠮᠪᡳ</form>
+				<translit>ergembi</translit>
+				<concepts>
+					<c>rest</c>
+					<c>take a break</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᡵᡤᡝᠮᠪᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*erün</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/erün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᡵᡳᠨ</form>
+				<translit>erin</translit>
+				<concepts>
+					<c>season</c>
+					<c>hour</c>
+					<c>time</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᡵᡳᠨ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gara</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gara</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">гар</form>
+				<translit>gar</translit>
+				<concepts>
+					<c>branch</c>
+				</concepts>
+				<url source="wiki">/wiki/гар#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">гара</form>
+				<translit>gara</translit>
+				<concepts>
+					<c>branch</c>
+				</concepts>
+				<url source="wiki">/wiki/гара#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᠠᡵᡤᠠᠨ</form>
+				<translit>gargan</translit>
+				<concepts>
+					<c>earthly branch</c>
+					<c>branch</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᠠᡵᡤᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᠠᡵᡤᠠᠨ</form>
+				<translit>gargan</translit>
+				<concepts>
+					<c>individual</c>
+					<c>single</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᠠᡵᡤᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гара</form>
+				<translit>gara</translit>
+				<concepts>
+					<c>branch</c>
+				</concepts>
+				<url source="wiki">/wiki/гара#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gerbǖ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gerbǖ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">гэ̇рбэ̇</form>
+				<translit>gə̇rʙə̇</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/гэрбэ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">гэрбӣ</form>
+				<translit>gərbī</translit>
+				<concepts>
+					<c>reputation</c>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/гэрби#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᡝᠪᡠ</form>
+				<translit>gebu</translit>
+				<concepts>
+					<c>reputation</c>
+					<c>name</c>
+					<c>given name</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᡝᠪᡠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гэрбу</form>
+				<translit>gerbu</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/гэрбу#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">гэлби</form>
+				<translit>gelbi</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/гэлби#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">gərbi</form>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/gərbi#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">gebbi</form>
+				<concepts>
+					<c>reputation</c>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/gebbi#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*geŋg'e</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/geŋg'e</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᡝᠩᡤᡳᠶᡝᠨ</form>
+				<translit>genggiyen</translit>
+				<concepts>
+					<c>wise</c>
+					<c>bright</c>
+					<c>enlightened</c>
+					<c>clear</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᡝᠩᡤᡳᠶᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">нгэгден</form>
+				<translit>ŋegʒen</translit>
+				<concepts>
+					<c>light</c>
+				</concepts>
+				<url source="wiki">/wiki/нгэгден#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*giakin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/giakin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">гякан</form>
+				<translit>gẹkan</translit>
+				<concepts>
+					<c>hawk</c>
+				</concepts>
+				<url source="wiki">/wiki/гякан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᡳᠶᠠᡥᡡᠨ</form>
+				<translit>giyahūn</translit>
+				<concepts>
+					<c>hawk</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᡳᠶᠠᡥᡡᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гихон</form>
+				<translit>gixon</translit>
+				<concepts>
+					<c>hawk</c>
+				</concepts>
+				<url source="wiki">/wiki/гихон#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">ге̄хин</form>
+				<translit>gēxin</translit>
+				<concepts>
+					<c>hawk</c>
+				</concepts>
+				<url source="wiki">/wiki/ге̄хин#Negidal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*giramsa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/giramsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">гирамна</form>
+				<translit>giramna</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/гирамна#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᡳᡵᠠᠩᡤᡳ</form>
+				<translit>giranggi</translit>
+				<concepts>
+					<c>bone</c>
+					<c>bloodline</c>
+					<c>pedigree</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᡳᡵᠠᠩᡤᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гирмакса</form>
+				<translit>girmaksa</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/гирмакса#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">gɪramna</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/gɪramna#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gora</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gora</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">гор</form>
+				<translit>gor</translit>
+				<concepts>
+					<c>distant</c>
+					<c>remote</c>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/гор#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">горо</form>
+				<translit>goro</translit>
+				<concepts>
+					<c>distant</c>
+					<c>remote</c>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/горо#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᠣᡵᠣ</form>
+				<translit>goro</translit>
+				<concepts>
+					<c>distant</c>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᠣᡵᠣ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">горо</form>
+				<translit>goro</translit>
+				<concepts>
+					<c>far away</c>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/горо#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">горо</form>
+				<translit>goro</translit>
+				<concepts>
+					<c>long</c>
+					<c>far</c>
+				</concepts>
+				<url source="wiki">/wiki/горо#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gusi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gusi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">гусэтэ̄</form>
+				<translit>gusətə̄</translit>
+				<concepts>
+					<c>eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/гусэтэ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гуси</form>
+				<translit>gusi</translit>
+				<concepts>
+					<c>eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/гуси#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">гуси</form>
+				<translit>gusi</translit>
+				<concepts>
+					<c>eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/гуси#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gusin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gusin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гусин</form>
+				<translit>gusin</translit>
+				<concepts>
+					<c>uncle</c>
+				</concepts>
+				<url source="wiki">/wiki/гусин#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gutïn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gutïn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᡡᠰᡳᠨ</form>
+				<translit>gūsin</translit>
+				<concepts>
+					<c>thirty</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᡡᠰᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гочин</form>
+				<translit>gočin</translit>
+				<concepts>
+					<c>thirty</c>
+				</concepts>
+				<url source="wiki">/wiki/гочин#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gūn-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gūn-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">гунмӣ</form>
+				<translit>gunmī</translit>
+				<concepts>
+					<c>reply</c>
+					<c>say</c>
+				</concepts>
+				<url source="wiki">/wiki/гунми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᡡᠨᡳᠮᠪᡳ</form>
+				<translit>gūnimbi</translit>
+				<concepts>
+					<c>think</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᡡᠨᡳᠮᠪᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡥᡝᠨᡩᡠᠮᠪᡳ</form>
+				<translit>hendumbi</translit>
+				<concepts>
+					<c>speak</c>
+					<c>say</c>
+					<c>explain</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡥᡝᠨᡩᡠᠮᠪᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*gịda</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/gịda</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">гида</form>
+				<translit>gida</translit>
+				<concepts>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/гида#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᡳᡩᠠ</form>
+				<translit>gida</translit>
+				<concepts>
+					<c>lance</c>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᡳᡩᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гида</form>
+				<translit>gida</translit>
+				<concepts>
+					<c>spear</c>
+				</concepts>
+				<url source="wiki">/wiki/гида#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ilan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ilan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">и̇ла̇н</form>
+				<translit>i̇lȧn</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/илан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">илан</form>
+				<translit>ilan</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/илан#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="LATIN">ilan</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ilan#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᠯᠠᠨ</form>
+				<translit>ilan</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᠯᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">илан</form>
+				<translit>ilan</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/илан#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">илан</form>
+				<translit>ilan</translit>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/илан#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɪlan</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ɪlan#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">ilang</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/ilang#Solon</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">и̇ла</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/и̇ла#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ineŋī</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ineŋī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">инэ̇ӈ</form>
+				<translit>inə̇ŋ</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/инэӈ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">инэӈӣ</form>
+				<translit>inəŋī</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/инэӈи#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᠨᡝᠩᡤᡳ</form>
+				<translit>inenggi</translit>
+				<concepts>
+					<c>day</c>
+					<c>daytime</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᠨᡝᠩᡤᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">ини</form>
+				<translit>ini</translit>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/ини#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">inəŋ</form>
+				<concepts>
+					<c>day</c>
+					<c>daytime</c>
+				</concepts>
+				<url source="wiki">/wiki/inəŋ#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*irgü</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/irgü</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">иргэ</form>
+				<translit>irgə</translit>
+				<concepts>
+					<c>brain</c>
+					<c>mind</c>
+					<c>intelligence</c>
+				</concepts>
+				<url source="wiki">/wiki/иргэ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">иргэ</form>
+				<translit>irgə</translit>
+				<concepts>
+					<c>brain</c>
+					<c>mind</c>
+				</concepts>
+				<url source="wiki">/wiki/иргэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">ӣгэ</form>
+				<translit>iigä</translit>
+				<concepts>
+					<c>brain</c>
+				</concepts>
+				<url source="wiki">/wiki/игэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">irgə</form>
+				<concepts>
+					<c>brain</c>
+				</concepts>
+				<url source="wiki">/wiki/irgə#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">иги</form>
+				<translit>igi</translit>
+				<concepts>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/иги#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*iāsa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/iāsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">я̄са̇л</form>
+				<translit>jāsȧl</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/ясал#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">эса</form>
+				<translit>əsa</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/эса#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠶᠠᠰᠠ</form>
+				<translit>yasa</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠶᠠᠰᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">насал</form>
+				<translit>nasal</translit>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/насал#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">yɛ꞉ʃa</form>
+				<concepts>
+					<c>eye</c>
+				</concepts>
+				<url source="wiki">/wiki/yɛ꞉ʃa#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*iče-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/iče-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">иттэ̄й</form>
+				<translit>ittə̄j</translit>
+				<concepts>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/иттэй#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ичэмӣ</form>
+				<translit>içəmī</translit>
+				<concepts>
+					<c>notice</c>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/ичэми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">ичэури</form>
+				<translit>ičeuri</translit>
+				<concepts>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/ичэури#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">itʃə-</form>
+				<concepts>
+					<c>look</c>
+					<c>see</c>
+				</concepts>
+				<url source="wiki">/wiki/itʃə-#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*jalan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/jalan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kyakala</lang>
+				<form script="CJK">扎兰</form>
+				<translit>zhalan</translit>
+				<concepts>
+					<c>generation</c>
+				</concepts>
+				<url source="wiki">/wiki/扎兰#Kyakala</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᠠᠯᠠᠨ</form>
+				<translit>jalan</translit>
+				<concepts>
+					<c>era</c>
+					<c>age</c>
+					<c>generation</c>
+					<c>times</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᠠᠯᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дялан</form>
+				<translit>žalan</translit>
+				<concepts>
+					<c>generation</c>
+				</concepts>
+				<url source="wiki">/wiki/дялан#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*kačikān</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/kačikān</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">качикан</form>
+				<translit>kacikan</translit>
+				<concepts>
+					<c>puppy</c>
+				</concepts>
+				<url source="wiki">/wiki/качикан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">касанʒига</form>
+				<translit>kasanʒiga</translit>
+				<concepts>
+					<c>puppy</c>
+				</concepts>
+				<url source="wiki">/wiki/касанʒига#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*koŋga</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/koŋga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">kɔŋgɔ</form>
+				<concepts>
+					<c>deaf</c>
+				</concepts>
+				<url source="wiki">/wiki/kɔŋgɔ#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*loxa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/loxa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠯᠣᡥᠣ</form>
+				<translit>loho</translit>
+				<concepts>
+					<c>sword</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠯᠣᡥᠣ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">лохон</form>
+				<translit>loxon</translit>
+				<concepts>
+					<c>sabre</c>
+				</concepts>
+				<url source="wiki">/wiki/лохон#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">лохон</form>
+				<translit>loxon</translit>
+				<concepts>
+					<c>sword</c>
+				</concepts>
+				<url source="wiki">/wiki/лохон#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">ло̄</form>
+				<translit>lō</translit>
+				<concepts>
+					<c>sword</c>
+				</concepts>
+				<url source="wiki">/wiki/ло̄#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*lāmu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/lāmu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ла̄му</form>
+				<translit>lāmu</translit>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/ламу#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᠠᠮᡠ</form>
+				<translit>namu</translit>
+				<concepts>
+					<c>ocean</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᠠᠮᡠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">намо</form>
+				<translit>namo</translit>
+				<concepts>
+					<c>maritime</c>
+				</concepts>
+				<url source="wiki">/wiki/намо#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">намо</form>
+				<translit>namo</translit>
+				<concepts>
+					<c>ocean</c>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/намо#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">ла̄м</form>
+				<translit>lām</translit>
+				<concepts>
+					<c>ocean</c>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/ла̄м#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">наму</form>
+				<translit>namu</translit>
+				<concepts>
+					<c>sea</c>
+				</concepts>
+				<url source="wiki">/wiki/наму#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*maŋga</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/maŋga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">маӈ</form>
+				<translit>maŋ</translit>
+				<concepts>
+					<c>hard</c>
+				</concepts>
+				<url source="wiki">/wiki/маӈ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᠠᠩᡤᠠ</form>
+				<translit>mangga</translit>
+				<concepts>
+					<c>solid</c>
+					<c>expensive</c>
+					<c>hard</c>
+					<c>firm</c>
+					<c>resolute</c>
+					<c>adept</c>
+					<c>skilled</c>
+					<c>difficult</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᠠᠩᡤᠠ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*miaban</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/miaban</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ме̄ван</form>
+				<translit>mēwan</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/меван#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᡳᠶᠠᠮᠠᠨ</form>
+				<translit>niyaman</translit>
+				<concepts>
+					<c>heart</c>
+					<c>parent</c>
+					<c>center</c>
+					<c>in-law</c>
+					<c>relative</c>
+					<c>spirit</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᡳᠶᠠᠮᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">миаван</form>
+				<translit>miawan</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/миаван#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">ме̄ван</form>
+				<translit>mēwan</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ме̄ван#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">mɛɣan</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/mɛɣan#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*monon</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/monon</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">монон</form>
+				<translit>monon</translit>
+				<concepts>
+					<c>maple</c>
+				</concepts>
+				<url source="wiki">/wiki/монон#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">монон</form>
+				<translit>monon</translit>
+				<concepts>
+					<c>maple</c>
+				</concepts>
+				<url source="wiki">/wiki/монон#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">монон</form>
+				<translit>monon</translit>
+				<concepts>
+					<c>maple</c>
+				</concepts>
+				<url source="wiki">/wiki/монон#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">моно</form>
+				<translit>mono</translit>
+				<concepts>
+					<c>maple</c>
+				</concepts>
+				<url source="wiki">/wiki/моно#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">моно</form>
+				<translit>mono</translit>
+				<concepts>
+					<c>maple</c>
+				</concepts>
+				<url source="wiki">/wiki/моно#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">моно</form>
+				<translit>mono</translit>
+				<concepts>
+					<c>maple</c>
+				</concepts>
+				<url source="wiki">/wiki/моно#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*mudan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/mudan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">мудан</form>
+				<translit>mudan</translit>
+				<concepts>
+					<c>end</c>
+				</concepts>
+				<url source="wiki">/wiki/мудан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">мудан</form>
+				<translit>mudan</translit>
+				<concepts>
+					<c>end</c>
+				</concepts>
+				<url source="wiki">/wiki/мудан#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">модан</form>
+				<translit>modan</translit>
+				<concepts>
+					<c>end</c>
+					<c>death</c>
+				</concepts>
+				<url source="wiki">/wiki/модан#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*muduri</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/muduri</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᡠᡩᡠᡵᡳ</form>
+				<translit>muduri</translit>
+				<concepts>
+					<c>dragon</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᡠᡩᡠᡵᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">мудур</form>
+				<translit>mudur</translit>
+				<concepts>
+					<c>dragon</c>
+				</concepts>
+				<url source="wiki">/wiki/мудур#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">mudur</form>
+				<concepts>
+					<c>dragon</c>
+				</concepts>
+				<url source="wiki">/wiki/mudur#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*muire</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/muire</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">мӣрэ</form>
+				<translit>mīrə</translit>
+				<concepts>
+					<c>shoulder</c>
+				</concepts>
+				<url source="wiki">/wiki/мирэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᡝᡳᡵᡝᠨ</form>
+				<translit>meiren</translit>
+				<concepts>
+					<c>deputy</c>
+					<c>shoulder</c>
+					<c>assistant</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᡝᡳᡵᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">муйрэ</form>
+				<translit>mujre</translit>
+				<concepts>
+					<c>shoulder</c>
+				</concepts>
+				<url source="wiki">/wiki/муйрэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">нгуйрэ</form>
+				<translit>ŋujre</translit>
+				<concepts>
+					<c>shoulder</c>
+				</concepts>
+				<url source="wiki">/wiki/нгуйрэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">mi꞉rə</form>
+				<concepts>
+					<c>shoulder</c>
+				</concepts>
+				<url source="wiki">/wiki/mi꞉rə#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*murin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/murin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">мурин</form>
+				<translit>murin</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/мурин#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᠣᡵᡳᠨ</form>
+				<translit>morin</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᠣᡵᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">морин</form>
+				<translit>morin</translit>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/морин#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">mʊrɪn</form>
+				<concepts>
+					<c>horse</c>
+				</concepts>
+				<url source="wiki">/wiki/mʊrɪn#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*müikī</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/müikī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᡝᡳᡥᡝ</form>
+				<translit>meihe</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᡝᡳᡥᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">муйки</form>
+				<translit>muyki</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/муйки#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*münti</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/münti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᡠᠰᡝ</form>
+				<translit>muse</translit>
+				<concepts>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᡠᠰᡝ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*mō</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/mō</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">мо̄</form>
+				<translit>mō</translit>
+				<concepts>
+					<c>wood</c>
+					<c>stick</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/мо#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">мо̄</form>
+				<translit>mō</translit>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/мо#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᠣᠣ</form>
+				<translit>moo</translit>
+				<concepts>
+					<c>log</c>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᠣᠣ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">мо̄</form>
+				<translit>mō</translit>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/мо#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">мо̄</form>
+				<translit>mō</translit>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/мо̄#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">мо̄</form>
+				<translit>mō</translit>
+				<concepts>
+					<c>wood</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/мо̄#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*mū</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/mū</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">мӯ</form>
+				<translit>mū</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/му#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Korean</lang>
+				<form script="HANGUL">우케</form>
+				<translit>uke</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/우케#Korean</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠮᡠᡴᡝ</form>
+				<translit>muke</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᡠᡴᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">муэ</form>
+				<translit>mue</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/муэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">мӯ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/мӯ#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">мӯ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/мӯ#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">мӯ</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/мӯ#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">mu꞉</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/mu꞉#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Xibe</lang>
+				<form script="MONGOLIAN">ᠮᡠᡣᡝ</form>
+				<translit>muke</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠮᡠᡣᡝ#Xibe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*nadan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/nadan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">надан</form>
+				<translit>nadan</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/надан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">надан</form>
+				<translit>nadan</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/надан#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="LATIN">nadan</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/nadan#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᠠᡩᠠᠨ</form>
+				<translit>nadan</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᠠᡩᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">надан</form>
+				<translit>nadan</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/надан#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">надан</form>
+				<translit>nadan</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/надан#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">nadang</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/nadang#Solon</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">нада</form>
+				<translit>nada</translit>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/нада#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*nansa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/nansa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">nana</form>
+				<concepts>
+					<c>skin</c>
+					<c>hide</c>
+				</concepts>
+				<url source="wiki">/wiki/nana#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*nelki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/nelki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">нэлки</form>
+				<translit>nəlki</translit>
+				<concepts>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/нэлки#Evenki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*nā</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/nā</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᠠ</form>
+				<translit>na</translit>
+				<concepts>
+					<c>field</c>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">на̄</form>
+				<translit>nā</translit>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/на#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*nē-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/nē-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">нэ̄дэй</form>
+				<translit>nə̄dəj</translit>
+				<concepts>
+					<c>put</c>
+				</concepts>
+				<url source="wiki">/wiki/нэдэй#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">нэ̄мӣ</form>
+				<translit>nə̄mī</translit>
+				<concepts>
+					<c>award</c>
+					<c>accept</c>
+					<c>elect</c>
+					<c>drop</c>
+					<c>put</c>
+				</concepts>
+				<url source="wiki">/wiki/нэми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">нэ̄мӣ</form>
+				<translit>nə̄mī</translit>
+				<concepts>
+					<c>doe</c>
+				</concepts>
+				<url source="wiki">/wiki/нэми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">нэ̄мӣ</form>
+				<translit>nə̄mī</translit>
+				<concepts>
+					<c>sweat</c>
+				</concepts>
+				<url source="wiki">/wiki/нэми#Evenki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*nīkǖ</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/nīkǖ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ники</form>
+				<translit>ņiki</translit>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/ники#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᡳᠶᡝᡥᡝ</form>
+				<translit>niyehe</translit>
+				<concepts>
+					<c>duck</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᡳᠶᡝᡥᡝ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*oksari</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/oksari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">оксаран</form>
+				<translit>oksaran</translit>
+				<concepts>
+					<c>owl</c>
+				</concepts>
+				<url source="wiki">/wiki/оксаран#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*omŋa-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/omŋa-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">омӈада̄й</form>
+				<translit>omŋadāj</translit>
+				<concepts>
+					<c>forget</c>
+				</concepts>
+				<url source="wiki">/wiki/омӈадай#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">омӈомӣ</form>
+				<translit>omŋomī</translit>
+				<concepts>
+					<c>forget</c>
+				</concepts>
+				<url source="wiki">/wiki/омӈоми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠣᠩᡤᠣᠮᠪᡳ</form>
+				<translit>onggombi</translit>
+				<concepts>
+					<c>forget</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠣᠩᡤᠣᠮᠪᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">оӈбори</form>
+				<translit>oŋbori</translit>
+				<concepts>
+					<c>forget</c>
+				</concepts>
+				<url source="wiki">/wiki/оӈбори#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*oran</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/oran</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ора̇н</form>
+				<translit>orȧn</translit>
+				<concepts>
+					<c>reindeer</c>
+				</concepts>
+				<url source="wiki">/wiki/оран#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">орон</form>
+				<translit>oron</translit>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/орон#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠣᡵᠣᠨᠪᡠᡥᡡ</form>
+				<translit>oron buhū</translit>
+				<concepts>
+					<c>reindeer</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠣᡵᠣᠨ_ᠪᡠᡥᡡ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">оро̄н</form>
+				<translit>orōn</translit>
+				<concepts>
+					<c>reindeer</c>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/орон#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɔrɔn</form>
+				<concepts>
+					<c>reindeer</c>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/ɔrɔn#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*palgan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/palgan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">халган</form>
+				<translit>halgan</translit>
+				<concepts>
+					<c>sole</c>
+				</concepts>
+				<url source="wiki">/wiki/халган#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">халган</form>
+				<translit>halgan</translit>
+				<concepts>
+					<c>leg</c>
+					<c>foot</c>
+				</concepts>
+				<url source="wiki">/wiki/халган#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">палган</form>
+				<translit>palgan</translit>
+				<concepts>
+					<c>sole</c>
+				</concepts>
+				<url source="wiki">/wiki/палган#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">algan</form>
+				<concepts>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/algan#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*palŋa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/palŋa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ханӈга</form>
+				<translit>hanŋga</translit>
+				<concepts>
+					<c>palm</c>
+				</concepts>
+				<url source="wiki">/wiki/ханӈга#Evenki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*palụka</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/palụka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">халка̇</form>
+				<translit>halkȧ</translit>
+				<concepts>
+					<c>hammer</c>
+				</concepts>
+				<url source="wiki">/wiki/халка#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">халка</form>
+				<translit>halka</translit>
+				<concepts>
+					<c>hammer</c>
+				</concepts>
+				<url source="wiki">/wiki/халка#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᠣᠯᡥᠣ</form>
+				<translit>folho</translit>
+				<concepts>
+					<c>hammer</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᠣᠯᡥᠣ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">палоа</form>
+				<translit>paloa</translit>
+				<concepts>
+					<c>hammer</c>
+				</concepts>
+				<url source="wiki">/wiki/палоа#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*pańan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/pańan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">хиня̄н</form>
+				<translit>hiņān</translit>
+				<concepts>
+					<c>shadow</c>
+				</concepts>
+				<url source="wiki">/wiki/хинян#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ханян</form>
+				<translit>haņan</translit>
+				<concepts>
+					<c>shadow</c>
+				</concepts>
+				<url source="wiki">/wiki/ханян#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᠠᠶᠠᠩᡤᠠ</form>
+				<translit>fayangga</translit>
+				<concepts>
+					<c>soul</c>
+					<c>spirit</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᠠᠶᠠᠩᡤᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">aɲan</form>
+				<concepts>
+					<c>shade</c>
+					<c>shadow</c>
+				</concepts>
+				<url source="wiki">/wiki/aɲan#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*pemun</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/pemun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">хэмэ̇н</form>
+				<translit>həmə̇n</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/хэмэн#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">хэмун</form>
+				<translit>həmun</translit>
+				<concepts>
+					<c>lower lip</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/хэмун#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᡝᠮᡝᠨ</form>
+				<translit>femen</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᡝᠮᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">пэмун</form>
+				<translit>pemun</translit>
+				<concepts>
+					<c>lower lip</c>
+				</concepts>
+				<url source="wiki">/wiki/пэмун#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">хэму</form>
+				<translit>hemu</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/хэму#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">пэму</form>
+				<translit>pemu</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/пэму#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">əmun</form>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/əmun#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">emme</form>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/emme#Solon</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">хэму</form>
+				<translit>hemu</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/хэму#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">пэму</form>
+				<translit>pemu</translit>
+				<concepts>
+					<c>lip</c>
+				</concepts>
+				<url source="wiki">/wiki/пэму#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*pesin</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/pesin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᡝᠰᡳᠨ</form>
+				<translit>fesin</translit>
+				<concepts>
+					<c>handle</c>
+					<c>grip</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᡝᠰᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">пэсин</form>
+				<translit>pesin</translit>
+				<concepts>
+					<c>handle</c>
+					<c>grip</c>
+				</concepts>
+				<url source="wiki">/wiki/пэсин#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*pokta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/pokta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">хо̄т</form>
+				<translit>hōt</translit>
+				<concepts>
+					<c>path</c>
+					<c>track</c>
+					<c>way</c>
+				</concepts>
+				<url source="wiki">/wiki/хот#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">хокто</form>
+				<translit>hokto</translit>
+				<concepts>
+					<c>path</c>
+					<c>trail</c>
+					<c>way</c>
+				</concepts>
+				<url source="wiki">/wiki/хокто#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">покто</form>
+				<translit>pokto</translit>
+				<concepts>
+					<c>road</c>
+					<c>trail</c>
+					<c>way</c>
+				</concepts>
+				<url source="wiki">/wiki/покто#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">покто</form>
+				<translit>pokto</translit>
+				<concepts>
+					<c>road</c>
+					<c>trail</c>
+					<c>way</c>
+				</concepts>
+				<url source="wiki">/wiki/покто#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">хокто</form>
+				<translit>xokto</translit>
+				<concepts>
+					<c>trail</c>
+				</concepts>
+				<url source="wiki">/wiki/хокто#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*pääyää</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/pääyää</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᡝᡥᡳ</form>
+				<translit>fehi</translit>
+				<concepts>
+					<c>brain</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᡝᡥᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*pākin</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/pākin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ха̄кан</form>
+				<translit>hākan</translit>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/хакан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">хакин</form>
+				<translit>hakin</translit>
+				<concepts>
+					<c>liver</c>
+				</concepts>
+				<url source="wiki">/wiki/хакин#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶᠠᡥᡡᠨ</form>
+				<translit>fahūn</translit>
+				<concepts>
+					<c>liver</c>
+					<c>courage</c>
+					<c>guts</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶᠠᡥᡡᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">па̄</form>
+				<translit>pā</translit>
+				<concepts>
+					<c>liver</c>
+					<c>playing card</c>
+				</concepts>
+				<url source="wiki">/wiki/па#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*pūpūn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/pūpūn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">хӯвӯн</form>
+				<translit>hūwūn</translit>
+				<concepts>
+					<c>saw</c>
+				</concepts>
+				<url source="wiki">/wiki/хувун#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡶ᠋ᡠᡶ᠋ᡠᠨ</form>
+				<translit>fufun</translit>
+				<concepts>
+					<c>saw</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡶ᠋ᡠᡶ᠋ᡠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">попон</form>
+				<translit>popon</translit>
+				<concepts>
+					<c>saw</c>
+				</concepts>
+				<url source="wiki">/wiki/попон#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sakarīn</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sakarīn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">хакарӣн</form>
+				<translit>hakarīn</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/хакарин#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᠠᡥᠠᠯᡳᠶᠠᠨ</form>
+				<translit>sahaliyan</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᠠᡥᠠᠯᡳᠶᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᠠᡥᠠᠯᡳᠶᠠᠨ</form>
+				<translit>sahaliyan</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᠠᡥᠠᠯᡳᠶᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᠠᡥᠠᠯᡳᠶᠠᠨ</form>
+				<translit>sahaliyan</translit>
+				<concepts>
+					<c>ninth</c>
+					<c>Manchu</c>
+					<c>clan</c>
+					<c>Qing</c>
+					<c>dynasty</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᠠᡥᠠᠯᡳᠶᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">сахарин</form>
+				<translit>saxarĩ</translit>
+				<concepts>
+					<c>black</c>
+				</concepts>
+				<url source="wiki">/wiki/сахарин#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">Сахали́н</form>
+				<translit>Saxalín</translit>
+				<concepts>
+					<c>Sakhalin</c>
+				</concepts>
+				<url source="wiki">/wiki/Сахалин#Russian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*samān</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/samān</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">сама̄н</form>
+				<translit>samān</translit>
+				<concepts>
+					<c>shaman</c>
+				</concepts>
+				<url source="wiki">/wiki/саман#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᠠᠮᠠᠨ</form>
+				<translit>saman</translit>
+				<concepts>
+					<c>shaman</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᠠᠮᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">сама</form>
+				<translit>sama</translit>
+				<concepts>
+					<c>shaman</c>
+				</concepts>
+				<url source="wiki">/wiki/сама#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">шаман</form>
+				<translit>šaman</translit>
+				<concepts>
+					<c>shaman</c>
+				</concepts>
+				<url source="wiki">/wiki/шаман#Russian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sarpukī</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sarpukī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᠠᠪᡴᠠ</form>
+				<translit>sabka</translit>
+				<concepts>
+					<c>chopstick</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᠠᠪᡴᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Mongolian</lang>
+				<form script="CYRILLIC">савх</form>
+				<translit>savx</translit>
+				<concepts>
+					<c>cane</c>
+					<c>chopstick</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/савх#Mongolian</url>
+			</reflex>
+			<reflex>
+				<lang>Nivkh</lang>
+				<form script="CYRILLIC">чафӄ</form>
+				<translit>ț’afq</translit>
+				<concepts>
+					<c>chopstick</c>
+				</concepts>
+				<url source="wiki">/wiki/чафӄ#Nivkh</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sarïmïkta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sarïmïkta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">саримикта</form>
+				<translit>sarimikta</translit>
+				<concepts>
+					<c>eyebrow</c>
+				</concepts>
+				<url source="wiki">/wiki/саримикта#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᠣᠯᠮᡳᠨ</form>
+				<translit>solmin</translit>
+				<concepts>
+					<c>eyelash</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᠣᠯᠮᡳᠨ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*saŋār</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/saŋār</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">саӈар</form>
+				<translit>saŋar</translit>
+				<concepts>
+					<c>opening</c>
+					<c>hole</c>
+				</concepts>
+				<url source="wiki">/wiki/саӈар#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*saŋńan</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/saŋńan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ха̄нин</form>
+				<translit>hāņin</translit>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/ханин#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">саңнян</form>
+				<translit>saŋņan</translit>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/саңнян#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">сангнян</form>
+				<translit>sangnyan</translit>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/сангнян#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ʃaŋŋan</form>
+				<concepts>
+					<c>smoke</c>
+				</concepts>
+				<url source="wiki">/wiki/ʃaŋŋan#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sele</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sele</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">сэлэ</form>
+				<translit>sələ</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/сэлэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᡝᠯᡝ</form>
+				<translit>sele</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᡝᠯᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">сэлэ</form>
+				<translit>sele</translit>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/сэлэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ʃələ</form>
+				<concepts>
+					<c>iron</c>
+				</concepts>
+				<url source="wiki">/wiki/ʃələ#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*semtu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/semtu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">сэмту</form>
+				<translit>səmtu</translit>
+				<concepts>
+					<c>rust</c>
+				</concepts>
+				<url source="wiki">/wiki/сэмту#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᡝᠪᡩᡝᠨ</form>
+				<translit>sebden</translit>
+				<concepts>
+					<c>rust</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᡝᠪᡩᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">сэптучэ</form>
+				<translit>septuče</translit>
+				<concepts>
+					<c>rust</c>
+				</concepts>
+				<url source="wiki">/wiki/сэптучэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">сэмту</form>
+				<translit>semtu</translit>
+				<concepts>
+					<c>rust</c>
+				</concepts>
+				<url source="wiki">/wiki/сэмту#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">сэпту</form>
+				<translit>septu</translit>
+				<concepts>
+					<c>rust</c>
+				</concepts>
+				<url source="wiki">/wiki/сэпту#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">сэмту</form>
+				<translit>semtu</translit>
+				<concepts>
+					<c>rust</c>
+				</concepts>
+				<url source="wiki">/wiki/сэмту#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">сэптучэ</form>
+				<translit>septuče</translit>
+				<concepts>
+					<c>rust</c>
+				</concepts>
+				<url source="wiki">/wiki/сэптучэ#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*si</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/si</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">си</form>
+				<translit>si</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/си#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">си</form>
+				<translit>si</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/си#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">си</form>
+				<translit>si</translit>
+				<concepts>
+					<c>thou</c>
+					<c>you</c>
+					<c>nominative case</c>
+					<c>second-person singular</c>
+				</concepts>
+				<url source="wiki">/wiki/си#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*siakta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/siakta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">хят</form>
+				<translit>hẹt</translit>
+				<concepts>
+					<c>willow</c>
+				</concepts>
+				<url source="wiki">/wiki/хят#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">секта</form>
+				<translit>sekta</translit>
+				<concepts>
+					<c>willow</c>
+				</concepts>
+				<url source="wiki">/wiki/секта#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">сакта</form>
+				<translit>sakta</translit>
+				<concepts>
+					<c>willow</c>
+				</concepts>
+				<url source="wiki">/wiki/сакта#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sian</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sian</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">се̄н</form>
+				<translit>sēn</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/сен#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡧᠠᠨ</form>
+				<translit>šan</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡧᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">сиан</form>
+				<translit>sian</translit>
+				<concepts>
+					<c>ear</c>
+				</concepts>
+				<url source="wiki">/wiki/сиан#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*silapūn</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/silapūn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">хилун</form>
+				<translit>hilun</translit>
+				<concepts>
+					<c>skewer</c>
+					<c>spit</c>
+				</concepts>
+				<url source="wiki">/wiki/хилун#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">силпон</form>
+				<translit>silpon</translit>
+				<concepts>
+					<c>skewer</c>
+					<c>spit</c>
+				</concepts>
+				<url source="wiki">/wiki/силпон#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*subgu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/subgu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᡠᡴᡡ</form>
+				<translit>sukū</translit>
+				<concepts>
+					<c>skin</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᡠᡴᡡ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sugʒansa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sugʒansa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">согдата</form>
+				<translit>sogdata</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/согдата#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">суӈдатта</form>
+				<translit>suŋdatta</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/суӈдатта#Orok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sulakī</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sulakī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">хули</form>
+				<translit>huli</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/хули#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">сулакӣ</form>
+				<translit>sulakī</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/сулаки#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">солаки</form>
+				<translit>solaki</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/солаки#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">соли</form>
+				<translit>soli</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/соли#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">су́ли́</form>
+				<translit>sụlị</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/сули#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">sʊlakɪ</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/sʊlakɪ#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">сул’аи</form>
+				<translit>sulˀai</translit>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/сул’аи#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*suu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/suu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᡠᠸᡝ</form>
+				<translit>suwe</translit>
+				<concepts>
+					<c>you</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᡠᠸᡝ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*sēkse</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/sēkse</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">сэ̄ксэ</form>
+				<translit>sə̄ksə</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/сэксэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᡝᠩᡤᡳ</form>
+				<translit>senggi</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᡝᠩᡤᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">сэксэ</form>
+				<translit>sekse</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/сэксэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ʃə꞉kʃə</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ʃə꞉kʃə#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*tari</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/tari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">тар</form>
+				<translit>tar</translit>
+				<concepts>
+					<c>that</c>
+				</concepts>
+				<url source="wiki">/wiki/тар#Evenki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*taŋgu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/taŋgu</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡨ᠋ᠠᠩᡤᡡ</form>
+				<translit>tanggū</translit>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡨ᠋ᠠᠩᡤᡡ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">таӈгу</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/таӈгу#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">таӈгу</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/таӈгу#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">таӈгу</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/таӈгу#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">таӈгу</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/таӈгу#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">таӈгу</form>
+				<concepts>
+					<c>hundred</c>
+				</concepts>
+				<url source="wiki">/wiki/таӈгу#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*toga</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/toga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">того</form>
+				<translit>togo</translit>
+				<concepts>
+					<c>heat</c>
+					<c>warmth</c>
+					<c>lightning</c>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/того#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡨᡠᠸᠠ</form>
+				<translit>tuwa</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡨᡠᠸᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">тава</form>
+				<translit>tawa</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/тава#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*tolkin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/tolkin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">толкун</form>
+				<translit>tolkun</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/толкун#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">толкин</form>
+				<translit>tolkin</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/толкин#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡨᠣᠯᡤᡳᠨ</form>
+				<translit>tolgin</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡨᠣᠯᡤᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">толкин</form>
+				<translit>tolkin</translit>
+				<concepts>
+					<c>dream</c>
+				</concepts>
+				<url source="wiki">/wiki/толкин#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*toŋda</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/toŋda</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡨᠣᠨ᠋ᡩ᠋ᠣ</form>
+				<translit>tondo</translit>
+				<concepts>
+					<c>straight</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡨᠣᠨ᠋ᡩ᠋ᠣ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">тонгдо</form>
+				<translit>tongdo</translit>
+				<concepts>
+					<c>straight</c>
+				</concepts>
+				<url source="wiki">/wiki/тонгдо#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*turākī</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/turākī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">тураки</form>
+				<translit>turaki</translit>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/тураки#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">тура̄кӣ</form>
+				<translit>turākī</translit>
+				<concepts>
+					<c>jackdaw</c>
+				</concepts>
+				<url source="wiki">/wiki/тураки#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡨᡠ᠋ᡵᠠᡴᡳ</form>
+				<translit>turaki</translit>
+				<concepts>
+					<c>Daurian jackdaw</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡨᡠ᠋ᡵᠠᡴᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">тора̄ки</form>
+				<translit>torāki</translit>
+				<concepts>
+					<c>rook</c>
+				</concepts>
+				<url source="wiki">/wiki/тораки#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">тора̄хӣ</form>
+				<translit>torāxī</translit>
+				<concepts>
+					<c>rook</c>
+				</concepts>
+				<url source="wiki">/wiki/тора̄хӣ#Negidal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*tuńga</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/tuńga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ту̇нӈа̇н</form>
+				<translit>tu̇nŋȧn</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/тунӈан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">тунӈа</form>
+				<translit>tunŋa</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/тунӈа#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="LATIN">ʃundʒa</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ʃundʒa#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠰᡠᠨᠵᠠ</form>
+				<translit>sunja</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠰᡠᠨᠵᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">тойңга</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/тойңга#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">туӈа</form>
+				<translit>tuŋa</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/туӈа#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">tʊŋŋa</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/tʊŋŋa#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">tonga</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/tonga#Solon</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">туӈа</form>
+				<translit>tuŋa</translit>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/туӈа#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*uligan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/uligan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡠᠯᡤᡳᠶᠠᠨ</form>
+				<translit>ulgiyan</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᠯᡤᡳᠶᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">олгиан</form>
+				<translit>olgian</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/олгиан#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">орге</form>
+				<translit>orge</translit>
+				<concepts>
+					<c>pig</c>
+				</concepts>
+				<url source="wiki">/wiki/орге#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ʊlgɛn</form>
+				<concepts>
+					<c>pig</c>
+					<c>swine</c>
+				</concepts>
+				<url source="wiki">/wiki/ʊlgɛn#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*umi-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/umi-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠣᠮᡳᠮᠪᡳ</form>
+				<translit>omimbi</translit>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠣᠮᡳᠮᠪᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">омиори</form>
+				<translit>omiori</translit>
+				<concepts>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/омиори#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ure</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ure</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">урэкчэн</form>
+				<translit>urəkcən</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/урэкчэн#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">урэ</form>
+				<translit>urə</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/урэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠸᡝᡥᡝ</form>
+				<translit>wehe</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠸᡝᡥᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хурэ̄н</form>
+				<translit>xurēn</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/хурэн#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">хурэ</form>
+				<translit>xure</translit>
+				<concepts>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/хурэ#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">urə</form>
+				<concepts>
+					<c>hill</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/urə#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*wā-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/wā-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ма̄дай</form>
+				<translit>mādaj</translit>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/мадай#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ва̄мӣ</form>
+				<translit>wāmī</translit>
+				<concepts>
+					<c>catch</c>
+					<c>kill</c>
+					<c>bruise</c>
+				</concepts>
+				<url source="wiki">/wiki/вами#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠸᠠᠮᠪᡳ</form>
+				<translit>wambi</translit>
+				<concepts>
+					<c>execute</c>
+					<c>butcher</c>
+					<c>kill</c>
+					<c>put to death</c>
+					<c>slaughter</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠸᠠᠮᠪᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">ва̄ори</form>
+				<translit>wāori</translit>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/ваори#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">wa꞉-</form>
+				<concepts>
+					<c>kill</c>
+				</concepts>
+				<url source="wiki">/wiki/wa꞉-#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xab-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xab-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">авдай</form>
+				<translit>awdaj</translit>
+				<concepts>
+					<c>wash</c>
+					<c>add</c>
+				</concepts>
+				<url source="wiki">/wiki/авдай#Even</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xabdansa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xabdansa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠠᠪᡩ᠋ᠠᡥᠠ</form>
+				<translit>abdaha</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠠᠪᡩ᠋ᠠᡥᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хабдата</form>
+				<translit>xabdata</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/хабдата#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xasïïkta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xasïïkta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">хаси̇кта</form>
+				<translit>xasïkta</translit>
+				<concepts>
+					<c>fir</c>
+					<c>spruce</c>
+				</concepts>
+				<url source="wiki">/wiki/хаси̇кта#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">аикта</form>
+				<translit>aikta</translit>
+				<concepts>
+					<c>fir</c>
+				</concepts>
+				<url source="wiki">/wiki/аикта#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xedün</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xedün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">эдэ̇н</form>
+				<translit>ədə̇n</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/эдэн#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">эдын</form>
+				<translit>ədin</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/эдын#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᡩᡠᠨ</form>
+				<translit>edun</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᡩᡠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хэдун</form>
+				<translit>hedun</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/хэдун#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">хэду(н)</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/хэду#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">хэду</form>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/хэду#Ulch</url>
+			</reflex>
+			<reflex>
+				<lang>Xibe</lang>
+				<form script="MONGOLIAN">ᡠᡩᡠᠨ</form>
+				<translit>udun</translit>
+				<concepts>
+					<c>wind</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᡩᡠᠨ#Xibe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xemugde</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xemugde</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">эмдэ</form>
+				<translit>əmdə</translit>
+				<concepts>
+					<c>innards</c>
+					<c>entrails</c>
+				</concepts>
+				<url source="wiki">/wiki/эмдэ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">эмугдэ</form>
+				<translit>əmugdə</translit>
+				<concepts>
+					<c>innards</c>
+					<c>entrails</c>
+				</concepts>
+				<url source="wiki">/wiki/эмугдэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хэмдэ</form>
+				<translit>hemde</translit>
+				<concepts>
+					<c>belly</c>
+				</concepts>
+				<url source="wiki">/wiki/хэмдэ#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xepī-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xepī-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">эвидэй</form>
+				<translit>əwidəj</translit>
+				<concepts>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/эвидэй#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">эвӣдемӣ</form>
+				<translit>əwīʒemī</translit>
+				<concepts>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/эвидеми#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᡶᡳᠮᠪᡳ</form>
+				<translit>efimbi</translit>
+				<concepts>
+					<c>play</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᡶᡳᠮᠪᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xerekī</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xerekī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">эрики</form>
+				<translit>əriki</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/эрики#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">хэрэ</form>
+				<translit>hərə</translit>
+				<concepts>
+					<c>bottom</c>
+				</concepts>
+				<url source="wiki">/wiki/хэрэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᡵᡥᡝ</form>
+				<translit>erhe</translit>
+				<concepts>
+					<c>green frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᡵᡥᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хэрэ</form>
+				<translit>here</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/хэрэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ərəki</form>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/ərəki#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">хэрэкэ</form>
+				<translit>xereke</translit>
+				<concepts>
+					<c>frog</c>
+				</concepts>
+				<url source="wiki">/wiki/хэрэкэ#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xete-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xete-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡝᡨᡝ᠋ᠮᠪᡳ</form>
+				<translit>etembi</translit>
+				<concepts>
+					<c>win</c>
+					<c>defeat</c>
+					<c>overcome</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡝᡨᡝ᠋ᠮᠪᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xilŋü</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xilŋü</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">инни</form>
+				<translit>inņi</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/инни#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᠯᡝᠩᡤᡠ</form>
+				<translit>ilenggu</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᠯᡝᠩᡤᡠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">сину</form>
+				<translit>sinu</translit>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/сину#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">iŋi</form>
+				<concepts>
+					<c>tongue</c>
+				</concepts>
+				<url source="wiki">/wiki/iŋi#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ximansa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ximansa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᡳᠮᠠᠩᡤᡳ</form>
+				<translit>nimanggi</translit>
+				<concepts>
+					<c>snow</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᡳᠮᠠᠩᡤᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ximügse</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ximügse</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">имсэ̇</form>
+				<translit>imsə̇</translit>
+				<concepts>
+					<c>grease</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/имсэ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">имӯксэ</form>
+				<translit>imūksə</translit>
+				<concepts>
+					<c>grease</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/имуксэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᠮᡝᠩᡤᡳ</form>
+				<translit>imenggi</translit>
+				<concepts>
+					<c>vegetable oil</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᠮᡝᠩᡤᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">симуксэ</form>
+				<translit>simukse</translit>
+				<concepts>
+					<c>grease</c>
+					<c>fat</c>
+				</concepts>
+				<url source="wiki">/wiki/симуксэ#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xirkēkǖn</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xirkēkǖn</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᠴᡝ</form>
+				<translit>ice</translit>
+				<concepts>
+					<c>new</c>
+					<c>unskillful</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᠴᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">irkəkin</form>
+				<concepts>
+					<c>new</c>
+				</concepts>
+				<url source="wiki">/wiki/irkəkin#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xoldan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xoldan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">олда̄н</form>
+				<translit>oldān</translit>
+				<concepts>
+					<c>side</c>
+				</concepts>
+				<url source="wiki">/wiki/олдан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">олдон</form>
+				<translit>oldon</translit>
+				<concepts>
+					<c>side</c>
+					<c>wall</c>
+				</concepts>
+				<url source="wiki">/wiki/олдон#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">холдон</form>
+				<translit>xoldon</translit>
+				<concepts>
+					<c>side</c>
+				</concepts>
+				<url source="wiki">/wiki/холдон#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xolsa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xolsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">олра̇</form>
+				<translit>olrȧ</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/олра#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">олло</form>
+				<translit>ollo</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/олло#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">холто</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/холто#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɔlɔ</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ɔlɔ#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">холто</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/холто#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xorin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xorin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠣᡵᡳᠨ</form>
+				<translit>orin</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠣᡵᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хорин</form>
+				<translit>horin</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/хорин#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">ойин</form>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/ойин#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">ой</form>
+				<translit>oi</translit>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/ой#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">хори</form>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/хори#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">вайи</form>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/вайи#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">хори</form>
+				<concepts>
+					<c>twenty</c>
+				</concepts>
+				<url source="wiki">/wiki/хори#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xosikta</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xosikta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">оста̇</form>
+				<translit>ostȧ</translit>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/оста#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠣᡧᠣᡥᠣ</form>
+				<translit>ošoho</translit>
+				<concepts>
+					<c>paw</c>
+					<c>claw</c>
+					<c>talon</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠣᡧᠣᡥᠣ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ʊʃɪkta</form>
+				<concepts>
+					<c>fingernail</c>
+				</concepts>
+				<url source="wiki">/wiki/ʊʃɪkta#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xulukī</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xulukī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">улукӣ</form>
+				<translit>ulukī</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/улуки#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡠᠯᡥᡠ</form>
+				<translit>ulhu</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᠯᡥᡠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хулу</form>
+				<translit>xulu</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/хулу#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">urkitʃɛn</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/urkitʃɛn#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xuujan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xuujan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡠᠵᠠᠨ</form>
+				<translit>ujan</translit>
+				<concepts>
+					<c>tip</c>
+					<c>extremity</c>
+					<c>edge</c>
+					<c>boundary</c>
+					<c>end</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᠵᠠᠨ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xörgän</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xörgän</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡠᠵᡝᠨ</form>
+				<translit>ujen</translit>
+				<concepts>
+					<c>serious</c>
+					<c>heavy</c>
+					<c>grave</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᠵᡝᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">urgə</form>
+				<concepts>
+					<c>heavy</c>
+				</concepts>
+				<url source="wiki">/wiki/urgə#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xüjegün</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xüjegün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">уюн</form>
+				<translit>ujun</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/уюн#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">егин</form>
+				<translit>jegin</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/егин#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡠᠶᡠᠨ</form>
+				<translit>uyun</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᠶᡠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хуюн</form>
+				<translit>xujun</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/хуюн#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">ийэғин</form>
+				<translit>ijəɣin</translit>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/ийэғин#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">yəyin</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/yəyin#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">yeging</form>
+				<concepts>
+					<c>nine</c>
+				</concepts>
+				<url source="wiki">/wiki/yeging#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xülme</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xülme</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">инмэ</form>
+				<translit>inmə</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/инмэ#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">инмэ</form>
+				<translit>inmə</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/инмэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡠᠯᠮᡝ</form>
+				<translit>ulme</translit>
+				<concepts>
+					<c>needle</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᠯᠮᡝ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xürgü</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xürgü</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хуйгу</form>
+				<translit>hujgu</translit>
+				<concepts>
+					<c>tailbone</c>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/хуйгу#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">irgi</form>
+				<concepts>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/irgi#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">худю</form>
+				<translit>xuʒu</translit>
+				<concepts>
+					<c>tail</c>
+				</concepts>
+				<url source="wiki">/wiki/худю#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xōsikta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xōsikta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">о̄сикат</form>
+				<translit>ōsikat</translit>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/осикат#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="LATIN">oʃïxa</form>
+				<translit>ošiha</translit>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/oʃïxa#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡠᠰᡳᡥᠠ</form>
+				<translit>usiha</translit>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡠᠰᡳᡥᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɔʃɪkta</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/ɔʃɪkta#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*xǖkte</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/xǖkte</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ӣт</form>
+				<translit>īt</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/ит#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ӣктэ</form>
+				<translit>īktə</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/иктэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠸᡝᡳ᠌ᡥᡝ</form>
+				<translit>weihe</translit>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠸᡝᡳ᠌ᡥᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">хуктэ</form>
+				<translit>hukte</translit>
+				<concepts>
+					<c>tooth</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/хуктэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">iktə</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/iktə#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">iitt</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/iitt#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ïkan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ïkan</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᡥᠠᠨ</form>
+				<translit>ihan</translit>
+				<concepts>
+					<c>ox</c>
+					<c>bull</c>
+					<c>bison</c>
+					<c>cow</c>
+					<c>yak</c>
+					<c>bovine</c>
+					<c>buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᡥᠠᠨ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*čabuka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/čabuka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠴᠣᠣᡥᠠ</form>
+				<translit>cooha</translit>
+				<concepts>
+					<c>army</c>
+					<c>troops</c>
+					<c>soldier</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠴᠣᠣᡥᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">чаоха</form>
+				<translit>čaoxa</translit>
+				<concepts>
+					<c>war</c>
+					<c>army</c>
+					<c>troops</c>
+				</concepts>
+				<url source="wiki">/wiki/чаоха#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*čālban</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/čālban</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Daur</lang>
+				<form script="LATIN">caalbaang</form>
+				<concepts>
+					<c>birch</c>
+				</concepts>
+				<url source="wiki">/wiki/caalbaang#Daur</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">чалбан</form>
+				<translit>çalban</translit>
+				<concepts>
+					<c>birch</c>
+				</concepts>
+				<url source="wiki">/wiki/чалбан#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">tʃa꞉lban</form>
+				<concepts>
+					<c>birch</c>
+				</concepts>
+				<url source="wiki">/wiki/tʃa꞉lban#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">qaalbang</form>
+				<concepts>
+					<c>birch</c>
+				</concepts>
+				<url source="wiki">/wiki/qaalbang#Solon</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">saalbang</form>
+				<concepts>
+					<c>birch</c>
+				</concepts>
+				<url source="wiki">/wiki/saalbang#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ńaŋńa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ńaŋńa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">няни̇н</form>
+				<translit>ņaņi̇n</translit>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/нянин#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᡳᠶᠠᠩᠨᡳᠶᠠ</form>
+				<translit>niyangniya</translit>
+				<concepts>
+					<c>clear</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᡳᠶᠠᠩᠨᡳᠶᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">њаӈња</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/њаӈња#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ńeŋńe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ńeŋńe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">нэгин</form>
+				<translit>nəgin</translit>
+				<concepts>
+					<c>springtime</c>
+				</concepts>
+				<url source="wiki">/wiki/нэгин#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ</form>
+				<translit>niyengniyeri</translit>
+				<concepts>
+					<c>spring</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ńuŋńakī</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ńuŋńakī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">нюӈнякӣ</form>
+				<translit>ņuŋņakī</translit>
+				<concepts>
+					<c>goose</c>
+				</concepts>
+				<url source="wiki">/wiki/нюӈняки#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ</form>
+				<translit>niongniyaha</translit>
+				<concepts>
+					<c>goose</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">нёӈня</form>
+				<translit>ńoŋńa</translit>
+				<concepts>
+					<c>goose</c>
+				</concepts>
+				<url source="wiki">/wiki/нёӈня#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɲuŋɲakɪ</form>
+				<concepts>
+					<c>goose</c>
+				</concepts>
+				<url source="wiki">/wiki/ɲuŋɲakɪ#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ńöŋün</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ńöŋün</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">нюӈэн</form>
+				<translit>ņuŋən</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/нюӈэн#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">нюӈун</form>
+				<translit>ņuŋun</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/нюӈун#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="LATIN">niŋgu</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/niŋgu#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠨᡳᠩᡤᡠᠨ</form>
+				<translit>ninggun</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠨᡳᠩᡤᡠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">нюңгун</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/нюңгун#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɲuŋun</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ɲuŋun#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">ningung</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ningung#Solon</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">њуӈу</form>
+				<translit>ńuŋu</translit>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/њуӈу#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ńārī</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ńārī</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">няри</form>
+				<translit>ņari</translit>
+				<concepts>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/няри#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">най</form>
+				<translit>naj</translit>
+				<concepts>
+					<c>person</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/най#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɲɪray</form>
+				<concepts>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/ɲɪray#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɲɪray</form>
+				<concepts>
+					<c>male</c>
+					<c>masculine</c>
+				</concepts>
+				<url source="wiki">/wiki/ɲɪray#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">нӣ</form>
+				<translit>nī</translit>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/нӣ#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ńūrikte</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ńūrikte</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ню̄рӣт</form>
+				<translit>ņūrīt</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/нюрит#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">нюриктэ</form>
+				<translit>ņuriktə</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/нюриктэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">нуктэ</form>
+				<translit>nukte</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/нуктэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">њӯктэ</form>
+				<translit>ńūktə</translit>
+				<concepts>
+					<c>hair</c>
+				</concepts>
+				<url source="wiki">/wiki/њӯктэ#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ŋaaŋta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ŋaaŋta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ӈаӈта</form>
+				<translit>ŋaŋta</translit>
+				<concepts>
+					<c>fir</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈаӈта#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">вангта</form>
+				<translit>waŋta</translit>
+				<concepts>
+					<c>fir</c>
+				</concepts>
+				<url source="wiki">/wiki/вангта#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ŋalmakta</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ŋalmakta</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᠠᠯᠮᠠᠨ</form>
+				<translit>galman</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᠠᠯᠮᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">гармакта</form>
+				<translit>garmakta</translit>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/гармакта#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ɲalmakta</form>
+				<concepts>
+					<c>mosquito</c>
+				</concepts>
+				<url source="wiki">/wiki/ɲalmakta#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ŋindakin</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ŋindakin</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ӈи̇н</form>
+				<translit>ŋi̇n</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈин#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡳᠨᡩᠠᡥᡡᠨ</form>
+				<translit>indahūn</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡳᠨᡩᠠᡥᡡᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">инаки</form>
+				<translit>inaki</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/инаки#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">ӈинда</form>
+				<translit>ŋịnda</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈинда#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ŋinaɣɪn</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/ŋinaɣɪn#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">инʼаи</form>
+				<translit>inˀai</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/инʼаи#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">и̇ӈда</form>
+				<translit>ịŋda</translit>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/и̇ӈда#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ŋüi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ŋüi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ңи</form>
+				<translit>ŋī</translit>
+				<concepts>
+					<c>who</c>
+				</concepts>
+				<url source="wiki">/wiki/ңи#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠸᡝ</form>
+				<translit>we</translit>
+				<concepts>
+					<c>who</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠸᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">уй</form>
+				<translit>uj</translit>
+				<concepts>
+					<c>who</c>
+				</concepts>
+				<url source="wiki">/wiki/уй#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ŋāla</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ŋāla</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ӈа̄л</form>
+				<translit>ŋāl</translit>
+				<concepts>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈал#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᠠᠯᠠ</form>
+				<translit>gala</translit>
+				<concepts>
+					<c>arm</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᠠᠯᠠ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">ӈа̄ла</form>
+				<translit>ŋāla</translit>
+				<concepts>
+					<c>arm</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈала#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">ŋa꞉la</form>
+				<concepts>
+					<c>arm</c>
+					<c>hand</c>
+				</concepts>
+				<url source="wiki">/wiki/ŋa꞉la#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ŋēle-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ŋēle-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ӈэ̄лдэй</form>
+				<translit>ŋə̄ldəj</translit>
+				<concepts>
+					<c>fear</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈэлдэй#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ӈэ̄лэтчэмӣ</form>
+				<translit>ŋə̄lətçəmī</translit>
+				<concepts>
+					<c>scared</c>
+					<c>fear</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈэлэтчэми#Evenki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ŋōlimi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ŋōlimi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">ӈона̇м</form>
+				<translit>ŋonȧm</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈонам#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">ӈо̄ним</form>
+				<translit>ŋōņim</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈоним#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᡤᠣᠯᠮᡳᠨ</form>
+				<translit>golmin</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/ᡤᠣᠯᠮᡳᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">ӈоними</form>
+				<translit>ŋonimi</translit>
+				<concepts>
+					<c>long</c>
+				</concepts>
+				<url source="wiki">/wiki/ӈоними#Orok</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*əri</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/əri</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">эр</form>
+				<translit>ər</translit>
+				<concepts>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/эр#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">эй</form>
+				<translit>əj</translit>
+				<concepts>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/эй#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒabda</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒabda</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">дябда</form>
+				<translit>ʒaʙda</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/дябда#Even</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒabị</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒabị</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Daur</lang>
+				<form script="LATIN">jieby</form>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/jieby#Daur</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дяв</form>
+				<translit>ʒaw</translit>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/дяв#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">dʒawɪ</form>
+				<concepts>
+					<c>boat</c>
+				</concepts>
+				<url source="wiki">/wiki/dʒawɪ#Oroqen</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒalum</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒalum</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дялум</form>
+				<translit>ʒalum</translit>
+				<concepts>
+					<c>full</c>
+				</concepts>
+				<url source="wiki">/wiki/дялум#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᠠᠯᡠ</form>
+				<translit>jalu</translit>
+				<concepts>
+					<c>self-satisfied</c>
+					<c>surplus</c>
+					<c>complacent</c>
+					<c>filled</c>
+					<c>smug</c>
+					<c>full</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᠠᠯᡠ#Manchu</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒapkun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒapkun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">дяпкан</form>
+				<translit>ʒapkan</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/дяпкан#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дяпкун</form>
+				<translit>ʒapkun</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/дяпкун#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᠠᡴᡡᠨ</form>
+				<translit>jakūn</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᠠᡴᡡᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дякпон</form>
+				<translit>ʒakpon</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/дякпон#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">ӡапкун</form>
+				<translit>ӡapkun</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ӡапкун#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">dʒapkʊn</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/dʒapkʊn#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">jahong</form>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/jahong#Solon</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">ӡакпу</form>
+				<translit>ӡakpu</translit>
+				<concepts>
+					<c>eight</c>
+				</concepts>
+				<url source="wiki">/wiki/ӡакпу#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒola</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒola</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Even</lang>
+				<form script="CYRILLIC">дёл</form>
+				<translit>ʒol</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/дёл#Even</url>
+			</reflex>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дёло</form>
+				<translit>ʒolo</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/дёло#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дёло</form>
+				<translit>ʒolo</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/дёло#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">дёло</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/дёло#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">ӡоло</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/ӡоло#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">dʒɔlɔ</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/dʒɔlɔ#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">ӡоло</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/ӡоло#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒuban</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒuban</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дя̄н</form>
+				<translit>ʒān</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/дян#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Jurchen</lang>
+				<form script="LATIN">dʒua</form>
+				<concepts>
+					<c>summer</c>
+				</concepts>
+				<url source="wiki">/wiki/dʒua#Jurchen</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᡠᠸᠠᠨ</form>
+				<translit>juwan</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᡠᠸᠠᠨ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᡠᠸᠠᡵᡳ</form>
+				<translit>juwari</translit>
+				<concepts>
+					<c>summer</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᡠᠸᠠᡵᡳ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дёан</form>
+				<translit>ʒoan</translit>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/дёан#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroqen</lang>
+				<form script="LATIN">dʒa꞉n</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/dʒa꞉n#Oroqen</url>
+			</reflex>
+			<reflex>
+				<lang>Solon</lang>
+				<form script="LATIN">jaang</form>
+				<concepts>
+					<c>ten</c>
+				</concepts>
+				<url source="wiki">/wiki/jaang#Solon</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒuga</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒuga</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дюгани</form>
+				<translit>ʒugaņi</translit>
+				<concepts>
+					<c>summer</c>
+				</concepts>
+				<url source="wiki">/wiki/дюгани#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дёа</form>
+				<translit>žoa</translit>
+				<concepts>
+					<c>summer</c>
+				</concepts>
+				<url source="wiki">/wiki/дёа#Nanai</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒuke</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒuke</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дюкэ</form>
+				<translit>ʒukə</translit>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/дюкэ#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᡠᡥᡝ</form>
+				<translit>juhe</translit>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᡠᡥᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дюкэ</form>
+				<translit>ʒuke</translit>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/дюкэ#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">дюкэ</form>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/дюкэ#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Orok</lang>
+				<form script="CYRILLIC">дувэ</form>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/дувэ#Orok</url>
+			</reflex>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">ӡуғэ</form>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/ӡуғэ#Udihe</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">дювэ</form>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/дювэ#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒukun</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒukun</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Udihe</lang>
+				<form script="CYRILLIC">ӡугу</form>
+				<translit>žugu</translit>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/ӡугу#Udihe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tungusic</plang>
+			<pform>*ʒȫr</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tungusic/ʒȫr</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Evenki</lang>
+				<form script="CYRILLIC">дю̄р</form>
+				<translit>ʒūr</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/дюр#Evenki</url>
+			</reflex>
+			<reflex>
+				<lang>Kyakala</lang>
+				<form script="CJK">㣿</form>
+				<translit>zhuo</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/㣿#Kyakala</url>
+			</reflex>
+			<reflex>
+				<lang>Manchu</lang>
+				<form script="MONGOLIAN">ᠵᡠᠸᡝ</form>
+				<translit>juwe</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ᠵᡠᠸᡝ#Manchu</url>
+			</reflex>
+			<reflex>
+				<lang>Nanai</lang>
+				<form script="CYRILLIC">дюэр</form>
+				<translit>ʒuer</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/дюэр#Nanai</url>
+			</reflex>
+			<reflex>
+				<lang>Negidal</lang>
+				<form script="CYRILLIC">ӡӯл</form>
+				<translit>ǯūl</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ӡӯл#Negidal</url>
+			</reflex>
+			<reflex>
+				<lang>Oroch</lang>
+				<form script="CYRILLIC">дю</form>
+				<translit>ǯū</translit>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/дю#Oroch</url>
+			</reflex>
+			<reflex>
+				<lang>Ulch</lang>
+				<form script="CYRILLIC">дюэл</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/дюэл#Ulch</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

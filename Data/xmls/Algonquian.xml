@@ -1,0 +1,6028 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*(w)a·pikwehs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/(w)a·pikwehs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">pukwès</form>
+				<concepts>
+					<c>mouse</c>
+				</concepts>
+				<url source="wiki">/wiki/pukwès#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*-ari</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/-ari</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">-an</form>
+				<concepts>
+					<c>in a state</c>
+					<c>condition</c>
+				</concepts>
+				<url source="wiki">/wiki/-an#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">-n</form>
+				<concepts>
+					<c>nominalizer</c>
+				</concepts>
+				<url source="wiki">/wiki/-n#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*-a·htekw-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/-a·htekw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">hìtëkw</form>
+				<concepts>
+					<c>hardwood</c>
+					<c>stick</c>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/hìtëkw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*-a·kw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/-a·kw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">hoo</form>
+				<concepts>
+					<c>porcupine</c>
+				</concepts>
+				<url source="wiki">/wiki/hoo#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">cawquaw</form>
+				<concepts>
+					<c>Canadian porcupine</c>
+					<c>cawquaw</c>
+				</concepts>
+				<url source="wiki">/wiki/cawquaw#English</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">kakᵘ</form>
+				<concepts>
+					<c>beaver</c>
+					<c>Erethizon dorsatum</c>
+				</concepts>
+				<url source="wiki">/wiki/kakᵘ#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᑲᒄ</form>
+				<translit>kakw</translit>
+				<concepts>
+					<c>porcupine</c>
+				</concepts>
+				<url source="wiki">/wiki/ᑲᒄ#Naskapi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*-a·xkw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/-a·xkw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">-akw</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/-akw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*-ehs</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/-ehs</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">askat(sis)</form>
+				<concepts>
+					<c>skirt</c>
+				</concepts>
+				<url source="wiki">/wiki/askat#Malecite-Passamaquoddy</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*-piti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/-piti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">-iibid</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/-iibid#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Quiripi</lang>
+				<form script="LATIN">képut</form>
+				<concepts>
+					<c>teeth</c>
+				</concepts>
+				<url source="wiki">/wiki/keput#Quiripi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*-xka·ti</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/-xka·ti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">hwikat</form>
+				<concepts>
+					<c>foot</c>
+					<c>leg</c>
+				</concepts>
+				<url source="wiki">/wiki/hwikat#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ahšaᐧkeᐧwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ahšaᐧkeᐧwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">'sak</form>
+				<concepts>
+					<c>lobster</c>
+				</concepts>
+				<url source="wiki">/wiki/'sak#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">saahkia</form>
+				<concepts>
+					<c>crawfish</c>
+				</concepts>
+				<url source="wiki">/wiki/saahkia#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ashaageshiinh</form>
+				<concepts>
+					<c>crab</c>
+					<c>crayfish</c>
+				</concepts>
+				<url source="wiki">/wiki/ashaageshiinh#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*akwaθkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/akwaθkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">agaskw</form>
+				<concepts>
+					<c>woodchuck</c>
+				</concepts>
+				<url source="wiki">/wiki/agaskw#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">akasq</form>
+				<concepts>
+					<c>woodchuck</c>
+				</concepts>
+				<url source="wiki">/wiki/akasq#Mohegan-Pequot</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ameθkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ameθkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">tmakwa</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/tmakwa#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">amik</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/amik#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">hóma'e</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/hóma'e#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Tamaqua</form>
+				<concepts>
+					<c>Tamaqua</c>
+					<c>Tamaqua</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ameθkwa</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">amehkwa</form>
+				<concepts>
+					<c>beaver</c>
+					<c>Castor canadensis</c>
+				</concepts>
+				<url source="wiki">/wiki/amehkwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">tumôhq</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/tumôhq#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">amishkᵘ</form>
+				<concepts>
+					<c>beaver</c>
+					<c>Castor canadensis</c>
+				</concepts>
+				<url source="wiki">/wiki/amishkᵘ#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">amoxkw</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/amoxkw#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᒥᔅᒄ</form>
+				<translit>amiskw</translit>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᒥᔅᒄ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">amik</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/amik#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">mik</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/mik#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Penobscot</lang>
+				<form script="LATIN">tə̀mahkʷe</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/tə̀mahkʷe#Penobscot</url>
+			</reflex>
+			<reflex>
+				<lang>Potawatomi</lang>
+				<form script="LATIN">mek</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/mek#Potawatomi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">tëmakwe</form>
+				<concepts>
+					<c>beaver</c>
+				</concepts>
+				<url source="wiki">/wiki/tëmakwe#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*anyikwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/anyikwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">anikwses</form>
+				<concepts>
+					<c>chipmunk</c>
+				</concepts>
+				<url source="wiki">/wiki/anikwses#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">anikwa</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/anikwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">aniks</form>
+				<concepts>
+					<c>chipmunk</c>
+				</concepts>
+				<url source="wiki">/wiki/aniks#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">anikutshash</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/anikutshash#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᓂᔅᒋᑯᒐᔅ</form>
+				<translit>anischikuchas</translit>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᓂᔅᒋᑯᒐᔅ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">anikwacâs</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/anikwacâs#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">anikwës</form>
+				<concepts>
+					<c>ground squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/anikwës#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">xanikw</form>
+				<concepts>
+					<c>squirrel</c>
+				</concepts>
+				<url source="wiki">/wiki/xanikw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*apw-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/apw-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">abwe</form>
+				<concepts>
+					<c>S</c>
+				</concepts>
+				<url source="wiki">/wiki/abwe#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*apwa·ni</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/apwa·ni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">abôn</form>
+				<concepts>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/abôn#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">(enæn-)apuan</form>
+				<concepts>
+					<c>corn bread</c>
+				</concepts>
+				<url source="wiki">/wiki/enæn-apuan#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">apwáan</form>
+				<concepts>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/apwaan#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Penobscot</lang>
+				<form script="LATIN">àpαn</form>
+				<concepts>
+					<c>cornbread</c>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/àpαn#Penobscot</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">ahpòn</form>
+				<concepts>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/ahpòn#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*askyi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/askyi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">aki</form>
+				<concepts>
+					<c>land</c>
+				</concepts>
+				<url source="wiki">/wiki/aki#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ahke·w</form>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/ahke·w#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">ahki</form>
+				<concepts>
+					<c>field</c>
+				</concepts>
+				<url source="wiki">/wiki/ahki#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">ahki</form>
+				<concepts>
+					<c>land</c>
+				</concepts>
+				<url source="wiki">/wiki/ahki#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">assi</form>
+				<concepts>
+					<c>land</c>
+					<c>ground</c>
+					<c>earth</c>
+					<c>soil</c>
+				</concepts>
+				<url source="wiki">/wiki/assi#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᔅᒋᔾ</form>
+				<translit>aschiy</translit>
+				<concepts>
+					<c>world</c>
+					<c>land</c>
+					<c>earth</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᔅᒋᔾ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">aki</form>
+				<concepts>
+					<c>country</c>
+					<c>land</c>
+					<c>earth</c>
+					<c>moss</c>
+					<c>nation</c>
+					<c>ground</c>
+				</concepts>
+				<url source="wiki">/wiki/aki#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">askiy</form>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+					<c>country</c>
+				</concepts>
+				<url source="wiki">/wiki/askiy#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">hàki</form>
+				<concepts>
+					<c>dirt</c>
+					<c>ground</c>
+					<c>land</c>
+					<c>soil</c>
+				</concepts>
+				<url source="wiki">/wiki/hàki#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*atehkwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/atehkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Massachusett</lang>
+				<form script="LATIN">ottucke</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/ottucke#Massachusett</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">atikᵘ</form>
+				<concepts>
+					<c>Rangifer tarandus</c>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/atikᵘ#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">atóh</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/atoh#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᑎᐧᒄ</form>
+				<translit>atiykw</translit>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᑎᐧᒄ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">adik</form>
+				<concepts>
+					<c>reindeer</c>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/adik#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">atihk</form>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/atihk#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">ahtuhw</form>
+				<concepts>
+					<c>deer</c>
+				</concepts>
+				<url source="wiki">/wiki/ahtuhw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*awe·ʔre·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/awe·ʔre·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">awéhleew</form>
+				<concepts>
+					<c>hawk</c>
+				</concepts>
+				<url source="wiki">/wiki/awehleew#Munsee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aya·pe·wa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aya·pe·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">aya·pɛ·w</form>
+				<concepts>
+					<c>stag</c>
+					<c>buck</c>
+					<c>male</c>
+				</concepts>
+				<url source="wiki">/wiki/aya·pɛ·w#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">ayôp</form>
+				<concepts>
+					<c>buck</c>
+				</concepts>
+				<url source="wiki">/wiki/ayôp#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ayaabe</form>
+				<concepts>
+					<c>buck</c>
+				</concepts>
+				<url source="wiki">/wiki/ayaabe#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">ayape</form>
+				<concepts>
+					<c>buck</c>
+				</concepts>
+				<url source="wiki">/wiki/ayape#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*a·kema</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/a·kema</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">a·kem</form>
+				<concepts>
+					<c>snowshoe</c>
+				</concepts>
+				<url source="wiki">/wiki/a·kem#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">aagim</form>
+				<concepts>
+					<c>snowshoe</c>
+				</concepts>
+				<url source="wiki">/wiki/aagim#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*a·kema·xkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/a·kema·xkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">aagimaak</form>
+				<concepts>
+					<c>red ash</c>
+					<c>black ash</c>
+					<c>ash</c>
+				</concepts>
+				<url source="wiki">/wiki/aagimaak#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*a·mo·wa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/a·mo·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kickapoo</lang>
+				<form script="LATIN">aamoa</form>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/aamoa#Kickapoo</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">a·mo·w</form>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/a·mo·w#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᒧᐤ</form>
+				<translit>amuw</translit>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᒧᐤ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">aamoo</form>
+				<concepts>
+					<c>bee</c>
+					<c>wasp</c>
+				</concepts>
+				<url source="wiki">/wiki/aamoo#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">âmow</form>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/âmow#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">amëwe</form>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/amëwe#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*a·mo·we·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/a·mo·we·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">aamaawia</form>
+				<concepts>
+					<c>bee</c>
+				</concepts>
+				<url source="wiki">/wiki/aamaawia#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*a·nte·kwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/a·nte·kwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">aanteekwa</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/aanteekwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">aandeg</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/aandeg#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*a·skikwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/a·skikwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">akikw</form>
+				<concepts>
+					<c>seal</c>
+				</concepts>
+				<url source="wiki">/wiki/akikw#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᒋᒄ</form>
+				<translit>achikw</translit>
+				<concepts>
+					<c>seal</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᒋᒄ#Naskapi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ašiškiwi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ašiškiwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Cisqua</form>
+				<concepts>
+					<c>Cisqua</c>
+					<c>Cisqua</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ašiškiwi</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">ososq</form>
+				<concepts>
+					<c>mudflat</c>
+					<c>mud</c>
+				</concepts>
+				<url source="wiki">/wiki/ososq#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">ašiihkiwi</form>
+				<concepts>
+					<c>land</c>
+					<c>earth</c>
+					<c>soil</c>
+				</concepts>
+				<url source="wiki">/wiki/ašiihkiwi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">ăsíiskuw</form>
+				<translit>ăsí·skəw</translit>
+				<concepts>
+					<c>mud</c>
+				</concepts>
+				<url source="wiki">/wiki/asiiskuw#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">asiskiy</form>
+				<concepts>
+					<c>soil</c>
+				</concepts>
+				<url source="wiki">/wiki/asiskiy#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">sisku</form>
+				<concepts>
+					<c>mud</c>
+					<c>clay</c>
+				</concepts>
+				<url source="wiki">/wiki/sisku#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aʔsena·minšya</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aʔsena·minšya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">ahsenaamiši</form>
+				<concepts>
+					<c>Acer saccharum</c>
+					<c>sugar maple</c>
+				</concepts>
+				<url source="wiki">/wiki/ahsenaamiši#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aʔsenya</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aʔsenya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">sen</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/sen#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Ossingsing</form>
+				<concepts>
+					<c>Ossingsing</c>
+					<c>Ossingsing</c>
+				</concepts>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aʔsenya</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">Ossining</form>
+				<concepts>
+					<c>village</c>
+					<c>Ossining</c>
+				</concepts>
+				<url source="wiki">/wiki/Ossining#English</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">aqsan</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/aqsan#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">ăsún</form>
+				<translit>ăsə́n</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/asun#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᓯᓂᔾ</form>
+				<translit>asiniy</translit>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᓯᓂᔾ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">asin</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/asin#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">asiniy</form>
+				<concepts>
+					<c>stone</c>
+					<c>bullet</c>
+				</concepts>
+				<url source="wiki">/wiki/asiniy#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Quiripi</lang>
+				<form script="LATIN">sun</form>
+				<concepts>
+					<c>stone</c>
+				</concepts>
+				<url source="wiki">/wiki/sun#Quiripi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">ahsën</form>
+				<concepts>
+					<c>stone</c>
+					<c>rock</c>
+				</concepts>
+				<url source="wiki">/wiki/ahsën#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aʔta·pya</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aʔta·pya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">tap</form>
+				<concepts>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/tap#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">mătáht</form>
+				<concepts>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/mataht#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᒐᐱᔾ</form>
+				<translit>achapiy</translit>
+				<concepts>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᒐᐱᔾ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">hatapi</form>
+				<concepts>
+					<c>bow</c>
+				</concepts>
+				<url source="wiki">/wiki/hatapi#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aʔšikanwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aʔšikanwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">aqsekan</form>
+				<concepts>
+					<c>bass</c>
+				</concepts>
+				<url source="wiki">/wiki/aqsekan#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">ahšikana</form>
+				<concepts>
+					<c>smallmouth bass</c>
+					<c>Micropterus salmoides</c>
+				</concepts>
+				<url source="wiki">/wiki/ahšikana#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aʔθa·xkamiki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aʔθa·xkamiki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">aasaakamig</form>
+				<concepts>
+					<c>moss</c>
+				</concepts>
+				<url source="wiki">/wiki/aasaakamig#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aθa·nkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aθa·nkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">ho3o'</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/ho3o'#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">anāh</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/anāh#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">alaankwa</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/alaankwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">ayaks</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/ayaks#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">aláangweew</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/alaangweew#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐅᒐᑭᑕᐧᒄ</form>
+				<translit>uchakitaykw</translit>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐅᒐᑭᑕᐧᒄ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">anang</form>
+				<concepts>
+					<c>puffball</c>
+				</concepts>
+				<url source="wiki">/wiki/anang#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">anang</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/anang#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">nang</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/nang#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">alànkw</form>
+				<concepts>
+					<c>star</c>
+				</concepts>
+				<url source="wiki">/wiki/alànkw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aθemwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aθemwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">alemos</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/alemos#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">hótame</form>
+				<concepts>
+					<c>dog</c>
+					<c>hound</c>
+				</concepts>
+				<url source="wiki">/wiki/hótame#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">olomuss</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/olomuss#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">anɛ·m</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/anɛ·m#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">alemwa</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/alemwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">atimᵘ</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/atimᵘ#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">anim</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/anim#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">animosh</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/animosh#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">nim</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/nim#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">atim</form>
+				<concepts>
+					<c>dog</c>
+				</concepts>
+				<url source="wiki">/wiki/atim#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aθko·ka</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aθko·ka</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">skog</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/skog#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">siisiiyei</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/siisiiyei#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">athusoss</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/athusoss#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">skok</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/skok#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">áxkook</form>
+				<translit>áxko·k</translit>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/axkook#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Penobscot</lang>
+				<form script="LATIN">skok</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/skok#Penobscot</url>
+			</reflex>
+			<reflex>
+				<lang>Quiripi</lang>
+				<form script="LATIN">skwk</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/skwk#Quiripi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">xkuk</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/xkuk#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*aθwi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/aθwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">atos</form>
+				<concepts>
+					<c>arrowhead</c>
+				</concepts>
+				<url source="wiki">/wiki/atos#Atikamekw</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">atush</form>
+				<concepts>
+					<c>arrowhead</c>
+				</concepts>
+				<url source="wiki">/wiki/atush#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">anwi</form>
+				<concepts>
+					<c>arrow</c>
+					<c>bullet</c>
+				</concepts>
+				<url source="wiki">/wiki/anwi#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ehkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ehkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">akuah</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/akuah#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ikwa</form>
+				<concepts>
+					<c>louse</c>
+				</concepts>
+				<url source="wiki">/wiki/ikwa#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*erenyiwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/erenyiwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">alnôba</form>
+				<concepts>
+					<c>human</c>
+				</concepts>
+				<url source="wiki">/wiki/alnôba#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">hetane</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/hetane#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">lúnuw</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/lunuw#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐃᔪᐤ</form>
+				<translit>iyuw</translit>
+				<concepts>
+					<c>Native American</c>
+					<c>indigenous</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᔪᐤ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">inini, nini</form>
+				<concepts>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/inini#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">iyiniw</form>
+				<concepts>
+					<c>person</c>
+					<c>human</c>
+					<c>Indian</c>
+				</concepts>
+				<url source="wiki">/wiki/iyiniw#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">lënu</form>
+				<concepts>
+					<c>male</c>
+					<c>man</c>
+				</concepts>
+				<url source="wiki">/wiki/lënu#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*e·hsa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/e·hsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">es</form>
+				<concepts>
+					<c>oyster</c>
+					<c>shell</c>
+				</concepts>
+				<url source="wiki">/wiki/es#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Penobscot</lang>
+				<form script="LATIN">ess</form>
+				<concepts>
+					<c>bivalve</c>
+					<c>clam</c>
+					<c>mussel</c>
+				</concepts>
+				<url source="wiki">/wiki/ess#Penobscot</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">èhës</form>
+				<concepts>
+					<c>clam</c>
+					<c>clamshell</c>
+				</concepts>
+				<url source="wiki">/wiki/èhës#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*e·hsepana</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/e·hsepana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">asban</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/asban#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">esiban</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/esiban#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">hespan</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/hespan#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Jersey Dutch</lang>
+				<form script="LATIN">häspân</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/häspân#Jersey_Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Kickapoo</lang>
+				<form script="LATIN">eeθepana</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/eeθepana#Kickapoo</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ɛ·hsepan</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/ɛ·hsepan#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">eehsipana</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/eehsipana#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">áhsup</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/áhsup#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">éespan</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/eespan#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Nanticoke</lang>
+				<form script="LATIN">echsup</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/echsup#Nanticoke</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">esiban</form>
+				<concepts>
+					<c>Procyon lotor</c>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/esiban#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">espan</form>
+				<concepts>
+					<c>raccoon</c>
+				</concepts>
+				<url source="wiki">/wiki/espan#Swedish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*e·mehkwa·na</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/e·mehkwa·na</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">emqan</form>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/emqan#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ɛ·meskwan</form>
+				<concepts>
+					<c>ladle</c>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/ɛ·meskwan#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">emikuan</form>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/emikuan#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐊᒥᒂᓐ</form>
+				<translit>amikwaan</translit>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐊᒥᒂᓐ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">emikwaan -ag</form>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/emikwaan#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">èmhònës</form>
+				<concepts>
+					<c>spoon</c>
+				</concepts>
+				<url source="wiki">/wiki/èmhònës#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*e·rikwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/e·rikwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">erikoc</form>
+				<concepts>
+					<c>ant</c>
+				</concepts>
+				<url source="wiki">/wiki/erikoc#Atikamekw</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">enikᵘ</form>
+				<concepts>
+					<c>ant</c>
+					<c>spider</c>
+				</concepts>
+				<url source="wiki">/wiki/enikᵘ#Montagnais</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*eškwa·nte·mi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/eškwa·nte·mi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">iskwâhtêm</form>
+				<concepts>
+					<c>door</c>
+				</concepts>
+				<url source="wiki">/wiki/iskwâhtêm#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">skòntay</form>
+				<concepts>
+					<c>door</c>
+				</concepts>
+				<url source="wiki">/wiki/skòntay#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*eškwaᐧnteᐧmi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/eškwaᐧnteᐧmi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">ahkwaanteemi</form>
+				<concepts>
+					<c>door</c>
+				</concepts>
+				<url source="wiki">/wiki/ahkwaanteemi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">ishkuatem</form>
+				<concepts>
+					<c>door</c>
+				</concepts>
+				<url source="wiki">/wiki/ishkuatem#Montagnais</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*eškwete·wi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/eškwete·wi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">skweda</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/skweda#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">esko·tɛ·w</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/esko·tɛ·w#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">koteewi</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/koteewi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">ishkuteu</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ishkuteu#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐃᔅᑯᑕᐤ</form>
+				<translit>iskutaw</translit>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᔅᑯᑕᐤ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ishkode</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/ishkode#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">shkode</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/shkode#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">iskotêw</form>
+				<concepts>
+					<c>fire</c>
+				</concepts>
+				<url source="wiki">/wiki/iskotêw#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*eθkwe·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/eθkwe·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">hisei</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/hisei#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">hē'e</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/hē'e#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">ishkueu</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ishkueu#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐃᔅᒂᐤ</form>
+				<translit>iskwaaw</translit>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐃᔅᒂᐤ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">iskwêw</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/iskwêw#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*kaxka·peθk-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/kaxka·peθk-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">kapsq</form>
+				<concepts>
+					<c>falls</c>
+					<c>waterfall</c>
+				</concepts>
+				<url source="wiki">/wiki/kapsq#Malecite-Passamaquoddy</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*kaya·skwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/kaya·skwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">kiackw</form>
+				<concepts>
+					<c>seagull</c>
+				</concepts>
+				<url source="wiki">/wiki/kiackw#Atikamekw</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">kiyaahkwa</form>
+				<concepts>
+					<c>gull</c>
+				</concepts>
+				<url source="wiki">/wiki/kiyaahkwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒋᔭᔅᒄ</form>
+				<translit>chiyaskw</translit>
+				<concepts>
+					<c>gull</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒋᔭᔅᒄ#Naskapi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ka·ka·kiwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ka·ka·kiwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">kahkakuhs</form>
+				<concepts>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/kahkakuhs#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Massachusett</lang>
+				<form script="LATIN">kongkont</form>
+				<concepts>
+					<c>raven</c>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/kongkont#Massachusett</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ka·ka·kew</form>
+				<concepts>
+					<c>raven</c>
+					<c>crow</c>
+				</concepts>
+				<url source="wiki">/wiki/ka·ka·kew#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᑲᐧᑲᒍᐤ</form>
+				<translit>kaykachuw</translit>
+				<concepts>
+					<c>Corvus corax</c>
+					<c>raven</c>
+				</concepts>
+				<url source="wiki">/wiki/ᑲᐧᑲᒍᐤ#Naskapi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ka·wa·ntakwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ka·wa·ntakwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">kawatoq</form>
+				<concepts>
+					<c>Picea mariana</c>
+				</concepts>
+				<url source="wiki">/wiki/kawatoq#Malecite-Passamaquoddy</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ka·wiya</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ka·wiya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">akaawia</form>
+				<concepts>
+					<c>thorn</c>
+					<c>quill</c>
+					<c>briar</c>
+				</concepts>
+				<url source="wiki">/wiki/akaawia#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*kekye·ʔta·mini</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/kekye·ʔta·mini</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">kéhtaam</form>
+				<concepts>
+					<c>hazelnut</c>
+				</concepts>
+				<url source="wiki">/wiki/kehtaam#Munsee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*kene·pikwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/kene·pikwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">kenu·pik</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/kenu·pik#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ginebig</form>
+				<concepts>
+					<c>serpent</c>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ginebig#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="CANADIAN">ᑭᓀᐱᒃ</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/ᑭᓀᐱᒃ#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">kinêpik</form>
+				<concepts>
+					<c>snake</c>
+				</concepts>
+				<url source="wiki">/wiki/kinêpik#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ke·hke·hkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ke·hke·hkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">tshetshekᵘ</form>
+				<concepts>
+					<c>Circus cyaneus</c>
+				</concepts>
+				<url source="wiki">/wiki/tshetshekᵘ#Montagnais</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ke·kw</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ke·kw</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">gegoo</form>
+				<concepts>
+					<c>anything</c>
+					<c>something</c>
+				</concepts>
+				<url source="wiki">/wiki/gegoo#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">gegoo</form>
+				<concepts>
+					<c>something</c>
+				</concepts>
+				<url source="wiki">/wiki/gegoo#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">kèku</form>
+				<concepts>
+					<c>anything</c>
+					<c>something</c>
+				</concepts>
+				<url source="wiki">/wiki/kèku#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">kèku</form>
+				<concepts>
+					<c>thing</c>
+				</concepts>
+				<url source="wiki">/wiki/kèku#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">kèku</form>
+				<concepts>
+					<c>what</c>
+				</concepts>
+				<url source="wiki">/wiki/kèku#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*keʔči-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/keʔči-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">kchi</form>
+				<concepts>
+					<c>great</c>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/kchi#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">kíhchi-</form>
+				<concepts>
+					<c>very</c>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/kihchi-#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">gichi-</form>
+				<concepts>
+					<c>very</c>
+					<c>long</c>
+					<c>big</c>
+					<c>right</c>
+					<c>great</c>
+				</concepts>
+				<url source="wiki">/wiki/gichi-#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Penobscot</lang>
+				<form script="LATIN">ktci</form>
+				<concepts>
+					<c>great</c>
+					<c>big</c>
+				</concepts>
+				<url source="wiki">/wiki/ktci#Penobscot</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ki·šekatwi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ki·šekatwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">kizokw</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/kizokw#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒋᓯᒄ</form>
+				<translit>chisikw</translit>
+				<concepts>
+					<c>day</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒋᓯᒄ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">giizhig</form>
+				<concepts>
+					<c>heaven</c>
+					<c>day</c>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/giizhig#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">kîsik</form>
+				<concepts>
+					<c>sky</c>
+				</concepts>
+				<url source="wiki">/wiki/kîsik#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">kîsikâw</form>
+				<concepts>
+					<c>day</c>
+				</concepts>
+				<url source="wiki">/wiki/kîsikâw#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">kishux</form>
+				<concepts>
+					<c>sun</c>
+					<c>month</c>
+					<c>moon</c>
+				</concepts>
+				<url source="wiki">/wiki/kishux#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ko·hko·hkoho·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ko·hko·hkoho·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">kokokhas</form>
+				<concepts>
+					<c>owl</c>
+					<c>barred owl</c>
+				</concepts>
+				<url source="wiki">/wiki/kokokhas#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">kuhkukhahs</form>
+				<concepts>
+					<c>barred owl</c>
+					<c>great horned owl</c>
+				</concepts>
+				<url source="wiki">/wiki/kuhkukhahs#Malecite-Passamaquoddy</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mahiᐧnkana</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mahiᐧnkana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">mahikan</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/mahikan#Atikamekw</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">maikan</form>
+				<concepts>
+					<c>Canis lupus</c>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/maikan#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒥᐃᐧᑭᓐ</form>
+				<translit>miiykin</translit>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒥᐃᐧᑭᓐ#Naskapi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mahwe·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mahwe·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mahweewa</form>
+				<concepts>
+					<c>wolf</c>
+				</concepts>
+				<url source="wiki">/wiki/mahweewa#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*maka·lipowa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/maka·lipowa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">kariboe</form>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/kariboe#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">caribou</form>
+				<concepts>
+					<c>Rangifer tarandus</c>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/caribou#English</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">caribou</form>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/caribou#French</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">carabú</form>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/carabú#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Italian</lang>
+				<form script="LATIN">caribù</form>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/caribù#Italian</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">mokalip</form>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/mokalip#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Portuguese</lang>
+				<form script="LATIN">caribu</form>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/caribu#Portuguese</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">кари́бу</form>
+				<translit>karíbu</translit>
+				<concepts>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/карибу#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Spanish</lang>
+				<form script="LATIN">caribú</form>
+				<concepts>
+					<c>reindeer</c>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/caribú#Spanish</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">caribú</form>
+				<concepts>
+					<c>reindeer</c>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/caribú#Tetelcingo_Nahuatl</url>
+			</reflex>
+			<reflex>
+				<lang>Tetelcingo Nahuatl</lang>
+				<form script="LATIN">caribú</form>
+				<concepts>
+					<c>reindeer</c>
+					<c>caribou</c>
+				</concepts>
+				<url source="wiki">/wiki/caribú#Tetelcingo_Nahuatl</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*maneto·wa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/maneto·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">manitou</form>
+				<concepts>
+					<c>god</c>
+					<c>manitou</c>
+				</concepts>
+				<url source="wiki">/wiki/manitou#English</url>
+			</reflex>
+			<reflex>
+				<lang>Fox</lang>
+				<form script="LATIN">manetôwa</form>
+				<concepts>
+					<c>spirit</c>
+					<c>snake</c>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/manetôwa#Fox</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">manitou</form>
+				<concepts>
+					<c>manitou</c>
+				</concepts>
+				<url source="wiki">/wiki/manitou#French</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">manetoowa</form>
+				<concepts>
+					<c>spirit</c>
+					<c>manitou</c>
+				</concepts>
+				<url source="wiki">/wiki/manetoowa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">manidoo</form>
+				<concepts>
+					<c>god</c>
+					<c>spirit</c>
+					<c>manitou</c>
+				</concepts>
+				<url source="wiki">/wiki/manidoo#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">manitôw</form>
+				<concepts>
+					<c>spirit</c>
+				</concepts>
+				<url source="wiki">/wiki/manitôw#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*maxkeseni</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/maxkeseni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">wo'oh</form>
+				<concepts>
+					<c>shoe</c>
+				</concepts>
+				<url source="wiki">/wiki/wo'oh#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">māhkesen</form>
+				<concepts>
+					<c>shoe</c>
+					<c>moccasin</c>
+				</concepts>
+				<url source="wiki">/wiki/māhkesen#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mahkisini</form>
+				<concepts>
+					<c>shoe</c>
+					<c>moccasin</c>
+				</concepts>
+				<url source="wiki">/wiki/mahkisini#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">máhksun</form>
+				<concepts>
+					<c>shoe</c>
+					<c>moccasin</c>
+				</concepts>
+				<url source="wiki">/wiki/mahksun#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">makizin</form>
+				<concepts>
+					<c>shoe</c>
+					<c>moccasin</c>
+				</concepts>
+				<url source="wiki">/wiki/makizin#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">mkizin</form>
+				<concepts>
+					<c>shoe</c>
+				</concepts>
+				<url source="wiki">/wiki/mkizin#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">maskisin</form>
+				<concepts>
+					<c>shoe</c>
+					<c>moccasin</c>
+				</concepts>
+				<url source="wiki">/wiki/maskisin#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">lënhaksën</form>
+				<concepts>
+					<c>moccasin</c>
+				</concepts>
+				<url source="wiki">/wiki/lënhaksën#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ma·nθehsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ma·nθehsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒪᑎᔅ</form>
+				<translit>matis</translit>
+				<concepts>
+					<c>flint</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒪᑎᔅ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">mahëlës</form>
+				<concepts>
+					<c>flint</c>
+					<c>flintstone</c>
+				</concepts>
+				<url source="wiki">/wiki/mahëlës#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*maškweči·hsa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/maškweči·hsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">maskūcīhsaeh</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/maskūcīhsaeh#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">masqusit</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/masqusit#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">maaláxkwsiit</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/maalaxkwsiit#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">malàxkwsit</form>
+				<concepts>
+					<c>bean</c>
+				</concepts>
+				<url source="wiki">/wiki/malàxkwsit#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*maθkwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/maθkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">makwa</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/makwa#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Fox</lang>
+				<form script="LATIN">mahkwa</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/mahkwa#Fox</url>
+			</reflex>
+			<reflex>
+				<lang>Gros Ventre</lang>
+				<form script="LATIN">was</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/was#Gros_Ventre</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mahkwa</form>
+				<concepts>
+					<c>Ursus americanus</c>
+					<c>black bear</c>
+				</concepts>
+				<url source="wiki">/wiki/mahkwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">mashkᵘ</form>
+				<concepts>
+					<c>Ursus americanus</c>
+					<c>bear</c>
+					<c>black bear</c>
+				</concepts>
+				<url source="wiki">/wiki/mashkᵘ#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">máxkw</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/maxkw#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">makwa</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/makwa#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">maskwa</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/maskwa#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">màxkw</form>
+				<concepts>
+					<c>bear</c>
+				</concepts>
+				<url source="wiki">/wiki/màxkw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*maθo·mina</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/maθo·mina</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">manōmaeh</form>
+				<concepts>
+					<c>oats</c>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/manōmaeh#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">naloomini</form>
+				<concepts>
+					<c>wild rice</c>
+				</concepts>
+				<url source="wiki">/wiki/naloomini#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">mnoomin</form>
+				<concepts>
+					<c>rice</c>
+				</concepts>
+				<url source="wiki">/wiki/mnoomin#Ottawa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mekesiwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mekesiwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">mikisiw</form>
+				<concepts>
+					<c>eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/mikisiw#Atikamekw</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mikicia</form>
+				<concepts>
+					<c>Haliaeetus leucocephalus</c>
+					<c>bald eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/mikicia#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒥᒋᓱᐤ</form>
+				<translit>michisuw</translit>
+				<concepts>
+					<c>bald eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒥᒋᓱᐤ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">migizi</form>
+				<concepts>
+					<c>Haliaeetus leucocephalus</c>
+					<c>bald eagle</c>
+				</concepts>
+				<url source="wiki">/wiki/migizi#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mekwehsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mekwehsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">mŭkóos</form>
+				<concepts>
+					<c>nail</c>
+				</concepts>
+				<url source="wiki">/wiki/mukoos#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">migoos</form>
+				<concepts>
+					<c>awl</c>
+				</concepts>
+				<url source="wiki">/wiki/migoos#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*menahanwi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/menahanwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">mŭnáhan</form>
+				<translit>mə̆náhan</translit>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/munahan#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">mënatay</form>
+				<concepts>
+					<c>island</c>
+				</concepts>
+				<url source="wiki">/wiki/mënatay#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*menahekwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/menahekwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒥᓇᐃᒄ</form>
+				<translit>minaikw</translit>
+				<concepts>
+					<c>white spruce</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒥᓇᐃᒄ#Naskapi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meno·tayi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meno·tayi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">mnoda</form>
+				<concepts>
+					<c>basket</c>
+					<c>bag</c>
+				</concepts>
+				<url source="wiki">/wiki/mnoda#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">menūtīh</form>
+				<concepts>
+					<c>bag</c>
+				</concepts>
+				<url source="wiki">/wiki/menūtīh#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">mënutès</form>
+				<concepts>
+					<c>suitcase</c>
+					<c>billfold</c>
+					<c>purse</c>
+					<c>handbag</c>
+					<c>bag</c>
+				</concepts>
+				<url source="wiki">/wiki/mënutès#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*menwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/menwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">minikwe (vai)</form>
+				<concepts>
+					<c>drinks</c>
+				</concepts>
+				<url source="wiki">/wiki/minikwe#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meskwi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meskwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">musqi</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/musqi#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">miskwi</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/miskwi#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">mskwi</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/mskwi#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">mihko</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/mihko#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">hmukw</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/hmukw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mexkena·hkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mexkena·hkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">ma'ēno</form>
+				<concepts>
+					<c>turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/ma'ēno#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">mikinaak</form>
+				<concepts>
+					<c>snapping turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/mikinaak#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mexkwamya</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mexkwamya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">maehkuam</form>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/maehkuam#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒥᔅᑯᒥᔾ</form>
+				<translit>miskumiy</translit>
+				<concepts>
+					<c>ice</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒥᔅᑯᒥᔾ#Naskapi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meʔtekwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meʔtekwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">míhtukw</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/mihtukw#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">mitig</form>
+				<concepts>
+					<c>pole</c>
+					<c>wood</c>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/mitig#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">mitig</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/mitig#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meʔtekweminšya</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meʔtekweminšya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mihtekamiši</form>
+				<concepts>
+					<c>oak</c>
+				</concepts>
+				<url source="wiki">/wiki/mihtekamiši#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meʔtekwi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meʔtekwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">muhtuq</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="wiki">/wiki/muhtuq#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">míhtkwus</form>
+				<concepts>
+					<c>stick</c>
+				</concepts>
+				<url source="wiki">/wiki/mihtkwus#Munsee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meʔšipakwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meʔšipakwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mihšipakwa</form>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/mihšipakwa#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meʔšixkena·hkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meʔšixkena·hkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mihšihkinaahkwa</form>
+				<concepts>
+					<c>painted turtle</c>
+				</concepts>
+				<url source="wiki">/wiki/mihšihkinaahkwa#Miami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*meʔθakwaθkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/meʔθakwaθkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">mahsakahkwa</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/mahsakahkwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">misakakojiish</form>
+				<concepts>
+					<c>badger</c>
+				</concepts>
+				<url source="wiki">/wiki/misakakojiish#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mi·kiwa·ʔmi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mi·kiwa·ʔmi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">mikiwam</form>
+				<concepts>
+					<c>house</c>
+					<c>building</c>
+				</concepts>
+				<url source="wiki">/wiki/mikiwam#Atikamekw</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mi·kwana</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mi·kwana</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">mēkon</form>
+				<concepts>
+					<c>pen</c>
+					<c>feather</c>
+				</concepts>
+				<url source="wiki">/wiki/mēkon#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">miqun</form>
+				<concepts>
+					<c>feather</c>
+				</concepts>
+				<url source="wiki">/wiki/miqun#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">míikwan</form>
+				<concepts>
+					<c>feather</c>
+				</concepts>
+				<url source="wiki">/wiki/miikwan#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">miigwan</form>
+				<concepts>
+					<c>feather</c>
+				</concepts>
+				<url source="wiki">/wiki/miigwan#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">mîkwan</form>
+				<concepts>
+					<c>feather</c>
+				</concepts>
+				<url source="wiki">/wiki/mîkwan#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">mikwën</form>
+				<concepts>
+					<c>feather</c>
+				</concepts>
+				<url source="wiki">/wiki/mikwën#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mo·swa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mo·swa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">moz</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/moz#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">mòz</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/mòz#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">مُوظ</form>
+				<translit>mūẓ</translit>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/موظ#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">mo·s</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/mo·s#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">moohswa</form>
+				<concepts>
+					<c>white-tailed deer</c>
+				</concepts>
+				<url source="wiki">/wiki/moohswa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Narragansett</lang>
+				<form script="LATIN">moos</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/moos#Narragansett</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᒧᔅ</form>
+				<translit>mus</translit>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/ᒧᔅ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">mooz</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/mooz#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">mooz</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/mooz#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Penobscot</lang>
+				<form script="LATIN">mos</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/mos#Penobscot</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">môswa</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/môswa#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Potawatomi</lang>
+				<form script="LATIN">mozo</form>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/mozo#Potawatomi</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">กวางมูส</form>
+				<translit>gwaang-múus</translit>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/กวางมูส#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Thai</lang>
+				<form script="THAI">มูส</form>
+				<translit>múus</translit>
+				<concepts>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/มูส#Thai</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">mus</form>
+				<concepts>
+					<c>elk</c>
+					<c>moose</c>
+				</concepts>
+				<url source="wiki">/wiki/mus#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*mwa·kwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/mwa·kwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">oqim</form>
+				<concepts>
+					<c>loon</c>
+					<c>Gavia immer</c>
+				</concepts>
+				<url source="wiki">/wiki/oqim#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">muak</form>
+				<concepts>
+					<c>loon</c>
+				</concepts>
+				<url source="wiki">/wiki/muak#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">maankwa</form>
+				<concepts>
+					<c>loon</c>
+					<c>Gavia immer</c>
+				</concepts>
+				<url source="wiki">/wiki/maankwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">muakᵘ</form>
+				<concepts>
+					<c>common loon</c>
+					<c>Gavia immer</c>
+				</concepts>
+				<url source="wiki">/wiki/muakᵘ#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">maang</form>
+				<concepts>
+					<c>loon</c>
+				</concepts>
+				<url source="wiki">/wiki/maang#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*name·kwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/name·kwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">namaycush</form>
+				<concepts>
+					<c>togue</c>
+					<c>Salvelinus namaycush</c>
+					<c>namaycush</c>
+				</concepts>
+				<url source="wiki">/wiki/namaycush#English</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">namǣkoh</form>
+				<concepts>
+					<c>brook trout</c>
+				</concepts>
+				<url source="wiki">/wiki/namǣkoh#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">namegos</form>
+				<concepts>
+					<c>trout</c>
+				</concepts>
+				<url source="wiki">/wiki/namegos#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*name·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/name·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">nameewa</form>
+				<concepts>
+					<c>sturgeon</c>
+				</concepts>
+				<url source="wiki">/wiki/nameewa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">nme</form>
+				<concepts>
+					<c>sturgeon</c>
+				</concepts>
+				<url source="wiki">/wiki/nme#Ottawa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*name·ʔsa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/name·ʔsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">namas</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/namas#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Fox</lang>
+				<form script="LATIN">nemêtha</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/nemêtha#Fox</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">nomehs</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/nomehs#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᓂᒪᔅ</form>
+				<translit>nimas</translit>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/ᓂᒪᔅ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">namès</form>
+				<concepts>
+					<c>fish</c>
+				</concepts>
+				<url source="wiki">/wiki/namès#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*nekikwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/nekikwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">nigig</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/nigig#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">náa'e</form>
+				<concepts>
+					<c>mink</c>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/náa'e#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">mekēk</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/mekēk#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">nitshikᵘ</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/nitshikᵘ#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᓂᒋᒄ</form>
+				<translit>nichikw</translit>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/ᓂᒋᒄ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">nigig</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/nigig#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">nikik</form>
+				<concepts>
+					<c>otter</c>
+				</concepts>
+				<url source="wiki">/wiki/nikik#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*nekwetwa·šika</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/nekwetwa·šika</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">naesohto</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/naesohto#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">neku·tuasetah</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/neku·tuasetah#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ingodwaaswi</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/ingodwaaswi#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">nikotwâsik</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/nikotwâsik#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">kwëtash</form>
+				<concepts>
+					<c>six</c>
+				</concepts>
+				<url source="wiki">/wiki/kwëtash#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*nepyi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/nepyi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">nebi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nebi#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">nibi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nibi#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">néč</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/néč#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">mahpe</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/mahpe#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Cree</lang>
+				<form script="CANADIAN">ᓃᐲᔾ</form>
+				<translit>niipiiy</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ᓃᐲᔾ#Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Fox</lang>
+				<form script="LATIN">nepi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nepi#Fox</url>
+			</reflex>
+			<reflex>
+				<lang>Gros Ventre</lang>
+				<form script="LATIN">níc</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/níc#Gros_Ventre</url>
+			</reflex>
+			<reflex>
+				<lang>Kickapoo</lang>
+				<form script="LATIN">nepi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nepi#Kickapoo</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">nopim</form>
+				<concepts>
+					<c>water</c>
+					<c>drink</c>
+				</concepts>
+				<url source="wiki">/wiki/nopim#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Massachusett</lang>
+				<form script="LATIN">nippe</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nippe#Massachusett</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">nepe·w</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nepe·w#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">nipi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nipi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">nupi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nupi#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">mbúy</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/mbuy#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">nibi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nibi#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">nipiy</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nipiy#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Quiripi</lang>
+				<form script="LATIN">núp</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nup#Quiripi</url>
+			</reflex>
+			<reflex>
+				<lang>Shawnee</lang>
+				<form script="LATIN">nepi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nepi#Shawnee</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">mpi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/mpi#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*neʔθwi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/neʔθwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">nas</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/nas#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">na'ha</form>
+				<concepts>
+					<c>thrice</c>
+				</concepts>
+				<url source="wiki">/wiki/na'ha#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">nihi</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/nihi#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">nɛqniw</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/nɛqniw#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">niswi</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/niswi#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Pamlico</lang>
+				<form script="LATIN">nish-wonner</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/nish-wonner#Pamlico</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">naxa</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/naxa#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ni·ro·na</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ni·ro·na</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">niinwi</form>
+				<concepts>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/niinwi#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">nîyanân</form>
+				<translit>niiyanaan</translit>
+				<concepts>
+					<c>we</c>
+				</concepts>
+				<url source="wiki">/wiki/nîyanân#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*nya·θanwi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/nya·θanwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">noho</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/noho#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">nianan</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/nianan#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">naanan</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/naanan#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">niyânan</form>
+				<concepts>
+					<c>five</c>
+				</concepts>
+				<url source="wiki">/wiki/niyânan#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*nye·wi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/nye·wi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">neve</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/neve#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">new</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/new#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ni·w</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/ni·w#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">niiwin</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/niiwin#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">nêwo</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/nêwo#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">newa</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/newa#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*nyi·šwa·šika</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/nyi·šwa·šika</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">nisôsk</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/nisôsk#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">nishuasht</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/nishuasht#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">níishaash</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/niishaash#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">niizhwaaswi</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/niizhwaaswi#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">nishash</form>
+				<concepts>
+					<c>seven</c>
+				</concepts>
+				<url source="wiki">/wiki/nishash#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*nyi·šwi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/nyi·šwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">nis</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/nis#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ni·s</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/ni·s#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">níisha</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/niisha#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">niizh</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/niizh#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">nîso</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/nîso#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">nisha</form>
+				<concepts>
+					<c>two</c>
+				</concepts>
+				<url source="wiki">/wiki/nisha#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*o·xhwe·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/o·xhwe·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ūhkiw</form>
+				<concepts>
+					<c>maggot</c>
+				</concepts>
+				<url source="wiki">/wiki/ūhkiw#Menominee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*pahkwe·šikan-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/pahkwe·šikan-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Fox</lang>
+				<form script="LATIN">pahkwêshikani</form>
+				<concepts>
+					<c>flour</c>
+					<c>bread</c>
+					<c>dough</c>
+				</concepts>
+				<url source="wiki">/wiki/pahkwêshikani#Fox</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">pahkweešikani</form>
+				<concepts>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/pahkweešikani#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐸᒂᓯᑭᓐ</form>
+				<translit>pakwaasikin</translit>
+				<concepts>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐸᒂᓯᑭᓐ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">bakwezhigan</form>
+				<concepts>
+					<c>flour</c>
+					<c>bannock</c>
+					<c>bread</c>
+				</concepts>
+				<url source="wiki">/wiki/bakwezhigan#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">pahkwêsikan</form>
+				<concepts>
+					<c>bannock</c>
+				</concepts>
+				<url source="wiki">/wiki/pahkwêsikan#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*pakwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/pakwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">(këm)pàkw</form>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/këmpàkw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*papikwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/papikwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">apíikw</form>
+				<concepts>
+					<c>flea</c>
+				</concepts>
+				<url source="wiki">/wiki/apiikw#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">babig</form>
+				<concepts>
+					<c>flea</c>
+				</concepts>
+				<url source="wiki">/wiki/babig#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">ahpikw</form>
+				<concepts>
+					<c>flea</c>
+				</concepts>
+				<url source="wiki">/wiki/ahpikw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*pe·šekwi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/pe·šekwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">pesq</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/pesq#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">pesq</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/pesq#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">bezhig</form>
+				<concepts>
+					<c>one</c>
+				</concepts>
+				<url source="wiki">/wiki/bezhig#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*pešehkiwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/pešehkiwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">pziko</form>
+				<concepts>
+					<c>buffalo</c>
+				</concepts>
+				<url source="wiki">/wiki/pziko#Abenaki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*pešiwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/pešiwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">bezo</form>
+				<concepts>
+					<c>bobcat</c>
+				</concepts>
+				<url source="wiki">/wiki/bezo#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">pijiw</form>
+				<concepts>
+					<c>lynx</c>
+				</concepts>
+				<url source="wiki">/wiki/pijiw#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">póéso</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/póéso#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">pesēw</form>
+				<concepts>
+					<c>bobcat</c>
+					<c>lynx</c>
+				</concepts>
+				<url source="wiki">/wiki/pesēw#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">bizhiw</form>
+				<concepts>
+					<c>lynx</c>
+				</concepts>
+				<url source="wiki">/wiki/bizhiw#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ottawa</lang>
+				<form script="LATIN">bzhiw</form>
+				<concepts>
+					<c>lynx</c>
+				</concepts>
+				<url source="wiki">/wiki/bzhiw#Ottawa</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">pisiw</form>
+				<concepts>
+					<c>bobcat</c>
+					<c>lynx</c>
+				</concepts>
+				<url source="wiki">/wiki/pisiw#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">pushis</form>
+				<concepts>
+					<c>cat</c>
+				</concepts>
+				<url source="wiki">/wiki/pushis#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*po·hpo·hkwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/po·hpo·hkwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">pohpohqutihs</form>
+				<concepts>
+					<c>quail</c>
+					<c>bobwhite</c>
+				</concepts>
+				<url source="wiki">/wiki/pohpohqutihs#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐱᔅᐱᔅᒍᐤ</form>
+				<translit>pispischuw</translit>
+				<concepts>
+					<c>ruffed grouse</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐱᔅᐱᔅᒍᐤ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">pupukwësh</form>
+				<concepts>
+					<c>quail</c>
+					<c>bobwhite</c>
+				</concepts>
+				<url source="wiki">/wiki/pupukwësh#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*pya·-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/pya·-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">pè</form>
+				<concepts>
+					<c>comes</c>
+				</concepts>
+				<url source="wiki">/wiki/pè#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*pya·kimini</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/pya·kimini</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">pôcum</form>
+				<concepts>
+					<c>cranberry</c>
+				</concepts>
+				<url source="wiki">/wiki/pôcum#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">pakim</form>
+				<concepts>
+					<c>cranberry</c>
+				</concepts>
+				<url source="wiki">/wiki/pakim#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*sa·kima·wa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/sa·kima·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">sachem</form>
+				<concepts>
+					<c>sagamore</c>
+					<c>sachem</c>
+				</concepts>
+				<url source="wiki">/wiki/sachem#English</url>
+			</reflex>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">sakom</form>
+				<concepts>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/sakom#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">akima</form>
+				<concepts>
+					<c>leader</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/akima#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">sôcum</form>
+				<concepts>
+					<c>sachem</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/sôcum#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ogimaa</form>
+				<concepts>
+					<c>king</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/ogimaa#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">okimâw</form>
+				<concepts>
+					<c>boss</c>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/okimâw#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">sakima</form>
+				<concepts>
+					<c>chief</c>
+				</concepts>
+				<url source="wiki">/wiki/sakima#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*si·pi·wi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/si·pi·wi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">sibo</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/sibo#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">síipuw</form>
+				<translit>sí·pəw</translit>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/siipuw#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">sipu</form>
+				<concepts>
+					<c>river</c>
+					<c>stream</c>
+				</concepts>
+				<url source="wiki">/wiki/sipu#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*si·po·wi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/si·po·wi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">niicii</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/niicii#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>Cree</lang>
+				<form script="LATIN">sîpiy</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/sîpiy#Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Cree</lang>
+				<form script="CANADIAN">ᓰᐱᔾ</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/ᓰᐱᔾ#Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Cree</lang>
+				<form script="CANADIAN">ᓰᐱᕀ</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/ᓰᐱᕀ#Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Kickapoo</lang>
+				<form script="GREEK">θiipoi</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/θiipoi#Kickapoo</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">siipiiwi</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/siipiiwi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ziibi</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/ziibi#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">sîpiy</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/sîpiy#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Shawnee</lang>
+				<form script="GREEK">θiipi</form>
+				<concepts>
+					<c>river</c>
+				</concepts>
+				<url source="wiki">/wiki/θiipi#Shawnee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*so·kaθa·nwi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/so·kaθa·nwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">sookǔlaan</form>
+				<concepts>
+					<c>raining</c>
+					<c>rain</c>
+				</concepts>
+				<url source="wiki">/wiki/sookǔlaan#Munsee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*so·kixpowi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/so·kixpowi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">zoogipon</form>
+				<concepts>
+					<c>snowing</c>
+				</concepts>
+				<url source="wiki">/wiki/zoogipon#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ti·nti·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ti·nti·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">teenteekhsa</form>
+				<concepts>
+					<c>blue jay</c>
+				</concepts>
+				<url source="wiki">/wiki/teenteekhsa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">teentia</form>
+				<concepts>
+					<c>killdeer</c>
+					<c>plover</c>
+				</concepts>
+				<url source="wiki">/wiki/teentia#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">tiitiis</form>
+				<concepts>
+					<c>bluejay</c>
+				</concepts>
+				<url source="wiki">/wiki/tiitiis#Munsee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">diindiisi(inh)</form>
+				<translit>kiiyhkiiysiw</translit>
+				<concepts>
+					<c>blue jay</c>
+				</concepts>
+				<url source="wiki">/wiki/diindiisi#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">kwùskwtis</form>
+				<concepts>
+					<c>killdeer</c>
+					<c>Charadrius vociferus</c>
+				</concepts>
+				<url source="wiki">/wiki/kwùskwtis#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">tiyas</form>
+				<concepts>
+					<c>blue jay</c>
+				</concepts>
+				<url source="wiki">/wiki/tiyas#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*walahakaya</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/walahakaya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">wolahq</form>
+				<concepts>
+					<c>fish scale</c>
+				</concepts>
+				<url source="wiki">/wiki/wolahq#Malecite-Passamaquoddy</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wa·kwehsa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wa·kwehsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">wôkwses</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/wôkwses#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">wôks</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/wôks#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">waagosh</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/waagosh#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="CANADIAN">ᐙᑯᔥ</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐙᑯᔥ#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">òkwës</form>
+				<concepts>
+					<c>fox</c>
+				</concepts>
+				<url source="wiki">/wiki/òkwës#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wa·p-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wa·p-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">waabishkaa</form>
+				<concepts>
+					<c>white</c>
+				</concepts>
+				<url source="wiki">/wiki/waabishkaa#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wa·p-aʔθemwa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wa·p-aʔθemwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">possum</form>
+				<concepts>
+					<c>opossum</c>
+					<c>possum</c>
+				</concepts>
+				<url source="wiki">/wiki/possum#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">possum</form>
+				<concepts>
+					<c>play possum</c>
+					<c>death</c>
+					<c>illness</c>
+					<c>possum</c>
+				</concepts>
+				<url source="wiki">/wiki/possum#English</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">opossumi</form>
+				<concepts>
+					<c>opossum</c>
+				</concepts>
+				<url source="wiki">/wiki/opossumi#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">apasam</form>
+				<concepts>
+					<c>opossum</c>
+				</concepts>
+				<url source="wiki">/wiki/apasam#Irish</url>
+			</reflex>
+			<reflex>
+				<lang>Irish</lang>
+				<form script="LATIN">pasam</form>
+				<concepts>
+					<c>possum</c>
+				</concepts>
+				<url source="wiki">/wiki/pasam#Irish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wa·panki</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wa·panki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">waaban</form>
+				<concepts>
+					<c>dawn</c>
+					<c>tomorrow</c>
+				</concepts>
+				<url source="wiki">/wiki/waaban#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">òpàn</form>
+				<concepts>
+					<c>morning</c>
+				</concepts>
+				<url source="wiki">/wiki/òpàn#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wa·poswa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wa·poswa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">waapanswa</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/waapanswa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">uapush</form>
+				<concepts>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/uapush#Montagnais</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">waabooz</form>
+				<concepts>
+					<c>Lepus americanus</c>
+					<c>snowshoe hare</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/waabooz#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">wâpos</form>
+				<concepts>
+					<c>hare</c>
+					<c>rabbit</c>
+				</concepts>
+				<url source="wiki">/wiki/wâpos#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wačewe·minšya</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wačewe·minšya</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">wajwimizi</form>
+				<concepts>
+					<c>beech</c>
+				</concepts>
+				<url source="wiki">/wiki/wajwimizi#Abenaki</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*waʔšaškwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/waʔšaškwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">moskwas</form>
+				<concepts>
+					<c>muskrat</c>
+				</concepts>
+				<url source="wiki">/wiki/moskwas#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">oqsas</form>
+				<concepts>
+					<c>muskrat</c>
+				</concepts>
+				<url source="wiki">/wiki/oqsas#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">ahsahkwa</form>
+				<concepts>
+					<c>muskrat</c>
+				</concepts>
+				<url source="wiki">/wiki/ahsahkwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Naskapi</lang>
+				<form script="CANADIAN">ᐅᒋᔅᒄ</form>
+				<translit>uchiskw</translit>
+				<concepts>
+					<c>muskrat</c>
+				</concepts>
+				<url source="wiki">/wiki/ᐅᒋᔅᒄ#Naskapi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">tëmàskwës</form>
+				<concepts>
+					<c>muskrat</c>
+				</concepts>
+				<url source="wiki">/wiki/tëmàskwës#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wete·himini</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wete·himini</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">otehiminan</form>
+				<concepts>
+					<c>strawberry</c>
+				</concepts>
+				<url source="wiki">/wiki/otehiminan#Atikamekw</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">atǣhemen</form>
+				<concepts>
+					<c>strawberry</c>
+				</concepts>
+				<url source="wiki">/wiki/atǣhemen#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ode'imin</form>
+				<concepts>
+					<c>strawberry</c>
+				</concepts>
+				<url source="wiki">/wiki/ode'imin#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">otêhimin</form>
+				<concepts>
+					<c>strawberry</c>
+				</concepts>
+				<url source="wiki">/wiki/otêhimin#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">wtehim</form>
+				<concepts>
+					<c>strawberry</c>
+				</concepts>
+				<url source="wiki">/wiki/wtehim#Unami</url>
+			</reflex>
+			<reflex>
+				<lang>Western Ojibwa</lang>
+				<form script="LATIN">otêhimin</form>
+				<concepts>
+					<c>strawberry</c>
+				</concepts>
+				<url source="wiki">/wiki/otêhimin#Western_Ojibwa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wečye·pihki</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wečye·pihki</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">aciiphka</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="wiki">/wiki/aciiphka#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">ojiibik</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="wiki">/wiki/ojiibik#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">chëphìk</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="wiki">/wiki/chëphìk#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*weθa·kwiwi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/weθa·kwiwi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">onaagoshin</form>
+				<concepts>
+					<c>evening</c>
+				</concepts>
+				<url source="wiki">/wiki/onaagoshin#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*weθkanimini</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/weθkanimini</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Malecite-Passamaquoddy</lang>
+				<form script="LATIN">skonimin</form>
+				<concepts>
+					<c>kernel</c>
+					<c>grain</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/skonimin#Malecite-Passamaquoddy</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">ohkānǣmen</form>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/ohkānǣmen#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">wáxkaniim</form>
+				<concepts>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/waxkaniim#Munsee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wi·kiwa·ʔmi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wi·kiwa·ʔmi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">wigwôm</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/wigwôm#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">we·kewam</form>
+				<concepts>
+					<c>house</c>
+					<c>wigwam</c>
+				</concepts>
+				<url source="wiki">/wiki/we·kewam#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">wiikiaami</form>
+				<concepts>
+					<c>dwelling</c>
+					<c>wigwam</c>
+					<c>lodge</c>
+				</concepts>
+				<url source="wiki">/wiki/wiikiaami#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">wiigiwaam</form>
+				<concepts>
+					<c>wigwam</c>
+					<c>lodge</c>
+				</concepts>
+				<url source="wiki">/wiki/wiigiwaam#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Penobscot</lang>
+				<form script="LATIN">wigwom</form>
+				<concepts>
+					<c>house</c>
+				</concepts>
+				<url source="wiki">/wiki/wigwom#Penobscot</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wi·nteko·wa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wi·nteko·wa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">wendigo</form>
+				<concepts>
+					<c>wendigo</c>
+					<c>wendigo</c>
+				</concepts>
+				<url source="wiki">/wiki/wendigo#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">wihtikow</form>
+				<concepts>
+					<c>wendigo</c>
+					<c>wihtikow</c>
+				</concepts>
+				<url source="wiki">/wiki/wihtikow#English</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">miintikwa</form>
+				<concepts>
+					<c>screech owl</c>
+				</concepts>
+				<url source="wiki">/wiki/miintikwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">wiindigoo</form>
+				<concepts>
+					<c>windigo</c>
+					<c>wendigo</c>
+					<c>cannibalistic</c>
+				</concepts>
+				<url source="wiki">/wiki/wiindigoo#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">wîhtikow</form>
+				<concepts>
+					<c>wendigo</c>
+					<c>wihtikow</c>
+				</concepts>
+				<url source="wiki">/wiki/wîhtikow#Plains_Cree</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*wi·yawehsi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/wi·yawehsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">wios</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/wios#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">wiiyoohsi</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/wiiyoohsi#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Mohegan-Pequot</lang>
+				<form script="LATIN">wiyawhs</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/wiyawhs#Mohegan-Pequot</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">wiiyaas -an</form>
+				<concepts>
+					<c>piece of meat</c>
+					<c>meat</c>
+					<c>flesh</c>
+				</concepts>
+				<url source="wiki">/wiki/wiiyaas#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Plains Cree</lang>
+				<form script="LATIN">wiyâs</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/wiyâs#Plains_Cree</url>
+			</reflex>
+			<reflex>
+				<lang>Quiripi</lang>
+				<form script="LATIN">wéeows</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/weeows#Quiripi</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">wiyus</form>
+				<concepts>
+					<c>meat</c>
+				</concepts>
+				<url source="wiki">/wiki/wiyus#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*či·katahikani</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/či·katahikani</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">chighigan</form>
+				<concepts>
+					<c>broom</c>
+				</concepts>
+				<url source="wiki">/wiki/chighigan#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Munsee</lang>
+				<form script="LATIN">chiikhiikan</form>
+				<concepts>
+					<c>broom</c>
+				</concepts>
+				<url source="wiki">/wiki/chiikhiikan#Munsee</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*či·ma·ni</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/či·ma·ni</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Atikamekw</lang>
+				<form script="LATIN">tciman</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/tciman#Atikamekw</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">ciimaani</form>
+				<concepts>
+					<c>oar</c>
+					<c>paddle</c>
+				</concepts>
+				<url source="wiki">/wiki/ciimaani#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">jiimaan</form>
+				<concepts>
+					<c>boat</c>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/jiimaan#Ojibwe</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*ša·ʔša:kwemini</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/ša·ʔša:kwemini</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Montagnais</lang>
+				<form script="LATIN">shashakuminan</form>
+				<concepts>
+					<c>bunchberry</c>
+				</concepts>
+				<url source="wiki">/wiki/shashakuminan#Montagnais</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*šeka·kwa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/šeka·kwa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Abenaki</lang>
+				<form script="LATIN">segôgw</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/segôgw#Abenaki</url>
+			</reflex>
+			<reflex>
+				<lang>Algonquin</lang>
+				<form script="LATIN">cigàg</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/cigàg#Algonquin</url>
+			</reflex>
+			<reflex>
+				<lang>Arapaho</lang>
+				<form script="LATIN">xou</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/xou#Arapaho</url>
+			</reflex>
+			<reflex>
+				<lang>Cheyenne</lang>
+				<form script="LATIN">xāō'o</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/xāō'o#Cheyenne</url>
+			</reflex>
+			<reflex>
+				<lang>Czech</lang>
+				<form script="LATIN">skunk</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/skunk#Czech</url>
+			</reflex>
+			<reflex>
+				<lang>Finnish</lang>
+				<form script="LATIN">skunkki</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/skunkki#Finnish</url>
+			</reflex>
+			<reflex>
+				<lang>French</lang>
+				<form script="LATIN">skunks</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/skunks#French</url>
+			</reflex>
+			<reflex>
+				<lang>German</lang>
+				<form script="LATIN">Skunk</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/Skunk#German</url>
+			</reflex>
+			<reflex>
+				<lang>Icelandic</lang>
+				<form script="LATIN">skunkur</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/skunkur#Icelandic</url>
+			</reflex>
+			<reflex>
+				<lang>Menominee</lang>
+				<form script="LATIN">sekāk</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/sekāk#Menominee</url>
+			</reflex>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">šikaakwa</form>
+				<concepts>
+					<c>Allium tricoccum</c>
+					<c>striped skunk</c>
+					<c>wild leek</c>
+					<c>wild garlic</c>
+					<c>Mephitis mephitis</c>
+					<c>ramp</c>
+				</concepts>
+				<url source="wiki">/wiki/šikaakwa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Ojibwe</lang>
+				<form script="LATIN">zhigaag</form>
+				<concepts>
+					<c>striped skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/zhigaag#Ojibwe</url>
+			</reflex>
+			<reflex>
+				<lang>Polish</lang>
+				<form script="LATIN">skunks</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/skunks#Polish</url>
+			</reflex>
+			<reflex>
+				<lang>Romanian</lang>
+				<form script="LATIN">sconcs</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/sconcs#Romanian</url>
+			</reflex>
+			<reflex>
+				<lang>Russian</lang>
+				<form script="CYRILLIC">скунс</form>
+				<translit>skuns</translit>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/скунс#Russian</url>
+			</reflex>
+			<reflex>
+				<lang>Swedish</lang>
+				<form script="LATIN">skunk</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/skunk#Swedish</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">shkakw</form>
+				<concepts>
+					<c>skunk</c>
+				</concepts>
+				<url source="wiki">/wiki/shkakw#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Algonquian</plang>
+			<pform>*šenkwehsa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Algonquian/šenkwehsa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Miami</lang>
+				<form script="LATIN">šinkohsa</form>
+				<concepts>
+					<c>mink</c>
+				</concepts>
+				<url source="wiki">/wiki/šinkohsa#Miami</url>
+			</reflex>
+			<reflex>
+				<lang>Unami</lang>
+				<form script="LATIN">sànkwe</form>
+				<concepts>
+					<c>weasel</c>
+				</concepts>
+				<url source="wiki">/wiki/sànkwe#Unami</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,472 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Pama-Nyungan</plang>
+			<pform>*kuna</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Pama-Nyungan/kuna</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Baagandji</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Baagandji</url>
+			</reflex>
+			<reflex>
+				<lang>Bandjalang</lang>
+				<form script="LATIN">gunaŋ</form>
+				<concepts>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/gunaŋ#Bandjalang</url>
+			</reflex>
+			<reflex>
+				<lang>Dieri</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Dieri</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">goona</form>
+				<concepts>
+					<c>stool</c>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>goona</c>
+				</concepts>
+				<url source="wiki">/wiki/goona#English</url>
+			</reflex>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">guna</form>
+				<concepts>
+					<c>excrement</c>
+					<c>faeces</c>
+					<c>shit</c>
+				</concepts>
+				<url source="wiki">/wiki/guna#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Kriol</lang>
+				<form script="LATIN">guna</form>
+				<concepts>
+					<c>defecate</c>
+				</concepts>
+				<url source="wiki">/wiki/guna#Kriol</url>
+			</reflex>
+			<reflex>
+				<lang>Kriol</lang>
+				<form script="LATIN">guna</form>
+				<concepts>
+					<c>feces</c>
+					<c>anus</c>
+				</concepts>
+				<url source="wiki">/wiki/guna#Kriol</url>
+			</reflex>
+			<reflex>
+				<lang>Martuthunira</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>dung</c>
+					<c>excrement</c>
+					<c>shit</c>
+					<c>poo</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Martuthunira</url>
+			</reflex>
+			<reflex>
+				<lang>Pitjantjatjara</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>dung</c>
+					<c>excrement</c>
+					<c>bowels</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Pitjantjatjara</url>
+			</reflex>
+			<reflex>
+				<lang>Pitta-Pitta</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>defecate</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Pitta-Pitta</url>
+			</reflex>
+			<reflex>
+				<lang>Pitta-Pitta</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>dung</c>
+					<c>excrement</c>
+					<c>shit</c>
+					<c>poo</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Pitta-Pitta</url>
+			</reflex>
+			<reflex>
+				<lang>Warlpiri</lang>
+				<form script="LATIN">kuna</form>
+				<concepts>
+					<c>dung</c>
+					<c>excrement</c>
+				</concepts>
+				<url source="wiki">/wiki/kuna#Warlpiri</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Pama-Nyungan</plang>
+			<pform>*nguku</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Pama-Nyungan/nguku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ayabadhu</lang>
+				<form script="LATIN">ngoki</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngoki#Ayabadhu</url>
+			</reflex>
+			<reflex>
+				<lang>Baagandji</lang>
+				<form script="LATIN">ngugu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngugu#Baagandji</url>
+			</reflex>
+			<reflex>
+				<lang>Garawa</lang>
+				<form script="LATIN">nguwu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nguwu#Garawa</url>
+			</reflex>
+			<reflex>
+				<lang>Kalkatungu</lang>
+				<form script="LATIN">kuu</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/kuu#Kalkatungu</url>
+			</reflex>
+			<reflex>
+				<lang>Kayardild</lang>
+				<form script="LATIN">nguku</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nguku#Kayardild</url>
+			</reflex>
+			<reflex>
+				<lang>Kuku-Uwanh</lang>
+				<form script="LATIN">ngaka</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngaka#Kuku-Uwanh</url>
+			</reflex>
+			<reflex>
+				<lang>Kuuk Thaayorre</lang>
+				<form script="LATIN">ngok</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngok#Kuuk_Thaayorre</url>
+			</reflex>
+			<reflex>
+				<lang>Lardil</lang>
+				<form script="LATIN">nguka</form>
+				<concepts>
+					<c>water</c>
+					<c>year</c>
+				</concepts>
+				<url source="wiki">/wiki/nguka#Lardil</url>
+			</reflex>
+			<reflex>
+				<lang>Mangarayi</lang>
+				<form script="LATIN">nguku</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nguku#Mangarayi</url>
+			</reflex>
+			<reflex>
+				<lang>Mudburra</lang>
+				<form script="LATIN">nguku</form>
+				<concepts>
+					<c>river</c>
+					<c>beer</c>
+					<c>body of water</c>
+					<c>drinking water</c>
+					<c>water</c>
+					<c>rain</c>
+					<c>lake</c>
+				</concepts>
+				<url source="wiki">/wiki/nguku#Mudburra</url>
+			</reflex>
+			<reflex>
+				<lang>Ngarrindjeri</lang>
+				<form script="LATIN">nguk</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nguk#Ngarrindjeri</url>
+			</reflex>
+			<reflex>
+				<lang>Nyunga</lang>
+				<form script="LATIN">nguk</form>
+				<concepts>
+					<c>honey</c>
+				</concepts>
+				<url source="wiki">/wiki/nguk#Nyunga</url>
+			</reflex>
+			<reflex>
+				<lang>Wangkumara</lang>
+				<form script="LATIN">ngaka</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngaka#Wangkumara</url>
+			</reflex>
+			<reflex>
+				<lang>Warlpiri</lang>
+				<form script="LATIN">nguku</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nguku#Warlpiri</url>
+			</reflex>
+			<reflex>
+				<lang>Wik-Mungkan</lang>
+				<form script="LATIN">ngak</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngak#Wik-Mungkan</url>
+			</reflex>
+			<reflex>
+				<lang>Wik-Ngathana</lang>
+				<form script="LATIN">ngak</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ngak#Wik-Ngathana</url>
+			</reflex>
+			<reflex>
+				<lang>Yangkaal</lang>
+				<form script="LATIN">nguku</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nguku#Yangkaal</url>
+			</reflex>
+			<reflex>
+				<lang>Yindjilandji</lang>
+				<form script="LATIN">nguka</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/nguka#Yindjilandji</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Pama-Nyungan</plang>
+			<pform>*rirra</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Pama-Nyungan/rirra</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aghu Tharrnggala</lang>
+				<form script="LATIN">liy</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/liy#Aghu_Tharrnggala</url>
+			</reflex>
+			<reflex>
+				<lang>Bandjalang</lang>
+				<form script="LATIN">dirrang</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/dirrang#Bandjalang</url>
+			</reflex>
+			<reflex>
+				<lang>Bidyara</lang>
+				<form script="LATIN">yira</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/yira#Bidyara</url>
+			</reflex>
+			<reflex>
+				<lang>Gamilaraay</lang>
+				<form script="LATIN">yira</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/yira#Gamilaraay</url>
+			</reflex>
+			<reflex>
+				<lang>Gugu Badhun</lang>
+				<form script="LATIN">rirra</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/rirra#Gugu_Badhun</url>
+			</reflex>
+			<reflex>
+				<lang>Gunya</lang>
+				<form script="LATIN">ira</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/ira#Gunya</url>
+			</reflex>
+			<reflex>
+				<lang>Margany</lang>
+				<form script="LATIN">irta</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/irta#Margany</url>
+			</reflex>
+			<reflex>
+				<lang>Martuthunira</lang>
+				<form script="LATIN">yirra</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/yirra#Martuthunira</url>
+			</reflex>
+			<reflex>
+				<lang>Mudburra</lang>
+				<form script="LATIN">lirra</form>
+				<concepts>
+					<c>lip</c>
+					<c>tooth</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/lirra#Mudburra</url>
+			</reflex>
+			<reflex>
+				<lang>Muruwari</lang>
+				<form script="LATIN">thirra</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/thirra#Muruwari</url>
+			</reflex>
+			<reflex>
+				<lang>Nyawaygi</lang>
+				<form script="LATIN">yirra</form>
+				<concepts>
+					<c>teeth</c>
+					<c>seed</c>
+				</concepts>
+				<url source="wiki">/wiki/yirra#Nyawaygi</url>
+			</reflex>
+			<reflex>
+				<lang>Panyjima</lang>
+				<form script="LATIN">yirra</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/yirra#Panyjima</url>
+			</reflex>
+			<reflex>
+				<lang>Walmajarri</lang>
+				<form script="LATIN">lirra</form>
+				<concepts>
+					<c>lip</c>
+					<c>tooth</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/lirra#Walmajarri</url>
+			</reflex>
+			<reflex>
+				<lang>Warlmanpa</lang>
+				<form script="LATIN">lirra</form>
+				<concepts>
+					<c>teeth</c>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/lirra#Warlmanpa</url>
+			</reflex>
+			<reflex>
+				<lang>Warlpiri</lang>
+				<form script="LATIN">lirra</form>
+				<concepts>
+					<c>mouth</c>
+				</concepts>
+				<url source="wiki">/wiki/lirra#Warlpiri</url>
+			</reflex>
+			<reflex>
+				<lang>Warrgamay</lang>
+				<form script="LATIN">yirra</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/yirra#Warrgamay</url>
+			</reflex>
+			<reflex>
+				<lang>Warungu</lang>
+				<form script="LATIN">rirra</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/rirra#Warungu</url>
+			</reflex>
+			<reflex>
+				<lang>Woiwurrung</lang>
+				<form script="LATIN">liang</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/liang#Woiwurrung</url>
+			</reflex>
+			<reflex>
+				<lang>Yaygir</lang>
+				<form script="LATIN">dira</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/dira#Yaygir</url>
+			</reflex>
+			<reflex>
+				<lang>Yorta Yorta</lang>
+				<form script="LATIN">dirran</form>
+				<concepts>
+					<c>tooth</c>
+				</concepts>
+				<url source="wiki">/wiki/dirran#Yorta_Yorta</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

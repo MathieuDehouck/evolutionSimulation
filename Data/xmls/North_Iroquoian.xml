@@ -1,0 +1,22 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>North Iroquoian</plang>
+			<pform>*ahsẽh</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-North Iroquoian/ahsẽh</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Mohawk</lang>
+				<form script="LATIN">áhsen</form>
+				<concepts>
+					<c>three</c>
+				</concepts>
+				<url source="wiki">/wiki/áhsen#Mohawk</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

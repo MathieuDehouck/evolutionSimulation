@@ -1,0 +1,140 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Tupi-Guarani</plang>
+			<pform>*it͡ʃe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupi-Guarani/it͡ʃe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">ixé</form>
+				<concepts>
+					<c>my</c>
+					<c>mine</c>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ixé#Old_Tupi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupi-Guarani</plang>
+			<pform>*tupã</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupi-Guarani/tupã</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">Tupana</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/Tupana#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">tupana</form>
+				<concepts>
+					<c>saint</c>
+					<c>deity</c>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/tupana#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">tupã</form>
+				<concepts>
+					<c>lightning</c>
+					<c>thunder</c>
+				</concepts>
+				<url source="wiki">/wiki/tupã#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Nheengatu</lang>
+				<form script="LATIN">tupã</form>
+				<concepts>
+					<c>lightning</c>
+					<c>thunder</c>
+				</concepts>
+				<url source="wiki">/wiki/tupã#Nheengatu</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">Tupã</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/Tupã#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">tupana</form>
+				<concepts>
+					<c>holy day</c>
+				</concepts>
+				<url source="wiki">/wiki/tupana#Old_Tupi</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">tupã</form>
+				<concepts>
+					<c>divinity</c>
+					<c>deity</c>
+					<c>thunder</c>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/tupã#Old_Tupi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Tupi-Guarani</plang>
+			<pform>*t͡ʃe</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Tupi-Guarani/t͡ʃe</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">che</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/che#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Guaraní</lang>
+				<form script="LATIN">che</form>
+				<concepts>
+					<c>my</c>
+				</concepts>
+				<url source="wiki">/wiki/che#Guaraní</url>
+			</reflex>
+			<reflex>
+				<lang>Old Tupi</lang>
+				<form script="LATIN">xe</form>
+				<concepts>
+					<c>my</c>
+					<c>mine</c>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/xe#Old_Tupi</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

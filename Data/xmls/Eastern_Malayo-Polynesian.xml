@@ -1,0 +1,2700 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*apa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Eastern Malayo-Polynesian/apa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">aha</form>
+				<concepts>
+					<c>what</c>
+				</concepts>
+				<url source="wiki">/wiki/aha#Maori</url>
+			</reflex>
+			<reflex>
+				<lang>Tahitian</lang>
+				<form script="LATIN">aha</form>
+				<concepts>
+					<c>what</c>
+				</concepts>
+				<url source="wiki">/wiki/aha#Tahitian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*balun₁</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/25090#s-581</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">palu</form>
+				<concepts>
+					<c>mix</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/401-b563395227abae23e322f29d1af0a783-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*beŋkeR</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/25867#s-1933</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">péke</form>
+				<concepts>
+					<c>defecate</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-aaec96e907231cf5419699f0af7936ec-1</url>
+			</reflex>
+			<reflex>
+				<lang>Drehet</lang>
+				<form script="LATIN">pe</form>
+				<concepts>
+					<c>defecate</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/586-f812414164a846a63944ab3ca0e77553-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lenkau</lang>
+				<form script="LATIN">pe-hek</form>
+				<concepts>
+					<c>defecate</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18950-f812414164a846a63944ab3ca0e77553-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tolai</lang>
+				<form script="LATIN">peke</form>
+				<concepts>
+					<c>excrete</c>
+					<c>defecate</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19416-741b6e5714bb790d5ef9a14ac07b6989-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tolai</lang>
+				<form script="LATIN">pekā-peke</form>
+				<concepts>
+					<c>excrete</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19416-34019fb0f7615919f74a7441df0be054-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wuvulu</lang>
+				<form script="LATIN">pe-pe</form>
+				<concepts>
+					<c>defecate</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/445-f812414164a846a63944ab3ca0e77553-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*kaRa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/31754#s-9923</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ambai</lang>
+				<form script="LATIN">kara</form>
+				<concepts>
+					<c>cockatoo</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/472-3a33063a4a8a5805d17aa411a53286e6-1</url>
+			</reflex>
+			<reflex>
+				<lang>Ansus</lang>
+				<form script="LATIN">kara</form>
+				<concepts>
+					<c>cockatoo</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/478-3a33063a4a8a5805d17aa411a53286e6-1</url>
+			</reflex>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">kara</form>
+				<concepts>
+					<c>parrot</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-68238cd792d215bdfdddc7bbb6d10db4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">kā</form>
+				<concepts>
+					<c>parrot</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-68238cd792d215bdfdddc7bbb6d10db4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Halia</lang>
+				<form script="LATIN">kala-kala</form>
+				<concepts>
+					<c>eclectus parrot</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19250-04849a1162545bed9c940653335f9cb8-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kove</lang>
+				<form script="LATIN">kaha</form>
+				<concepts>
+					<c>parrot</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/709-68238cd792d215bdfdddc7bbb6d10db4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lusi</lang>
+				<form script="LATIN">kara</form>
+				<concepts>
+					<c>parrot</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19308-68238cd792d215bdfdddc7bbb6d10db4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">ka-kā</form>
+				<concepts>
+					<c>parrot</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-68238cd792d215bdfdddc7bbb6d10db4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wayan</lang>
+				<form script="LATIN">ka-kā</form>
+				<concepts>
+					<c>bird</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19060-1cb7192f6f9baff3bcb0b97e25ce15b2-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*kanisu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30669#s-8206</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kairiru</lang>
+				<form script="LATIN">qVns</form>
+				<concepts>
+					<c>spit out</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/667-9c42f2a4b863b0fad9168a269be98f74-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kurudu</lang>
+				<form script="LATIN">kenisa</form>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/711-1e893922a5ddc59deda87b8f38f360cb-1</url>
+			</reflex>
+			<reflex>
+				<lang>Marau₂</lang>
+				<form script="LATIN">nisu</form>
+				<concepts>
+					<c>spit</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/830-039e4758003ccbd76012334cc173cfa7-1</url>
+			</reflex>
+			<reflex>
+				<lang>Motu</lang>
+				<form script="LATIN">kanudi</form>
+				<concepts>
+					<c>spit</c>
+					<c>spittle</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/345-9873aab69cf4811d877434b6376b206c-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mussau</lang>
+				<form script="LATIN">kanusu</form>
+				<concepts>
+					<c>spit</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/352-039e4758003ccbd76012334cc173cfa7-1</url>
+			</reflex>
+			<reflex>
+				<lang>Pak</lang>
+				<form script="LATIN">kanuh</form>
+				<concepts>
+					<c>saliva</c>
+					<c>spit</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/371-fa5aa8f9b0e307fea716e5e80ebd528a-1</url>
+			</reflex>
+			<reflex>
+				<lang>Samasodu</lang>
+				<form script="LATIN">ki-knisu</form>
+				<concepts>
+					<c>spit</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19439-039e4758003ccbd76012334cc173cfa7-1</url>
+			</reflex>
+			<reflex>
+				<lang>Seimat</lang>
+				<form script="LATIN">kan i anuhu-</form>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19050-1e893922a5ddc59deda87b8f38f360cb-1</url>
+			</reflex>
+			<reflex>
+				<lang>Serui-Laut</lang>
+				<form script="LATIN">kunui</form>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/411-1e893922a5ddc59deda87b8f38f360cb-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wandamen</lang>
+				<form script="LATIN">kanisu</form>
+				<concepts>
+					<c>saliva</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1112-1e893922a5ddc59deda87b8f38f360cb-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*kanus</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30191#s-7014</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gapapaiwa</lang>
+				<form script="LATIN">kanu</form>
+				<concepts>
+					<c>spit</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/609-039e4758003ccbd76012334cc173cfa7-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*ma-qosak</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/27750#s-4480</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>'Āre'āre</lang>
+				<form script="LATIN">ma-mata</form>
+				<concepts>
+					<c>ripe</c>
+					<c>sensible</c>
+					<c>wise</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18004-f2b12e2d7a47b33e9e047010705c5fb5-1</url>
+			</reflex>
+			<reflex>
+				<lang>'Āre'āre</lang>
+				<form script="LATIN">mata</form>
+				<concepts>
+					<c>ripe</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18004-e68eeddbfca7ebc550693849afa8d95c-1</url>
+			</reflex>
+			<reflex>
+				<lang>Bali (Uneapa)</lang>
+				<form script="LATIN">mazaka</form>
+				<concepts>
+					<c>ripe</c>
+					<c>cooked</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/511-6e4f6d802831fd3d8c7315c5a9228eca-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">masa</form>
+				<concepts>
+					<c>ripe</c>
+					<c>cooked</c>
+					<c>complete</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-9c5e547c766dc199601dae209a8e9e64-2</url>
+			</reflex>
+			<reflex>
+				<lang>Ere</lang>
+				<form script="LATIN">mise-n</form>
+				<concepts>
+					<c>cooked</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/598-90a8e99996aa19418af6d0c153bcfadd-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lakalai</lang>
+				<form script="LATIN">maosa</form>
+				<concepts>
+					<c>done</c>
+					<c>cooked</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/877-e813fd7354b99714148229387caab074-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lou</lang>
+				<form script="LATIN">mwas</form>
+				<concepts>
+					<c>cooked</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/322-90a8e99996aa19418af6d0c153bcfadd-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nggela</lang>
+				<form script="LATIN">manda</form>
+				<concepts>
+					<c>ripe</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/359-f3f1e19bebcc591ae51d97c59abab647-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tolai</lang>
+				<form script="LATIN">mao</form>
+				<concepts>
+					<c>ripe</c>
+					<c>mature</c>
+					<c>cooked</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19416-01433ff34c4bd97f86f87ec7e5ef70bd-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*maluRu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30202#s-7032</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>'Āre'āre</lang>
+				<form script="LATIN">-maru</form>
+				<concepts>
+					<c>shade</c>
+					<c>overshadow</c>
+					<c>shadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18004-5b893c6f1cabd986fffd41a501885b53-1</url>
+			</reflex>
+			<reflex>
+				<lang>'Āre'āre</lang>
+				<form script="LATIN">maru-ana</form>
+				<concepts>
+					<c>under</c>
+					<c>below</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18004-2534d80288582aa747b61ce49983efb0-1</url>
+			</reflex>
+			<reflex>
+				<lang>'Āre'āre</lang>
+				<form script="LATIN">maru-i</form>
+				<concepts>
+					<c>underneath</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18004-1ffbc1e6ea0c594790731f2433af4bef-1</url>
+			</reflex>
+			<reflex>
+				<lang>Anuta</lang>
+				<form script="LATIN">maru ~ maruu</form>
+				<concepts>
+					<c>protector</c>
+					<c>protected</c>
+					<c>shady</c>
+					<c>dry</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/229-68315b63fd8fbf0916aef9e3eda5a01d-1</url>
+			</reflex>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">maru</form>
+				<concepts>
+					<c>shade</c>
+					<c>overshadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-0af20386695283f86e991bcfe0fd7432-1</url>
+			</reflex>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">maru-ŋi</form>
+				<concepts>
+					<c>command</c>
+					<c>rule</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-3e7d8ceeb0d6f28b6202dde5b04d3df8-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">ma-malu</form>
+				<concepts>
+					<c>dark</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-7f8ef268f4d9872b70d180d95db7a8ab-1</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>peaceful</c>
+					<c>shelter</c>
+					<c>strength</c>
+					<c>peace</c>
+					<c>shade</c>
+					<c>quiet</c>
+					<c>shaded</c>
+					<c>protection</c>
+					<c>taboo</c>
+					<c>reserved</c>
+					<c>control</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/620-1146ac0e9aba044201ab6e5a942d5d79-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kapingamarangi</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>shelter</c>
+					<c>shade</c>
+					<c>behind</c>
+					<c>shadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/292-e2e72057f5a94036c6ae1d237f300589-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kwaio</lang>
+				<form script="LATIN">maa-malu</form>
+				<concepts>
+					<c>shade</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/307-a79dc75a13b584baa37f8ec20d944410-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kwaio</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>shade</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/307-647a6e2866a925caa7d2071312593afd-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kwaio</lang>
+				<form script="LATIN">malu-na</form>
+				<concepts>
+					<c>shadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/307-3bf1114a986ba87ed28fc1b5884fc2f8-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lau</lang>
+				<form script="LATIN">ma-malu</form>
+				<concepts>
+					<c>cast a shadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/313-ad8c7501895fce5d39b89fb2c4f91237-1</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">maru</form>
+				<concepts>
+					<c>authority</c>
+					<c>shelter</c>
+					<c>power</c>
+					<c>shield</c>
+					<c>sheltered</c>
+					<c>shaded</c>
+					<c>shadow</c>
+					<c>safeguard</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/330-319b48614bebaf3bf71411ed4c8dc731-1</url>
+			</reflex>
+			<reflex>
+				<lang>Niue</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>sheltered</c>
+					<c>shade</c>
+					<c>shaded</c>
+					<c>protection</c>
+					<c>shadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/362-5e0e3f18064e18a4f147cf23544cafe0-1</url>
+			</reflex>
+			<reflex>
+				<lang>Niue</lang>
+				<form script="LATIN">malu-ia</form>
+				<concepts>
+					<c>covered</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/362-a72ed46ebb1280e51746ce28ded53942-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nukuoro</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>lee</c>
+					<c>shade</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/363-da35e50562a2c95528671d177139f926-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rarotongan</lang>
+				<form script="LATIN">maru</form>
+				<concepts>
+					<c>shelter</c>
+					<c>shade</c>
+					<c>protection</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/388-378f46148cbadc8f980c83be5adc1494-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rennellese</lang>
+				<form script="LATIN">magu</form>
+				<concepts>
+					<c>shelter</c>
+					<c>protect</c>
+					<c>splendor</c>
+					<c>shade</c>
+					<c>cover</c>
+					<c>protection</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/390-ec75306bedb83958761fffcb68790cf0-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sa'a</lang>
+				<form script="LATIN">i melu-ne</form>
+				<concepts>
+					<c>rule</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18945-2fa5217267952ec5782eebb26ce8acef-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sa'a</lang>
+				<form script="LATIN">mälu</form>
+				<concepts>
+					<c>shade</c>
+					<c>overshadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18945-fc6bbbae2ed998d325f27641cea1a995-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sa'a</lang>
+				<form script="LATIN">mälu-si</form>
+				<concepts>
+					<c>shade</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18945-7e44847846af25aff289f9dee77f7c18-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sa'a</lang>
+				<form script="LATIN">mälu-te</form>
+				<concepts>
+					<c>shade</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18945-a79dc75a13b584baa37f8ec20d944410-1</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>shelter</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/401-13f2aba5a543a9e82ba8abe714c036b9-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tolai</lang>
+				<form script="LATIN">malur</form>
+				<concepts>
+					<c>cool</c>
+					<c>shade</c>
+					<c>shady</c>
+					<c>fresh</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19416-28fef1dfdd1ce2ef12ca1fa7b80ef29b-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>sheltered</c>
+					<c>secure</c>
+					<c>safe</c>
+					<c>airtight</c>
+					<c>shaded</c>
+					<c>watertight</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-30478165b168f4a3abfd63e47d7e0f24-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">malu-ʔi</form>
+				<concepts>
+					<c>protect</c>
+					<c>defend</c>
+					<c>make</c>
+					<c>insure</c>
+					<c>guarantee</c>
+					<c>safeguard</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-260c4dbdf656e69663b5d6cc1186b379-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">maluu</form>
+				<concepts>
+					<c>mild</c>
+					<c>gone</c>
+					<c>abated</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-849d56fb6aa2cade0b38d137753805cf-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">ma-malu</form>
+				<concepts>
+					<c>honorable</c>
+					<c>noble</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19417-c471b0993c35d39c8ec2e89b710e959f-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>authority</c>
+					<c>shelter</c>
+					<c>power</c>
+					<c>protect</c>
+					<c>shade</c>
+					<c>protection</c>
+					<c>shadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19417-8f07d3f9943146494dd2293209c37f0a-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">malu poo-poo</form>
+				<concepts>
+					<c>evening</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19417-735ac17a6ba89780555007b5881ed079-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wayan</lang>
+				<form script="LATIN">maa-malu</form>
+				<concepts>
+					<c>shelter</c>
+					<c>shade</c>
+					<c>protection</c>
+					<c>shadow</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19060-b6774cd78d29534df6853029763055e4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wayan</lang>
+				<form script="LATIN">malu</form>
+				<concepts>
+					<c>protected</c>
+					<c>shaded</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19060-7d52ee59162a020c549300dd2d6c460f-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*mauRi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/28770#s-6002</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Bali (Uneapa)</lang>
+				<form script="LATIN">mauri</form>
+				<concepts>
+					<c>left hand</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/511-08c3280f9a61acfbbf596408fcb92708-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lau</lang>
+				<form script="LATIN">mauli</form>
+				<concepts>
+					<c>left hand</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/313-22164966071321334e33a899258c2e75-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lau</lang>
+				<form script="LATIN">mouli</form>
+				<concepts>
+					<c>left hand</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/313-22164966071321334e33a899258c2e75-2</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">mauī</form>
+				<concepts>
+					<c>left</c>
+					<c>left hand</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/330-996a622d90f1c2005edb471133eb3f1a-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nakanamanga</lang>
+				<form script="LATIN">mauri</form>
+				<concepts>
+					<c>left hand</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19411-f879ae0916b902baba486f268bc16161-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nggela</lang>
+				<form script="LATIN">mauli</form>
+				<concepts>
+					<c>left hand</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/359-f879ae0916b902baba486f268bc16161-1</url>
+			</reflex>
+			<reflex>
+				<lang>North Tanna</lang>
+				<form script="LATIN">mawul</form>
+				<concepts>
+					<c>left hand</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/875-f879ae0916b902baba486f268bc16161-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rarotongan</lang>
+				<form script="LATIN">maui</form>
+				<concepts>
+					<c>left</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/388-b4744eec53348088d0b7c36c5461ba96-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*mawa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30170#s-6960</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">mawa</form>
+				<concepts>
+					<c>cleft</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-fab1fe707de3d22805e0422d9b050c1c-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">mawa</form>
+				<concepts>
+					<c>spacious</c>
+					<c>roomy</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-95d84f0d27f6c00a4e25ff65c4afa362-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*molaŋ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30171#s-6961</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">mora</form>
+				<concepts>
+					<c>true</c>
+					<c>customary</c>
+					<c>original</c>
+					<c>real</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-666f7895a7e735f3da41d0d869694d29-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">molaŋ</form>
+				<concepts>
+					<c>genuine</c>
+					<c>true</c>
+					<c>correct</c>
+					<c>real</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-3c24f502736be0d8c8acd3d4befeaecb-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*mutu₂</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30366#s-7405</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">mudu</form>
+				<concepts>
+					<c>cut off</c>
+					<c>ended</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-9c3a0f2484a368932e400db4b09d43de-1</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">muku</form>
+				<concepts>
+					<c>amputated</c>
+					<c>cut short</c>
+					<c>brief</c>
+					<c>quick</c>
+					<c>short</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/620-b673797b5d869445b5053e48e1875e17-1</url>
+			</reflex>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">mutu</form>
+				<concepts>
+					<c>cropped</c>
+					<c>bring to an end</c>
+					<c>mutilated</c>
+					<c>cut short</c>
+					<c>truncated</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/330-cd87ee30a9fa9646d424c950767048ee-1</url>
+			</reflex>
+			<reflex>
+				<lang>Numfor</lang>
+				<form script="LATIN">muk</form>
+				<concepts>
+					<c>broken</c>
+					<c>come to an end</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/364-66da7b5364447b6a72237e8c83e0aadc-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rarotongan</lang>
+				<form script="LATIN">mutu</form>
+				<concepts>
+					<c>conclude</c>
+					<c>severed</c>
+					<c>cut</c>
+					<c>cut off</c>
+					<c>cut short</c>
+					<c>ended</c>
+					<c>parted</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/388-6fd776fa2bcbef99938948fc40db9694-1</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">mutu</form>
+				<concepts>
+					<c>cut off</c>
+					<c>truncated</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/401-ce8f474375e3c6e3cf95030fe9060ee3-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">mutu</form>
+				<concepts>
+					<c>cut off</c>
+					<c>amputate</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-568efc19b23384110022cde055739336-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">mutu</form>
+				<concepts>
+					<c>cut off</c>
+					<c>incomplete</c>
+					<c>ended</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19417-e133ea2cf254c7fb2541a65398b57753-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wayan</lang>
+				<form script="LATIN">mudu</form>
+				<concepts>
+					<c>conclude</c>
+					<c>amputated</c>
+					<c>cut off</c>
+					<c>severed</c>
+					<c>cease</c>
+					<c>end</c>
+					<c>cut short</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19060-abd6172fa56ef2476eea592cdc768d1d-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*natu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/32569#s-10934</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Amblong</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19462-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Apma</lang>
+				<form script="LATIN">nucu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19230-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Araki</lang>
+				<form script="LATIN">naru-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/481-e8fcdae01b0043ae7d059b0050321fb1-1</url>
+			</reflex>
+			<reflex>
+				<lang>Arguni</lang>
+				<form script="LATIN">natu</form>
+				<concepts>
+					<c>small</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/483-eb5c1399a871211c7e7ed732d15e3a8b-1</url>
+			</reflex>
+			<reflex>
+				<lang>Arop</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19491-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Atchin</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/498-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Axamb</lang>
+				<form script="LATIN">næru-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19229-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Baetora</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19381-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Biliau</lang>
+				<form script="LATIN">nalu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19753-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">ntu</form>
+				<concepts>
+					<c>young</c>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-3fe82821680c6bd8466926d2187221f8-1</url>
+			</reflex>
+			<reflex>
+				<lang>Bunama</lang>
+				<form script="LATIN">natu-na</form>
+				<concepts>
+					<c>offspring</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19501-f917c3c181afb4057e556016927bb5ed-1</url>
+			</reflex>
+			<reflex>
+				<lang>Cape Cumberland</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19410-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Chuukese</lang>
+				<form script="LATIN">naaw</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1086-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Eddystone ∕ Mandegusu</lang>
+				<form script="LATIN">natu-na</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/261-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Gapapaiwa</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/609-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Gimán</lang>
+				<form script="LATIN">tu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/615-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Gitua</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>daughter</c>
+					<c>son</c>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/270-0a9e040f2572efa529b47517c91dceff-1</url>
+			</reflex>
+			<reflex>
+				<lang>Hula</lang>
+				<form script="LATIN">nahu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19659-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Iaai</lang>
+				<form script="LATIN">noko-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/630-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Keapara</lang>
+				<form script="LATIN">nau</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19645-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kilivila</lang>
+				<form script="LATIN">latu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19026-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kove</lang>
+				<form script="LATIN">natu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/709-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lakalai</lang>
+				<form script="LATIN">e-latu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/877-6cc2d7677e01b263a226a157c901a86f-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lakona</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19581-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lametin</lang>
+				<form script="LATIN">nat-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19608-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lau</lang>
+				<form script="LATIN">nau ni toua</form>
+				<concepts>
+					<c>childish</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/313-69847122bc07a02c07e806a93f4bb6c3-1</url>
+			</reflex>
+			<reflex>
+				<lang>Leipon</lang>
+				<form script="LATIN">netu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/730-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Leviamp</lang>
+				<form script="LATIN">a-natə</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19517-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lou</lang>
+				<form script="LATIN">noru-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/322-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lusi</lang>
+				<form script="LATIN">natu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19308-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mafea</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/772-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Magori</lang>
+				<form script="LATIN">natu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/773-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Malmariv</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19636-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Manam</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/328-611b0f91d7ca991618bccbdc1f25d6b6-1</url>
+			</reflex>
+			<reflex>
+				<lang>Manam</lang>
+				<form script="LATIN">natu-mi</form>
+				<concepts>
+					<c>adopt</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/328-55e4aca112c6bdc67c73b5b72f29288e-1</url>
+			</reflex>
+			<reflex>
+				<lang>Manam</lang>
+				<form script="LATIN">natu-ra</form>
+				<concepts>
+					<c>childish</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/328-16b9cf7a77504831543750630338a437-1</url>
+			</reflex>
+			<reflex>
+				<lang>Marino</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/831-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Maxbaxo</lang>
+				<form script="LATIN">naru-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19626-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mendak</lang>
+				<form script="LATIN">nat</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/840-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mono-Alu</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19034-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mosina</lang>
+				<form script="LATIN">nutu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19343-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mota</lang>
+				<form script="LATIN">natu-i</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/344-cb509498e399a4336a353a05507d05ec-1</url>
+			</reflex>
+			<reflex>
+				<lang>Motu</lang>
+				<form script="LATIN">natu-na</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/345-c92f6b4695b8fc68e81483d56c6d9149-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mussau</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/352-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nali</lang>
+				<form script="LATIN">noru-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/878-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nauna</lang>
+				<form script="LATIN">nɔt</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/355-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nokuku</lang>
+				<form script="LATIN">notu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19678-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Piamatsina</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19515-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Pokau</lang>
+				<form script="LATIN">naku</form>
+				<concepts>
+					<c>offspring</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19733-f917c3c181afb4057e556016927bb5ed-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sawai</lang>
+				<form script="LATIN">ntu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18755-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Seimat</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19050-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sie</lang>
+				<form script="LATIN">nitu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19685-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sio</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19674-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sobei</lang>
+				<form script="LATIN">natu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1017-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Suau</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1022-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sudest</lang>
+				<form script="LATIN">nari-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1026-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tawala</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1056-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tigak</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/432-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Titan</lang>
+				<form script="LATIN">nat</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1070-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tolai</lang>
+				<form script="LATIN">natu-na</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19416-44eaac04d97c222dbcc025b5aca9a28c-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tubetube</lang>
+				<form script="LATIN">natu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19055-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Ubir</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1093-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Uripiv</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19227-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Uruava</lang>
+				<form script="LATIN">tu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19687-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Vao</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19478-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Vatrata</lang>
+				<form script="LATIN">niʔi-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19684-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Vowa</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19271-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wampar</lang>
+				<form script="LATIN">naro-n</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1111-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Watut</lang>
+				<form script="LATIN">naru-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1115-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wogeo</lang>
+				<form script="LATIN">natu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19063-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wuvulu</lang>
+				<form script="LATIN">naʔu-</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/445-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+			<reflex>
+				<lang>Yabem</lang>
+				<form script="LATIN">latu</form>
+				<concepts>
+					<c>child</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1128-1b7d5726533ab525a8760351e9b5e415-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*paRi-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/27339#s-3865</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Cheke Holo</lang>
+				<form script="LATIN">fari-</form>
+				<concepts>
+					<c>mutually</c>
+					<c>simultaneously</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/254-0cfc52d0edbead57edfeb9efa98871e7-1</url>
+			</reflex>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">vei-</form>
+				<concepts>
+					<c>relationship</c>
+					<c>prefix</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-ad0de8f03355a05194d370dcf1e07d5b-1</url>
+			</reflex>
+			<reflex>
+				<lang>Gilbertese</lang>
+				<form script="LATIN">ai-</form>
+				<concepts>
+					<c>ex</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/614-f27351c26079c4d645a94af0a0e3e29b-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mota</lang>
+				<form script="LATIN">var-</form>
+				<concepts>
+					<c>prefix</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/344-1a0c78c49fb5778d0a655e2de9c2e943-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mussau</lang>
+				<form script="LATIN">ai-</form>
+				<concepts>
+					<c>reciprocal</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/352-9f490f291667eb6a04f824ca01fbaee1-1</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">fe-</form>
+				<concepts>
+					<c>action</c>
+					<c>quickly</c>
+					<c>hither and thither</c>
+					<c>up and down</c>
+					<c>all around</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/401-2804515f8b17cce116b46d062c174f22-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">fe-</form>
+				<concepts>
+					<c>reciprocal</c>
+					<c>competitive</c>
+					<c>communal</c>
+					<c>accelerative</c>
+					<c>actional</c>
+					<c>habituative</c>
+					<c>invigorative</c>
+					<c>reciprocative</c>
+					<c>collaborative</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-3a0b57e5f284dfd196cf0631b76063bf-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*patoto</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30730#s-8336</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Gedaged</lang>
+				<form script="LATIN">patot</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/269-4d313f0d1457d8f179a55a04909bcf1e-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*qatəp</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Eastern Malayo-Polynesian/qatəp</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ako</form>
+				<concepts>
+					<c>thatch</c>
+				</concepts>
+				<url source="wiki">/wiki/ako#Hawaiian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*qayawan</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/27690#s-4389</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Chuukese</lang>
+				<form script="LATIN">aaw</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1086-010fb65cbf701301ada4b09214193767-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nauna</lang>
+				<form script="LATIN">kew</form>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/355-ecd9bf567a4d340dbdf6001544dfa8ec-1</url>
+			</reflex>
+			<reflex>
+				<lang>Numbami</lang>
+				<form script="LATIN">aiyowana</form>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/904-ecd9bf567a4d340dbdf6001544dfa8ec-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rennellese</lang>
+				<form script="LATIN">ʔaoa</form>
+				<concepts>
+					<c>tree</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/390-96e5faece898d10a11f05fed504498b6-1</url>
+			</reflex>
+			<reflex>
+				<lang>Takia</lang>
+				<form script="LATIN">aiaw</form>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1041-ecd9bf567a4d340dbdf6001544dfa8ec-1</url>
+			</reflex>
+			<reflex>
+				<lang>Titan</lang>
+				<form script="LATIN">yew</form>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1070-ecd9bf567a4d340dbdf6001544dfa8ec-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wogeo</lang>
+				<form script="LATIN">vaiawa</form>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19063-ecd9bf567a4d340dbdf6001544dfa8ec-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wuvulu</lang>
+				<form script="LATIN">aiwa</form>
+				<concepts>
+					<c>banyan</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/445-ecd9bf567a4d340dbdf6001544dfa8ec-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*qutub</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/27908#s-4772</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Eddystone ∕ Mandegusu</lang>
+				<form script="LATIN">utuvu</form>
+				<concepts>
+					<c>draw</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/261-1e3b9997591d79b6fe1c3aaf6c2e4585-1</url>
+			</reflex>
+			<reflex>
+				<lang>Gitua</lang>
+				<form script="LATIN">utu</form>
+				<concepts>
+					<c>flood</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/270-b61705f85f6a5787b3797b783d692360-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kapingamarangi</lang>
+				<form script="LATIN">udu</form>
+				<concepts>
+					<c>soak up</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/292-dbee3dd524154e3423c7bba15eb14e25-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lou</lang>
+				<form script="LATIN">ut</form>
+				<concepts>
+					<c>bail out</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/322-8f583240ebccad2da106f2e922409c54-1</url>
+			</reflex>
+			<reflex>
+				<lang>Motu</lang>
+				<form script="LATIN">utu-a dae</form>
+				<concepts>
+					<c>rise</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/345-408f9743a84bac168207b7760c8b4b39-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rennellese</lang>
+				<form script="LATIN">ʔutu</form>
+				<concepts>
+					<c>draw</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/390-09438c6795223d867b64c8c5937ad51e-1</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">utu</form>
+				<concepts>
+					<c>fill</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/401-28aaff5e5e769d1c1c5de9e67bc78e65-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">ʔutu</form>
+				<concepts>
+					<c>draw</c>
+					<c>get</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-d0bef952ac6ed4970f79b0cc62f95bc1-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*sala</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/31397#s-9492</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Anuta</lang>
+				<form script="LATIN">tara</form>
+				<concepts>
+					<c>barb</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/229-31da6dbd45398e09501228f45de16041-1</url>
+			</reflex>
+			<reflex>
+				<lang>Futunan</lang>
+				<form script="LATIN">tala</form>
+				<concepts>
+					<c>spine</c>
+					<c>horn</c>
+					<c>dorsal fin</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/607-83e3ed43c7c50d2844034048f4d2e4da-1</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">kala</form>
+				<concepts>
+					<c>rough</c>
+					<c>surgeonfish</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/620-690e964ab8875d412ea071961957f7c4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Molima</lang>
+				<form script="LATIN">sa-sala</form>
+				<concepts>
+					<c>fishhook</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18975-4a4e9cfe0b35e260b2335f2c2fdf1192-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nggela</lang>
+				<form script="LATIN">hala</form>
+				<concepts>
+					<c>echinus</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/359-164e1c7cb262a598dba77ce9ef0b35ee-1</url>
+			</reflex>
+			<reflex>
+				<lang>Niue</lang>
+				<form script="LATIN">tala</form>
+				<concepts>
+					<c>prong</c>
+					<c>barb</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/362-4fff687e36a6044e48fea87884c5ad2b-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nukuoro</lang>
+				<form script="LATIN">dala</form>
+				<concepts>
+					<c>fin</c>
+					<c>spine</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/363-b3126dc5fa5021e92a0ea040b71d8505-1</url>
+			</reflex>
+			<reflex>
+				<lang>Numfor</lang>
+				<form script="LATIN">sār</form>
+				<concepts>
+					<c>sharp</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/364-a557264a7d6c783f6fb57fb7d0b9d6b0-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rarotongan</lang>
+				<form script="LATIN">tara</form>
+				<concepts>
+					<c>thorn</c>
+					<c>spike</c>
+					<c>bristling</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/388-c6af9a6f0bfbed7a62a45783b4c44cdf-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">tala</form>
+				<concepts>
+					<c>thorn</c>
+					<c>bristle</c>
+					<c>prickle</c>
+					<c>spike</c>
+					<c>barb</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-9e785950ab18795ba3df81fb4ed53bb5-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tuvaluan</lang>
+				<form script="LATIN">tala</form>
+				<concepts>
+					<c>thorn</c>
+					<c>fin</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19417-15b28e6cb21fb30a0827833b69874c28-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*sombu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/31403#s-9502</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">sop</form>
+				<concepts>
+					<c>go down</c>
+					<c>descend</c>
+					<c>dive</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-72c0108e152f3d5ed568658dbbb0bfca-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*suak</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/31404#s-9504</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Araki</lang>
+				<form script="LATIN">sua</form>
+				<concepts>
+					<c>row</c>
+					<c>paddle</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/481-ab8546dca3a72cc5c164457a229db5d8-1</url>
+			</reflex>
+			<reflex>
+				<lang>Bugotu</lang>
+				<form script="LATIN">sua</form>
+				<concepts>
+					<c>go backwards</c>
+					<c>retire</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/248-bcfe00f6900516d84ce620f39f47afe5-1</url>
+			</reflex>
+			<reflex>
+				<lang>Bugotu</lang>
+				<form script="LATIN">sua-ragi</form>
+				<concepts>
+					<c>backwater</c>
+					<c>retire</c>
+					<c>withdraw</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/248-3fe100b2beb01f57749aba2b9d9e3e4f-1</url>
+			</reflex>
+			<reflex>
+				<lang>Hukua</lang>
+				<form script="LATIN">sua</form>
+				<concepts>
+					<c>paddle</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19602-a13afceb6bbadf1edb33752aa9a8e32e-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mota</lang>
+				<form script="LATIN">sua</form>
+				<concepts>
+					<c>paddle</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/344-4893d654a76345cd26fde032d85d1dbf-1</url>
+			</reflex>
+			<reflex>
+				<lang>Mota</lang>
+				<form script="LATIN">sua-va</form>
+				<concepts>
+					<c>paddling</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/344-8481565a2b7d72bad53d2666aa8dcbe3-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*sua₂</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/31405#s-9505</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Numfor</lang>
+				<form script="LATIN">su</form>
+				<concepts>
+					<c>stir</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/364-b753e9d85bfccaaad4a8954c53242ef4-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rotuman</lang>
+				<form script="LATIN">sua</form>
+				<concepts>
+					<c>stir</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/394-06992039e6ae44475ff61e2f91a8dad7-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*supi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/31333#s-9408</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>'Āre'āre</lang>
+				<form script="LATIN">suhi-a</form>
+				<concepts>
+					<c>scrape</c>
+					<c>beard</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18004-7f120d59bed31ad099216685772aec3e-1</url>
+			</reflex>
+			<reflex>
+				<lang>Buli</lang>
+				<form script="LATIN">suf</form>
+				<concepts>
+					<c>peel</c>
+					<c>pare</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/249-b30bb1e4e70aeff8d905ff439d329a9f-1</url>
+			</reflex>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">suvi</form>
+				<concepts>
+					<c>lengthwise</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-3c640498382599c00ccc5d12bb7cfa19-1</url>
+			</reflex>
+			<reflex>
+				<lang>Gedaged</lang>
+				<form script="LATIN">supi</form>
+				<concepts>
+					<c>peel</c>
+					<c>pare</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/269-7f4ab1fa2c112b452884bfb4d5420b36-1</url>
+			</reflex>
+			<reflex>
+				<lang>Motu</lang>
+				<form script="LATIN">duhi-a</form>
+				<concepts>
+					<c>pare</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/345-361cd1d9f95f86438426c70544409bef-1</url>
+			</reflex>
+			<reflex>
+				<lang>Toqabaqita</lang>
+				<form script="LATIN">sufi-a</form>
+				<concepts>
+					<c>shave</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19197-a0075285f3db0c4221b8a1ed24722836-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*sura</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/30172#s-6962</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Waropen</lang>
+				<form script="LATIN">sura</form>
+				<concepts>
+					<c>comb</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/439-40a1269384fda0e2827b751a7d34cec0-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wuvulu</lang>
+				<form script="LATIN">cuxa-cuxa</form>
+				<concepts>
+					<c>comb</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/445-40a1269384fda0e2827b751a7d34cec0-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*t-ampu</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/24864#s-280</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Tolai</lang>
+				<form script="LATIN">t-abu-</form>
+				<concepts>
+					<c>grandchild</c>
+					<c>grandparent</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19416-3f8ba5962882a4a6c7b417c985956169-1</url>
+			</reflex>
+			<reflex>
+				<lang>Windesi</lang>
+				<form script="LATIN">t-apu</form>
+				<concepts>
+					<c>grandchild</c>
+					<c>grandparent</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1120-aea52c1cf942c7099cf9be0443b9c3c0-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*tinoni</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/32499#s-10838</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">inoni</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-6078e4ca9f4dd1a46e677030194fa1f8-1</url>
+			</reflex>
+			<reflex>
+				<lang>Bugotu</lang>
+				<form script="LATIN">tinoni</form>
+				<concepts>
+					<c>male</c>
+					<c>mankind</c>
+					<c>person</c>
+					<c>man</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/248-5198048703dea33e7457a17de57e8534-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nggela</lang>
+				<form script="LATIN">tinoni</form>
+				<concepts>
+					<c>person</c>
+					<c>human being</c>
+					<c>man</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/359-d352e018aa5bd794bd544c106c34e78a-1</url>
+			</reflex>
+			<reflex>
+				<lang>Numfor</lang>
+				<form script="LATIN">snon</form>
+				<concepts>
+					<c>man</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/364-39c63ddb96a31b9610cd976b896ad4f0-1</url>
+			</reflex>
+			<reflex>
+				<lang>Papapana</lang>
+				<form script="LATIN">sinoni</form>
+				<concepts>
+					<c>husband</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19707-a2d4100de5a4c446ab1f52b1bf20cd93-1</url>
+			</reflex>
+			<reflex>
+				<lang>Sa'a</lang>
+				<form script="LATIN">inoni</form>
+				<concepts>
+					<c>ghost</c>
+					<c>human being</c>
+					<c>man</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18945-f585f114748d20be92e9ddbafc3ea247-1</url>
+			</reflex>
+			<reflex>
+				<lang>Solos</lang>
+				<form script="LATIN">tinon</form>
+				<concepts>
+					<c>husband</c>
+					<c>man</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19705-8c72834c29ed4b95064852a70fcafec2-1</url>
+			</reflex>
+			<reflex>
+				<lang>Vitu</lang>
+				<form script="LATIN">tinoni</form>
+				<concepts>
+					<c>person</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1103-8b0a44048f58988b486bdd0d245b22a8-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*tosi</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/32235#s-10520</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>'Āre'āre</lang>
+				<form script="LATIN">osi-a</form>
+				<concepts>
+					<c>cut</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/18004-f2990f44a1f252c6d2e75e0d71e9d8b9-1</url>
+			</reflex>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">osi</form>
+				<concepts>
+					<c>cut</c>
+					<c>score</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-2b7ebae50f04d67f1231a14d41ab7c16-1</url>
+			</reflex>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">osi-osi</form>
+				<concepts>
+					<c>striped</c>
+					<c>slashed</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-4f9120fd7dffc7b118e96c334461d2d8-1</url>
+			</reflex>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">tosi</form>
+				<concepts>
+					<c>draw a line</c>
+					<c>score</c>
+					<c>mark</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-277a4f484f3d91ec6b60fbd7aab0f1e5-1</url>
+			</reflex>
+			<reflex>
+				<lang>Futunan</lang>
+				<form script="LATIN">tosi</form>
+				<concepts>
+					<c>letter</c>
+					<c>write</c>
+					<c>design</c>
+					<c>book</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/607-fcea373bd57b1aa8e8b8cac158ada276-1</url>
+			</reflex>
+			<reflex>
+				<lang>Niue</lang>
+				<form script="LATIN">tohi</form>
+				<concepts>
+					<c>letter</c>
+					<c>mark</c>
+					<c>book</c>
+					<c>write</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/362-98e82c2d74361fea22560e459c9ee879-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rennellese</lang>
+				<form script="LATIN">tosi</form>
+				<concepts>
+					<c>draw</c>
+					<c>write</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/390-aacf150db73e753ab458722b6224e31f-1</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">tosi</form>
+				<concepts>
+					<c>score</c>
+					<c>scratch</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/401-63a87010ce115719560f33a59b3b4963-1</url>
+			</reflex>
+			<reflex>
+				<lang>Samoan</lang>
+				<form script="LATIN">tosi-tosi</form>
+				<concepts>
+					<c>scribble</c>
+					<c>scrawl</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/401-e0a0e4622f944e65cdd2ba0b7dae5d43-1</url>
+			</reflex>
+			<reflex>
+				<lang>Serui-Laut</lang>
+				<form script="LATIN">toi</form>
+				<concepts>
+					<c>write</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/411-efb2a684e4afb7d55e6147fbe5a332ee-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">tohi</form>
+				<concepts>
+					<c>write</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-012b4f22f96a4ffd0bd6032258c98342-1</url>
+			</reflex>
+			<reflex>
+				<lang>Wayan</lang>
+				<form script="LATIN">tosi</form>
+				<concepts>
+					<c>mark</c>
+					<c>etch</c>
+					<c>draw</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19060-8850ee7f27fd2ec2a8c672d8d2549c57-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*tuRi₂</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/32385#s-10707</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">tui-tui</form>
+				<concepts>
+					<c>plant</c>
+					<c>Aleurites moluccana</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-14993b73e1f85d3a062d87824cb97e40-1</url>
+			</reflex>
+			<reflex>
+				<lang>Hawaiian</lang>
+				<form script="LATIN">ku-kui</form>
+				<concepts>
+					<c>Aleurites moluccana</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/620-eb900b709939cb489feefdd7c6f0302b-1</url>
+			</reflex>
+			<reflex>
+				<lang>Niue</lang>
+				<form script="LATIN">tui-tui</form>
+				<concepts>
+					<c>Aleurites moluccana</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/362-5bdb14f2c25a28707c65b39f049003f7-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">tui-tui</form>
+				<concepts>
+					<c>candlenut</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-b991786a77e66e310fd0bf48ec236305-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*upu</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/28667#s-5838</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Seimat</lang>
+				<form script="LATIN">up</form>
+				<concepts>
+					<c>coconut</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/19050-763b8741d9f1a6fb4e0b72865d993f33-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*wa(n)se</pform>
+			<graph>True</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/28763#s-5987</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arosi</lang>
+				<form script="LATIN">wate</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/485-e78a5c8cf0acbcaa1d81523e6248d43f-1</url>
+			</reflex>
+			<reflex>
+				<lang>Cheke Holo</lang>
+				<form script="LATIN">vahe</form>
+				<concepts>
+					<c>fish</c>
+					<c>turtle</c>
+					<c>butcher</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/254-1f34c7e042d0bd273dab6c6f433a7a3e-1</url>
+			</reflex>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">wase</form>
+				<concepts>
+					<c>separate</c>
+					<c>divide</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-9807490ba67ca7fb6419500db67eb1e1-1</url>
+			</reflex>
+			<reflex>
+				<lang>Fijian</lang>
+				<form script="LATIN">wase rua</form>
+				<concepts>
+					<c>bisect</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/266-d097b9be5dc26b7c417f2f58ab84585d-1</url>
+			</reflex>
+			<reflex>
+				<lang>Gedaged</lang>
+				<form script="LATIN">wae</form>
+				<concepts>
+					<c>bestow</c>
+					<c>deal out</c>
+					<c>apportion</c>
+					<c>dispense</c>
+					<c>give</c>
+					<c>distribute</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/269-324502463d762880d621ae8227e232c0-1</url>
+			</reflex>
+			<reflex>
+				<lang>Kove</lang>
+				<form script="LATIN">ware</form>
+				<concepts>
+					<c>count</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/709-d85508f87f9072aa0d149b17db0ededf-1</url>
+			</reflex>
+			<reflex>
+				<lang>Lau</lang>
+				<form script="LATIN">kwate</form>
+				<concepts>
+					<c>present</c>
+					<c>hand over</c>
+					<c>give</c>
+					<c>give up</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/313-50d727ea02523a3ad220a5fb8bb25bc9-1</url>
+			</reflex>
+			<reflex>
+				<lang>Nggela</lang>
+				<form script="LATIN">vahe</form>
+				<concepts>
+					<c>give</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/359-c5e6ea4d8c9458810aa2a9560451801e-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rarotongan</lang>
+				<form script="LATIN">vae</form>
+				<concepts>
+					<c>part</c>
+					<c>separate</c>
+					<c>divide</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/388-9fc810d7b5017e270dbf94fc4a3689a5-1</url>
+			</reflex>
+			<reflex>
+				<lang>Roro</lang>
+				<form script="LATIN">wate</form>
+				<concepts>
+					<c>distribute</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/393-8738eb91d5c8a6008b0adec17da73c4a-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tongan</lang>
+				<form script="LATIN">vahe</form>
+				<concepts>
+					<c>division</c>
+					<c>district</c>
+					<c>allot</c>
+					<c>distribute</c>
+					<c>divide</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/434-018f66689e04e5b5fc50d4614e0dda59-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*waip</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/28723#s-5927</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Maori</lang>
+				<form script="LATIN">wai</form>
+				<concepts>
+					<c>calabash</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/330-575637993fe337d6e99a384ca432ef5c-1</url>
+			</reflex>
+			<reflex>
+				<lang>Rotuman</lang>
+				<form script="LATIN">vai</form>
+				<concepts>
+					<c>cask</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/394-142be9029cd468c568ca645e784d4685-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Eastern Malayo-Polynesian</plang>
+			<pform>*wakaR-i</pform>
+			<graph>False</graph>
+			<links>
+				<url source="acd">https://acd.clld.org/cognatesets/28726#s-5933</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aore</lang>
+				<form script="LATIN">wari-</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/480-63a9f0ea7bb98050796b649e85481845-1</url>
+			</reflex>
+			<reflex>
+				<lang>Araki</lang>
+				<form script="LATIN">xuari</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/481-63a9f0ea7bb98050796b649e85481845-1</url>
+			</reflex>
+			<reflex>
+				<lang>Irarutu</lang>
+				<form script="LATIN">kwakare</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/645-63a9f0ea7bb98050796b649e85481845-1</url>
+			</reflex>
+			<reflex>
+				<lang>Ngwatua</lang>
+				<form script="LATIN">kakwari</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/897-63a9f0ea7bb98050796b649e85481845-1</url>
+			</reflex>
+			<reflex>
+				<lang>Pom</lang>
+				<form script="LATIN">wa-wari</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/934-63a9f0ea7bb98050796b649e85481845-1</url>
+			</reflex>
+			<reflex>
+				<lang>Tambotalo</lang>
+				<form script="LATIN">uari</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1043-63a9f0ea7bb98050796b649e85481845-1</url>
+			</reflex>
+			<reflex>
+				<lang>Waropen</lang>
+				<form script="LATIN">wai</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/439-63a9f0ea7bb98050796b649e85481845-2</url>
+			</reflex>
+			<reflex>
+				<lang>Woi</lang>
+				<form script="LATIN">wari</form>
+				<concepts>
+					<c>root</c>
+				</concepts>
+				<url source="acd">https://acd.clld.org/values/1122-63a9f0ea7bb98050796b649e85481845-1</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

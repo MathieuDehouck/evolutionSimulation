@@ -1,0 +1,94 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>rGyalrongic</plang>
+			<pform>*N∕s-glak</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/3371</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ergong (Danba)</lang>
+				<form script="LATIN">sqʰlɛ</form>
+				<concepts>
+					<c>swallow</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/3371</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>rGyalrongic</plang>
+			<pform>*jak</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5729</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Lavrung (Jinchuan Guaninqiao)</lang>
+				<form script="LATIN">jɑ̂ɣ</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5729</url>
+			</reflex>
+			<reflex>
+				<lang>rGyalrong (Jinchuan Jimu Zhouchan)</lang>
+				<form script="LATIN">jaks</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5729</url>
+			</reflex>
+			<reflex>
+				<lang>rGyalrong (Maerkang Japhug Shaerzong (B))</lang>
+				<form script="LATIN">jaʁ</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5729</url>
+			</reflex>
+			<reflex>
+				<lang>rGyalrong (Rangtang Puxi siyaowucun)</lang>
+				<form script="LATIN">jaw</form>
+				<concepts>
+					<c>thick</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5729</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>rGyalrongic</plang>
+			<pform>*m-kwar</pform>
+			<graph>False</graph>
+			<links>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1751</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Ergong (Danba)</lang>
+				<form script="LATIN">ŋkhɛʴ</form>
+				<concepts>
+					<c>vomit</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1751</url>
+			</reflex>
+			<reflex>
+				<lang>Ergong (Danba)</lang>
+				<form script="LATIN">ŋkʰɛʴ</form>
+				<concepts>
+					<c>vomit</c>
+				</concepts>
+				<url source="stedt">https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/1751</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

@@ -1,0 +1,402 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*burə∕in</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/burə/in</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">burin</form>
+				<concepts>
+					<c>hill</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/burin#A-Pucikwar</url>
+			</reflex>
+			<reflex>
+				<lang>Aka-Cari</lang>
+				<form script="LATIN">burain</form>
+				<concepts>
+					<c>hill</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/burain#Aka-Cari</url>
+			</reflex>
+			<reflex>
+				<lang>Aka-Kede</lang>
+				<form script="LATIN">burin</form>
+				<concepts>
+					<c>hill</c>
+					<c>mountain</c>
+				</concepts>
+				<url source="wiki">/wiki/burin#Aka-Kede</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*ciəp</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/ciəp</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">ca</form>
+				<concepts>
+					<c>fasten</c>
+					<c>adjoin</c>
+				</concepts>
+				<url source="wiki">/wiki/ca#A-Pucikwar</url>
+			</reflex>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">ca</form>
+				<concepts>
+					<c>sling</c>
+					<c>belt</c>
+					<c>band</c>
+				</concepts>
+				<url source="wiki">/wiki/ca#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*cup</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/cup</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">cop</form>
+				<concepts>
+					<c>basket</c>
+				</concepts>
+				<url source="wiki">/wiki/cop#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*cuər</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/cuər</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">car/at</form>
+				<concepts>
+					<c>current</c>
+				</concepts>
+				<url source="wiki">/wiki/car/at#A-Pucikwar</url>
+			</reflex>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">car/at</form>
+				<concepts>
+					<c>to</c>
+				</concepts>
+				<url source="wiki">/wiki/car/at#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*kənə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/kənə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">kono</form>
+				<concepts>
+					<c>keep from</c>
+					<c>obstruct</c>
+					<c>forbid</c>
+				</concepts>
+				<url source="wiki">/wiki/kono#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*lap</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/lap</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">lop</form>
+				<concepts>
+					<c>count</c>
+				</concepts>
+				<url source="wiki">/wiki/lop#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*lat</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/lat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">lat</form>
+				<concepts>
+					<c>afraid</c>
+				</concepts>
+				<url source="wiki">/wiki/lat#A-Pucikwar</url>
+			</reflex>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">lat</form>
+				<concepts>
+					<c>fear</c>
+				</concepts>
+				<url source="wiki">/wiki/lat#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*luk</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/luk</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">luk</form>
+				<concepts>
+					<c>road</c>
+					<c>channel</c>
+					<c>strait</c>
+					<c>path</c>
+				</concepts>
+				<url source="wiki">/wiki/luk#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*mulə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/mulə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">mula</form>
+				<concepts>
+					<c>egg</c>
+				</concepts>
+				<url source="wiki">/wiki/mula#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*muən</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/muən</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">mina</form>
+				<concepts>
+					<c>dirt</c>
+					<c>pus</c>
+					<c>matter</c>
+					<c>brains</c>
+				</concepts>
+				<url source="wiki">/wiki/mina#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*raic</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/raic</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">raic</form>
+				<concepts>
+					<c>bail out</c>
+				</concepts>
+				<url source="wiki">/wiki/raic#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*rok</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/rok</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">ro</form>
+				<concepts>
+					<c>canoe</c>
+				</concepts>
+				<url source="wiki">/wiki/ro#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*tapə</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/tapə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">tapa</form>
+				<concepts>
+					<c>blind</c>
+				</concepts>
+				<url source="wiki">/wiki/tapa#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*wat</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/wat</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">wat</form>
+				<concepts>
+					<c>bat</c>
+					<c>flying fox</c>
+				</concepts>
+				<url source="wiki">/wiki/wat#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*wolo</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/wolo</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">wolo</form>
+				<concepts>
+					<c>adze</c>
+				</concepts>
+				<url source="wiki">/wiki/wolo#A-Pucikwar</url>
+			</reflex>
+			<reflex>
+				<lang>Aka-Bea</lang>
+				<form script="LATIN">wolo</form>
+				<concepts>
+					<c>adze</c>
+				</concepts>
+				<url source="wiki">/wiki/wolo#Aka-Bea</url>
+			</reflex>
+			<reflex>
+				<lang>Aka-Cari</lang>
+				<form script="LATIN">olo</form>
+				<concepts>
+					<c>adze</c>
+				</concepts>
+				<url source="wiki">/wiki/olo#Aka-Cari</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Great Andamanese</plang>
+			<pform>*ɲipə</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Great Andamanese/ɲipə</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">ɲipa</form>
+				<concepts>
+					<c>bite</c>
+				</concepts>
+				<url source="wiki">/wiki/ɲipa#A-Pucikwar</url>
+			</reflex>
+			<reflex>
+				<lang>A-Pucikwar</lang>
+				<form script="LATIN">ɲipa</form>
+				<concepts>
+					<c>insect</c>
+					<c>fly</c>
+				</concepts>
+				<url source="wiki">/wiki/ɲipa#A-Pucikwar</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

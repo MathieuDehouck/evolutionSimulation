@@ -1,0 +1,2292 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*-t</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/-t</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵜ-</form>
+				<translit>t-</translit>
+				<concepts>
+					<c>she</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵜ-#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">-os</form>
+				<concepts>
+					<c>-os</c>
+					<c>-os</c>
+				</concepts>
+				<url source="wiki">/wiki/-os#English</url>
+			</reflex>
+			<reflex>
+				<lang>English</lang>
+				<form script="LATIN">-oth</form>
+				<concepts>
+					<c>-oth</c>
+					<c>-oth</c>
+				</concepts>
+				<url source="wiki">/wiki/-oth#English</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ba</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ba</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">bn</form>
+				<concepts>
+					<c>without</c>
+					<c>not</c>
+				</concepts>
+				<url source="wiki">/wiki/bn#Egyptian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*bǔ</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/bǔ</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒅅</form>
+				<translit>bašûm</translit>
+				<concepts>
+					<c>exist</c>
+					<c>be there</c>
+					<c>happen</c>
+					<c>present</c>
+					<c>available</c>
+					<c>there</c>
+				</concepts>
+				<url source="wiki">/wiki/bašûm#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="HEBREW">בְּ־</form>
+				<translit>bə-</translit>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+					<c>with</c>
+				</concepts>
+				<url source="wiki">/wiki/ב־#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="HEBREW">ב־</form>
+				<concepts>
+					<c>in</c>
+					<c>at</c>
+					<c>with</c>
+				</concepts>
+				<url source="wiki">/wiki/ב־#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="IMPERIAL ARAMAIC">𐡁</form>
+				<translit>b</translit>
+				<concepts>
+					<c>beth</c>
+				</concepts>
+				<url source="wiki">/wiki/𐡁#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܒ</form>
+				<concepts>
+					<c>beth</c>
+				</concepts>
+				<url source="wiki">/wiki/ܒ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܒ</form>
+				<concepts>
+					<c>number two</c>
+				</concepts>
+				<url source="wiki">/wiki/ܒ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܒ-</form>
+				<translit>bə-, ba-</translit>
+				<concepts>
+					<c>about</c>
+					<c>in</c>
+					<c>according to</c>
+					<c>by</c>
+					<c>because</c>
+					<c>-est</c>
+					<c>to</c>
+					<c>for</c>
+					<c>among</c>
+					<c>on</c>
+					<c>as</c>
+					<c>at</c>
+					<c>most</c>
+					<c>during</c>
+					<c>into</c>
+					<c>upon</c>
+					<c>-ly</c>
+					<c>against</c>
+					<c>with</c>
+				</concepts>
+				<url source="wiki">/wiki/ܒ-#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Harari</lang>
+				<form script="ETHIOPIC">-ቤ</form>
+				<translit>-be</translit>
+				<concepts>
+					<c>in</c>
+					<c>towards</c>
+					<c>to</c>
+				</concepts>
+				<url source="wiki">/wiki/-ቤ#Harari</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">ב</form>
+				<concepts>
+					<c>bet</c>
+					<c>beth</c>
+					<c>vet</c>
+				</concepts>
+				<url source="wiki">/wiki/ב#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">בְּ־</form>
+				<translit>bə-</translit>
+				<concepts>
+					<c>to the power of</c>
+					<c>in</c>
+					<c>among</c>
+					<c>during</c>
+					<c>while</c>
+					<c>on</c>
+					<c>with</c>
+				</concepts>
+				<url source="wiki">/wiki/ב־#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">בְּ־‎</form>
+				<translit>bə-</translit>
+				<concepts>
+					<c>to the power of</c>
+					<c>in</c>
+					<c>among</c>
+					<c>during</c>
+					<c>while</c>
+					<c>on</c>
+					<c>with</c>
+				</concepts>
+				<url source="wiki">/wiki/ב־#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Middle Persian</lang>
+				<form script="INSCRIPTIONAL PAHLAVI">𐭡</form>
+				<translit>b</translit>
+				<concepts>
+					<c>beth</c>
+				</concepts>
+				<url source="wiki">/wiki/𐭡#Middle_Persian</url>
+			</reflex>
+			<reflex>
+				<lang>Old Turkic</lang>
+				<form script="OLD TURKIC">𐰊</form>
+				<translit>b¹</translit>
+				<concepts>
+					<c>representing</c>
+				</concepts>
+				<url source="wiki">/wiki/𐰊#Old_Turkic</url>
+			</reflex>
+			<reflex>
+				<lang>Phoenician</lang>
+				<form script="PHOENICIAN">𐤀𐤁</form>
+				<translit>ʾb</translit>
+				<concepts>
+					<c>father</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤀𐤁#Phoenician</url>
+			</reflex>
+			<reflex>
+				<lang>Translingual</lang>
+				<form script="LATIN">b</form>
+				<concepts>
+					<c>bottom quark</c>
+				</concepts>
+				<url source="wiki">/wiki/b#Translingual</url>
+			</reflex>
+			<reflex>
+				<lang>Translingual</lang>
+				<form script="RUNIC">ᛒ</form>
+				<concepts>
+					<c>representing</c>
+				</concepts>
+				<url source="wiki">/wiki/ᛒ#Translingual</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*dam-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/dam-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒁁</form>
+				<translit>dāmum</translit>
+				<concepts>
+					<c>blood</c>
+					<c>red wine</c>
+					<c>lineage</c>
+				</concepts>
+				<url source="wiki">/wiki/dāmum#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Amharic</lang>
+				<form script="ETHIOPIC">ደም</form>
+				<translit>däm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ደም#Amharic</url>
+			</reflex>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵉⴷⴰⵎⵎⵏ</form>
+				<translit>idammn</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵉⴷⴰⵎⵎⵏ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܕ݁ܡܳܐ</form>
+				<translit>dəmā</translit>
+				<concepts>
+					<c>blood</c>
+					<c>life</c>
+					<c>juice</c>
+					<c>sap</c>
+				</concepts>
+				<url source="wiki">/wiki/ܕܡܐ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Harari</lang>
+				<form script="ETHIOPIC">ደም</form>
+				<translit>däm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ደም#Harari</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">דָּם</form>
+				<translit>dam, dām</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/דם#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Indonesian</lang>
+				<form script="LATIN">dam</form>
+				<concepts>
+					<c>fine</c>
+				</concepts>
+				<url source="wiki">/wiki/dam#Indonesian</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">demm</form>
+				<concepts>
+					<c>blood relationship</c>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/demm#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Moroccan Arabic</lang>
+				<form script="ARABIC">دم</form>
+				<translit>damm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/دم#Moroccan_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Moroccan Arabic</lang>
+				<form script="ARABIC">دم</form>
+				<translit>damm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/دم#Moroccan_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Oromo</lang>
+				<form script="LATIN">dhiiga</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/dhiiga#Oromo</url>
+			</reflex>
+			<reflex>
+				<lang>Phoenician</lang>
+				<form script="PHOENICIAN">𐤃𐤌</form>
+				<translit>dm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤃𐤌#Phoenician</url>
+			</reflex>
+			<reflex>
+				<lang>Punic</lang>
+				<form script="PHOENICIAN">𐤃𐤌</form>
+				<translit>dm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤃𐤌#Punic</url>
+			</reflex>
+			<reflex>
+				<lang>Punic</lang>
+				<form script="PHOENICIAN">𐤃𐤌</form>
+				<translit>dm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤃𐤌#Punic</url>
+			</reflex>
+			<reflex>
+				<lang>Sabaean</lang>
+				<form script="OLD SOUTH ARABIAN">𐩵𐩣</form>
+				<translit>dm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/𐩵𐩣#Sabaean</url>
+			</reflex>
+			<reflex>
+				<lang>Somali</lang>
+				<form script="LATIN">dhiig</form>
+				<concepts>
+					<c>bleed</c>
+				</concepts>
+				<url source="wiki">/wiki/dhiig#Somali</url>
+			</reflex>
+			<reflex>
+				<lang>Somali</lang>
+				<form script="LATIN">dhiig</form>
+				<concepts>
+					<c>menstruation</c>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/dhiig#Somali</url>
+			</reflex>
+			<reflex>
+				<lang>Swahili</lang>
+				<form script="LATIN">damu</form>
+				<concepts>
+					<c>menstruation</c>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/damu#Swahili</url>
+			</reflex>
+			<reflex>
+				<lang>Tarifit</lang>
+				<form script="LATIN">idammen</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/idammen#Tarifit</url>
+			</reflex>
+			<reflex>
+				<lang>Tigre</lang>
+				<form script="ETHIOPIC">ደም</form>
+				<translit>däm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ደም#Tigre</url>
+			</reflex>
+			<reflex>
+				<lang>Tigrinya</lang>
+				<form script="ETHIOPIC">ደም</form>
+				<translit>däm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ደም#Tigrinya</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎄𐎎</form>
+				<translit>dm</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎄𐎎#Ugaritic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*dâb-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/dâb-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">د ب ر</form>
+				<translit>d b r</translit>
+				<concepts>
+					<c>planning</c>
+					<c>behind</c>
+				</concepts>
+				<url source="wiki">/wiki/د_ب_ر#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Somali</lang>
+				<form script="LATIN">dabar</form>
+				<concepts>
+					<c>back</c>
+				</concepts>
+				<url source="wiki">/wiki/dabar#Somali</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*dûm-</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/dûm-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">dm</form>
+				<concepts>
+					<c>pronounce</c>
+				</concepts>
+				<url source="wiki">/wiki/dm#Egyptian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ha</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ha</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">هَا</form>
+				<translit>hā</translit>
+				<concepts>
+					<c>its</c>
+					<c>their</c>
+					<c>her</c>
+					<c>them</c>
+					<c>it</c>
+				</concepts>
+				<url source="wiki">/wiki/ها#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">هَا</form>
+				<translit>hā</translit>
+				<concepts>
+					<c>look</c>
+					<c>behold</c>
+				</concepts>
+				<url source="wiki">/wiki/ها#Arabic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ji</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ji</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Amharic</lang>
+				<form script="ETHIOPIC">ይህ</form>
+				<translit>yəh</translit>
+				<concepts>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/ይህ#Amharic</url>
+			</reflex>
+			<reflex>
+				<lang>Amharic</lang>
+				<form script="ETHIOPIC">ይህ</form>
+				<translit>yəh</translit>
+				<concepts>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/ይህ#Amharic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">ذَا</form>
+				<translit>ḏā</translit>
+				<concepts>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/ذا#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">ذُو</form>
+				<translit>ḏū</translit>
+				<concepts>
+					<c>possessor</c>
+					<c>owner</c>
+				</concepts>
+				<url source="wiki">/wiki/ذو#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="HEBREW">די</form>
+				<translit>dī</translit>
+				<concepts>
+					<c>that</c>
+				</concepts>
+				<url source="wiki">/wiki/די#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="HEBREW">די‎</form>
+				<translit>dī</translit>
+				<concepts>
+					<c>that</c>
+				</concepts>
+				<url source="wiki">/wiki/די#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲥⲁ-</form>
+				<translit>sa-</translit>
+				<concepts>
+					<c>profession</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲥⲁ-#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">z</form>
+				<concepts>
+					<c>creature</c>
+					<c>being</c>
+				</concepts>
+				<url source="wiki">/wiki/z#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">זה</form>
+				<translit>ze</translit>
+				<concepts>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/זה#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">זה</form>
+				<translit>ze</translit>
+				<concepts>
+					<c>this one</c>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/זה#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">זה‎</form>
+				<translit>ze</translit>
+				<concepts>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/זה#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">זה‎</form>
+				<translit>ze</translit>
+				<concepts>
+					<c>this one</c>
+					<c>this</c>
+				</concepts>
+				<url source="wiki">/wiki/זה#Hebrew</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*kaa</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/kaa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">ky</form>
+				<concepts>
+					<c>another</c>
+					<c>other</c>
+				</concepts>
+				<url source="wiki">/wiki/ky#Egyptian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*labiʔ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/labiʔ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Afar</lang>
+				<form script="LATIN">lubak</form>
+				<concepts>
+					<c>lion</c>
+				</concepts>
+				<url source="wiki">/wiki/lubak#Afar</url>
+			</reflex>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒆷𒁍𒌝</form>
+				<translit>lābum</translit>
+				<concepts>
+					<c>lion</c>
+				</concepts>
+				<url source="wiki">/wiki/lābum#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">لَبُؤَة</form>
+				<translit>labuʔa</translit>
+				<concepts>
+					<c>lioness</c>
+				</concepts>
+				<url source="wiki">/wiki/لبؤة#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲗⲁⲃⲟ</form>
+				<translit>labo</translit>
+				<concepts>
+					<c>lion</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲗⲁⲃⲟ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Eblaite</lang>
+				<form script="CUNEIFORM">𒊊</form>
+				<translit>labʾum</translit>
+				<concepts>
+					<c>lion</c>
+				</concepts>
+				<url source="wiki">/wiki/𒊊#Eblaite</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian Arabic</lang>
+				<form script="ARABIC">لبوة</form>
+				<translit>lábwa</translit>
+				<concepts>
+					<c>lioness</c>
+					<c>slut</c>
+				</concepts>
+				<url source="wiki">/wiki/لبوة#Egyptian_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">לָבִיא</form>
+				<translit>laví, lāḇîʾ</translit>
+				<concepts>
+					<c>lion</c>
+				</concepts>
+				<url source="wiki">/wiki/לביא#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎍𐎁𐎜</form>
+				<translit>lbủ</translit>
+				<concepts>
+					<c>lion</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎍𐎁𐎜#Ugaritic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*lib-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/lib-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒊮</form>
+				<translit>libbum</translit>
+				<concepts>
+					<c>desire</c>
+					<c>mind</c>
+					<c>womb</c>
+					<c>abdomen</c>
+					<c>wish</c>
+					<c>thought</c>
+					<c>inside</c>
+					<c>preference</c>
+					<c>intention</c>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/libbum#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Amharic</lang>
+				<form script="ETHIOPIC">ልብ</form>
+				<translit>ləbb</translit>
+				<concepts>
+					<c>mind</c>
+					<c>fact</c>
+					<c>belly</c>
+					<c>courage</c>
+					<c>intelligence</c>
+					<c>attention</c>
+					<c>chest</c>
+					<c>truth</c>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ልብ#Amharic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">لُبّ</form>
+				<translit>lubb</translit>
+				<concepts>
+					<c>core</c>
+					<c>backlog</c>
+					<c>pulp</c>
+					<c>heart</c>
+					<c>marrow</c>
+				</concepts>
+				<url source="wiki">/wiki/لب#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">لُبّ</form>
+				<translit>lubb</translit>
+				<concepts>
+					<c>discernment</c>
+					<c>intellect</c>
+				</concepts>
+				<url source="wiki">/wiki/لب#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">لُبّ</form>
+				<translit>lubb</translit>
+				<concepts>
+					<c>smart</c>
+					<c>intelligent</c>
+				</concepts>
+				<url source="wiki">/wiki/لب#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">لُبّ</form>
+				<translit>lubb</translit>
+				<concepts>
+					<c>stay</c>
+					<c>persevere</c>
+					<c>bide</c>
+				</concepts>
+				<url source="wiki">/wiki/لب#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="HEBREW">לִבָּא</form>
+				<translit>libbā</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/לבא#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵓⵍ</form>
+				<translit>ul</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵓⵍ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܠܶܒܴ݁ܐ</form>
+				<translit>lebbā</translit>
+				<concepts>
+					<c>centre</c>
+					<c>mind</c>
+					<c>soul</c>
+					<c>middle</c>
+					<c>cake</c>
+					<c>stomach</c>
+					<c>pith</c>
+					<c>pie</c>
+					<c>innards</c>
+					<c>center</c>
+					<c>penis</c>
+					<c>core</c>
+					<c>viscera</c>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ܠܒܐ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">lef</form>
+				<concepts>
+					<c>arrogance</c>
+					<c>courage</c>
+					<c>bravery</c>
+					<c>audacity</c>
+					<c>rashness</c>
+					<c>daring</c>
+					<c>temerity</c>
+				</concepts>
+				<url source="wiki">/wiki/lef#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Eblaite</lang>
+				<form script="CUNEIFORM">𒇷𒅤</form>
+				<translit>li-bù</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/𒇷𒅤#Eblaite</url>
+			</reflex>
+			<reflex>
+				<lang>Greek</lang>
+				<form script="GREEK">λίμπ</form>
+				<translit>límp</translit>
+				<concepts>
+					<c>pumpkin seed</c>
+				</concepts>
+				<url source="wiki">/wiki/λίμπ#Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">לֵב</form>
+				<translit>lev, lēḇ</translit>
+				<concepts>
+					<c>center</c>
+					<c>core</c>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/לב#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">לֵבָב</form>
+				<translit>leváv, lēḇāḇ</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/לבב#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">ul</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ul#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Phoenician</lang>
+				<form script="PHOENICIAN">𐤋𐤁</form>
+				<translit>lb</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤋𐤁#Phoenician</url>
+			</reflex>
+			<reflex>
+				<lang>Tigre</lang>
+				<form script="ETHIOPIC">ልብ</form>
+				<translit>ləbb</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ልብ#Tigre</url>
+			</reflex>
+			<reflex>
+				<lang>Tigrinya</lang>
+				<form script="ETHIOPIC">ልቢ</form>
+				<translit>ləbbi</translit>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ልቢ#Tigrinya</url>
+			</reflex>
+			<reflex>
+				<lang>Tuareg</lang>
+				<form script="LATIN">ul</form>
+				<concepts>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/ul#Tuareg</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎍𐎁</form>
+				<translit>lb</translit>
+				<concepts>
+					<c>heart</c>
+					<c>will</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎍𐎁#Ugaritic</url>
+			</reflex>
+			<reflex>
+				<lang>Yiddish</lang>
+				<form script="HEBREW">לבֿ</form>
+				<translit>leyv</translit>
+				<concepts>
+					<c>courage</c>
+					<c>heart</c>
+				</concepts>
+				<url source="wiki">/wiki/לבֿ#Yiddish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*maʔ-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/maʔ-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Aasax</lang>
+				<form script="LATIN">maʔa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/maʔa#Aasax</url>
+			</reflex>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒀀</form>
+				<translit>mû</translit>
+				<concepts>
+					<c>water</c>
+					<c>liquid</c>
+				</concepts>
+				<url source="wiki">/wiki/mû#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Algerian Arabic</lang>
+				<form script="ARABIC">ما</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ما#Algerian_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Andalusian Arabic</lang>
+				<form script="ARABIC">ما</form>
+				<translit>mā</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ما#Andalusian_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">مَاه</form>
+				<translit>māh</translit>
+				<concepts>
+					<c>hydrate</c>
+				</concepts>
+				<url source="wiki">/wiki/ماه#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">مَاه</form>
+				<translit>māh</translit>
+				<concepts>
+					<c>mix</c>
+				</concepts>
+				<url source="wiki">/wiki/ماه#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="HEBREW">מַיָּא</form>
+				<translit>mayyā</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/מיא#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Awjila</lang>
+				<form script="LATIN">imin</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/imin#Awjila</url>
+			</reflex>
+			<reflex>
+				<lang>Baharna Arabic</lang>
+				<form script="ARABIC">مي</form>
+				<translit>me</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/مي#Baharna_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Bathari</lang>
+				<form script="LATIN">muh</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/muh#Bathari</url>
+			</reflex>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⴰⵎⴰⵏ</form>
+				<translit>aman</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ⴰⵎⴰⵏ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Chadian Arabic</lang>
+				<form script="ARABIC">المي</form>
+				<translit>almi</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/المي#Chadian_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܡܰܝܴ̈ܐ</form>
+				<translit>mayyā</translit>
+				<concepts>
+					<c>menstrual fluid</c>
+					<c>juice</c>
+					<c>water</c>
+					<c>egg white</c>
+					<c>albumen</c>
+					<c>semen</c>
+					<c>sap</c>
+					<c>urine</c>
+				</concepts>
+				<url source="wiki">/wiki/ܡܝܐ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲙⲁⲟⲩ</form>
+				<translit>maou</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲙⲁⲟⲩ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲙⲟⲟⲩ</form>
+				<translit>moou</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲙⲟⲟⲩ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲙⲱⲟⲩ</form>
+				<translit>mōou</translit>
+				<concepts>
+					<c>water</c>
+					<c>juice</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲙⲱⲟⲩ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Dahalik</lang>
+				<form script="ETHIOPIC">ማይ</form>
+				<translit>may</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ማይ#Dahalik</url>
+			</reflex>
+			<reflex>
+				<lang>Dahalo</lang>
+				<form script="LATIN">maʔa</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/maʔa#Dahalo</url>
+			</reflex>
+			<reflex>
+				<lang>Dutch</lang>
+				<form script="LATIN">majem</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/majem#Dutch</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">mw</form>
+				<concepts>
+					<c>river</c>
+					<c>sea</c>
+					<c>bodily fluid</c>
+					<c>body of water</c>
+					<c>blood</c>
+					<c>juice</c>
+					<c>water</c>
+					<c>semen</c>
+					<c>lake</c>
+					<c>rain</c>
+					<c>fluid</c>
+				</concepts>
+				<url source="wiki">/wiki/mw#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Ghadames</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Ghadames</url>
+			</reflex>
+			<reflex>
+				<lang>Gulf Arabic</lang>
+				<form script="ARABIC">ماي</form>
+				<translit>māy</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ماي#Gulf_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Harari</lang>
+				<form script="ETHIOPIC">ሚይ</form>
+				<translit>miy</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ሚይ#Harari</url>
+			</reflex>
+			<reflex>
+				<lang>Harsusi</lang>
+				<form script="LATIN">myōh</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/myōh#Harsusi</url>
+			</reflex>
+			<reflex>
+				<lang>Hassaniya</lang>
+				<form script="ARABIC">ما</form>
+				<translit>ma</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ما#Hassaniya</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">מַיִם</form>
+				<translit>máyim</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/מים#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Hijazi Arabic</lang>
+				<form script="ARABIC">موية</form>
+				<translit>mōya</translit>
+				<concepts>
+					<c>water</c>
+					<c>body of water</c>
+				</concepts>
+				<url source="wiki">/wiki/موية#Hijazi_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Hobyót</lang>
+				<form script="LATIN">ḥmo</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ḥmo#Hobyót</url>
+			</reflex>
+			<reflex>
+				<lang>Iraqw</lang>
+				<form script="LATIN">ma'ay</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ma'ay#Iraqw</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Libyan Arabic</lang>
+				<form script="ARABIC">مي</form>
+				<translit>me</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/مي#Libyan_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Lishana Deni</lang>
+				<form script="HEBREW">מאיא</form>
+				<translit>ṃāya</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/מאיא#Lishana_Deni</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">ilma</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ilma#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Mehri</lang>
+				<form script="LATIN">moh</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/moh#Mehri</url>
+			</reflex>
+			<reflex>
+				<lang>Nefusa</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Nefusa</url>
+			</reflex>
+			<reflex>
+				<lang>Northern Saharan Berber</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Northern_Saharan_Berber</url>
+			</reflex>
+			<reflex>
+				<lang>Phoenician</lang>
+				<form script="PHOENICIAN">𐤌𐤌</form>
+				<translit>mm</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤌𐤌#Phoenician</url>
+			</reflex>
+			<reflex>
+				<lang>Sabaean</lang>
+				<form script="OLD SOUTH ARABIAN">𐩣𐩥</form>
+				<translit>mw</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/𐩣𐩥#Sabaean</url>
+			</reflex>
+			<reflex>
+				<lang>Safaitic</lang>
+				<form script="OLD NORTH ARABIAN">𐪃𐪚</form>
+				<translit>my</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/𐪃𐪚#Safaitic</url>
+			</reflex>
+			<reflex>
+				<lang>Safaitic</lang>
+				<form script="OLD NORTH ARABIAN">𐪃𐪚𐪉</form>
+				<translit>myt</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/𐪃𐪚𐪉#Safaitic</url>
+			</reflex>
+			<reflex>
+				<lang>Shehri</lang>
+				<form script="LATIN">míh</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/míh#Shehri</url>
+			</reflex>
+			<reflex>
+				<lang>Siwi</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Siwi</url>
+			</reflex>
+			<reflex>
+				<lang>Sokna</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Sokna</url>
+			</reflex>
+			<reflex>
+				<lang>South Levantine Arabic</lang>
+				<form script="ARABIC">مي</form>
+				<translit>ṃayy</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/مي#South_Levantine_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Sudanese Arabic</lang>
+				<form script="ARABIC">موية</form>
+				<translit>mōya</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/موية#Sudanese_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Tarifit</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Tarifit</url>
+			</reflex>
+			<reflex>
+				<lang>Tashelhit</lang>
+				<form script="TIFINAGH">ⴰⵎⴰⵏ</form>
+				<translit>aman</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ⴰⵎⴰⵏ#Tashelhit</url>
+			</reflex>
+			<reflex>
+				<lang>Tigre</lang>
+				<form script="ETHIOPIC">ማይ</form>
+				<translit>may</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ማይ#Tigre</url>
+			</reflex>
+			<reflex>
+				<lang>Tigrinya</lang>
+				<form script="ETHIOPIC">ማይ</form>
+				<translit>may</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ማይ#Tigrinya</url>
+			</reflex>
+			<reflex>
+				<lang>Tuareg</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Tuareg</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎎𐎊</form>
+				<translit>my</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎎𐎊#Ugaritic</url>
+			</reflex>
+			<reflex>
+				<lang>Zenaga</lang>
+				<form script="LATIN">aman</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/aman#Zenaga</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ruk-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ruk-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Catalan</lang>
+				<form script="LATIN">rècula</form>
+				<concepts>
+					<c>mule train</c>
+					<c>pack train</c>
+					<c>string</c>
+					<c>series</c>
+				</concepts>
+				<url source="wiki">/wiki/rècula#Catalan</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">rkobba</form>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/rkobba#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">rkoppa</form>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/rkoppa#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Moroccan Arabic</lang>
+				<form script="ARABIC">ركبة</form>
+				<translit>rukba</translit>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/ركبة#Moroccan_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">ركبه</form>
+				<translit>rükbe</translit>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/ركبه#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>South Levantine Arabic</lang>
+				<form script="ARABIC">ركبة</form>
+				<translit>rukbe</translit>
+				<concepts>
+					<c>knee</c>
+				</concepts>
+				<url source="wiki">/wiki/ركبة#South_Levantine_Arabic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ruub-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ruub-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Afar</lang>
+				<form script="LATIN">Rábbi</form>
+				<concepts>
+					<c>god</c>
+				</concepts>
+				<url source="wiki">/wiki/Rabbi#Afar</url>
+			</reflex>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒂼</form>
+				<translit>rapāšum</translit>
+				<concepts>
+					<c>increase</c>
+					<c>wide</c>
+					<c>be</c>
+					<c>expand</c>
+					<c>broad</c>
+					<c>large</c>
+				</concepts>
+				<url source="wiki">/wiki/rapāšum#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">Rəbb</form>
+				<concepts>
+					<c>Lord</c>
+				</concepts>
+				<url source="wiki">/wiki/Rəbb#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Azerbaijani</lang>
+				<form script="LATIN">rəbb</form>
+				<concepts>
+					<c>lord</c>
+					<c>master</c>
+				</concepts>
+				<url source="wiki">/wiki/rəbb#Azerbaijani</url>
+			</reflex>
+			<reflex>
+				<lang>Bashkir</lang>
+				<form script="CYRILLIC">раббы</form>
+				<translit>rabbı</translit>
+				<concepts>
+					<c>Lord</c>
+				</concepts>
+				<url source="wiki">/wiki/раббы#Bashkir</url>
+			</reflex>
+			<reflex>
+				<lang>Bengali</lang>
+				<form script="BENGALI">রব</form>
+				<translit>rbo</translit>
+				<concepts>
+					<c>Lord</c>
+				</concepts>
+				<url source="wiki">/wiki/রব#Bengali</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲁϥⲓ</form>
+				<translit>nafi</translit>
+				<concepts>
+					<c>sin</c>
+					<c>transgression</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲁϥⲓ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲁⲃⲓ</form>
+				<translit>nabi</translit>
+				<concepts>
+					<c>sin</c>
+					<c>transgression</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲁⲃⲓ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲏⲃ</form>
+				<translit>nēb</translit>
+				<concepts>
+					<c>owner</c>
+					<c>mister</c>
+					<c>lord</c>
+					<c>mistress</c>
+					<c>lady</c>
+					<c>master</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲏⲃ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲓⲃⲉⲛ</form>
+				<translit>niben</translit>
+				<concepts>
+					<c>all</c>
+					<c>every</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲓⲃⲉⲛ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲓⲙ</form>
+				<translit>nim</translit>
+				<concepts>
+					<c>every</c>
+					<c>all</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲓⲙ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲓⲙ</form>
+				<translit>nim</translit>
+				<concepts>
+					<c>who</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲓⲙ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲟⲃⲉ</form>
+				<translit>nobe</translit>
+				<concepts>
+					<c>sin</c>
+					<c>transgression</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲟⲃⲉ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲛⲟⲃⲓ</form>
+				<translit>nobi</translit>
+				<concepts>
+					<c>sin</c>
+					<c>transgression</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲛⲟⲃⲓ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Demotic</lang>
+				<form script="LATIN">nb</form>
+				<concepts>
+					<c>all</c>
+					<c>any</c>
+					<c>every</c>
+				</concepts>
+				<url source="wiki">/wiki/nb#Demotic</url>
+			</reflex>
+			<reflex>
+				<lang>Demotic</lang>
+				<form script="LATIN">nb</form>
+				<concepts>
+					<c>lord</c>
+				</concepts>
+				<url source="wiki">/wiki/nb#Demotic</url>
+			</reflex>
+			<reflex>
+				<lang>Demotic</lang>
+				<form script="LATIN">nby</form>
+				<concepts>
+					<c>sin</c>
+					<c>iniquity</c>
+					<c>damage</c>
+				</concepts>
+				<url source="wiki">/wiki/nby#Demotic</url>
+			</reflex>
+			<reflex>
+				<lang>Macedonian</lang>
+				<form script="CYRILLIC">ербап</form>
+				<translit>erbap</translit>
+				<concepts>
+					<c>capable</c>
+					<c>worldly</c>
+					<c>sly</c>
+					<c>astute</c>
+					<c>foxy</c>
+				</concepts>
+				<url source="wiki">/wiki/ербап#Macedonian</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">ارباب</form>
+				<concepts>
+					<c>competent</c>
+					<c>expert</c>
+				</concepts>
+				<url source="wiki">/wiki/ارباب#Ottoman_Turkish</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*su</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/su</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲥⲁⲛ</form>
+				<translit>san</translit>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲥⲁⲛ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲥⲟⲛ</form>
+				<translit>son</translit>
+				<concepts>
+					<c>brother</c>
+					<c>sister</c>
+					<c>cousin</c>
+					<c>husband</c>
+					<c>sibling</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲥⲟⲛ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Demotic</lang>
+				<form script="LATIN">sn</form>
+				<concepts>
+					<c>brother</c>
+				</concepts>
+				<url source="wiki">/wiki/sn#Demotic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*yamin-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/yamin-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒍠</form>
+				<translit>imnum</translit>
+				<concepts>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/imnum#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Ancient Greek</lang>
+				<form script="GREEK">Ἄμμων</form>
+				<translit>Ámmōn</translit>
+				<concepts>
+					<c>Amun</c>
+				</concepts>
+				<url source="wiki">/wiki/Ἄμμων#Ancient_Greek</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">يَمِين</form>
+				<translit>yamīn</translit>
+				<concepts>
+					<c>oath</c>
+				</concepts>
+				<url source="wiki">/wiki/يمين#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">يَمِين</form>
+				<translit>yamīn</translit>
+				<concepts>
+					<c>right side</c>
+					<c>right hand</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/يمين#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Aramaic</lang>
+				<form script="HEBREW">יַמִּינָא</form>
+				<translit>yammīnā</translit>
+				<concepts>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/ימינא#Aramaic</url>
+			</reflex>
+			<reflex>
+				<lang>Classical Syriac</lang>
+				<form script="SYRIAC">ܝܰܡܻ݁ܝܢܳܐ</form>
+				<translit>yammīnā</translit>
+				<concepts>
+					<c>oath</c>
+					<c>promise</c>
+					<c>compact</c>
+					<c>ordering</c>
+					<c>right hand</c>
+					<c>right</c>
+					<c>arranging</c>
+					<c>ordination</c>
+					<c>pledge</c>
+				</concepts>
+				<url source="wiki">/wiki/ܝܡܝܢܐ#Classical_Syriac</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲁⲙⲟⲩⲛ</form>
+				<translit>amoun</translit>
+				<concepts>
+					<c>Amun</c>
+					<c>hidden</c>
+					<c>king</c>
+					<c>Egyptian</c>
+					<c>Thebes</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲁⲙⲟⲩⲛ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">jmn</form>
+				<concepts>
+					<c>Amun</c>
+				</concepts>
+				<url source="wiki">/wiki/jmn#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Hebrew</lang>
+				<form script="HEBREW">יָמִין</form>
+				<translit>yamín, yāmîn</translit>
+				<concepts>
+					<c>right hand</c>
+					<c>south</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/ימין#Hebrew</url>
+			</reflex>
+			<reflex>
+				<lang>Latin</lang>
+				<form script="LATIN">Ammōn</form>
+				<concepts>
+					<c>Amun</c>
+				</concepts>
+				<url source="wiki">/wiki/Ammon#Latin</url>
+			</reflex>
+			<reflex>
+				<lang>Maltese</lang>
+				<form script="LATIN">lemin</form>
+				<concepts>
+					<c>right side</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/lemin#Maltese</url>
+			</reflex>
+			<reflex>
+				<lang>Meroitic</lang>
+				<form script="MEROITIC">𐦠𐦨𐦩𐦢</form>
+				<translit>amni</translit>
+				<concepts>
+					<c>Amun</c>
+				</concepts>
+				<url source="wiki">/wiki/𐦠𐦨𐦩𐦢#Meroitic</url>
+			</reflex>
+			<reflex>
+				<lang>Moroccan Arabic</lang>
+				<form script="ARABIC">ليمن</form>
+				<translit>līman, līmin</translit>
+				<concepts>
+					<c>right side</c>
+				</concepts>
+				<url source="wiki">/wiki/ليمن#Moroccan_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Ottoman Turkish</lang>
+				<form script="ARABIC">یمین</form>
+				<translit>yemin</translit>
+				<concepts>
+					<c>oath</c>
+				</concepts>
+				<url source="wiki">/wiki/یمین#Ottoman_Turkish</url>
+			</reflex>
+			<reflex>
+				<lang>Swahili</lang>
+				<form script="LATIN">yamini</form>
+				<concepts>
+					<c>oath</c>
+					<c>right side</c>
+					<c>right hand</c>
+					<c>south</c>
+				</concepts>
+				<url source="wiki">/wiki/yamini#Swahili</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎊𐎎𐎐</form>
+				<translit>ymn</translit>
+				<concepts>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎊𐎎𐎐#Ugaritic</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎊𐎎𐎐</form>
+				<translit>ymn</translit>
+				<concepts>
+					<c>right hand</c>
+					<c>right</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎊𐎎𐎐#Ugaritic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ʒin-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ʒin-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲥⲛⲁϥ</form>
+				<translit>snaf</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲥⲛⲁϥ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲥⲛⲟϥ</form>
+				<translit>snof</translit>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲥⲛⲟϥ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Demotic</lang>
+				<form script="LATIN">snf</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/snf#Demotic</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">znf</form>
+				<concepts>
+					<c>bleed</c>
+				</concepts>
+				<url source="wiki">/wiki/znf#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">znf</form>
+				<concepts>
+					<c>blood</c>
+				</concepts>
+				<url source="wiki">/wiki/znf#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Hausa</lang>
+				<form script="LATIN">jini</form>
+				<concepts>
+					<c>menstruation</c>
+					<c>blood</c>
+					<c>lineage</c>
+				</concepts>
+				<url source="wiki">/wiki/jini#Hausa</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ˀanāku</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ˀanāku</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Afar</lang>
+				<form script="LATIN">anu</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/anu#Afar</url>
+			</reflex>
+			<reflex>
+				<lang>Akkadian</lang>
+				<form script="CUNEIFORM">𒀀𒈾𒆪</form>
+				<translit>anāku</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/anāku#Akkadian</url>
+			</reflex>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵏⴽⴽ</form>
+				<translit>nkk</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵏⴽⴽ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲁⲛⲁⲕ</form>
+				<translit>anak</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲁⲛⲁⲕ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Coptic</lang>
+				<form script="COPTIC">ⲁⲛⲟⲕ</form>
+				<translit>anok</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲁⲛⲟⲕ#Coptic</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">jnk</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/jnk#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Hausa</lang>
+				<form script="LATIN">ni</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/ni#Hausa</url>
+			</reflex>
+			<reflex>
+				<lang>Kabyle</lang>
+				<form script="LATIN">nekk</form>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/nekk#Kabyle</url>
+			</reflex>
+			<reflex>
+				<lang>Moabite</lang>
+				<form script="PHOENICIAN">𐤀𐤍𐤊</form>
+				<translit>ʾnk</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤀𐤍𐤊#Moabite</url>
+			</reflex>
+			<reflex>
+				<lang>Phoenician</lang>
+				<form script="PHOENICIAN">𐤀𐤍𐤊</form>
+				<translit>ʾnk</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤀𐤍𐤊#Phoenician</url>
+			</reflex>
+			<reflex>
+				<lang>Punic</lang>
+				<form script="PHOENICIAN">𐤀𐤍𐤊</form>
+				<translit>ʾnk</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤀𐤍𐤊#Punic</url>
+			</reflex>
+			<reflex>
+				<lang>Punic</lang>
+				<form script="PHOENICIAN">𐤀𐤍𐤊</form>
+				<translit>ʾnk</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/𐤀𐤍𐤊#Punic</url>
+			</reflex>
+			<reflex>
+				<lang>Somali</lang>
+				<form script="LATIN">aniga</form>
+				<concepts>
+					<c>me</c>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/aniga#Somali</url>
+			</reflex>
+			<reflex>
+				<lang>Ugaritic</lang>
+				<form script="UGARITIC">𐎀𐎐𐎋</form>
+				<translit>ảnk</translit>
+				<concepts>
+					<c>I</c>
+				</concepts>
+				<url source="wiki">/wiki/𐎀𐎐𐎋#Ugaritic</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Afroasiatic</plang>
+			<pform>*ḳas-</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Afroasiatic/ḳas-</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">قَصّ</form>
+				<translit>qaṣṣ</translit>
+				<concepts>
+					<c>clipping</c>
+					<c>gypsum</c>
+					<c>shearing</c>
+					<c>top</c>
+				</concepts>
+				<url source="wiki">/wiki/قص#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">قَصّ</form>
+				<translit>qaṣṣ</translit>
+				<concepts>
+					<c>recite</c>
+					<c>narrate</c>
+					<c>lecture</c>
+					<c>communicate</c>
+					<c>relate</c>
+					<c>impart</c>
+					<c>recount</c>
+					<c>tell</c>
+				</concepts>
+				<url source="wiki">/wiki/قص#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Arabic</lang>
+				<form script="ARABIC">قَصّ</form>
+				<translit>qaṣṣ</translit>
+				<concepts>
+					<c>shear</c>
+					<c>cut off</c>
+					<c>cut</c>
+					<c>impend</c>
+				</concepts>
+				<url source="wiki">/wiki/قص#Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Central Atlas Tamazight</lang>
+				<form script="TIFINAGH">ⵉⵖⵙ</form>
+				<translit>iɣs</translit>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/ⵉⵖⵙ#Central_Atlas_Tamazight</url>
+			</reflex>
+			<reflex>
+				<lang>Egyptian</lang>
+				<form script="LATIN">qs</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/qs#Egyptian</url>
+			</reflex>
+			<reflex>
+				<lang>Gulf Arabic</lang>
+				<form script="ARABIC">قص</form>
+				<translit>gaṣ</translit>
+				<concepts>
+					<c>deceive</c>
+					<c>trick</c>
+					<c>cut</c>
+				</concepts>
+				<url source="wiki">/wiki/قص#Gulf_Arabic</url>
+			</reflex>
+			<reflex>
+				<lang>Hausa</lang>
+				<form script="LATIN">ƙàshī</form>
+				<concepts>
+					<c>bone</c>
+					<c>plot</c>
+				</concepts>
+				<url source="wiki">/wiki/ƙashi#Hausa</url>
+			</reflex>
+			<reflex>
+				<lang>Matal</lang>
+				<form script="LATIN">aslasl</form>
+				<concepts>
+					<c>bone</c>
+				</concepts>
+				<url source="wiki">/wiki/aslasl#Matal</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

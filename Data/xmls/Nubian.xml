@@ -1,0 +1,171 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Nubian</plang>
+			<pform>*es-ti</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nubian/es-ti</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Birgid</lang>
+				<form script="LATIN">eeȷi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/eeȷi#Birgid</url>
+			</reflex>
+			<reflex>
+				<lang>Dongolawi</lang>
+				<form script="LATIN">essi</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/essi#Dongolawi</url>
+			</reflex>
+			<reflex>
+				<lang>Midob</lang>
+				<form script="LATIN">ə́əcì</form>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ə́əcì#Midob</url>
+			</reflex>
+			<reflex>
+				<lang>Old Nubian</lang>
+				<form script="COPTIC">ⲁⲥⲥⲉ-</form>
+				<translit>asse-</translit>
+				<concepts>
+					<c>water</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲁⲥⲥⲉ-#Old_Nubian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nubian</plang>
+			<pform>*gor</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nubian/gor</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Old Nubian</lang>
+				<form script="COPTIC">ⲅⲁⲣ</form>
+				<translit>gar</translit>
+				<concepts>
+					<c>shore</c>
+					<c>side</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲅⲁⲣ#Old_Nubian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nubian</plang>
+			<pform>*il-di</pform>
+			<graph>True</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nubian/il-di</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Dilling</lang>
+				<form script="LATIN">eli</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/eli#Dilling</url>
+			</reflex>
+			<reflex>
+				<lang>Dongolawi</lang>
+				<form script="LATIN">ɛ̄n</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ɛ̄n#Dongolawi</url>
+			</reflex>
+			<reflex>
+				<lang>Kadaru</lang>
+				<form script="LATIN">eldo</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/eldo#Kadaru</url>
+			</reflex>
+			<reflex>
+				<lang>Kadaru</lang>
+				<form script="LATIN">ilḍo</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ilḍo#Kadaru</url>
+			</reflex>
+			<reflex>
+				<lang>Midob</lang>
+				<form script="LATIN">ìddì</form>
+				<concepts>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ìddì#Midob</url>
+			</reflex>
+			<reflex>
+				<lang>Old Nubian</lang>
+				<form script="COPTIC">ⲉⲧ̅ⲧ-</form>
+				<translit>et̅t-</translit>
+				<concepts>
+					<c>wife</c>
+					<c>woman</c>
+				</concepts>
+				<url source="wiki">/wiki/ⲉⲧ̅ⲧ-#Old_Nubian</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nubian</plang>
+			<pform>*kemsi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nubian/kemsi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Midob</lang>
+				<form script="LATIN">èeȷí</form>
+				<concepts>
+					<c>four</c>
+				</concepts>
+				<url source="wiki">/wiki/èeȷí#Midob</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Nubian</plang>
+			<pform>*usi</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Nubian/usi</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Birgid</lang>
+				<form script="LATIN">uze</form>
+				<concepts>
+					<c>durra</c>
+				</concepts>
+				<url source="wiki">/wiki/uze#Birgid</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>

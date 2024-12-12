@@ -1,0 +1,98 @@
+<db>
+	<cogset>
+		<etymon>
+			<plang>Ryukyuan</plang>
+			<pform>*na</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Ryukyuan/na</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kunigami</lang>
+				<form script="CJK">名</form>
+				<translit>nā</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/名#Kunigami</url>
+			</reflex>
+			<reflex>
+				<lang>Miyako</lang>
+				<form script="CJK">名</form>
+				<translit>nā</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/名#Miyako</url>
+			</reflex>
+			<reflex>
+				<lang>Yaeyama</lang>
+				<form script="CJK">名</form>
+				<translit>nā</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/名#Yaeyama</url>
+			</reflex>
+			<reflex>
+				<lang>Yonaguni</lang>
+				<form script="CJK">名</form>
+				<translit>nā</translit>
+				<concepts>
+					<c>name</c>
+				</concepts>
+				<url source="wiki">/wiki/名#Yonaguni</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+	<cogset>
+		<etymon>
+			<plang>Ryukyuan</plang>
+			<pform>*pa</pform>
+			<graph>False</graph>
+			<links>
+				<url source="wiki">/wiki/Reconstruction:Proto-Ryukyuan/pa</url>
+			</links>
+		</etymon>
+		<reflexes>
+			<reflex>
+				<lang>Kunigami</lang>
+				<form script="CJK">葉</form>
+				<translit>phā</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/葉#Kunigami</url>
+			</reflex>
+			<reflex>
+				<lang>Miyako</lang>
+				<form script="CJK">葉</form>
+				<translit>pā</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/葉#Miyako</url>
+			</reflex>
+			<reflex>
+				<lang>Yaeyama</lang>
+				<form script="CJK">葉</form>
+				<translit>pā</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/葉#Yaeyama</url>
+			</reflex>
+			<reflex>
+				<lang>Yonaguni</lang>
+				<form script="CJK">葉</form>
+				<translit>hā</translit>
+				<concepts>
+					<c>leaf</c>
+				</concepts>
+				<url source="wiki">/wiki/葉#Yonaguni</url>
+			</reflex>
+		</reflexes>
+	</cogset>
+</db>
