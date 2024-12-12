@@ -1,11 +1,8 @@
 import random
+from copy import copy
 
 import matplotlib.pyplot as plt
 import numpy as np
-
-import tree_gen
-from src.languageGeometry.grammar_definition import Grammar
-
 
 class Language:
     def __init__(self, coordinates: [float, float], grammar: "T" = None):
@@ -23,7 +20,13 @@ class Language:
             x, y = e
             return (x + y) / 2
 
-        return Language(tuple(arithmean((np.array(self[:]), np.array(other[:])))))
+        return Language(tuple(arithmean((np.array(self[:]), np.array(other[:])))), grammar=self.grammar + other.grammar)
+
+    def __mul__(self, other):
+        g1, g2 = self.grammar, other.grammar
+        if g1 is not None and g2 is not None:
+            _ = g1 * g2
+        return g1, g2
 
     def __repr__(self):
         return repr(self.coordinates)
@@ -88,17 +91,21 @@ class Language:
     def __getitem__(self, item):
         return self.coordinates[item]
 
-    @property
-    def random_modif(self):
+    def __abs__(self):
         i = random.randint(0, 1)
         m = np.random.choice((-np.pi/6, np.pi/6, np.pi/4, -np.pi/4))
         coordinages = list(self[:])
         coordinages[i] += m
         coordinages = tuple(coordinages)
-        return Language(coordinages)
+        return Language(coordinages, grammar=copy(self.grammar))
+
+    def __copy__(self):
+        return Language(coordinates=copy(self.coordinates), grammar=copy(self.grammar))
+
 
 
 if __name__ == '__main__':
+    import tree_gen
     lang0 = Language((0, 0))
     # print(lang0)
     evo = tree_gen.top_down_random_tree(10, 10, root_lang=lang0)

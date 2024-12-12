@@ -222,6 +222,8 @@ def naive_parallel_evolution(max_time: int, max_width: int, root_langs: List[T],
                         )
                     )
                 )
+                if np.nan in p_leaves:
+                    print(p_leaves)
                 s = sum(p_leaves)
                 if s:
                     p_leaves = p_leaves / s
