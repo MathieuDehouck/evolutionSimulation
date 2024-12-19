@@ -42,3 +42,10 @@ class Grammar:
         return
 
 
+def generate_grammars(n_words, n_langs):
+    lesmots = [f"mot_{i}" for i in range(n_words)]
+    basegrammars = list(
+        Grammar(lesmots[(i - 1) * n_words // n_langs: i * n_words // n_langs]) for i in range(1, n_langs)
+        )
+    basegrammars.append(Grammar(lesmots[(n_langs - 1) * n_words // n_langs:]))
+    return basegrammars

@@ -1,9 +1,17 @@
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+from itertools import chain, combinations
+import tqdm
+import random
+
+DATA_PATH = "../Data/xmls"
+
 
 def sanitize_number(f):
     return round(f, 3)
+
 
 def mean_observable(tree_list, baselangs):
     result = np.zeros((len(tree_list), len(baselangs)))
@@ -15,9 +23,9 @@ def mean_observable(tree_list, baselangs):
             for w in lang.grammar.words:
                 try:
                     arrival = next(index for index, v in enumerate(baselangs) if w in v.grammar)
-                except StopIteration:
+                except StopIteration as exc:
                     print(w)
-                    raise StopIteration
+                    raise StopIteration from exc
                 result[origin][arrival] += 1
                 n_words += 1
         s = sum(result[origin])
@@ -36,7 +44,7 @@ def histogram(tree_list, baselangs, savepath=None, beta=0, mt=0, mw=0, n_words=0
     width = .9 / len(langs)
     mul = 0
 
-    cmap = mpl.colors.Colormap("viridis")
+    # cmap = mpl.colors.Colormap("viridis")
     dist_matrix = np.zeros((n_baselangs * n_baselangs, 3))
     for i in range(n_baselangs):
         for j in range(n_baselangs):
@@ -69,18 +77,9 @@ def histogram(tree_list, baselangs, savepath=None, beta=0, mt=0, mw=0, n_words=0
         plt.savefig(f"{savepath}.pdf", format="pdf")
 
 
-if __name__ == '__main__':
-    from sys import path
-    path.append("../..")
-    path.append("../../..")
-    path.append("..")
-    import src.languageGeometry.word_set_grammar as ws
-    import src.worldGeometry.tree_gen as tg
-    import src.worldGeometry.real_space as real_space
-    import src.worldGeometry.sphere as sphere
-
-    n = 1000
-    n_langs = 4
+def enumerate_histograms():
+    n = 50
+    n_langs = 2
     max_time = 10
     max_width = 9
 
@@ -105,30 +104,92 @@ if __name__ == '__main__':
         ([40.7, -73.9], "New York"),
     ]
     lesmots = [f"mot_{i}" for i in range(n)]
-    basegrammars = list(ws.Grammar(lesmots[(i - 1) * n // n_langs : i * n // n_langs]) for i in range(1, n_langs))
+    basegrammars = list(ws.Grammar(lesmots[(i - 1) * n // n_langs: i * n // n_langs]) for i in range(1, n_langs))
     basegrammars.append(ws.Grammar(lesmots[(n_langs - 1) * n // n_langs:]))
 
     cube_langs = list(
         real_space.Language(coordinates=cube_vertices[i], grammar=basegrammars[i]) for i in range(n_langs)
-        )
+    )
     europe_langs = list(
         sphere.Language(coordinates=sphere_vertices[i][0], grammar=basegrammars[i]) for i in range(n_langs)
-        )
-
-    # b = 0.0
-    # tl, cl, ll = tg.naive_parallel_evolution(max_time, max_width, europe_langs, beta=b)
-    # histogram(
-    #     tl, basegrammars,
-    #     savepath=f"../../Figures/WordSet/HWS_b={round(b, 2)}_nl={len(basegrammars)}_t={max_time}_w={max_width}", beta=b
-    #     )
-
-    # tl, cl, ll = tg.naive_parallel_evolution(max_time, max_width, europe_langs, beta=0.6)
+    )
 
     for k, b in enumerate(np.arange(start=0, stop=1, step=.1)):
         tl, cl, ll = tg.naive_parallel_evolution(max_time, max_width, europe_langs, beta=b)
-        histogram(tl, europe_langs,
-                  savepath=f"../Figures/WordSet/HWS_Sphere_b={round(b, 2)}_nw={n}_nl={len(basegrammars)}"
-                           f"_t={max_time}_w={max_width}",
-                  beta=b, mt=max_time, mw=max_width, n_words=n,
-                  labels=[v[1] for i, v in enumerate(sphere_vertices) if i < n_langs])
+        histogram(
+            tl, europe_langs,
+            savepath=f"../Figures/WordSet/HWS_Sphere_b={round(b, 2)}_nw={n}_nl={len(basegrammars)}"
+                     f"_t={max_time}_w={max_width}",
+            beta=b, mt=max_time, mw=max_width, n_words=n,
+            labels=[v[1] for i, v in enumerate(sphere_vertices) if i < n_langs]
+            )
 
+
+def loan_matrix(leaves):
+    result_mat = np.zeros((len(leaves), len(leaves)))
+    for (i, l1), (j, l2) in combinations(enumerate(leaves), 2):
+        result_mat[i][j] = len(l1.words.intersection(l2)) / len(l1)
+        result_mat[j][i] = len(l2.words.intersection(l1)) / len(l2)
+    return result_mat
+
+
+def loss(m1, m2):
+    return sum((m1 - m2)**2)
+
+
+def evolve(initial_conditions):
+    goal, n_words, n_langs, base_vertices = initial_conditions["goal"], initial_conditions["n_words"], initial_conditions["n_langs"], initial_conditions["base_vertices"]
+    with open(goal) as f:
+        m1 = pd.read_csv(f)
+    print(m1.to_array())
+    max_width = len(m1[0][1:]) / n_langs  # n_langs should be a divisior of the number of modern languages studied.
+    base_grammars = ws.generate_grammars(n_words, n_langs)
+    base_langs = list(
+        sphere.Language(coordinates=base_vertices[i], grammar=base_grammars[i]) for i in range(n_langs)
+    )
+    # Use https://en.wikipedia.org/wiki/Simultaneous_perturbation_stochastic_approximation
+    a, b, loss_value = initial_conditions["alpha_0"], initial_conditions["beta_0"], float("inf")
+    iterations = 0
+    while loss_value > initial_conditions["objective"]:
+        _, _, ll = tg.enforced_naive_parallel_evolution(max_time=initial_conditions["epochs"],
+                                                        max_width=max_width,
+                                                        root_langs=base_langs,
+                                                        alpha=a,
+                                                        beta=b,
+                                                        )
+        res_mat = loan_matrix(ll)
+        loss_value = loss(m1, res_mat)
+        iterations += 1
+        # Implement Gradient Estimate (Only beta is a parameter for now)
+        a, b = random.random(), random.random()
+
+
+if __name__ == '__main__':
+    from sys import path
+    path.append("../..")
+    path.append("../../..")
+    path.append("..")
+    import src.languageGeometry.word_set_grammar as ws
+    import src.tree_gen as tg
+    from src.worldGeometry import real_space
+    from src.worldGeometry import sphere
+
+    # enumerate_histograms()
+
+    initialiser = {
+        "epochs": 1000,
+        "tree_width": None,  # Determined by Goal
+        "n_words": 10000,
+        "n_langs": 2,  # Determined by the number of .xml used to create goal
+        "alpha_0": None,  # Not used for now
+        "beta_0": .5,  # Collision Factor
+        "goal": f"{DATA_PATH}/../west_europe_modern_mat.csv",
+        "moderns": ["French", "English", "Italian", "German", "Spanish", "Dutch", "Danish"],
+        "base_vertices": [
+            ([49, 3], "Paris"),
+            ([52.5, 13.4], "Berlin"),
+        ],
+        "objective": 1,
+    }
+
+    evolve(initialiser)
