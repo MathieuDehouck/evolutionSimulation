@@ -1,6 +1,7 @@
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
+from dcor import distance_covariance
 import pandas as pd
 from itertools import chain, combinations
 import tqdm
@@ -127,41 +128,84 @@ def enumerate_histograms():
 
 def loan_matrix(leaves):
     result_mat = np.zeros((len(leaves), len(leaves)))
-    for (i, l1), (j, l2) in combinations(enumerate(leaves), 2):
-        result_mat[i][j] = len(l1.words.intersection(l2)) / len(l1)
-        result_mat[j][i] = len(l2.words.intersection(l1)) / len(l2)
+    tmpleaves = map(lambda t: t.lang.grammar.words, leaves)
+    for (i, l1), (j, l2) in combinations(enumerate(tmpleaves), 2):
+        result_mat[i][j] = len(l1.intersection(l2)) / len(l1)
+        result_mat[j][i] = len(l2.intersection(l1)) / len(l2)
     return result_mat
 
 
 def loss(m1, m2):
-    return sum((m1 - m2)**2)
+    return distance_covariance(m1, m2)
+
+
+# Produire les mêmes k langues.
+# Comparer un sous ensemble des langues sur des essais arbitraires
+# Entropie class-normalised ? KL ?
+# Contraindre sur les résultats finaux plutôt que sur l'évolution.
+# Batch géographiques ? Extraire sept langues représentatives pour chaque langue ?
+# Distances géographiques, comparer plusieurs. 
+
 
 
 def evolve(initial_conditions):
     goal, n_words, n_langs, base_vertices = initial_conditions["goal"], initial_conditions["n_words"], initial_conditions["n_langs"], initial_conditions["base_vertices"]
     with open(goal) as f:
-        m1 = pd.read_csv(f)
-    print(m1.to_array())
-    max_width = len(m1[0][1:]) / n_langs  # n_langs should be a divisior of the number of modern languages studied.
+        m1 = pd.read_csv(f).to_numpy()
+    max_width = len(m1[0][:-1]) / n_langs  # n_langs should be a divisior of the number of modern languages studied.
+    m1 = m1[:, 1:]
     base_grammars = ws.generate_grammars(n_words, n_langs)
     base_langs = list(
         sphere.Language(coordinates=base_vertices[i], grammar=base_grammars[i]) for i in range(n_langs)
     )
+
+    def get_loss(alpha, beta):
+        _, _, ll = tg.enforced_naive_parallel_evolution(
+            max_time=initial_conditions["epochs"],
+            max_width=max_width,
+            root_langs=base_langs,
+            alpha=alpha,
+            beta=beta,
+            )
+        res_mat = loan_matrix(ll)
+        lv = loss(m1, res_mat)
+        return lv
+
     # Use https://en.wikipedia.org/wiki/Simultaneous_perturbation_stochastic_approximation
     a, b, loss_value = initial_conditions["alpha_0"], initial_conditions["beta_0"], float("inf")
+    errors = []
     iterations = 0
     while loss_value > initial_conditions["objective"]:
-        _, _, ll = tg.enforced_naive_parallel_evolution(max_time=initial_conditions["epochs"],
-                                                        max_width=max_width,
-                                                        root_langs=base_langs,
-                                                        alpha=a,
-                                                        beta=b,
-                                                        )
-        res_mat = loan_matrix(ll)
-        loss_value = loss(m1, res_mat)
+        print("Iteration: ", iterations)
+        pbar = tqdm.tqdm(total=3)
+        pbar.set_description("Computing loss")
+        loss_value = get_loss(a, b)
+        errors.append(loss_value)
+        pbar.update(1)
         iterations += 1
         # Implement Gradient Estimate (Only beta is a parameter for now)
-        a, b = random.random(), random.random()
+        pbar.set_description("Gradient Utils")
+        rademacher = lambda t: 1 if t >.5 else 0
+        Delta = [rademacher(random.random()) for i in range(2)]  # Change for len parameter
+        c_n = 1/np.sqrt(iterations)
+        a_n = 1/iterations
+        a_tmp_1 = a + Delta[0] * c_n
+        b_tmp_1 = b + Delta[1] * c_n
+        pbar.set_description("Loss Estimator One")
+        lv1 = get_loss(a_tmp_1, b_tmp_1)
+        pbar.update(1)
+        a_tmp_2 = a - Delta[0] * c_n
+        b_tmp_2 = b - Delta[1] * c_n
+        pbar.set_description("Loss Estimator Two")
+        lv2 = get_loss(a_tmp_2, b_tmp_2)
+        pbar.update(1)
+        gradest = lv1 - lv2
+        a = a - a_n * (gradest / (2 * c_n * Delta[0]))
+        b = b - a_n * (gradest / (2 * c_n * Delta[1]))
+        pbar.close()
+
+    return a, b, errors, iterations
+
 
 
 if __name__ == '__main__':
@@ -177,7 +221,7 @@ if __name__ == '__main__':
     # enumerate_histograms()
 
     initialiser = {
-        "epochs": 1000,
+        "epochs": 15,
         "tree_width": None,  # Determined by Goal
         "n_words": 10000,
         "n_langs": 2,  # Determined by the number of .xml used to create goal
@@ -186,8 +230,8 @@ if __name__ == '__main__':
         "goal": f"{DATA_PATH}/../west_europe_modern_mat.csv",
         "moderns": ["French", "English", "Italian", "German", "Spanish", "Dutch", "Danish"],
         "base_vertices": [
-            ([49, 3], "Paris"),
-            ([52.5, 13.4], "Berlin"),
+            ([49., 3.]),
+            ([52.5, 13.4]),
         ],
         "objective": 1,
     }
