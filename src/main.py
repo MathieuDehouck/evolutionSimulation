@@ -141,7 +141,7 @@ def loan_matrix(leaves):
 # Entropie class-normalised ? KL ?
 # Contraindre sur les résultats finaux plutôt que sur l'évolution.
 # Batch géographiques ? Extraire sept langues représentatives pour chaque langue ?
-# Distances géographiques, comparer plusieurs. 
+# Distances géographiques, comparer plusieurs.
 
 def sample_loss(m1, m2):
     return sum((m1 - m2)**2)
@@ -209,7 +209,7 @@ def evolve(initial_conditions):
 def batch_test(initial_conditions, n_batches: int):
     alphas = np.arange(0, 1, 1/np.sqrt(n_batches))
     betas = np.arange(0, 1, 1/np.sqrt(n_batches))
-    losses = []
+    losses = {}
 
     goal, n_words, n_langs, base_vertices = initial_conditions["goal"], initial_conditions["n_words"], \
     initial_conditions["n_langs"], initial_conditions["base_vertices"]
