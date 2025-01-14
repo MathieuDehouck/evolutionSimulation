@@ -6,6 +6,7 @@ from typing import TypeVar, Generic, List
 import numpy as np
 from copy import copy
 from matplotlib import pyplot as plt
+import tqdm
 
 T = TypeVar('T')
 
@@ -198,7 +199,7 @@ def naive_parallel_evolution(max_time: int, max_width: int, root_langs: List[T],
     # Contains a list of the nodes might evolve
     leaf_list = [t.root for t in tree_list]
 
-    for time in range(max_time):
+    for time in tqdm.trange(max_time, desc="Generating Tree"):
         random.shuffle(leaf_list)
         new_leaf_list = []
 

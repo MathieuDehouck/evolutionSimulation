@@ -13,7 +13,10 @@ class Language:
     def __sub__(self, other):
         lambda_a, phi_a = self[:]
         lambda_b, phi_b = other[:]
-        return np.arccos(np.sin(phi_a)*np.sin(phi_b) + np.cos(phi_a)*np.cos(phi_b)*np.cos(lambda_b - lambda_a))
+        r = np.arccos(np.sin(phi_a) * np.sin(phi_b) + np.cos(phi_a) * np.cos(phi_b) * np.cos(lambda_b - lambda_a))
+        if r == np.nan:
+            print(self.coordinates, other.coordinates)
+        return r
 
     def __add__(self, other):
         def arithmean(e):

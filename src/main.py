@@ -1,7 +1,8 @@
+import itertools
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
-from dcor import distance_covariance
 import pandas as pd
 from itertools import chain, combinations
 import tqdm
@@ -135,10 +136,6 @@ def loan_matrix(leaves):
     return result_mat
 
 
-def loss(m1, m2):
-    return distance_covariance(m1, m2)
-
-
 # Produire les mêmes k langues.
 # Comparer un sous ensemble des langues sur des essais arbitraires
 # Entropie class-normalised ? KL ?
@@ -146,6 +143,8 @@ def loss(m1, m2):
 # Batch géographiques ? Extraire sept langues représentatives pour chaque langue ?
 # Distances géographiques, comparer plusieurs. 
 
+def sample_loss(m1, m2):
+    return sum((m1 - m2)**2)
 
 
 def evolve(initial_conditions):
@@ -160,7 +159,7 @@ def evolve(initial_conditions):
     )
 
     def get_loss(alpha, beta):
-        _, _, ll = tg.enforced_naive_parallel_evolution(
+        _, _, ll = tg.naive_parallel_evolution(
             max_time=initial_conditions["epochs"],
             max_width=max_width,
             root_langs=base_langs,
@@ -168,7 +167,7 @@ def evolve(initial_conditions):
             beta=beta,
             )
         res_mat = loan_matrix(ll)
-        lv = loss(m1, res_mat)
+        lv = sample_loss(m1, res_mat)
         return lv
 
     # Use https://en.wikipedia.org/wiki/Simultaneous_perturbation_stochastic_approximation
@@ -207,6 +206,42 @@ def evolve(initial_conditions):
     return a, b, errors, iterations
 
 
+def batch_test(initial_conditions, n_batches: int):
+    alphas = np.arange(0, 1, 1/np.sqrt(n_batches))
+    betas = np.arange(0, 1, 1/np.sqrt(n_batches))
+    losses = []
+
+    goal, n_words, n_langs, base_vertices = initial_conditions["goal"], initial_conditions["n_words"], \
+    initial_conditions["n_langs"], initial_conditions["base_vertices"]
+    with open(goal) as f:
+        m1 = pd.read_csv(f).to_numpy()
+    max_width = len(m1[0][:-1]) / n_langs  # n_langs should be a divisior of the number of modern languages studied.
+    m1 = m1[:, 1:]
+    base_grammars = ws.generate_grammars(n_words, n_langs)
+    base_langs = list(
+        sphere.Language(coordinates=base_vertices[i], grammar=base_grammars[i]) for i in range(n_langs)
+    )
+
+    n = len(m1)
+
+    def get_loss(alpha, beta):
+        _, _, ll = tg.naive_parallel_evolution(
+            max_time=initial_conditions["epochs"],
+            max_width=max_width,
+            root_langs=base_langs,
+            alpha=alpha,
+            beta=beta,
+            )
+        res_mat = loan_matrix(ll)[:n, :n]
+        lv = sample_loss(m1, res_mat)
+        return lv
+
+    for a, b in tqdm.tqdm(itertools.product(alphas, betas), total=len(alphas)*len(betas)):
+        losses[(a, b)] = get_loss(a, b)
+
+    return losses
+
+
 
 if __name__ == '__main__':
     from sys import path
@@ -221,19 +256,16 @@ if __name__ == '__main__':
     # enumerate_histograms()
 
     initialiser = {
-        "epochs": 15,
+        "epochs": 5,
         "tree_width": None,  # Determined by Goal
         "n_words": 10000,
         "n_langs": 2,  # Determined by the number of .xml used to create goal
-        "alpha_0": None,  # Not used for now
-        "beta_0": .5,  # Collision Factor
         "goal": f"{DATA_PATH}/../west_europe_modern_mat.csv",
         "moderns": ["French", "English", "Italian", "German", "Spanish", "Dutch", "Danish"],
         "base_vertices": [
             ([49., 3.]),
             ([52.5, 13.4]),
         ],
-        "objective": 1,
     }
 
-    evolve(initialiser)
+    print(batch_test(initialiser, n_batches=2))
