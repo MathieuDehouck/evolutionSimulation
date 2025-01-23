@@ -256,7 +256,7 @@ if __name__ == '__main__':
     # enumerate_histograms()
 
     initialiser = {
-        "epochs": 5,
+        "epochs": 7,
         "tree_width": None,  # Determined by Goal
         "n_words": 10000,
         "n_langs": 2,  # Determined by the number of .xml used to create goal

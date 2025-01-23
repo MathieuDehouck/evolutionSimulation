@@ -30,6 +30,21 @@
        1.966170194858422, 1.6955818873877782, 1.4461911076961123,
        1.155175575608491], dtype=object)}
 
+	       initialiser = {
+        "epochs": 7,
+        "reruns": 16,
+        "tree_width": None,  # Determined by Goal
+        "n_words": 10000,
+        "n_langs": 2,  # Determined by the number of .xml used to create goal
+        "goal": f"{DATA_PATH}/../west_europe_modern_mat.csv",
+        "moderns": ["French", "English", "Italian", "German", "Spanish", "Dutch", "Danish"],
+        "base_vertices": [
+            ([49., 3.]),
+            ([52.5, 13.4]),
+        ],
+    }
+
+
 {(np.float64(0.0), np.float64(0.0)): array([1.6636701707629264, 1.4464489284901267, 1.374740180572194,
        1.8637372350522987, 1.7888125204507364, 1.8478409877273094,
        1.9391882668026117], dtype=object), (np.float64(0.0), np.float64(0.31622776601683794)): array([1.7498097849026197, 1.5915469738701544, 1.4502683283649271,
@@ -63,3 +78,17 @@
        1.968240606763039], dtype=object), (np.float64(0.9486832980505138), np.float64(0.9486832980505138)): array([1.194157164182027, 1.1694547550031322, 0.7528383089788109,
        1.9417044106916541, 1.6010984016669636, 1.6887551625485346,
        1.382668884832762], dtype=object)}
+
+initialiser = {
+        "epochs": 7,
+        "reruns": 16,
+        "tree_width": None,  # Determined by Goal
+        "n_words": 10000,
+        "n_langs": 2,  # Determined by the number of .xml used to create goal
+        "goal": f"{DATA_PATH}/../west_europe_modern_mat.csv",
+        "moderns": ["French", "English", "Italian", "German", "Spanish", "Dutch", "Danish"],
+        "base_vertices": [
+            ([0, 1, 0]),
+            ([0, -1, 0]),
+        ],
+}
