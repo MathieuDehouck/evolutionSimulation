@@ -233,20 +233,52 @@ For the computation using the spherical geometry, it took 47 hours to compute th
 This gives us a first plot in Figure \ref{cubenone} comparing the results obtained when using euclidean geometry with base languages $\left( \begin{pmatrix}
 	1\\
 	0\\
+	0
 \end{pmatrix}, \begin{pmatrix}
 	0\\
-	1
-\end{pmatrix}\right)$.
-\begin{figure}[h]
+	1\\
+	0
+\end{pmatrix}\right)$. Here cube refers to the fact our base lanuages are placed in the vertices of a cube.
+For the comparison with the sphere however, we have really different results, as seen in Figures \ref{nonesphere} and \ref{cubesphere}
+
+\begin{figure}[H]
 	\centering
+	\hfill
+	\begin{minipage}{.45\textwidth}
 	\includegraphics[width=\textwidth]{../Figures/qual_diff_cube_none}
 	\caption{Plot of computed differences in accuracy between the euclidean space geography and no geography.}
 	\label{cubenone}
-\end{figure}
-
+\end{minipage}
+\hfill
+\begin{minipage}{.35\textwidth}
 Here we see for example that the difference of accuracy is slightly in favor of the cube when $\beta$ is small or $\alpha$ is around $.5$.
 This might come from the assimilation of our metric with the constant metric when space is overcrowded, i.e. for $\alpha \to 0$.
-Also remember that there is a large variance in our results (around $\sqrt{2.10^{-2}}$.
+For large values of $\alpha$, the issue is the same but opposite: since there are few new neighbours, the distance metric is still essentially the same, and $\beta$ acts as a second $\alpha$.
+Remember that there is a large variance in our results (around $\sqrt{2.10^{-2}}$, and that since $.1$ in difference is attained in both directions, it might not be really significative.
+\end{minipage}
+\hfill
+\end{figure}
+
+
+\begin{figure}[h]
+	\centering
+	\hfill
+	\begin{minipage}{.45\textwidth}
+		\includegraphics[width=\linewidth]{../Figures/qual_diff_sphere_none}
+		\caption{Plot of computed differences in accuracy between the $\S^{1}$ sphere and no geography.}
+	\label{nonesphere}
+	\end{minipage}
+	\hfill
+	\begin{minipage}{.45\textwidth}
+		\includegraphics[width=\linewidth]{../Figures/qual_diff_sphere_cube}
+	\caption{Plot of computed differences in accuracy between the euclidean space geography and the $\S^{1}$ sphere.}
+	\label{cubesphere}
+	\end{minipage}
+	\hfill
+\end{figure}
+
+In Figures \ref{nonesphere} and \ref{cubesphere}, the variance problem we had is not relevant since, while precision is still certainly off, our values are almost always positive and with magnitudes far greater than in Figure \ref{cubenone}.
+This shows that our method, while not significantly proven better, allows for better results with objective our reality when using the geodesic metric on $\S^{1}$ as a collision generator.
 
 \section{Future Perspectives}
 
