@@ -1,0 +1,29 @@
+\frametitle{Collision Hypothesis}
+We assume language interacting create evolutions:
+\begin{category}
+	L_{0, 1}\ar[dr, "\phi"]\ar[d, "\tau"] &[-24pt] &[-24pt] L_{0, 2}\ar[dl, "\sigma"]\ar[d, "\lambda"]\\
+	L_{1, 1} & L_{1, 2} & L_{1, 3}
+\end{category}
+
+\framebreak
+
+\begin{algorithm}[H]
+	\caption{Two Language Evolution}
+	\label{alg2evo}
+	\begin{algorithmic}
+		\State {$\mT \gets \tree\left(L_{0}, \emptyset\right)$}
+		\For {$n \leq \texttt{Epochs}$}
+		\For {$l \in \leaves\mT$}
+		\State {$S \gets \revo l$}
+		\State {$\push\left(\stack, l \gets l \cup \tree\left( l, S \right)\right)$}
+		\EndFor
+		\For {$l \in \leaves\mT$}
+		\State {$l^{\dag} \gets \mP_{l}\left( \leaves\mT \right)$}
+		\State {$S \gets \coll\left( l, l^{\dag} \right)$}
+		\State {$\push\left( \stack, l\gets l \cup \tree\left( l, S \right) \right)$}
+		\EndFor
+		\State {$\apply(\stack)$}
+		\EndFor
+		\Return $\mT$
+	\end{algorithmic}
+\end{algorithm}

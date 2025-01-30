@@ -126,4 +126,5 @@ def save_mat_with_targets(path, targets, testeds=None):
 if __name__ == "__main__":
     moderns = ["French", "English", "Italian", "German", "Spanish", "Dutch", "Danish"]
     valids = from_modern(moderns)
-    save_mat_with_targets("../west_europe_modern_mat.csv", targets=moderns, testeds=valids)
+    print(valids)
+    # save_mat_with_targets("../west_europe_modern_mat.csv", targets=moderns, testeds=valids)

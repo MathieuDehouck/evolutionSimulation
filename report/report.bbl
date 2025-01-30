@@ -1,0 +1,14 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{FKD{\etalchar{+}}25}
+
+\bibitem[FKD{\etalchar{+}}25]{evosem}
+Alexandre François, Siva Kalyan, Mathieu Dehouck, Martial Pastor, and David
+  Kletz.
+\newblock Evosem: A database of dialexification across language families.
+\newblock Online database., 2025.
+
+\bibitem[ind]{index}
+Index diachronica.
+\newblock \url{https://chridd.nfshost.com/diachronica/}.
+
+\end{thebibliography}
