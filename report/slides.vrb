@@ -10,14 +10,13 @@
 	\framebreak
 
 	We only have a lexicon observable:
-	\resizebox{\textwidth}{!}{%
 	\begin{category}
 		\mathbox{.2\textwidth}{\mL_{0, 0} = \left( L_{0}, \mathcal{G}_{0, 0} \right)}\ar["\lambda", d]\ar["\lambda", dr]\ar["\lambda", drr, dashed, bend left] &[-12pt] &[-12pt] &[-12pt] \mathbox{.2\textwidth}{\mL_{0, 1} = \left( L_{1}, \mathcal{G}_{0, 1} \right)}\ar["\lambda", d]\ar["\lambda", dl]\ar["\lambda", dll, dashed, bend right]\\
 	\mathbox{.2\textwidth}{\mL_{1, 0} = L_{0} \setminus \{w\} \cup \{w'\}, \revo\mathcal{G}_{0, 0} }
 	& \mathbox{.2\textwidth}{\mL_{1, 1} = L_{0} \setminus \left\{ w_{\leq k}\right\} \cup \left\{ u_{\leq k'} \right\}, \mathcal{G}_{0, 0} \to \mathcal{G}_{0, 1}}
 	& \mathbox{.2\textwidth}{\mL_{1, 1}' = L_{1} \setminus \left\{ u_{\leq l}\right\} \cup \left\{ w_{\leq l'} \right\}, \mathcal{G}_{0, 1} \to \mathcal{G}_{0, 0} }
 	& \mathbox{.2\textwidth}{\mL_{1, 2} =  L_{1} \setminus \{u\} \cup \{u'\}, \revo\mathcal{G}_{0, 1} }
-\end{category}}
+\end{category}
 
 	\framebreak
 

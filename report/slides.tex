@@ -238,7 +238,55 @@ derived in modern French, German, English, Dutch, Spanish, Italian and Danish.
 		\item Computing $d\left( x, y \right)$ is done in constant time.
 		\item Loss computation is in constant time.
 	\end{itemize}
-	we get a complexity in $\O\left( 3^{2d}k \right)$ for $d$ epochs and $k$ base languages, to multiply per repetition.
+	we get a complexity in $\O\left( 3^{2d}k \right)$ for $d$ epochs and $k$ base languages, to multiply by the number of repetitions and parameters.
+\end{frame}
+
+\begin{frame}[allowframebreaks]
+	\frametitle{Results}
+	We take for base languages for the euclidean space:
+	\begin{equation*}
+		\left( \begin{pmatrix}
+	1\\
+	0\\
+	0
+\end{pmatrix}, \begin{pmatrix}
+	0\\
+	1\\
+	0
+\end{pmatrix}\right)
+	\end{equation*}
+	and for the sphere $\S^{1}$ we take the GPS coordinates of Paris and Berlin.
+
+	\framebreak
+
+\begin{figure}[H]
+	\centering
+	\hfill
+	\includegraphics[width=\textwidth]{../Figures/qual_diff_cube_none}
+	\caption{Plot of computed differences in accuracy between the euclidean space geography and no geography. Variance is around $\sqrt{2.10^{-2}}$.}
+	\label{cubenone}
+\end{figure}
+
+	\framebreak
+
+
+	\begin{figure}[h]
+	\centering
+	\hfill
+	\begin{minipage}{.45\textwidth}
+		\includegraphics[width=\linewidth]{../Figures/qual_diff_sphere_none}
+		\caption{Plot of computed differences in accuracy between the $\S^{1}$ sphere and no geography.}
+	\label{nonesphere}
+	\end{minipage}
+	\hfill
+	\begin{minipage}{.45\textwidth}
+		\includegraphics[width=\linewidth]{../Figures/qual_diff_sphere_cube}
+	\caption{Plot of computed differences in accuracy between the euclidean space geography and the $\S^{1}$ sphere.}
+	\label{cubesphere}
+	\end{minipage}
+	\hfill
+	\end{figure}
+
 \end{frame}
 
 \begin{frame}[t]
