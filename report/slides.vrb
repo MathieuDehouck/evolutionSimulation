@@ -1,29 +1,30 @@
-\frametitle{Collision Hypothesis}
-We assume language interacting create evolutions:
-\begin{category}
-	L_{0, 1}\ar[dr, "\phi"]\ar[d, "\tau"] &[-24pt] &[-24pt] L_{0, 2}\ar[dl, "\sigma"]\ar[d, "\lambda"]\\
-	L_{1, 1} & L_{1, 2} & L_{1, 3}
-\end{category}
+\frametitle{Implemented}
+	We worked using a modular structure:
+	\begin{itemize}
+		\item A tree generation module
+		\item A \emph{linguistical} observable
+		\item A \emph{geographical} observable
+	\end{itemize}
+	We have implemented all 3 previously defined \emph{geographical} observable.
 
-\framebreak
+	\framebreak
 
-\begin{algorithm}[H]
-	\caption{Two Language Evolution}
-	\label{alg2evo}
-	\begin{algorithmic}
-		\State {$\mT \gets \tree\left(L_{0}, \emptyset\right)$}
-		\For {$n \leq \texttt{Epochs}$}
-		\For {$l \in \leaves\mT$}
-		\State {$S \gets \revo l$}
-		\State {$\push\left(\stack, l \gets l \cup \tree\left( l, S \right)\right)$}
-		\EndFor
-		\For {$l \in \leaves\mT$}
-		\State {$l^{\dag} \gets \mP_{l}\left( \leaves\mT \right)$}
-		\State {$S \gets \coll\left( l, l^{\dag} \right)$}
-		\State {$\push\left( \stack, l\gets l \cup \tree\left( l, S \right) \right)$}
-		\EndFor
-		\State {$\apply(\stack)$}
-		\EndFor
-		\Return $\mT$
-	\end{algorithmic}
-\end{algorithm}
+	We only have a lexicon observable:
+	\resizebox{\textwidth}{!}{%
+	\begin{category}
+		\mathbox{.2\textwidth}{\mL_{0, 0} = \left( L_{0}, \mathcal{G}_{0, 0} \right)}\ar["\lambda", d]\ar["\lambda", dr]\ar["\lambda", drr, dashed, bend left] &[-12pt] &[-12pt] &[-12pt] \mathbox{.2\textwidth}{\mL_{0, 1} = \left( L_{1}, \mathcal{G}_{0, 1} \right)}\ar["\lambda", d]\ar["\lambda", dl]\ar["\lambda", dll, dashed, bend right]\\
+	\mathbox{.2\textwidth}{\mL_{1, 0} = L_{0} \setminus \{w\} \cup \{w'\}, \revo\mathcal{G}_{0, 0} }
+	& \mathbox{.2\textwidth}{\mL_{1, 1} = L_{0} \setminus \left\{ w_{\leq k}\right\} \cup \left\{ u_{\leq k'} \right\}, \mathcal{G}_{0, 0} \to \mathcal{G}_{0, 1}}
+	& \mathbox{.2\textwidth}{\mL_{1, 1}' = L_{1} \setminus \left\{ u_{\leq l}\right\} \cup \left\{ w_{\leq l'} \right\}, \mathcal{G}_{0, 1} \to \mathcal{G}_{0, 0} }
+	& \mathbox{.2\textwidth}{\mL_{1, 2} =  L_{1} \setminus \{u\} \cup \{u'\}, \revo\mathcal{G}_{0, 1} }
+\end{category}}
+
+	\framebreak
+
+	For our probabilities, we set thresholds:
+	\begin{itemize}
+		\item $1 - \alpha$ representing our random evolution probability;
+		\item $1 - \beta$ representing our collision generation probability.
+	\end{itemize}
+
+	Our problem is then to find \emph{optimal} parameters $\alpha, \beta, \revo, \coll$ and distribution $\mP$.

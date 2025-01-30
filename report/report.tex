@@ -181,7 +181,9 @@ However, since there is very few evolution data available in most domains, we on
 
 The way our lexicon works is by creating a set of words for each of our \emph{base} languages $\left(\mL_{0, i}\right)_{i}$ and then evolving it.
 $\revo\left( \mL = \left(L, \mG\right) \right) = L \setminus \{w\} \cup \{w'\}, \revo\mG$ then works by removing a few words from the language and adding a few new ones from no other language, and randomly evolving the spatial part.
+Here, $\mL_{1, 1}$ is not the complement to $\mL'_{1, 1}$.
 For collisions, $\to$ designates the spatial evolution, which is dependent on the type of representation chosen, and $L_{0} \to L_{1}$ is defined by taking a randomly generated set of words from $L_{1}$ and adding it to $L_{0}$ from which we have removed a randomly generated set of words.
+
 
 The last thing we need to define is the random distribution used.
 We have already discussed geographical proximity and the way we use it to choose a \emph{neighbouring} language.
@@ -279,10 +281,6 @@ Remember that there is a large variance in our results (around $\sqrt{2.10^{-2}}
 
 In Figures \ref{nonesphere} and \ref{cubesphere}, the variance problem we had is not relevant since, while precision is still certainly off, our values are almost always positive and with magnitudes far greater than in Figure \ref{cubenone}.
 This shows that our method, while not significantly proven better, allows for better results with objective our reality when using the geodesic metric on $\S^{1}$ as a collision generator.
-
-\section{Future Perspectives}
-
-
 
 
 \appendix
