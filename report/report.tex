@@ -33,8 +33,8 @@
 	{\Large Under supervision of Mathieu \textsc{Dehouck}\par}}
 
 \section*{Introduction}
-Behind any modern language are millenia of languages evolving, through the creation of new words, a change in their phonology or the acception of new meanings for pre-existing words.
-One issue linguists face when trying to quantify the proximity of two languages is the lack of available data.
+Behind any modern language are millenia of language evolution, through the creation of new words, change in their phonology or acception of new meanings for pre-existing words.
+One issue linguists face when trying to quantify the relatedness of two languages is the lack of available data.
 More precisely, the most precise data available publicly to date on the evolution of languages are the Index Diachronica \cite{index} for phonology or the $\mathcal{E}$voSem project \cite{evosem} for semantics, which are, by essence, very localized on where previous research has been conducted.
 
 In this project, we thus focused on theorising and implementing a way to generate diachrony to test reconstruction algorithms.
@@ -52,7 +52,7 @@ We model its evolution through time as a tree. The following examples are both v
 	& L_{1, 0}\ar[dl]\ar[dr] & & L_{1, 0}\ar[d] & L_{1, 1}\ar[d] & L_{1, 2}\ar[d]\ar[dr] &\\
 	L_{2, 0} & & L_{2, 1} & L_{2, 0} & L_{2, 1} & L_{2, 2} & L_{2, 3}
 \end{category}
-Notice there is no reason for our trees to be binary or even of fixed arity:
+Notice that there is no reason for our trees to be binary or even of fixed arity:
 at any given time, any group of people speaking a language can modify it by independently inventing new words, thus creating as many new languages.
 A more accurate modelisation would be that each person speaks a different language, but for computational purpose, we have assumed a language can only split, which only models different dialects of the language.
 
@@ -67,8 +67,8 @@ This gives us algorithm \ref{alg1evo}.
 		\State {$leaves \gets \{L_{0}\}$}
 		\State {$\mT \gets \tree\left(L_{0}, \emptyset\right)$}
 		\For {$n \leq \texttt{Epochs}$}
-		\For {$l \in \leaves\mT$}
-		\State {$S \gets \revo l$}
+		\For {$l \in \leaves\left(\mT\right)$}
+			\State {$S \gets \revo(l)$}
 		\State {$l \gets \tree\left( l, S \right)$} \Comment{Here $\mT$ is modified in place directly, replacing a leaf by its newly generated tree.}
 		\EndFor
 		\EndFor
@@ -76,7 +76,7 @@ This gives us algorithm \ref{alg1evo}.
 	\end{algorithmic}
 \end{algorithm}
 
-Assuming that nodes in a tree represent distinct groups of people, each speaking the language associated to their node, if we ask of $\revo$ to be easily revertible (that is $\P\left( \revo\left(l_1\right) = l_2 \right) \neq 0 \Leftrightarrow \P\left( \revo\left( l_2 \right) = l_1 \right) \neq 0$) we see there is no need for algorithm to ever resolve splits (and we will see later that we do not want to).
+Assuming that nodes in a tree represent distinct groups of people, each speaking the language associated to their node, we see there is no need for algorithm to ever resolve splits (and we will see later that we do not want to).
 
 Let us specify a bit what $\revo$ will do.
 We would like to be able to model evolution in either phonology ($\phi$), semantics ($\sigma$), syntax ($\tau$), or lexicon ($\lambda$), which we will call \emph{evolution types}.
@@ -93,7 +93,8 @@ We then have the following type of trees:
 This does not modify our algorithm, but simply our tree structures since our edges are now labeled.
 
 \subsection{The "\emph{Collision}" Hypothesis}
-We now make the assumption that interactions between languages cause evolution in a way different of spontaneous evolution, including features of both languages.
+Many languages have borrowed words from other languages, such as the word \emph{Week-end} in French for example.
+One way to model this phenomenon is to make the assumption that interactions between languages cause evolution in a way different of spontaneous evolution, including features of both languages.
 We then represent our trees in the following way:
 \begin{category}
 	L_{0, 1}\ar[dr, "\phi"]\ar[d, "\tau"] &[-24pt] &[-24pt] L_{0, 2}\ar[dl, "\sigma"]\ar[d, "\lambda"]\\
@@ -110,11 +111,11 @@ This allows us to evolve our algorithm a bit, as shown in \ref{alg2evo}.
 		\State {$\stack \gets \emptyset$}
 		\State {$\mT \gets \tree\left(L_{0}, \emptyset\right)$}
 		\For {$n \leq \texttt{Epochs}$}
-		\For {$l \in \leaves\mT$}
-		\State {$S \gets \revo l$}
+		\For {$l \in \leaves\left(\mT\right)$}
+		\State {$S \gets \revo(l)$}
 		\State {$\push\left(\stack, l \gets l \cup \tree\left( l, S \right)\right)$} \Comment{Here $\mT$ is not modified in place, we just add the operations to be done to a stack.}
 		\EndFor
-		\For {$l \in \leaves\mT$}
+		\For {$l \in \leaves\left(\mT\right)$}
 		\State {$l^{\dag} \gets \mP_{l}\left( \leaves\mT \right)$} \Comment{Choose another leave according to a probability distribution $\mP_{l}$ to be defined.}
 		\State {$S \gets \coll\left( l, l^{\dag} \right)$}
 		\State {$\push\left( \stack, l\gets l \cup \tree\left( l, S \right) \right)$}
@@ -130,10 +131,9 @@ Both are to be randomly computed for each leaf, allowing for more parameters to 
 Discussion around the probability distribution to take will be done in the following section.
 Let us simply discuss the properties of collisions in $\coll$.
 $\coll$ should, in the same fashion as $\revo$, provide a way to choose the type of collision, for each parent.
-Moreover, $\coll$ should take into account the \emph{linguistic} proximity of the two considered parents when computing the resultant language, as switching from a language to a close one requires less effort than changing from a language to farther one.
-Furthermore, there should be a way to discuss the \emph{strength} of the interaction, which will be linked to the way we decide to compute the probability distribution $\mP_{l}$ for each language, since more probable collisions should also be stronger.
+Moreover, $\coll$ should take into account the \emph{linguistic} proximity of the two considered parents when computing the resulting language, as switching from a language to a close one requires less effort than changing from a language to a very different one.
+Furthermore, there should be a way to discuss the \emph{strength} of the interaction, which will be linked to the way we decide to compute the probability distribution $\mP_{l}$ for each language, since more probable collisions should also have more impact.
 Indeed, remember our probability distribution serves to map which languages are more in contact with each other and thus speakers are even more incline to change a part of their language to be understood more easily by speakers of the other language.
-Of course, we also ask of $\coll$ to be \emph{easily revertible}, in the same sense as for $\revo$.
 
 
 \subsection{Collision Probability: A Manifold of Languages in Life, the Universe and Everything}\label{colprob}
@@ -162,7 +162,7 @@ For the implementation, we will suppose a language can only interact directly wi
 While this may seem obvious, one could think about some groups of people using antique languages between themselves, being influenced by cultural references.
 A way to avoid this complication could be to add a very important weight to the epoch of a language when computing $\mP_{l}$.
 Geometrically this is the same as adding a dimension to our manifold and computing $\mP_{l, t_{0}} = \mP_{l, t \leq t_{0}}\times U$ where $U$ is a probability distribution used to renormalize our distribution, allowing for different weights to different epochs.
-Furthermore, especially in this setting but also in general there is no reason that our metric is actually a metric. It's only requirement is for it to be well-defined and positive. We will still employ the term \emph{metric} for our function independently.
+Furthermore, especially in this setting but also in general there is no reason that our function is actually a metric. It's only requirement is for it to be well-defined and positive. We will still employ the term \emph{metric} for our function independently.
 
 
 \section{Results and Troubles}
@@ -178,10 +178,14 @@ However, since there is very few evolution data available in most domains, we on
 	& \mathbox{.2\textwidth}{\mL_{1, 1}' = L_{1} \setminus \left\{ u_{\leq l}\right\} \cup \left\{ w_{\leq l'} \right\}, \mathcal{G}_{0, 1} \to \mathcal{G}_{0, 0} }
 	& \mathbox{.2\textwidth}{\mL_{1, 2} =  L_{1} \setminus \{u\} \cup \{u'\}, \revo\mathcal{G}_{0, 1} }
 \end{category}
+\label{ex2alg}
 
 The way our lexicon works is by creating a set of words for each of our \emph{base} languages $\left(\mL_{0, i}\right)_{i}$ and then evolving it.
-$\revo\left( \mL = \left(L, \mG\right) \right) = L \setminus \{w\} \cup \{w'\}, \revo\mG$ then works by removing a few words from the language and adding a few new ones from no other language, and randomly evolving the spatial part.
-Here, $\mL_{1, 1}$ is not the complement to $\mL'_{1, 1}$.
+$\revo$ then works by removing a few words from the language and adding a few new ones from no other language, and randomly evolving the spatial part:
+\begin{equation*}
+	\revo\left( \mL = \left(L, \mG\right) \right) = L \setminus \{w\} \cup \{w'\}, \revo\mG
+\end{equation*}
+Note that in \ref{ex2alg}, $\mL_{1, 1}$ is not the complement to $\mL'_{1, 1}$.
 For collisions, $\to$ designates the spatial evolution, which is dependent on the type of representation chosen, and $L_{0} \to L_{1}$ is defined by taking a randomly generated set of words from $L_{1}$ and adding it to $L_{0}$ from which we have removed a randomly generated set of words.
 
 
@@ -202,15 +206,14 @@ We then need to find a way to compare two languages together/the result of the e
 To do so, and try to connect our results to observed data, we have used \cite{evosem} as a lexical bank.
 We chose for our base languages two proto-families, Germanic and Indo-European, whose words have in majority\footnote{More than 50\% of words from those families are concerned.}
 derived semantically to words in modern French, German, English, Dutch, Spanish, Italian and Danish.
-Note that one could do the operation in the other way, choosing for base languages modern ones and going all the way back to families who have had at least one word generated, from the \textit{reversibility} property we ask of $\revo$ and $\coll$.
-Here, we do not take phonetical/orthographical/semantic changes, and just consider for our observable words in the proto-families and the percentage of dialexification between two modern languages.
+Here, we do not take phonetical/orthographical/semantic changes, and just consider for our observable words in the proto-families and the percentage of shared ancestry between two modern languages.
 This observable is easily computable for our evolution trees as we know the full list of words in all our base languages and the list of words in all our computed modern languages.
 We simply regroup a few languages under the same name in the last step to account for all the splits we have previously done.
 
 \medskip
 
 The first major issue lies in the difficulty in choosing a metric which makes sense for our result.
-Since our algorithm generates a random number of languages, and we cannot regroup them only basing ourselves on geographical consideration\footnote{Without adding a large bias towards our hypothesis.}, the best way we have found was to randomly sample just the number of languages that we have data on and compare the resulting dialexification probability matrix to the observed one, using the $\ell^{2}$ metric.
+Since our algorithm generates a random number of languages, and we cannot regroup them only basing ourselves on geographical consideration\footnote{Without adding a large bias towards our hypothesis.}, the best way we have found was to randomly sample just the number of languages that we have data on and compare the resulting shared ancestry probability matrix to the observed one, using the $\ell^{2}$ metric.
 We cannot realistically compute this loss for all subsets of languages of the right size, since in our case the size is $7$ and that would necessitate around $\binom{7}{3^{d}} = \O(3^{7d})$ computations.
 This leads to a first estimate of how far apart can languages drift, though this estimate can be improved before we show that the interactions observable are actually useful to get better results.
 

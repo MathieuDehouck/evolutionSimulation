@@ -85,8 +85,8 @@ Consider a language $L_{0}$, which we will call our \emph{base language}.
 		\State {$leaves \gets \{L_{0}\}$}
 		\State {$\mT \gets \tree\left(L_{0}, \emptyset\right)$}
 		\For {$n \leq \texttt{Epochs}$}
-		\For {$l \in \leaves\mT$}
-		\State {$S \gets \revo l$}
+		\For {$l \in \leaves\left(\mT\right)$}
+			\State {$S \gets \revo(l)$}
 		\State {$l \gets \tree\left( l, S \right)$} \Comment{Here $\mT$ is modified in place.}
 		\EndFor
 		\EndFor
@@ -103,13 +103,6 @@ Consider a language $L_{0}$, which we will call our \emph{base language}.
 	& L_{1, 0}\ar[dl, "\sigma"]\ar[dr, "\phi"] & & L_{1, 0}\ar[d, "\tau"] & L_{1, 1}\ar[d, "\phi"] & L_{1, 2}\ar[d, "\lambda"]\ar[dr, "\sigma"] &\\
 	L_{2, 0} & & L_{2, 1} & L_{2, 0} & L_{2, 1} & L_{2, 2} & L_{2, 3}
 \end{category}
-
-\framebreak
-
-We want $\revo$ to be \emph{easily revertible}:
-\begin{equation*}
-	\P\left( \revo\left(l_{1}\right) = l_{2} \right) \neq 0 \Leftrightarrow \P\left( \revo\left( l_{2} \right) = l_{1} \right) \neq 0
-\end{equation*}
 \end{frame}
 
 \subsection{Two Language Evolution}
@@ -130,11 +123,11 @@ We assume language interacting create evolutions:
 	\begin{algorithmic}
 		\State {$\mT \gets \tree\left(L_{0}, \emptyset\right)$}
 		\For {$n \leq \texttt{Epochs}$}
-		\For {$l \in \leaves\mT$}
-		\State {$S \gets \revo l$}
+		\For {$l \in \leaves\left(\mT\right)$}
+		\State {$S \gets \revo(l)$}
 		\State {$\push\left(\stack, l \gets l \cup \tree\left( l, S \right)\right)$}
 		\EndFor
-		\For {$l \in \leaves\mT$}
+		\For {$l \in \leaves\left(\mT\right)$}
 		\State {$l^{\dag} \gets \mP_{l}\left( \leaves\mT \right)$}
 		\State {$S \gets \coll\left( l, l^{\dag} \right)$}
 		\State {$\push\left( \stack, l\gets l \cup \tree\left( l, S \right) \right)$}
@@ -150,7 +143,6 @@ We assume language interacting create evolutions:
 	\frametitle{Specification of $\coll$}
 	$\coll$ should:
 	\begin{itemize}[<+->]
-		\item be \emph{easily revertible}.
 		\item provide a way to choose collision type, for each parent.
 		\item take \emph{linguistic} proximity of the parents into account.
 		\item take the probability distribution $\mP$ as the strength of the collisions.
@@ -173,7 +165,10 @@ We assume language interacting create evolutions:
 		\item $\R^{3}$, with the $\ell^{2}$ distance.
 		\item The $2$-sphere $\S^{1}$ where each language is a pair$\lambda, \phi$:
 	      \begin{equation*}
-		      d_{\left( \theta_{1}, \lambda_{1} \right)}\left( \theta_{2}, \lambda_{2} \right) = \arccos\left( \sin \left(\phi_{1}\right) \sin\left( \phi_{2} \right) + \cos\left( \phi_{1} \right)\cos\left( \phi_{2} \right)\cos\left( \lambda_{2} - \lambda_{1} \right) \right)
+			  \begin{aligned}
+				  d_{\left( \theta_{1}, \lambda_{1} \right)}\left( \theta_{2}, \lambda_{2} \right) = \arccos \sin& \left(\phi_{1}\right) \sin\left( \phi_{2} \right)\\
+				  +& \cos\left( \phi_{1} \right)\cos\left( \phi_{2} \right)\cos\left( \lambda_{2} - \lambda_{1} \right)
+				  \end{aligned}
 	      \end{equation*}
 	\end{itemize}
 
@@ -200,7 +195,7 @@ We assume language interacting create evolutions:
 	\framebreak
 
 	We only have a lexicon observable:
-	\begin{category}
+	\begin{category}[scale=.5]
 		\mathbox{.2\textwidth}{\mL_{0, 0} = \left( L_{0}, \mathcal{G}_{0, 0} \right)}\ar["\lambda", d]\ar["\lambda", dr]\ar["\lambda", drr, dashed, bend left] &[-12pt] &[-12pt] &[-12pt] \mathbox{.2\textwidth}{\mL_{0, 1} = \left( L_{1}, \mathcal{G}_{0, 1} \right)}\ar["\lambda", d]\ar["\lambda", dl]\ar["\lambda", dll, dashed, bend right]\\
 	\mathbox{.2\textwidth}{\mL_{1, 0} = L_{0} \setminus \{w\} \cup \{w'\}, \revo\mathcal{G}_{0, 0} }
 	& \mathbox{.2\textwidth}{\mL_{1, 1} = L_{0} \setminus \left\{ w_{\leq k}\right\} \cup \left\{ u_{\leq k'} \right\}, \mathcal{G}_{0, 0} \to \mathcal{G}_{0, 1}}
@@ -225,7 +220,7 @@ We assume language interacting create evolutions:
 	\begin{itemize}
 		\item Our base languages are two proto-families, Germanic and Indo-European which
 derived in modern French, German, English, Dutch, Spanish, Italian and Danish.
-		\item Accuracy is computed by the $\ell^{2}$ distance between subsets of the dialexification matrices.
+		\item Accuracy is computed by the $\ell^{2}$ distance between subsets of the shared ancestry matrices.
 		\item Limitation of randomness is done by repetition of the experiments, though there are $\O\left( 3^{7d} \right)$ submatrices.
 	\end{itemize}
 
@@ -261,8 +256,7 @@ derived in modern French, German, English, Dutch, Spanish, Italian and Danish.
 
 \begin{figure}[H]
 	\centering
-	\hfill
-	\includegraphics[width=\textwidth]{../Figures/qual_diff_cube_none}
+	\includegraphics[width=.6\textwidth]{../Figures/qual_diff_cube_none}
 	\caption{Plot of computed differences in accuracy between the euclidean space geography and no geography. Variance is around $\sqrt{2.10^{-2}}$.}
 	\label{cubenone}
 \end{figure}
@@ -270,7 +264,7 @@ derived in modern French, German, English, Dutch, Spanish, Italian and Danish.
 	\framebreak
 
 
-	\begin{figure}[h]
+	\begin{figure}[H]
 	\centering
 	\hfill
 	\begin{minipage}{.45\textwidth}
